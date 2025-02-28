@@ -1,0 +1,502 @@
+[
+    {
+        "_id": "67bb8fe54c721c5848385c54",
+        "name": "University of Tokyo",
+        "type": "University",
+        "address": "7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8654, Japan",
+        "countryId": "Japan",
+        "ranking": 1,
+        "researchBudget": 500000000,
+        "departmentCount": 30
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c55",
+        "name": "National University of Singapore",
+        "type": "University",
+        "address": "21 Lower Kent Ridge Rd, Singapore 119077",
+        "countryId": "Singapore",
+        "ranking": 2,
+        "researchBudget": 450000000,
+        "departmentCount": 25
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c56",
+        "name": "Tsinghua University",
+        "type": "University",
+        "address": "30 Shuangqing Rd, Haidian District, Beijing, China",
+        "countryId": "China",
+        "ranking": 3,
+        "researchBudget": 600000000,
+        "departmentCount": 35
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c57",
+        "name": "Seoul National University",
+        "type": "University",
+        "address": "1 Gwanak-ro, Gwanak-gu, Seoul, South Korea",
+        "countryId": "South Korea",
+        "ranking": 4,
+        "researchBudget": 400000000,
+        "departmentCount": 28
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c58",
+        "name": "Peking University",
+        "type": "University",
+        "address": "5 Yiheyuan Rd, Haidian District, Beijing, China",
+        "countryId": "China",
+        "ranking": 5,
+        "researchBudget": 550000000,
+        "departmentCount": 32
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c59",
+        "name": "Indian Institute of Science",
+        "type": "Research Institute",
+        "address": "CV Raman Rd, Bengaluru, Karnataka 560012, India",
+        "countryId": "India",
+        "ranking": 6,
+        "researchBudget": 300000000,
+        "departmentCount": 20
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c5a",
+        "name": "University of Hong Kong",
+        "type": "University",
+        "address": "Pok Fu Lam, Hong Kong",
+        "countryId": "Hong Kong",
+        "ranking": 7,
+        "researchBudget": 350000000,
+        "departmentCount": 22
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c5b",
+        "name": "Kyoto University",
+        "type": "University",
+        "address": "Yoshida-honmachi, Sakyo-ku, Kyoto 606-8501, Japan",
+        "countryId": "Japan",
+        "ranking": 8,
+        "researchBudget": 420000000,
+        "departmentCount": 26
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c5c",
+        "name": "University of Malaya",
+        "type": "University",
+        "address": "50603 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "countryId": "Malaysia",
+        "ranking": 9,
+        "researchBudget": 250000000,
+        "departmentCount": 18
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c5d",
+        "name": "Fudan University",
+        "type": "University",
+        "address": "220 Handan Rd, Yangpu District, Shanghai, China",
+        "countryId": "China",
+        "ranking": 10,
+        "researchBudget": 480000000,
+        "departmentCount": 27
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c5e",
+        "name": "KAIST",
+        "type": "University",
+        "address": "291 Daehak-ro, Yuseong-gu, Daejeon, South Korea",
+        "countryId": "South Korea",
+        "ranking": 11,
+        "researchBudget": 370000000,
+        "departmentCount": 23
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c5f",
+        "name": "Nanyang Technological University",
+        "type": "University",
+        "address": "50 Nanyang Ave, Singapore 639798",
+        "countryId": "Singapore",
+        "ranking": 12,
+        "researchBudget": 460000000,
+        "departmentCount": 24
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c60",
+        "name": "University of Science and Technology of China",
+        "type": "University",
+        "address": "96 Jinzhai Rd, Baohe District, Hefei, Anhui, China",
+        "countryId": "China",
+        "ranking": 13,
+        "researchBudget": 400000000,
+        "departmentCount": 29
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c61",
+        "name": "Osaka University",
+        "type": "University",
+        "address": "1-1 Yamadaoka, Suita, Osaka 565-0871, Japan",
+        "countryId": "Japan",
+        "ranking": 14,
+        "researchBudget": 380000000,
+        "departmentCount": 25
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c62",
+        "name": "Zhejiang University",
+        "type": "University",
+        "address": "866 Yuhangtang Rd, Xihu District, Hangzhou, Zhejiang, China",
+        "countryId": "China",
+        "ranking": 15,
+        "researchBudget": 430000000,
+        "departmentCount": 30
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c63",
+        "name": "Tokyo Institute of Technology",
+        "type": "University",
+        "address": "2 Chome-12-1 Ookayama, Meguro City, Tokyo 152-8550, Japan",
+        "countryId": "Japan",
+        "ranking": 16,
+        "researchBudget": 390000000,
+        "departmentCount": 21
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c64",
+        "name": "University of Tsukuba",
+        "type": "University",
+        "address": "1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577, Japan",
+        "countryId": "Japan",
+        "ranking": 17,
+        "researchBudget": 340000000,
+        "departmentCount": 19
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c65",
+        "name": "Nagoya University",
+        "type": "University",
+        "address": "Furo-cho, Chikusa-ku, Nagoya, Aichi 464-8601, Japan",
+        "countryId": "Japan",
+        "ranking": 18,
+        "researchBudget": 360000000,
+        "departmentCount": 22
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c66",
+        "name": "Tohoku University",
+        "type": "University",
+        "address": "2-1-1 Katahira, Aoba-ku, Sendai, Miyagi 980-8577, Japan",
+        "countryId": "Japan",
+        "ranking": 19,
+        "researchBudget": 310000000,
+        "departmentCount": 20
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c67",
+        "name": "Shanghai Jiao Tong University",
+        "type": "University",
+        "address": "800 Dongchuan Rd, Minhang District, Shanghai, China",
+        "countryId": "China",
+        "ranking": 20,
+        "researchBudget": 470000000,
+        "departmentCount": 28
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c68",
+        "name": "Nanjing University",
+        "type": "University",
+        "address": "22 Hankou Rd, Gulou District, Nanjing, Jiangsu, China",
+        "countryId": "China",
+        "ranking": 21,
+        "researchBudget": 350000000,
+        "departmentCount": 24
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c69",
+        "name": "Hanyang University",
+        "type": "University",
+        "address": "222 Wangsimni-ro, Seongdong-gu, Seoul, South Korea",
+        "countryId": "South Korea",
+        "ranking": 22,
+        "researchBudget": 330000000,
+        "departmentCount": 23
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c6a",
+        "name": "Yonsei University",
+        "type": "University",
+        "address": "50 Yonsei-ro, Seodaemun-gu, Seoul, South Korea",
+        "countryId": "South Korea",
+        "ranking": 23,
+        "researchBudget": 340000000,
+        "departmentCount": 26
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c6b",
+        "name": "Korea University",
+        "type": "University",
+        "address": "145 Anam-ro, Seongbuk-gu, Seoul, South Korea",
+        "countryId": "South Korea",
+        "ranking": 24,
+        "researchBudget": 320000000,
+        "departmentCount": 22
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c6c",
+        "name": "City University of Hong Kong",
+        "type": "University",
+        "address": "Tat Chee Ave, Kowloon Tong, Hong Kong",
+        "countryId": "Hong Kong",
+        "ranking": 25,
+        "researchBudget": 310000000,
+        "departmentCount": 21
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c6d",
+        "name": "Hong Kong University of Science and Technology",
+        "type": "University",
+        "address": "Clear Water Bay, Hong Kong",
+        "countryId": "Hong Kong",
+        "ranking": 26,
+        "researchBudget": 320000000,
+        "departmentCount": 20
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c6e",
+        "name": "Indian Institute of Technology Bombay",
+        "type": "University",
+        "address": "Powai, Mumbai, Maharashtra 400076, India",
+        "countryId": "India",
+        "ranking": 27,
+        "researchBudget": 290000000,
+        "departmentCount": 18
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c6f",
+        "name": "Indian Institute of Technology Delhi",
+        "type": "University",
+        "address": "Hauz Khas, New Delhi, Delhi 110016, India",
+        "countryId": "India",
+        "ranking": 28,
+        "researchBudget": 280000000,
+        "departmentCount": 19
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c70",
+        "name": "Indian Institute of Technology Madras",
+        "type": "University",
+        "address": "Sardar Patel Rd, Chennai, Tamil Nadu 600036, India",
+        "countryId": "India",
+        "ranking": 29,
+        "researchBudget": 270000000,
+        "departmentCount": 17
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c71",
+        "name": "Indian Institute of Technology Kanpur",
+        "type": "University",
+        "address": "Kalyanpur, Kanpur, Uttar Pradesh 208016, India",
+        "countryId": "India",
+        "ranking": 30,
+        "researchBudget": 260000000,
+        "departmentCount": 16
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c72",
+        "name": "Indian Institute of Technology Kharagpur",
+        "type": "University",
+        "address": "Kharagpur, West Bengal 721302, India",
+        "countryId": "India",
+        "ranking": 31,
+        "researchBudget": 250000000,
+        "departmentCount": 15
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c73",
+        "name": "National Taiwan University",
+        "type": "University",
+        "address": "No. 1, Section 4, Roosevelt Rd, Da\u2019an District, Taipei City, Taiwan 10617",
+        "countryId": "Taiwan",
+        "ranking": 32,
+        "researchBudget": 340000000,
+        "departmentCount": 27
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c74",
+        "name": "University of the Philippines Diliman",
+        "type": "University",
+        "address": "Diliman, Quezon City, Metro Manila, Philippines",
+        "countryId": "Philippines",
+        "ranking": 33,
+        "researchBudget": 230000000,
+        "departmentCount": 14
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c75",
+        "name": "Chulalongkorn University",
+        "type": "University",
+        "address": "254 Phayathai Rd, Wang Mai, Pathum Wan, Bangkok 10330, Thailand",
+        "countryId": "Thailand",
+        "ranking": 34,
+        "researchBudget": 220000000,
+        "departmentCount": 13
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c76",
+        "name": "Mahidol University",
+        "type": "University",
+        "address": "999 Phutthamonthon Sai 4 Rd, Salaya, Phutthamonthon District, Nakhon Pathom 73170, Thailand",
+        "countryId": "Thailand",
+        "ranking": 35,
+        "researchBudget": 210000000,
+        "departmentCount": 12
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c77",
+        "name": "Kasetsart University",
+        "type": "University",
+        "address": "50 Ngam Wong Wan Rd, Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+        "countryId": "Thailand",
+        "ranking": 36,
+        "researchBudget": 200000000,
+        "departmentCount": 11
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c78",
+        "name": "King Abdulaziz University",
+        "type": "University",
+        "address": "Al Jamiaa, Jeddah 21589, Saudi Arabia",
+        "countryId": "Saudi Arabia",
+        "ranking": 37,
+        "researchBudget": 300000000,
+        "departmentCount": 20
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c79",
+        "name": "King Fahd University of Petroleum & Minerals",
+        "type": "University",
+        "address": "Dhahran 31261, Saudi Arabia",
+        "countryId": "Saudi Arabia",
+        "ranking": 38,
+        "researchBudget": 290000000,
+        "departmentCount": 18
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c7a",
+        "name": "University of Tehran",
+        "type": "University",
+        "address": "Enghelab St, Tehran, Iran",
+        "countryId": "Iran",
+        "ranking": 39,
+        "researchBudget": 280000000,
+        "departmentCount": 17
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c7b",
+        "name": "Sharif University of Technology",
+        "type": "University",
+        "address": "Azadi Ave, Tehran, Iran",
+        "countryId": "Iran",
+        "ranking": 40,
+        "researchBudget": 270000000,
+        "departmentCount": 16
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c7c",
+        "name": "American University of Beirut",
+        "type": "University",
+        "address": "Riad El-Solh, Beirut, Lebanon",
+        "countryId": "Lebanon",
+        "ranking": 41,
+        "researchBudget": 260000000,
+        "departmentCount": 15
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c7d",
+        "name": "Qatar University",
+        "type": "University",
+        "address": "Al Tarfa, Doha, Qatar",
+        "countryId": "Qatar",
+        "ranking": 42,
+        "researchBudget": 250000000,
+        "departmentCount": 14
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c7e",
+        "name": "United Arab Emirates University",
+        "type": "University",
+        "address": "Al Ain, United Arab Emirates",
+        "countryId": "United Arab Emirates",
+        "ranking": 43,
+        "researchBudget": 240000000,
+        "departmentCount": 13
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c7f",
+        "name": "Kuwait University",
+        "type": "University",
+        "address": "Jamal Abdul Nasser St, Kuwait City, Kuwait",
+        "countryId": "Kuwait",
+        "ranking": 44,
+        "researchBudget": 230000000,
+        "departmentCount": 12
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c80",
+        "name": "University of Jordan",
+        "type": "University",
+        "address": "Queen Rania St, Amman, Jordan",
+        "countryId": "Jordan",
+        "ranking": 45,
+        "researchBudget": 220000000,
+        "departmentCount": 11
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c81",
+        "name": "University of Baghdad",
+        "type": "University",
+        "address": "Al-Jadriya, Baghdad, Iraq",
+        "countryId": "Iraq",
+        "ranking": 46,
+        "researchBudget": 210000000,
+        "departmentCount": 10
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c82",
+        "name": "University of Indonesia",
+        "type": "University",
+        "address": "Depok, West Java, Indonesia",
+        "countryId": "Indonesia",
+        "ranking": 47,
+        "researchBudget": 200000000,
+        "departmentCount": 9
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c83",
+        "name": "Bandung Institute of Technology",
+        "type": "University",
+        "address": "Jl. Ganesha No.10, Lb. Siliwangi, Bandung, West Java, Indonesia",
+        "countryId": "Indonesia",
+        "ranking": 48,
+        "researchBudget": 190000000,
+        "departmentCount": 8
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c84",
+        "name": "Gadjah Mada University",
+        "type": "University",
+        "address": "Bulaksumur, Yogyakarta, Indonesia",
+        "countryId": "Indonesia",
+        "ranking": 49,
+        "researchBudget": 180000000,
+        "departmentCount": 7
+    },
+    {
+        "_id": "67bb8fe54c721c5848385c85",
+        "name": "University of Colombo",
+        "type": "University",
+        "address": "94 Cumaratunga Munidasa Mawatha, Colombo 00700, Sri Lanka",
+        "countryId": "Sri Lanka",
+        "ranking": 50,
+        "researchBudget": 170000000,
+        "departmentCount": 6
+    }
+]

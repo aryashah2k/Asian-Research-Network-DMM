@@ -1,0 +1,302 @@
+[
+    {
+        "_id": "67bb834a4c721c58483855b1",
+        "name": "Afghanistan",
+        "code": "AF",
+        "codeInt": 93
+    },
+    {
+        "_id": "67bb834a4c721c58483855b2",
+        "name": "Armenia",
+        "code": "AM",
+        "codeInt": 374
+    },
+    {
+        "_id": "67bb834a4c721c58483855b3",
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "codeInt": 994
+    },
+    {
+        "_id": "67bb834a4c721c58483855b4",
+        "name": "Bahrain",
+        "code": "BH",
+        "codeInt": 973
+    },
+    {
+        "_id": "67bb834a4c721c58483855b5",
+        "name": "Bangladesh",
+        "code": "BD",
+        "codeInt": 880
+    },
+    {
+        "_id": "67bb834a4c721c58483855b6",
+        "name": "Bhutan",
+        "code": "BT",
+        "codeInt": 975
+    },
+    {
+        "_id": "67bb834a4c721c58483855b7",
+        "name": "Brunei",
+        "code": "BN",
+        "codeInt": 673
+    },
+    {
+        "_id": "67bb834a4c721c58483855b8",
+        "name": "Cambodia",
+        "code": "KH",
+        "codeInt": 855
+    },
+    {
+        "_id": "67bb834a4c721c58483855b9",
+        "name": "China",
+        "code": "CN",
+        "codeInt": 86
+    },
+    {
+        "_id": "67bb834a4c721c58483855ba",
+        "name": "Cyprus",
+        "code": "CY",
+        "codeInt": 357
+    },
+    {
+        "_id": "67bb834a4c721c58483855bb",
+        "name": "Georgia",
+        "code": "GE",
+        "codeInt": 995
+    },
+    {
+        "_id": "67bb834a4c721c58483855bc",
+        "name": "India",
+        "code": "IN",
+        "codeInt": 91
+    },
+    {
+        "_id": "67bb834a4c721c58483855bd",
+        "name": "Indonesia",
+        "code": "ID",
+        "codeInt": 62
+    },
+    {
+        "_id": "67bb834a4c721c58483855be",
+        "name": "Iran",
+        "code": "IR",
+        "codeInt": 98
+    },
+    {
+        "_id": "67bb834a4c721c58483855bf",
+        "name": "Iraq",
+        "code": "IQ",
+        "codeInt": 964
+    },
+    {
+        "_id": "67bb834a4c721c58483855c0",
+        "name": "Israel",
+        "code": "IL",
+        "codeInt": 972
+    },
+    {
+        "_id": "67bb834a4c721c58483855c1",
+        "name": "Japan",
+        "code": "JP",
+        "codeInt": 81
+    },
+    {
+        "_id": "67bb834a4c721c58483855c2",
+        "name": "Jordan",
+        "code": "JO",
+        "codeInt": 962
+    },
+    {
+        "_id": "67bb834a4c721c58483855c3",
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "codeInt": 7
+    },
+    {
+        "_id": "67bb834a4c721c58483855c4",
+        "name": "Kuwait",
+        "code": "KW",
+        "codeInt": 965
+    },
+    {
+        "_id": "67bb834a4c721c58483855c5",
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "codeInt": 996
+    },
+    {
+        "_id": "67bb834a4c721c58483855c6",
+        "name": "Laos",
+        "code": "LA",
+        "codeInt": 856
+    },
+    {
+        "_id": "67bb834a4c721c58483855c7",
+        "name": "Lebanon",
+        "code": "LB",
+        "codeInt": 961
+    },
+    {
+        "_id": "67bb834a4c721c58483855c8",
+        "name": "Malaysia",
+        "code": "MY",
+        "codeInt": 60
+    },
+    {
+        "_id": "67bb834a4c721c58483855c9",
+        "name": "Maldives",
+        "code": "MV",
+        "codeInt": 960
+    },
+    {
+        "_id": "67bb834a4c721c58483855ca",
+        "name": "Mongolia",
+        "code": "MN",
+        "codeInt": 976
+    },
+    {
+        "_id": "67bb834a4c721c58483855cb",
+        "name": "Myanmar",
+        "code": "MM",
+        "codeInt": 95
+    },
+    {
+        "_id": "67bb834a4c721c58483855cc",
+        "name": "Nepal",
+        "code": "NP",
+        "codeInt": 977
+    },
+    {
+        "_id": "67bb834a4c721c58483855cd",
+        "name": "North Korea",
+        "code": "KP",
+        "codeInt": 850
+    },
+    {
+        "_id": "67bb834a4c721c58483855ce",
+        "name": "Oman",
+        "code": "OM",
+        "codeInt": 968
+    },
+    {
+        "_id": "67bb834a4c721c58483855cf",
+        "name": "Pakistan",
+        "code": "PK",
+        "codeInt": 92
+    },
+    {
+        "_id": "67bb834a4c721c58483855d0",
+        "name": "Palestine",
+        "code": "PS",
+        "codeInt": 970
+    },
+    {
+        "_id": "67bb834a4c721c58483855d1",
+        "name": "Philippines",
+        "code": "PH",
+        "codeInt": 63
+    },
+    {
+        "_id": "67bb834a4c721c58483855d2",
+        "name": "Qatar",
+        "code": "QA",
+        "codeInt": 974
+    },
+    {
+        "_id": "67bb834a4c721c58483855d3",
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "codeInt": 966
+    },
+    {
+        "_id": "67bb834a4c721c58483855d4",
+        "name": "Singapore",
+        "code": "SG",
+        "codeInt": 65
+    },
+    {
+        "_id": "67bb834a4c721c58483855d5",
+        "name": "South Korea",
+        "code": "KR",
+        "codeInt": 82
+    },
+    {
+        "_id": "67bb834a4c721c58483855d6",
+        "name": "Sri Lanka",
+        "code": "LK",
+        "codeInt": 94
+    },
+    {
+        "_id": "67bb834a4c721c58483855d7",
+        "name": "Syria",
+        "code": "SY",
+        "codeInt": 963
+    },
+    {
+        "_id": "67bb834a4c721c58483855d8",
+        "name": "Taiwan",
+        "code": "TW",
+        "codeInt": 886
+    },
+    {
+        "_id": "67bb834a4c721c58483855d9",
+        "name": "Tajikistan",
+        "code": "TJ",
+        "codeInt": 992
+    },
+    {
+        "_id": "67bb834a4c721c58483855da",
+        "name": "Thailand",
+        "code": "TH",
+        "codeInt": 66
+    },
+    {
+        "_id": "67bb834a4c721c58483855db",
+        "name": "Timor-Leste",
+        "code": "TL",
+        "codeInt": 670
+    },
+    {
+        "_id": "67bb834a4c721c58483855dc",
+        "name": "Turkey",
+        "code": "TR",
+        "codeInt": 90
+    },
+    {
+        "_id": "67bb834a4c721c58483855dd",
+        "name": "Turkmenistan",
+        "code": "TM",
+        "codeInt": 993
+    },
+    {
+        "_id": "67bb834a4c721c58483855de",
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "codeInt": 971
+    },
+    {
+        "_id": "67bb834a4c721c58483855df",
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "codeInt": 998
+    },
+    {
+        "_id": "67bb834a4c721c58483855e0",
+        "name": "Vietnam",
+        "code": "VN",
+        "codeInt": 84
+    },
+    {
+        "_id": "67bb834a4c721c58483855e1",
+        "name": "Yemen",
+        "code": "YE",
+        "codeInt": 967
+    },
+    {
+        "_id": "67bb834a4c721c58483855e2",
+        "name": "Southeast Asia",
+        "code": "SEA",
+        "codeInt": 0
+    }
+]

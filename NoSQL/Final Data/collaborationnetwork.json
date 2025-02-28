@@ -1,0 +1,65 @@
+[
+    {
+        "_id": "67bb8ff14c721c5848385c86",
+        "institutionId": "InstitutionA",
+        "partnerCount": 5,
+        "jointPublications": 12,
+        "successRate": 0.75
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c87",
+        "institutionId": "InstitutionB",
+        "partnerCount": 3,
+        "jointPublications": 8,
+        "successRate": 0.67
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c88",
+        "institutionId": "InstitutionC",
+        "partnerCount": 4,
+        "jointPublications": 10,
+        "successRate": 0.8
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c89",
+        "institutionId": "InstitutionD",
+        "partnerCount": 2,
+        "jointPublications": 5,
+        "successRate": 0.6
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c8a",
+        "institutionId": "InstitutionA",
+        "partnerCount": 6,
+        "jointPublications": 15,
+        "successRate": 0.78
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c8b",
+        "institutionId": "InstitutionE",
+        "partnerCount": 3,
+        "jointPublications": 7,
+        "successRate": 0.7
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c8c",
+        "institutionId": "InstitutionF",
+        "partnerCount": 5,
+        "jointPublications": 11,
+        "successRate": 0.72
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c8d",
+        "institutionId": "InstitutionB",
+        "partnerCount": 4,
+        "jointPublications": 9,
+        "successRate": 0.65
+    },
+    {
+        "_id": "67bb8ff14c721c5848385c8e",
+        "institutionId": "InstitutionG",
+        "partnerCount": 2,
+        "jointPublications": 6,
+        "successRate": 0.68
+    }
+]

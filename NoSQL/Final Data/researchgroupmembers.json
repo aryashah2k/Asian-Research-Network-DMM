@@ -1,0 +1,1190 @@
+[
+    {
+        "_id": "67bb90c44c721c5848385c8f",
+        "researchGroupId": "RG001",
+        "researcherId": "R001",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c90",
+        "researchGroupId": "RG002",
+        "researcherId": "R002",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c91",
+        "researchGroupId": "RG003",
+        "researcherId": "R003",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c92",
+        "researchGroupId": "RG004",
+        "researcherId": "R004",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c93",
+        "researchGroupId": "RG005",
+        "researcherId": "R005",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c94",
+        "researchGroupId": "RG006",
+        "researcherId": "R006",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c95",
+        "researchGroupId": "RG007",
+        "researcherId": "R007",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c96",
+        "researchGroupId": "RG008",
+        "researcherId": "R008",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c97",
+        "researchGroupId": "RG009",
+        "researcherId": "R009",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c98",
+        "researchGroupId": "RG010",
+        "researcherId": "R010",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c99",
+        "researchGroupId": "RG011",
+        "researcherId": "R011",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c9a",
+        "researchGroupId": "RG012",
+        "researcherId": "R012",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c9b",
+        "researchGroupId": "RG013",
+        "researcherId": "R013",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c9c",
+        "researchGroupId": "RG014",
+        "researcherId": "R014",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c9d",
+        "researchGroupId": "RG015",
+        "researcherId": "R015",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c9e",
+        "researchGroupId": "RG016",
+        "researcherId": "R016",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385c9f",
+        "researchGroupId": "RG017",
+        "researcherId": "R017",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca0",
+        "researchGroupId": "RG018",
+        "researcherId": "R018",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca1",
+        "researchGroupId": "RG019",
+        "researcherId": "R019",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca2",
+        "researchGroupId": "RG020",
+        "researcherId": "R020",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca3",
+        "researchGroupId": "RG021",
+        "researcherId": "R021",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca4",
+        "researchGroupId": "RG022",
+        "researcherId": "R022",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca5",
+        "researchGroupId": "RG023",
+        "researcherId": "R023",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca6",
+        "researchGroupId": "RG024",
+        "researcherId": "R024",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca7",
+        "researchGroupId": "RG025",
+        "researcherId": "R025",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca8",
+        "researchGroupId": "RG026",
+        "researcherId": "R026",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ca9",
+        "researchGroupId": "RG027",
+        "researcherId": "R027",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385caa",
+        "researchGroupId": "RG028",
+        "researcherId": "R028",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cab",
+        "researchGroupId": "RG029",
+        "researcherId": "R029",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cac",
+        "researchGroupId": "RG030",
+        "researcherId": "R030",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cad",
+        "researchGroupId": "RG031",
+        "researcherId": "R031",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cae",
+        "researchGroupId": "RG032",
+        "researcherId": "R032",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385caf",
+        "researchGroupId": "RG033",
+        "researcherId": "R033",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb0",
+        "researchGroupId": "RG034",
+        "researcherId": "R034",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb1",
+        "researchGroupId": "RG035",
+        "researcherId": "R035",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb2",
+        "researchGroupId": "RG036",
+        "researcherId": "R036",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb3",
+        "researchGroupId": "RG037",
+        "researcherId": "R037",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb4",
+        "researchGroupId": "RG038",
+        "researcherId": "R038",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb5",
+        "researchGroupId": "RG039",
+        "researcherId": "R039",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb6",
+        "researchGroupId": "RG040",
+        "researcherId": "R040",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb7",
+        "researchGroupId": "RG041",
+        "researcherId": "R041",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb8",
+        "researchGroupId": "RG042",
+        "researcherId": "R042",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cb9",
+        "researchGroupId": "RG043",
+        "researcherId": "R043",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cba",
+        "researchGroupId": "RG044",
+        "researcherId": "R044",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cbb",
+        "researchGroupId": "RG045",
+        "researcherId": "R045",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cbc",
+        "researchGroupId": "RG046",
+        "researcherId": "R046",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cbd",
+        "researchGroupId": "RG047",
+        "researcherId": "R047",
+        "role": "Co-Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cbe",
+        "researchGroupId": "RG048",
+        "researcherId": "R048",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cbf",
+        "researchGroupId": "RG049",
+        "researcherId": "R049",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc0",
+        "researchGroupId": "RG050",
+        "researcherId": "R050",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc1",
+        "researchGroupId": "RG001",
+        "researcherId": "R001",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc2",
+        "researchGroupId": "RG001",
+        "researcherId": "R002",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc3",
+        "researchGroupId": "RG002",
+        "researcherId": "R003",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc4",
+        "researchGroupId": "RG002",
+        "researcherId": "R004",
+        "role": "Field Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc5",
+        "researchGroupId": "RG003",
+        "researcherId": "R005",
+        "role": "Project Manager"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc6",
+        "researchGroupId": "RG003",
+        "researcherId": "R006",
+        "role": "Intern"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc7",
+        "researchGroupId": "RG004",
+        "researcherId": "R007",
+        "role": "Research Coordinator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc8",
+        "researchGroupId": "RG004",
+        "researcherId": "R008",
+        "role": "Statistician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cc9",
+        "researchGroupId": "RG005",
+        "researcherId": "R009",
+        "role": "Lab Technician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cca",
+        "researchGroupId": "RG005",
+        "researcherId": "R010",
+        "role": "Senior Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ccb",
+        "researchGroupId": "RG006",
+        "researcherId": "R011",
+        "role": "Research Fellow"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ccc",
+        "researchGroupId": "RG006",
+        "researcherId": "R012",
+        "role": "Postdoctoral Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ccd",
+        "researchGroupId": "RG007",
+        "researcherId": "R013",
+        "role": "Research Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cce",
+        "researchGroupId": "RG007",
+        "researcherId": "R014",
+        "role": "Technical Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ccf",
+        "researchGroupId": "RG008",
+        "researcherId": "R015",
+        "role": "Clinical Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd0",
+        "researchGroupId": "RG008",
+        "researcherId": "R016",
+        "role": "Medical Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd1",
+        "researchGroupId": "RG009",
+        "researcherId": "R017",
+        "role": "Bioinformatician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd2",
+        "researchGroupId": "RG009",
+        "researcherId": "R018",
+        "role": "Geneticist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd3",
+        "researchGroupId": "RG010",
+        "researcherId": "R019",
+        "role": "Ecologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd4",
+        "researchGroupId": "RG010",
+        "researcherId": "R020",
+        "role": "Environmental Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd5",
+        "researchGroupId": "RG011",
+        "researcherId": "R021",
+        "role": "Geologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd6",
+        "researchGroupId": "RG011",
+        "researcherId": "R022",
+        "role": "Hydrologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd7",
+        "researchGroupId": "RG012",
+        "researcherId": "R023",
+        "role": "Oceanographer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd8",
+        "researchGroupId": "RG012",
+        "researcherId": "R024",
+        "role": "Marine Biologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cd9",
+        "researchGroupId": "RG013",
+        "researcherId": "R025",
+        "role": "Astrophysicist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cda",
+        "researchGroupId": "RG013",
+        "researcherId": "R026",
+        "role": "Astronomer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cdb",
+        "researchGroupId": "RG014",
+        "researcherId": "R027",
+        "role": "Mathematician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cdc",
+        "researchGroupId": "RG014",
+        "researcherId": "R028",
+        "role": "Statistician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cdd",
+        "researchGroupId": "RG015",
+        "researcherId": "R029",
+        "role": "Computer Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cde",
+        "researchGroupId": "RG015",
+        "researcherId": "R030",
+        "role": "Software Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cdf",
+        "researchGroupId": "RG016",
+        "researcherId": "R031",
+        "role": "AI Specialist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce0",
+        "researchGroupId": "RG016",
+        "researcherId": "R032",
+        "role": "Machine Learning Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce1",
+        "researchGroupId": "RG017",
+        "researcherId": "R033",
+        "role": "Cybersecurity Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce2",
+        "researchGroupId": "RG017",
+        "researcherId": "R034",
+        "role": "Network Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce3",
+        "researchGroupId": "RG018",
+        "researcherId": "R035",
+        "role": "Robotics Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce4",
+        "researchGroupId": "RG018",
+        "researcherId": "R036",
+        "role": "Control Systems Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce5",
+        "researchGroupId": "RG019",
+        "researcherId": "R037",
+        "role": "Nanotechnologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce6",
+        "researchGroupId": "RG019",
+        "researcherId": "R038",
+        "role": "Material Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce7",
+        "researchGroupId": "RG020",
+        "researcherId": "R039",
+        "role": "Pharmacologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce8",
+        "researchGroupId": "RG020",
+        "researcherId": "R040",
+        "role": "Toxicologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ce9",
+        "researchGroupId": "RG021",
+        "researcherId": "R041",
+        "role": "Biochemist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cea",
+        "researchGroupId": "RG021",
+        "researcherId": "R042",
+        "role": "Molecular Biologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ceb",
+        "researchGroupId": "RG022",
+        "researcherId": "R043",
+        "role": "Microbiologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cec",
+        "researchGroupId": "RG022",
+        "researcherId": "R044",
+        "role": "Virologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385ced",
+        "researchGroupId": "RG023",
+        "researcherId": "R045",
+        "role": "Botanist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cee",
+        "researchGroupId": "RG023",
+        "researcherId": "R046",
+        "role": "Zoologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cef",
+        "researchGroupId": "RG024",
+        "researcherId": "R047",
+        "role": "Entomologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf0",
+        "researchGroupId": "RG024",
+        "researcherId": "R048",
+        "role": "Ornithologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf1",
+        "researchGroupId": "RG025",
+        "researcherId": "R049",
+        "role": "Paleontologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf2",
+        "researchGroupId": "RG025",
+        "researcherId": "R050",
+        "role": "Archaeologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf3",
+        "researchGroupId": "AI-Research-001",
+        "researcherId": "R-1001",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf4",
+        "researchGroupId": "AI-Research-001",
+        "researcherId": "R-1002",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf5",
+        "researchGroupId": "AI-Research-001",
+        "researcherId": "R-1003",
+        "role": "Data Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf6",
+        "researchGroupId": "BioTech-002",
+        "researcherId": "R-1004",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf7",
+        "researchGroupId": "BioTech-002",
+        "researcherId": "R-1005",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf8",
+        "researchGroupId": "BioTech-002",
+        "researcherId": "R-1006",
+        "role": "Lab Technician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cf9",
+        "researchGroupId": "Quantum-Computing-003",
+        "researcherId": "R-1007",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cfa",
+        "researchGroupId": "Quantum-Computing-003",
+        "researcherId": "R-1008",
+        "role": "Quantum Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cfb",
+        "researchGroupId": "Quantum-Computing-003",
+        "researcherId": "R-1009",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cfc",
+        "researchGroupId": "Climate-Change-004",
+        "researcherId": "R-1010",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cfd",
+        "researchGroupId": "Climate-Change-004",
+        "researcherId": "R-1011",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cfe",
+        "researchGroupId": "Climate-Change-004",
+        "researcherId": "R-1012",
+        "role": "Environmental Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385cff",
+        "researchGroupId": "Nanotech-005",
+        "researcherId": "R-1013",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d00",
+        "researchGroupId": "Nanotech-005",
+        "researcherId": "R-1014",
+        "role": "Nanotechnologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d01",
+        "researchGroupId": "Nanotech-005",
+        "researcherId": "R-1015",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d02",
+        "researchGroupId": "Robotics-006",
+        "researcherId": "R-1016",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d03",
+        "researchGroupId": "Robotics-006",
+        "researcherId": "R-1017",
+        "role": "Robotics Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d04",
+        "researchGroupId": "Robotics-006",
+        "researcherId": "R-1018",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d05",
+        "researchGroupId": "Genomics-007",
+        "researcherId": "R-1019",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d06",
+        "researchGroupId": "Genomics-007",
+        "researcherId": "R-1020",
+        "role": "Genomics Specialist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d07",
+        "researchGroupId": "Genomics-007",
+        "researcherId": "R-1021",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d08",
+        "researchGroupId": "Cybersecurity-008",
+        "researcherId": "R-1022",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d09",
+        "researchGroupId": "Cybersecurity-008",
+        "researcherId": "R-1023",
+        "role": "Security Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d0a",
+        "researchGroupId": "Cybersecurity-008",
+        "researcherId": "R-1024",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d0b",
+        "researchGroupId": "Astrophysics-009",
+        "researcherId": "R-1025",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d0c",
+        "researchGroupId": "Astrophysics-009",
+        "researcherId": "R-1026",
+        "role": "Astrophysicist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d0d",
+        "researchGroupId": "Astrophysics-009",
+        "researcherId": "R-1027",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d0e",
+        "researchGroupId": "Neuroscience-010",
+        "researcherId": "R-1028",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d0f",
+        "researchGroupId": "Neuroscience-010",
+        "researcherId": "R-1029",
+        "role": "Neuroscientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d10",
+        "researchGroupId": "Neuroscience-010",
+        "researcherId": "R-1030",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d11",
+        "researchGroupId": "Renewable-Energy-011",
+        "researcherId": "R-1031",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d12",
+        "researchGroupId": "Renewable-Energy-011",
+        "researcherId": "R-1032",
+        "role": "Energy Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d13",
+        "researchGroupId": "Renewable-Energy-011",
+        "researcherId": "R-1033",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d14",
+        "researchGroupId": "Biochemistry-012",
+        "researcherId": "R-1034",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d15",
+        "researchGroupId": "Biochemistry-012",
+        "researcherId": "R-1035",
+        "role": "Biochemist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d16",
+        "researchGroupId": "Biochemistry-012",
+        "researcherId": "R-1036",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d17",
+        "researchGroupId": "Material-Science-013",
+        "researcherId": "R-1037",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d18",
+        "researchGroupId": "Material-Science-013",
+        "researcherId": "R-1038",
+        "role": "Materials Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d19",
+        "researchGroupId": "Material-Science-013",
+        "researcherId": "R-1039",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d1a",
+        "researchGroupId": "Machine-Learning-014",
+        "researcherId": "R-1040",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d1b",
+        "researchGroupId": "Machine-Learning-014",
+        "researcherId": "R-1041",
+        "role": "ML Engineer"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d1c",
+        "researchGroupId": "Machine-Learning-014",
+        "researcherId": "R-1042",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d1d",
+        "researchGroupId": "Pharmaceuticals-015",
+        "researcherId": "R-1043",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d1e",
+        "researchGroupId": "Pharmaceuticals-015",
+        "researcherId": "R-1044",
+        "role": "Pharmacologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d1f",
+        "researchGroupId": "Pharmaceuticals-015",
+        "researcherId": "R-1045",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d20",
+        "researchGroupId": "Marine-Biology-016",
+        "researcherId": "R-1046",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d21",
+        "researchGroupId": "Marine-Biology-016",
+        "researcherId": "R-1047",
+        "role": "Marine Biologist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d22",
+        "researchGroupId": "Marine-Biology-016",
+        "researcherId": "R-1048",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d23",
+        "researchGroupId": "RG001",
+        "researcherId": "R001",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d24",
+        "researchGroupId": "RG002",
+        "researcherId": "R002",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d25",
+        "researchGroupId": "RG003",
+        "researcherId": "R003",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d26",
+        "researchGroupId": "RG004",
+        "researcherId": "R004",
+        "role": "Field Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d27",
+        "researchGroupId": "RG005",
+        "researcherId": "R005",
+        "role": "Research Coordinator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d28",
+        "researchGroupId": "RG006",
+        "researcherId": "R006",
+        "role": "Research Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d29",
+        "researchGroupId": "RG007",
+        "researcherId": "R007",
+        "role": "Principal Investigator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d2a",
+        "researchGroupId": "RG008",
+        "researcherId": "R008",
+        "role": "Research Fellow"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d2b",
+        "researchGroupId": "RG009",
+        "researcherId": "R009",
+        "role": "Postdoctoral Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d2c",
+        "researchGroupId": "RG010",
+        "researcherId": "R010",
+        "role": "Research Technician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d2d",
+        "researchGroupId": "RG011",
+        "researcherId": "R011",
+        "role": "Research Intern"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d2e",
+        "researchGroupId": "RG012",
+        "researcherId": "R012",
+        "role": "Senior Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d2f",
+        "researchGroupId": "RG013",
+        "researcherId": "R013",
+        "role": "Research Consultant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d30",
+        "researchGroupId": "RG014",
+        "researcherId": "R014",
+        "role": "Research Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d31",
+        "researchGroupId": "RG015",
+        "researcherId": "R015",
+        "role": "Research Coordinator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d32",
+        "researchGroupId": "RG016",
+        "researcherId": "R016",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d33",
+        "researchGroupId": "RG017",
+        "researcherId": "R017",
+        "role": "Field Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d34",
+        "researchGroupId": "RG018",
+        "researcherId": "R018",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d35",
+        "researchGroupId": "RG019",
+        "researcherId": "R019",
+        "role": "Research Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d36",
+        "researchGroupId": "RG020",
+        "researcherId": "R020",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d37",
+        "researchGroupId": "RG021",
+        "researcherId": "R021",
+        "role": "Research Fellow"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d38",
+        "researchGroupId": "RG022",
+        "researcherId": "R022",
+        "role": "Principal Investigator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d39",
+        "researchGroupId": "RG023",
+        "researcherId": "R023",
+        "role": "Research Technician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d3a",
+        "researchGroupId": "RG024",
+        "researcherId": "R024",
+        "role": "Postdoctoral Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d3b",
+        "researchGroupId": "RG025",
+        "researcherId": "R025",
+        "role": "Senior Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d3c",
+        "researchGroupId": "RG026",
+        "researcherId": "R026",
+        "role": "Research Intern"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d3d",
+        "researchGroupId": "RG027",
+        "researcherId": "R027",
+        "role": "Research Consultant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d3e",
+        "researchGroupId": "RG028",
+        "researcherId": "R028",
+        "role": "Research Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d3f",
+        "researchGroupId": "RG029",
+        "researcherId": "R029",
+        "role": "Research Coordinator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d40",
+        "researchGroupId": "RG030",
+        "researcherId": "R030",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d41",
+        "researchGroupId": "RG031",
+        "researcherId": "R031",
+        "role": "Field Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d42",
+        "researchGroupId": "RG032",
+        "researcherId": "R032",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d43",
+        "researchGroupId": "RG033",
+        "researcherId": "R033",
+        "role": "Research Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d44",
+        "researchGroupId": "RG034",
+        "researcherId": "R034",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d45",
+        "researchGroupId": "RG035",
+        "researcherId": "R035",
+        "role": "Research Fellow"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d46",
+        "researchGroupId": "RG036",
+        "researcherId": "R036",
+        "role": "Principal Investigator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d47",
+        "researchGroupId": "RG037",
+        "researcherId": "R037",
+        "role": "Research Technician"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d48",
+        "researchGroupId": "RG038",
+        "researcherId": "R038",
+        "role": "Postdoctoral Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d49",
+        "researchGroupId": "RG039",
+        "researcherId": "R039",
+        "role": "Senior Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d4a",
+        "researchGroupId": "RG040",
+        "researcherId": "R040",
+        "role": "Research Intern"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d4b",
+        "researchGroupId": "RG041",
+        "researcherId": "R041",
+        "role": "Research Consultant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d4c",
+        "researchGroupId": "RG042",
+        "researcherId": "R042",
+        "role": "Research Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d4d",
+        "researchGroupId": "RG043",
+        "researcherId": "R043",
+        "role": "Research Coordinator"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d4e",
+        "researchGroupId": "RG044",
+        "researcherId": "R044",
+        "role": "Research Assistant"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d4f",
+        "researchGroupId": "RG045",
+        "researcherId": "R045",
+        "role": "Field Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d50",
+        "researchGroupId": "RG046",
+        "researcherId": "R046",
+        "role": "Data Analyst"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d51",
+        "researchGroupId": "RG047",
+        "researcherId": "R047",
+        "role": "Research Scientist"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d52",
+        "researchGroupId": "RG048",
+        "researcherId": "R048",
+        "role": "Lead Researcher"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d53",
+        "researchGroupId": "RG049",
+        "researcherId": "R049",
+        "role": "Research Fellow"
+    },
+    {
+        "_id": "67bb90c44c721c5848385d54",
+        "researchGroupId": "RG050",
+        "researcherId": "R050",
+        "role": "Principal Investigator"
+    }
+]

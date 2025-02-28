@@ -1,0 +1,3302 @@
+[
+    {
+        "_id": "67bb80144c721c584838542c",
+        "firstName": "Akira",
+        "middleName": "T",
+        "lastName": "Yamamoto",
+        "email": "Akira.Yamamoto@example.com",
+        "orcID": "0000-0001-2345-6789",
+        "hIndex": 45,
+        "totalCitations": 12000,
+        "profileURL": "http://example.com/AkiraYamamoto",
+        "departmentId": "Physics",
+        "researchStatements": [
+            "Quantum Mechanics"
+        ],
+        "publications": [
+            "Quantum Entanglement and Applications"
+        ],
+        "researchGroups": [
+            "Quantum Research Group"
+        ],
+        "reviews": [
+            "Quantum Computing"
+        ],
+        "biography": {
+            "biography": "Akira Yamamoto is a renowned researcher in Physics."
+        },
+        "currentPosition": {
+            "position": "Professor of Physics"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838542d",
+        "firstName": "Mei",
+        "middleName": "L",
+        "lastName": "Chen",
+        "email": "Mei.Chen@example.com",
+        "orcID": "0000-0002-3456-7890",
+        "hIndex": 38,
+        "totalCitations": 8500,
+        "profileURL": "http://example.com/MeiChen",
+        "departmentId": "Computer Science",
+        "researchStatements": [
+            "Artificial Intelligence"
+        ],
+        "publications": [
+            "AI in Modern Applications"
+        ],
+        "researchGroups": [
+            "AI Innovation Lab"
+        ],
+        "reviews": [
+            "Machine Learning"
+        ],
+        "biography": {
+            "biography": "Mei Chen is a renowned researcher in Computer Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Computer Science"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838542e",
+        "firstName": "Raj",
+        "middleName": "K",
+        "lastName": "Patel",
+        "email": "Raj.Patel@example.com",
+        "orcID": "0000-0003-4567-8901",
+        "hIndex": 50,
+        "totalCitations": 15000,
+        "profileURL": "http://example.com/RajPatel",
+        "departmentId": "Chemistry",
+        "researchStatements": [
+            "Organic Chemistry"
+        ],
+        "publications": [
+            "Synthesis of Organic Compounds"
+        ],
+        "researchGroups": [
+            "Organic Chemistry Group"
+        ],
+        "reviews": [
+            "Chemical Reactions"
+        ],
+        "biography": {
+            "biography": "Raj Patel is a renowned researcher in Chemistry."
+        },
+        "currentPosition": {
+            "position": "Professor of Chemistry"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838542f",
+        "firstName": "Sakura",
+        "middleName": "M",
+        "lastName": "Tanaka",
+        "email": "Sakura.Tanaka@example.com",
+        "orcID": "0000-0004-5678-9012",
+        "hIndex": 42,
+        "totalCitations": 10000,
+        "profileURL": "http://example.com/SakuraTanaka",
+        "departmentId": "Biology",
+        "researchStatements": [
+            "Genetic Engineering"
+        ],
+        "publications": [
+            "Advances in Genetic Engineering"
+        ],
+        "researchGroups": [
+            "Genetics Research Group"
+        ],
+        "reviews": [
+            "Genomics"
+        ],
+        "biography": {
+            "biography": "Sakura Tanaka is a renowned researcher in Biology."
+        },
+        "currentPosition": {
+            "position": "Professor of Biology"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385430",
+        "firstName": "Anil",
+        "middleName": "R",
+        "lastName": "Singh",
+        "email": "Anil.Singh@example.com",
+        "orcID": "0000-0005-6789-0123",
+        "hIndex": 47,
+        "totalCitations": 13000,
+        "profileURL": "http://example.com/AnilSingh",
+        "departmentId": "Mathematics",
+        "researchStatements": [
+            "Algebraic Structures"
+        ],
+        "publications": [
+            "Algebraic Topology"
+        ],
+        "researchGroups": [
+            "Mathematical Research Group"
+        ],
+        "reviews": [
+            "Abstract Algebra"
+        ],
+        "biography": {
+            "biography": "Anil Singh is a renowned researcher in Mathematics."
+        },
+        "currentPosition": {
+            "position": "Professor of Mathematics"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385431",
+        "firstName": "Lina",
+        "middleName": "H",
+        "lastName": "Wang",
+        "email": "Lina.Wang@example.com",
+        "orcID": "0000-0006-7890-1234",
+        "hIndex": 40,
+        "totalCitations": 9000,
+        "profileURL": "http://example.com/LinaWang",
+        "departmentId": "Economics",
+        "researchStatements": [
+            "Behavioral Economics"
+        ],
+        "publications": [
+            "Economics of Human Behavior"
+        ],
+        "researchGroups": [
+            "Economic Analysis Group"
+        ],
+        "reviews": [
+            "Market Dynamics"
+        ],
+        "biography": {
+            "biography": "Lina Wang is a renowned researcher in Economics."
+        },
+        "currentPosition": {
+            "position": "Professor of Economics"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385432",
+        "firstName": "Hiroshi",
+        "middleName": "S",
+        "lastName": "Kato",
+        "email": "Hiroshi.Kato@example.com",
+        "orcID": "0000-0007-8901-2345",
+        "hIndex": 44,
+        "totalCitations": 11000,
+        "profileURL": "http://example.com/HiroshiKato",
+        "departmentId": "Engineering",
+        "researchStatements": [
+            "Robotics"
+        ],
+        "publications": [
+            "Robotics and Automation"
+        ],
+        "researchGroups": [
+            "Robotics Lab"
+        ],
+        "reviews": [
+            "Automation Systems"
+        ],
+        "biography": {
+            "biography": "Hiroshi Kato is a renowned researcher in Engineering."
+        },
+        "currentPosition": {
+            "position": "Professor of Engineering"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385433",
+        "firstName": "Sunita",
+        "middleName": "P",
+        "lastName": "Desai",
+        "email": "Sunita.Desai@example.com",
+        "orcID": "0000-0008-9012-3456",
+        "hIndex": 39,
+        "totalCitations": 8700,
+        "profileURL": "http://example.com/SunitaDesai",
+        "departmentId": "Environmental Science",
+        "researchStatements": [
+            "Climate Change"
+        ],
+        "publications": [
+            "Impact of Climate Change"
+        ],
+        "researchGroups": [
+            "Climate Research Group"
+        ],
+        "reviews": [
+            "Environmental Policies"
+        ],
+        "biography": {
+            "biography": "Sunita Desai is a renowned researcher in Environmental Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Environmental Science"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385434",
+        "firstName": "Kenji",
+        "middleName": "N",
+        "lastName": "Suzuki",
+        "email": "Kenji.Suzuki@example.com",
+        "orcID": "0000-0009-0123-4567",
+        "hIndex": 43,
+        "totalCitations": 10500,
+        "profileURL": "http://example.com/KenjiSuzuki",
+        "departmentId": "Material Science",
+        "researchStatements": [
+            "Nanotechnology"
+        ],
+        "publications": [
+            "Nanomaterials and Their Applications"
+        ],
+        "researchGroups": [
+            "Nanotechnology Group"
+        ],
+        "reviews": [
+            "Material Properties"
+        ],
+        "biography": {
+            "biography": "Kenji Suzuki is a renowned researcher in Material Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Material Science"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385435",
+        "firstName": "Ayesha",
+        "middleName": "Q",
+        "lastName": "Khan",
+        "email": "Ayesha.Khan@example.com",
+        "orcID": "0000-0010-1234-5678",
+        "hIndex": 41,
+        "totalCitations": 9500,
+        "profileURL": "http://example.com/AyeshaKhan",
+        "departmentId": "Psychology",
+        "researchStatements": [
+            "Cognitive Psychology"
+        ],
+        "publications": [
+            "Understanding Human Cognition"
+        ],
+        "researchGroups": [
+            "Cognitive Research Group"
+        ],
+        "reviews": [
+            "Behavioral Studies"
+        ],
+        "biography": {
+            "biography": "Ayesha Khan is a renowned researcher in Psychology."
+        },
+        "currentPosition": {
+            "position": "Professor of Psychology"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385436",
+        "firstName": "Jin",
+        "middleName": "Y",
+        "lastName": "Park",
+        "email": "Jin.Park@example.com",
+        "orcID": "0000-0011-2345-6789",
+        "hIndex": 37,
+        "totalCitations": 8200,
+        "profileURL": "http://example.com/JinPark",
+        "departmentId": "Sociology",
+        "researchStatements": [
+            "Social Dynamics"
+        ],
+        "publications": [
+            "The Dynamics of Society"
+        ],
+        "researchGroups": [
+            "Social Research Group"
+        ],
+        "reviews": [
+            "Societal Trends"
+        ],
+        "biography": {
+            "biography": "Jin Park is a renowned researcher in Sociology."
+        },
+        "currentPosition": {
+            "position": "Professor of Sociology"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385437",
+        "firstName": "Min",
+        "middleName": "J",
+        "lastName": "Lee",
+        "email": "Min.Lee@example.com",
+        "orcID": "0000-0012-3456-7890",
+        "hIndex": 46,
+        "totalCitations": 12500,
+        "profileURL": "http://example.com/MinLee",
+        "departmentId": "Political Science",
+        "researchStatements": [
+            "International Relations"
+        ],
+        "publications": [
+            "Global Politics"
+        ],
+        "researchGroups": [
+            "International Relations Group"
+        ],
+        "reviews": [
+            "Political Systems"
+        ],
+        "biography": {
+            "biography": "Min Lee is a renowned researcher in Political Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Political Science"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385438",
+        "firstName": "Nina",
+        "middleName": "Z",
+        "lastName": "Kim",
+        "email": "Nina.Kim@example.com",
+        "orcID": "0000-0013-4567-8901",
+        "hIndex": 49,
+        "totalCitations": 14000,
+        "profileURL": "http://example.com/NinaKim",
+        "departmentId": "Linguistics",
+        "researchStatements": [
+            "Language Acquisition"
+        ],
+        "publications": [
+            "Linguistic Development"
+        ],
+        "researchGroups": [
+            "Language Research Group"
+        ],
+        "reviews": [
+            "Phonetics"
+        ],
+        "biography": {
+            "biography": "Nina Kim is a renowned researcher in Linguistics."
+        },
+        "currentPosition": {
+            "position": "Professor of Linguistics"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385439",
+        "firstName": "Arjun",
+        "middleName": "M",
+        "lastName": "Rao",
+        "email": "Arjun.Rao@example.com",
+        "orcID": "0000-0014-5678-9012",
+        "hIndex": 48,
+        "totalCitations": 13500,
+        "profileURL": "http://example.com/ArjunRao",
+        "departmentId": "History",
+        "researchStatements": [
+            "Ancient Civilizations"
+        ],
+        "publications": [
+            "History of Ancient Empires"
+        ],
+        "researchGroups": [
+            "Historical Studies Group"
+        ],
+        "reviews": [
+            "Cultural Heritage"
+        ],
+        "biography": {
+            "biography": "Arjun Rao is a renowned researcher in History."
+        },
+        "currentPosition": {
+            "position": "Professor of History"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838543a",
+        "firstName": "Yuki",
+        "middleName": "R",
+        "lastName": "Nakamura",
+        "email": "Yuki.Nakamura@example.com",
+        "orcID": "0000-0015-6789-0123",
+        "hIndex": 36,
+        "totalCitations": 8000,
+        "profileURL": "http://example.com/YukiNakamura",
+        "departmentId": "Philosophy",
+        "researchStatements": [
+            "Ethics and Morality"
+        ],
+        "publications": [
+            "Philosophical Ethics"
+        ],
+        "researchGroups": [
+            "Philosophical Inquiry Group"
+        ],
+        "reviews": [
+            "Moral Philosophy"
+        ],
+        "biography": {
+            "biography": "Yuki Nakamura is a renowned researcher in Philosophy."
+        },
+        "currentPosition": {
+            "position": "Professor of Philosophy"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838543b",
+        "firstName": "Fatima",
+        "middleName": "N",
+        "lastName": "Ali",
+        "email": "Fatima.Ali@example.com",
+        "orcID": "0000-0016-7890-1234",
+        "hIndex": 51,
+        "totalCitations": 15500,
+        "profileURL": "http://example.com/FatimaAli",
+        "departmentId": "Anthropology",
+        "researchStatements": [
+            "Cultural Anthropology"
+        ],
+        "publications": [
+            "Anthropological Perspectives"
+        ],
+        "researchGroups": [
+            "Cultural Studies Group"
+        ],
+        "reviews": [
+            "Human Societies"
+        ],
+        "biography": {
+            "biography": "Fatima Ali is a renowned researcher in Anthropology."
+        },
+        "currentPosition": {
+            "position": "Professor of Anthropology"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838543c",
+        "firstName": "Rina",
+        "middleName": "S",
+        "lastName": "Ito",
+        "email": "Rina.Ito@example.com",
+        "orcID": "0000-0017-8901-2345",
+        "hIndex": 35,
+        "totalCitations": 7800,
+        "profileURL": "http://example.com/RinaIto",
+        "departmentId": "Art History",
+        "researchStatements": [
+            "Renaissance Art"
+        ],
+        "publications": [
+            "Art of the Renaissance"
+        ],
+        "researchGroups": [
+            "Art History Group"
+        ],
+        "reviews": [
+            "Art Criticism"
+        ],
+        "biography": {
+            "biography": "Rina Ito is a renowned researcher in Art History."
+        },
+        "currentPosition": {
+            "position": "Professor of Art History"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838543d",
+        "firstName": "Sanjay",
+        "middleName": "V",
+        "lastName": "Gupta",
+        "email": "Sanjay.Gupta@example.com",
+        "orcID": "0000-0018-9012-3456",
+        "hIndex": 52,
+        "totalCitations": 16000,
+        "profileURL": "http://example.com/SanjayGupta",
+        "departmentId": "Medicine",
+        "researchStatements": [
+            "Cardiology"
+        ],
+        "publications": [
+            "Advances in Cardiology"
+        ],
+        "researchGroups": [
+            "Medical Research Group"
+        ],
+        "reviews": [
+            "Heart Diseases"
+        ],
+        "biography": {
+            "biography": "Sanjay Gupta is a renowned researcher in Medicine."
+        },
+        "currentPosition": {
+            "position": "Professor of Medicine"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838543e",
+        "firstName": "Keiko",
+        "middleName": "T",
+        "lastName": "Matsuda",
+        "email": "Keiko.Matsuda@example.com",
+        "orcID": "0000-0019-0123-4567",
+        "hIndex": 34,
+        "totalCitations": 7500,
+        "profileURL": "http://example.com/KeikoMatsuda",
+        "departmentId": "Architecture",
+        "researchStatements": [
+            "Sustainable Architecture"
+        ],
+        "publications": [
+            "Green Building Design"
+        ],
+        "researchGroups": [
+            "Sustainable Design Group"
+        ],
+        "reviews": [
+            "Architectural Innovations"
+        ],
+        "biography": {
+            "biography": "Keiko Matsuda is a renowned researcher in Architecture."
+        },
+        "currentPosition": {
+            "position": "Professor of Architecture"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838543f",
+        "firstName": "Amit",
+        "middleName": "K",
+        "lastName": "Sharma",
+        "email": "Amit.Sharma@example.com",
+        "orcID": "0000-0020-1234-5678",
+        "hIndex": 53,
+        "totalCitations": 16500,
+        "profileURL": "http://example.com/AmitSharma",
+        "departmentId": "Physics",
+        "researchStatements": [
+            "Particle Physics"
+        ],
+        "publications": [
+            "Exploring Particle Physics"
+        ],
+        "researchGroups": [
+            "Particle Physics Group"
+        ],
+        "reviews": [
+            "Subatomic Particles"
+        ],
+        "biography": {
+            "biography": "Amit Sharma is a renowned researcher in Physics."
+        },
+        "currentPosition": {
+            "position": "Professor of Physics"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385440",
+        "firstName": "Nora",
+        "middleName": "L",
+        "lastName": "Feng",
+        "email": "Nora.Feng@example.com",
+        "orcID": "0000-0021-2345-6789",
+        "hIndex": 33,
+        "totalCitations": 7300,
+        "profileURL": "http://example.com/NoraFeng",
+        "departmentId": "Literature",
+        "researchStatements": [
+            "Modern Literature"
+        ],
+        "publications": [
+            "Contemporary Literary Criticism"
+        ],
+        "researchGroups": [
+            "Literary Analysis Group"
+        ],
+        "reviews": [
+            "Literary Theory"
+        ],
+        "biography": {
+            "biography": "Nora Feng is a renowned researcher in Literature."
+        },
+        "currentPosition": {
+            "position": "Professor of Literature"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385441",
+        "firstName": "Tariq",
+        "middleName": "H",
+        "lastName": "Ahmed",
+        "email": "Tariq.Ahmed@example.com",
+        "orcID": "0000-0022-3456-7890",
+        "hIndex": 54,
+        "totalCitations": 17000,
+        "profileURL": "http://example.com/TariqAhmed",
+        "departmentId": "Computer Science",
+        "researchStatements": [
+            "Cybersecurity"
+        ],
+        "publications": [
+            "Securing Digital Networks"
+        ],
+        "researchGroups": [
+            "Cybersecurity Lab"
+        ],
+        "reviews": [
+            "Network Security"
+        ],
+        "biography": {
+            "biography": "Tariq Ahmed is a renowned researcher in Computer Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Computer Science"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385442",
+        "firstName": "Laila",
+        "middleName": "J",
+        "lastName": "Hassan",
+        "email": "Laila.Hassan@example.com",
+        "orcID": "0000-0023-4567-8901",
+        "hIndex": 32,
+        "totalCitations": 7100,
+        "profileURL": "http://example.com/LailaHassan",
+        "departmentId": "Education",
+        "researchStatements": [
+            "Educational Technology"
+        ],
+        "publications": [
+            "Technology in Education"
+        ],
+        "researchGroups": [
+            "Educational Innovations Group"
+        ],
+        "reviews": [
+            "Teaching Methods"
+        ],
+        "biography": {
+            "biography": "Laila Hassan is a renowned researcher in Education."
+        },
+        "currentPosition": {
+            "position": "Professor of Education"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385443",
+        "firstName": "Yasmin",
+        "middleName": "F",
+        "lastName": "Rahman",
+        "email": "Yasmin.Rahman@example.com",
+        "orcID": "0000-0024-5678-9012",
+        "hIndex": 31,
+        "totalCitations": 6900,
+        "profileURL": "http://example.com/YasminRahman",
+        "departmentId": "Public Health",
+        "researchStatements": [
+            "Epidemiology"
+        ],
+        "publications": [
+            "Epidemiological Studies"
+        ],
+        "researchGroups": [
+            "Public Health Research Group"
+        ],
+        "reviews": [
+            "Health Policies"
+        ],
+        "biography": {
+            "biography": "Yasmin Rahman is a renowned researcher in Public Health."
+        },
+        "currentPosition": {
+            "position": "Professor of Public Health"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385444",
+        "firstName": "Zara",
+        "middleName": "G",
+        "lastName": "Khan",
+        "email": "Zara.Khan@example.com",
+        "orcID": "0000-0025-6789-0123",
+        "hIndex": 55,
+        "totalCitations": 17500,
+        "profileURL": "http://example.com/ZaraKhan",
+        "departmentId": "Law",
+        "researchStatements": [
+            "International Law"
+        ],
+        "publications": [
+            "International Legal Systems"
+        ],
+        "researchGroups": [
+            "Legal Studies Group"
+        ],
+        "reviews": [
+            "Legal Frameworks"
+        ],
+        "biography": {
+            "biography": "Zara Khan is a renowned researcher in Law."
+        },
+        "currentPosition": {
+            "position": "Professor of Law"
+        },
+        "academicStatus": {
+            "status": "Active"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385445",
+        "firstName": "Alice",
+        "middleName": "M",
+        "lastName": "Wong",
+        "email": "Alice.Wong@example.com",
+        "orcID": "0000-0001-2345-6789",
+        "hIndex": 25,
+        "totalCitations": 3500,
+        "profileURL": "http://example.com/AliceWong",
+        "departmentId": "Physics",
+        "researchStatements": [
+            "Quantum Entanglement"
+        ],
+        "publications": [
+            "Quantum Mechanics and Reality"
+        ],
+        "researchGroups": [
+            "Quantum Computing Group"
+        ],
+        "reviews": [
+            "Quantum Field Theory"
+        ],
+        "biography": {
+            "biography": "Alice Wong is a renowned researcher in Quantum Physics."
+        },
+        "currentPosition": {
+            "position": "Professor of Quantum Physics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385446",
+        "firstName": "Brian",
+        "middleName": "J",
+        "lastName": "Kim",
+        "email": "Brian.Kim@example.com",
+        "orcID": "0000-0002-3456-7890",
+        "hIndex": 30,
+        "totalCitations": 5000,
+        "profileURL": "http://example.com/BrianKim",
+        "departmentId": "Computer Science",
+        "researchStatements": [
+            "Machine Learning"
+        ],
+        "publications": [
+            "Deep Learning Advances"
+        ],
+        "researchGroups": [
+            "AI and Robotics Lab"
+        ],
+        "reviews": [
+            "Neural Networks"
+        ],
+        "biography": {
+            "biography": "Brian Kim is a renowned researcher in Artificial Intelligence."
+        },
+        "currentPosition": {
+            "position": "Professor of Artificial Intelligence"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385447",
+        "firstName": "Catherine",
+        "middleName": "L",
+        "lastName": "Tan",
+        "email": "Catherine.Tan@example.com",
+        "orcID": "0000-0003-4567-8901",
+        "hIndex": 18,
+        "totalCitations": 2200,
+        "profileURL": "http://example.com/CatherineTan",
+        "departmentId": "Environmental Studies",
+        "researchStatements": [
+            "Climate Change"
+        ],
+        "publications": [
+            "Impact of Climate Change"
+        ],
+        "researchGroups": [
+            "Sustainable Development Group"
+        ],
+        "reviews": [
+            "Environmental Policies"
+        ],
+        "biography": {
+            "biography": "Catherine Tan is a renowned researcher in Environmental Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Environmental Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385448",
+        "firstName": "David",
+        "middleName": "N",
+        "lastName": "Lee",
+        "email": "David.Lee@example.com",
+        "orcID": "0000-0004-5678-9012",
+        "hIndex": 22,
+        "totalCitations": 2800,
+        "profileURL": "http://example.com/DavidLee",
+        "departmentId": "Biological Sciences",
+        "researchStatements": [
+            "Protein Synthesis"
+        ],
+        "publications": [
+            "Biochemical Pathways"
+        ],
+        "researchGroups": [
+            "Molecular Biology Group"
+        ],
+        "reviews": [
+            "Biochemical Techniques"
+        ],
+        "biography": {
+            "biography": "David Lee is a renowned researcher in Biochemistry."
+        },
+        "currentPosition": {
+            "position": "Professor of Biochemistry"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385449",
+        "firstName": "Emily",
+        "middleName": "R",
+        "lastName": "Ng",
+        "email": "Emily.Ng@example.com",
+        "orcID": "0000-0005-6789-0123",
+        "hIndex": 28,
+        "totalCitations": 4000,
+        "profileURL": "http://example.com/EmilyNg",
+        "departmentId": "Statistics",
+        "researchStatements": [
+            "Big Data Analytics"
+        ],
+        "publications": [
+            "Data Mining Techniques"
+        ],
+        "researchGroups": [
+            "Data Science Lab"
+        ],
+        "reviews": [
+            "Statistical Analysis"
+        ],
+        "biography": {
+            "biography": "Emily Ng is a renowned researcher in Data Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Data Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838544a",
+        "firstName": "Frank",
+        "middleName": "S",
+        "lastName": "Choi",
+        "email": "Frank.Choi@example.com",
+        "orcID": "0000-0006-7890-1234",
+        "hIndex": 15,
+        "totalCitations": 1800,
+        "profileURL": "http://example.com/FrankChoi",
+        "departmentId": "Engineering",
+        "researchStatements": [
+            "Nanomaterials"
+        ],
+        "publications": [
+            "Nanotechnology Innovations"
+        ],
+        "researchGroups": [
+            "NanoTech Group"
+        ],
+        "reviews": [
+            "Nanostructures"
+        ],
+        "biography": {
+            "biography": "Frank Choi is a renowned researcher in Nanotechnology."
+        },
+        "currentPosition": {
+            "position": "Professor of Nanotechnology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838544b",
+        "firstName": "Grace",
+        "middleName": "T",
+        "lastName": "Lim",
+        "email": "Grace.Lim@example.com",
+        "orcID": "0000-0007-8901-2345",
+        "hIndex": 20,
+        "totalCitations": 2500,
+        "profileURL": "http://example.com/GraceLim",
+        "departmentId": "Psychology",
+        "researchStatements": [
+            "Brain Plasticity"
+        ],
+        "publications": [
+            "Neuroscience Discoveries"
+        ],
+        "researchGroups": [
+            "Cognitive Science Group"
+        ],
+        "reviews": [
+            "Neural Development"
+        ],
+        "biography": {
+            "biography": "Grace Lim is a renowned researcher in Neuroscience."
+        },
+        "currentPosition": {
+            "position": "Professor of Neuroscience"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838544c",
+        "firstName": "Henry",
+        "middleName": "U",
+        "lastName": "Park",
+        "email": "Henry.Park@example.com",
+        "orcID": "0000-0008-9012-3456",
+        "hIndex": 26,
+        "totalCitations": 3700,
+        "profileURL": "http://example.com/HenryPark",
+        "departmentId": "Mechanical Engineering",
+        "researchStatements": [
+            "Autonomous Systems"
+        ],
+        "publications": [
+            "Robotics Innovations"
+        ],
+        "researchGroups": [
+            "Robotics Lab"
+        ],
+        "reviews": [
+            "Automation Technologies"
+        ],
+        "biography": {
+            "biography": "Henry Park is a renowned researcher in Robotics."
+        },
+        "currentPosition": {
+            "position": "Professor of Robotics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838544d",
+        "firstName": "Ivy",
+        "middleName": "V",
+        "lastName": "Zhang",
+        "email": "Ivy.Zhang@example.com",
+        "orcID": "0000-0009-0123-4567",
+        "hIndex": 17,
+        "totalCitations": 2100,
+        "profileURL": "http://example.com/IvyZhang",
+        "departmentId": "Life Sciences",
+        "researchStatements": [
+            "Genetic Engineering"
+        ],
+        "publications": [
+            "Biotech Advances"
+        ],
+        "researchGroups": [
+            "Biotech Research Group"
+        ],
+        "reviews": [
+            "Genomic Studies"
+        ],
+        "biography": {
+            "biography": "Ivy Zhang is a renowned researcher in Biotechnology."
+        },
+        "currentPosition": {
+            "position": "Professor of Biotechnology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838544e",
+        "firstName": "Jack",
+        "middleName": "W",
+        "lastName": "Liu",
+        "email": "Jack.Liu@example.com",
+        "orcID": "0000-0010-1234-5678",
+        "hIndex": 19,
+        "totalCitations": 2400,
+        "profileURL": "http://example.com/JackLiu",
+        "departmentId": "Information Technology",
+        "researchStatements": [
+            "Network Security"
+        ],
+        "publications": [
+            "Cybersecurity Protocols"
+        ],
+        "researchGroups": [
+            "Cyber Defense Group"
+        ],
+        "reviews": [
+            "Security Systems"
+        ],
+        "biography": {
+            "biography": "Jack Liu is a renowned researcher in Cybersecurity."
+        },
+        "currentPosition": {
+            "position": "Professor of Cybersecurity"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838544f",
+        "firstName": "Karen",
+        "middleName": "X",
+        "lastName": "Yeo",
+        "email": "Karen.Yeo@example.com",
+        "orcID": "0000-0011-2345-6789",
+        "hIndex": 23,
+        "totalCitations": 2900,
+        "profileURL": "http://example.com/KarenYeo",
+        "departmentId": "Chemistry",
+        "researchStatements": [
+            "Composite Materials"
+        ],
+        "publications": [
+            "Materials Innovation"
+        ],
+        "researchGroups": [
+            "Advanced Materials Group"
+        ],
+        "reviews": [
+            "Material Properties"
+        ],
+        "biography": {
+            "biography": "Karen Yeo is a renowned researcher in Materials Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Materials Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385450",
+        "firstName": "Leo",
+        "middleName": "Y",
+        "lastName": "Huang",
+        "email": "Leo.Huang@example.com",
+        "orcID": "0000-0012-3456-7890",
+        "hIndex": 21,
+        "totalCitations": 2600,
+        "profileURL": "http://example.com/LeoHuang",
+        "departmentId": "Astronomy",
+        "researchStatements": [
+            "Black Holes"
+        ],
+        "publications": [
+            "Astrophysical Phenomena"
+        ],
+        "researchGroups": [
+            "Cosmology Group"
+        ],
+        "reviews": [
+            "Galactic Studies"
+        ],
+        "biography": {
+            "biography": "Leo Huang is a renowned researcher in Astrophysics."
+        },
+        "currentPosition": {
+            "position": "Professor of Astrophysics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385451",
+        "firstName": "Maya",
+        "middleName": "Z",
+        "lastName": "Lin",
+        "email": "Maya.Lin@example.com",
+        "orcID": "0000-0013-4567-8901",
+        "hIndex": 16,
+        "totalCitations": 2000,
+        "profileURL": "http://example.com/MayaLin",
+        "departmentId": "Social Sciences",
+        "researchStatements": [
+            "Social Networks"
+        ],
+        "publications": [
+            "Sociological Perspectives"
+        ],
+        "researchGroups": [
+            "Social Dynamics Group"
+        ],
+        "reviews": [
+            "Cultural Studies"
+        ],
+        "biography": {
+            "biography": "Maya Lin is a renowned researcher in Sociology."
+        },
+        "currentPosition": {
+            "position": "Professor of Sociology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385452",
+        "firstName": "Nathan",
+        "middleName": "A",
+        "lastName": "Cheng",
+        "email": "Nathan.Cheng@example.com",
+        "orcID": "0000-0014-5678-9012",
+        "hIndex": 24,
+        "totalCitations": 3100,
+        "profileURL": "http://example.com/NathanCheng",
+        "departmentId": "Economics",
+        "researchStatements": [
+            "Market Dynamics"
+        ],
+        "publications": [
+            "Economic Theories"
+        ],
+        "researchGroups": [
+            "Economic Research Group"
+        ],
+        "reviews": [
+            "Financial Systems"
+        ],
+        "biography": {
+            "biography": "Nathan Cheng is a renowned researcher in Economics."
+        },
+        "currentPosition": {
+            "position": "Professor of Economics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385453",
+        "firstName": "Olivia",
+        "middleName": "B",
+        "lastName": "Sun",
+        "email": "Olivia.Sun@example.com",
+        "orcID": "0000-0015-6789-0123",
+        "hIndex": 29,
+        "totalCitations": 4200,
+        "profileURL": "http://example.com/OliviaSun",
+        "departmentId": "Chemistry",
+        "researchStatements": [
+            "Chemical Reactions"
+        ],
+        "publications": [
+            "Advanced Chemistry"
+        ],
+        "researchGroups": [
+            "Chemical Analysis Group"
+        ],
+        "reviews": [
+            "Molecular Chemistry"
+        ],
+        "biography": {
+            "biography": "Olivia Sun is a renowned researcher in Chemistry."
+        },
+        "currentPosition": {
+            "position": "Professor of Chemistry"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385454",
+        "firstName": "Paul",
+        "middleName": "C",
+        "lastName": "Koh",
+        "email": "Paul.Koh@example.com",
+        "orcID": "0000-0016-7890-1234",
+        "hIndex": 27,
+        "totalCitations": 3900,
+        "profileURL": "http://example.com/PaulKoh",
+        "departmentId": "Engineering",
+        "researchStatements": [
+            "Structural Analysis"
+        ],
+        "publications": [
+            "Civil Engineering Innovations"
+        ],
+        "researchGroups": [
+            "Infrastructure Development Group"
+        ],
+        "reviews": [
+            "Construction Techniques"
+        ],
+        "biography": {
+            "biography": "Paul Koh is a renowned researcher in Civil Engineering."
+        },
+        "currentPosition": {
+            "position": "Professor of Civil Engineering"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385455",
+        "firstName": "Quincy",
+        "middleName": "D",
+        "lastName": "Hsu",
+        "email": "Quincy.Hsu@example.com",
+        "orcID": "0000-0017-8901-2345",
+        "hIndex": 14,
+        "totalCitations": 1700,
+        "profileURL": "http://example.com/QuincyHsu",
+        "departmentId": "Humanities",
+        "researchStatements": [
+            "Language Acquisition"
+        ],
+        "publications": [
+            "Linguistic Patterns"
+        ],
+        "researchGroups": [
+            "Language and Cognition Group"
+        ],
+        "reviews": [
+            "Phonetics"
+        ],
+        "biography": {
+            "biography": "Quincy Hsu is a renowned researcher in Linguistics."
+        },
+        "currentPosition": {
+            "position": "Professor of Linguistics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385456",
+        "firstName": "Rachel",
+        "middleName": "E",
+        "lastName": "Fong",
+        "email": "Rachel.Fong@example.com",
+        "orcID": "0000-0018-9012-3456",
+        "hIndex": 31,
+        "totalCitations": 5300,
+        "profileURL": "http://example.com/RachelFong",
+        "departmentId": "Medical Sciences",
+        "researchStatements": [
+            "Cardiovascular Health"
+        ],
+        "publications": [
+            "Medical Innovations"
+        ],
+        "researchGroups": [
+            "Health Research Group"
+        ],
+        "reviews": [
+            "Clinical Studies"
+        ],
+        "biography": {
+            "biography": "Rachel Fong is a renowned researcher in Medicine."
+        },
+        "currentPosition": {
+            "position": "Professor of Medicine"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385457",
+        "firstName": "Steven",
+        "middleName": "F",
+        "lastName": "Wang",
+        "email": "Steven.Wang@example.com",
+        "orcID": "0000-0019-0123-4567",
+        "hIndex": 32,
+        "totalCitations": 5500,
+        "profileURL": "http://example.com/StevenWang",
+        "departmentId": "Computer Science",
+        "researchStatements": [
+            "Algorithm Design"
+        ],
+        "publications": [
+            "Computational Theory"
+        ],
+        "researchGroups": [
+            "Software Development Group"
+        ],
+        "reviews": [
+            "Data Structures"
+        ],
+        "biography": {
+            "biography": "Steven Wang is a renowned researcher in Computer Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Computer Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385458",
+        "firstName": "Tina",
+        "middleName": "G",
+        "lastName": "Lau",
+        "email": "Tina.Lau@example.com",
+        "orcID": "0000-0020-1234-5678",
+        "hIndex": 13,
+        "totalCitations": 1600,
+        "profileURL": "http://example.com/TinaLau",
+        "departmentId": "Psychology",
+        "researchStatements": [
+            "Cognitive Development"
+        ],
+        "publications": [
+            "Psychological Insights"
+        ],
+        "researchGroups": [
+            "Behavioral Science Group"
+        ],
+        "reviews": [
+            "Mental Health"
+        ],
+        "biography": {
+            "biography": "Tina Lau is a renowned researcher in Psychology."
+        },
+        "currentPosition": {
+            "position": "Professor of Psychology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385459",
+        "firstName": "Ursula",
+        "middleName": "H",
+        "lastName": "Chan",
+        "email": "Ursula.Chan@example.com",
+        "orcID": "0000-0021-2345-6789",
+        "hIndex": 12,
+        "totalCitations": 1500,
+        "profileURL": "http://example.com/UrsulaChan",
+        "departmentId": "Social Sciences",
+        "researchStatements": [
+            "Cultural Anthropology"
+        ],
+        "publications": [
+            "Anthropological Studies"
+        ],
+        "researchGroups": [
+            "Anthropology Research Group"
+        ],
+        "reviews": [
+            "Ethnographic Methods"
+        ],
+        "biography": {
+            "biography": "Ursula Chan is a renowned researcher in Anthropology."
+        },
+        "currentPosition": {
+            "position": "Professor of Anthropology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838545a",
+        "firstName": "Victor",
+        "middleName": "I",
+        "lastName": "Nguyen",
+        "email": "Victor.Nguyen@example.com",
+        "orcID": "0000-0022-3456-7890",
+        "hIndex": 34,
+        "totalCitations": 5800,
+        "profileURL": "http://example.com/VictorNguyen",
+        "departmentId": "Engineering",
+        "researchStatements": [
+            "Circuit Design"
+        ],
+        "publications": [
+            "Electrical Systems"
+        ],
+        "researchGroups": [
+            "Electronics Research Group"
+        ],
+        "reviews": [
+            "Power Systems"
+        ],
+        "biography": {
+            "biography": "Victor Nguyen is a renowned researcher in Electrical Engineering."
+        },
+        "currentPosition": {
+            "position": "Professor of Electrical Engineering"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838545b",
+        "firstName": "Wendy",
+        "middleName": "J",
+        "lastName": "Ho",
+        "email": "Wendy.Ho@example.com",
+        "orcID": "0000-0023-4567-8901",
+        "hIndex": 35,
+        "totalCitations": 6000,
+        "profileURL": "http://example.com/WendyHo",
+        "departmentId": "Life Sciences",
+        "researchStatements": [
+            "Gene Therapy"
+        ],
+        "publications": [
+            "Genetic Discoveries"
+        ],
+        "researchGroups": [
+            "Genomics Group"
+        ],
+        "reviews": [
+            "Genetic Disorders"
+        ],
+        "biography": {
+            "biography": "Wendy Ho is a renowned researcher in Genetics."
+        },
+        "currentPosition": {
+            "position": "Professor of Genetics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838545c",
+        "firstName": "Xander",
+        "middleName": "K",
+        "lastName": "Lim",
+        "email": "Xander.Lim@example.com",
+        "orcID": "0000-0024-5678-9012",
+        "hIndex": 33,
+        "totalCitations": 5700,
+        "profileURL": "http://example.com/XanderLim",
+        "departmentId": "Mathematics",
+        "researchStatements": [
+            "Number Theory"
+        ],
+        "publications": [
+            "Mathematical Theorems"
+        ],
+        "researchGroups": [
+            "Mathematical Research Group"
+        ],
+        "reviews": [
+            "Algebraic Structures"
+        ],
+        "biography": {
+            "biography": "Xander Lim is a renowned researcher in Mathematics."
+        },
+        "currentPosition": {
+            "position": "Professor of Mathematics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838545d",
+        "firstName": "Yvonne",
+        "middleName": "L",
+        "lastName": "Tan",
+        "email": "Yvonne.Tan@example.com",
+        "orcID": "0000-0025-6789-0123",
+        "hIndex": 36,
+        "totalCitations": 6200,
+        "profileURL": "http://example.com/YvonneTan",
+        "departmentId": "Medical Sciences",
+        "researchStatements": [
+            "Drug Development"
+        ],
+        "publications": [
+            "Pharmacological Research"
+        ],
+        "researchGroups": [
+            "Pharmaceutical Sciences Group"
+        ],
+        "reviews": [
+            "Drug Efficacy"
+        ],
+        "biography": {
+            "biography": "Yvonne Tan is a renowned researcher in Pharmacology."
+        },
+        "currentPosition": {
+            "position": "Professor of Pharmacology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838545e",
+        "firstName": "Akira",
+        "middleName": "T",
+        "lastName": "Tanaka",
+        "email": "Akira.Tanaka@example.com",
+        "orcID": "0000-0001-1234-5678",
+        "hIndex": 45,
+        "totalCitations": 12000,
+        "profileURL": "http://example.com/AkiraTanaka",
+        "departmentId": "Physics",
+        "researchStatements": [
+            "Quantum Entanglement"
+        ],
+        "publications": [
+            "Quantum Mechanics: An Introduction"
+        ],
+        "researchGroups": [
+            "Quantum Computing Group"
+        ],
+        "reviews": [
+            "Quantum Field Theory"
+        ],
+        "biography": {
+            "biography": "Akira Tanaka is a renowned researcher in quantum physics."
+        },
+        "currentPosition": {
+            "position": "Professor of Quantum Physics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838545f",
+        "firstName": "Mei",
+        "middleName": "L",
+        "lastName": "Wang",
+        "email": "Mei.Wang@example.com",
+        "orcID": "0000-0002-2345-6789",
+        "hIndex": 38,
+        "totalCitations": 8500,
+        "profileURL": "http://example.com/MeiWang",
+        "departmentId": "Biology",
+        "researchStatements": [
+            "Gene Expression"
+        ],
+        "publications": [
+            "Molecular Biology of the Cell"
+        ],
+        "researchGroups": [
+            "Genomics Research Group"
+        ],
+        "reviews": [
+            "DNA Sequencing"
+        ],
+        "biography": {
+            "biography": "Mei Wang is a renowned researcher in molecular biology."
+        },
+        "currentPosition": {
+            "position": "Professor of Molecular Biology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385460",
+        "firstName": "Raj",
+        "middleName": "K",
+        "lastName": "Patel",
+        "email": "Raj.Patel@example.com",
+        "orcID": "0000-0003-3456-7890",
+        "hIndex": 50,
+        "totalCitations": 15000,
+        "profileURL": "http://example.com/RajPatel",
+        "departmentId": "Computer Science",
+        "researchStatements": [
+            "Machine Learning Algorithms"
+        ],
+        "publications": [
+            "Deep Learning: A Comprehensive Guide"
+        ],
+        "researchGroups": [
+            "AI Research Group"
+        ],
+        "reviews": [
+            "Neural Networks"
+        ],
+        "biography": {
+            "biography": "Raj Patel is a renowned researcher in artificial intelligence."
+        },
+        "currentPosition": {
+            "position": "Professor of Artificial Intelligence"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385461",
+        "firstName": "Sakura",
+        "middleName": "M",
+        "lastName": "Yamamoto",
+        "email": "Sakura.Yamamoto@example.com",
+        "orcID": "0000-0004-4567-8901",
+        "hIndex": 32,
+        "totalCitations": 7000,
+        "profileURL": "http://example.com/SakuraYamamoto",
+        "departmentId": "Environmental Science",
+        "researchStatements": [
+            "Climate Change Impact"
+        ],
+        "publications": [
+            "Environmental Science: A Global Concern"
+        ],
+        "researchGroups": [
+            "Climate Research Group"
+        ],
+        "reviews": [
+            "Sustainable Development"
+        ],
+        "biography": {
+            "biography": "Sakura Yamamoto is a renowned researcher in environmental science."
+        },
+        "currentPosition": {
+            "position": "Professor of Environmental Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385462",
+        "firstName": "Anil",
+        "middleName": "R",
+        "lastName": "Sharma",
+        "email": "Anil.Sharma@example.com",
+        "orcID": "0000-0005-5678-9012",
+        "hIndex": 40,
+        "totalCitations": 9000,
+        "profileURL": "http://example.com/AnilSharma",
+        "departmentId": "Nanotechnology",
+        "researchStatements": [
+            "Nanomaterials"
+        ],
+        "publications": [
+            "Nanotechnology: Principles and Practices"
+        ],
+        "researchGroups": [
+            "Nanotech Research Group"
+        ],
+        "reviews": [
+            "Nanostructures"
+        ],
+        "biography": {
+            "biography": "Anil Sharma is a renowned researcher in nanotechnology."
+        },
+        "currentPosition": {
+            "position": "Professor of Nanotechnology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385463",
+        "firstName": "Ling",
+        "middleName": "H",
+        "lastName": "Chen",
+        "email": "Ling.Chen@example.com",
+        "orcID": "0000-0006-6789-0123",
+        "hIndex": 29,
+        "totalCitations": 6000,
+        "profileURL": "http://example.com/LingChen",
+        "departmentId": "Data Science",
+        "researchStatements": [
+            "Big Data Analytics"
+        ],
+        "publications": [
+            "Data Science for Business"
+        ],
+        "researchGroups": [
+            "Data Analytics Group"
+        ],
+        "reviews": [
+            "Data Mining"
+        ],
+        "biography": {
+            "biography": "Ling Chen is a renowned researcher in data science."
+        },
+        "currentPosition": {
+            "position": "Professor of Data Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385464",
+        "firstName": "Sanjay",
+        "middleName": "P",
+        "lastName": "Rao",
+        "email": "Sanjay.Rao@example.com",
+        "orcID": "0000-0007-7890-1234",
+        "hIndex": 47,
+        "totalCitations": 11000,
+        "profileURL": "http://example.com/SanjayRao",
+        "departmentId": "Cybersecurity",
+        "researchStatements": [
+            "Network Security"
+        ],
+        "publications": [
+            "Cybersecurity Essentials"
+        ],
+        "researchGroups": [
+            "Security Research Group"
+        ],
+        "reviews": [
+            "Cryptography"
+        ],
+        "biography": {
+            "biography": "Sanjay Rao is a renowned researcher in cybersecurity."
+        },
+        "currentPosition": {
+            "position": "Professor of Cybersecurity"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385465",
+        "firstName": "Yuki",
+        "middleName": "N",
+        "lastName": "Suzuki",
+        "email": "Yuki.Suzuki@example.com",
+        "orcID": "0000-0008-8901-2345",
+        "hIndex": 35,
+        "totalCitations": 7500,
+        "profileURL": "http://example.com/YukiSuzuki",
+        "departmentId": "Robotics",
+        "researchStatements": [
+            "Autonomous Robots"
+        ],
+        "publications": [
+            "Introduction to Robotics"
+        ],
+        "researchGroups": [
+            "Robotics Research Group"
+        ],
+        "reviews": [
+            "Robot Design"
+        ],
+        "biography": {
+            "biography": "Yuki Suzuki is a renowned researcher in robotics."
+        },
+        "currentPosition": {
+            "position": "Professor of Robotics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385466",
+        "firstName": "Aisha",
+        "middleName": "B",
+        "lastName": "Khan",
+        "email": "Aisha.Khan@example.com",
+        "orcID": "0000-0009-9012-3456",
+        "hIndex": 42,
+        "totalCitations": 9500,
+        "profileURL": "http://example.com/AishaKhan",
+        "departmentId": "Biotechnology",
+        "researchStatements": [
+            "Genetic Engineering"
+        ],
+        "publications": [
+            "Biotechnology: Concepts and Applications"
+        ],
+        "researchGroups": [
+            "Biotech Research Group"
+        ],
+        "reviews": [
+            "Bioinformatics"
+        ],
+        "biography": {
+            "biography": "Aisha Khan is a renowned researcher in biotechnology."
+        },
+        "currentPosition": {
+            "position": "Professor of Biotechnology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385467",
+        "firstName": "Hiroshi",
+        "middleName": "S",
+        "lastName": "Kobayashi",
+        "email": "Hiroshi.Kobayashi@example.com",
+        "orcID": "0000-0010-0123-4567",
+        "hIndex": 37,
+        "totalCitations": 8000,
+        "profileURL": "http://example.com/HiroshiKobayashi",
+        "departmentId": "Energy",
+        "researchStatements": [
+            "Solar Energy"
+        ],
+        "publications": [
+            "Renewable Energy Systems"
+        ],
+        "researchGroups": [
+            "Energy Research Group"
+        ],
+        "reviews": [
+            "Wind Energy"
+        ],
+        "biography": {
+            "biography": "Hiroshi Kobayashi is a renowned researcher in renewable energy."
+        },
+        "currentPosition": {
+            "position": "Professor of Renewable Energy"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385468",
+        "firstName": "Priya",
+        "middleName": "C",
+        "lastName": "Nair",
+        "email": "Priya.Nair@example.com",
+        "orcID": "0000-0011-1234-5678",
+        "hIndex": 44,
+        "totalCitations": 10000,
+        "profileURL": "http://example.com/PriyaNair",
+        "departmentId": "Neuroscience",
+        "researchStatements": [
+            "Brain-Computer Interface"
+        ],
+        "publications": [
+            "Neuroscience: Exploring the Brain"
+        ],
+        "researchGroups": [
+            "Neuro Research Group"
+        ],
+        "reviews": [
+            "Cognitive Neuroscience"
+        ],
+        "biography": {
+            "biography": "Priya Nair is a renowned researcher in neuroscience."
+        },
+        "currentPosition": {
+            "position": "Professor of Neuroscience"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385469",
+        "firstName": "Takeshi",
+        "middleName": "Y",
+        "lastName": "Ito",
+        "email": "Takeshi.Ito@example.com",
+        "orcID": "0000-0012-2345-6789",
+        "hIndex": 30,
+        "totalCitations": 6500,
+        "profileURL": "http://example.com/TakeshiIto",
+        "departmentId": "Materials Science",
+        "researchStatements": [
+            "Composite Materials"
+        ],
+        "publications": [
+            "Materials Science and Engineering"
+        ],
+        "researchGroups": [
+            "Materials Research Group"
+        ],
+        "reviews": [
+            "Polymer Science"
+        ],
+        "biography": {
+            "biography": "Takeshi Ito is a renowned researcher in materials science."
+        },
+        "currentPosition": {
+            "position": "Professor of Materials Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838546a",
+        "firstName": "Nina",
+        "middleName": "D",
+        "lastName": "Singh",
+        "email": "Nina.Singh@example.com",
+        "orcID": "0000-0013-3456-7890",
+        "hIndex": 39,
+        "totalCitations": 8700,
+        "profileURL": "http://example.com/NinaSingh",
+        "departmentId": "Pharmacology",
+        "researchStatements": [
+            "Drug Development"
+        ],
+        "publications": [
+            "Pharmacology: Principles and Applications"
+        ],
+        "researchGroups": [
+            "Pharma Research Group"
+        ],
+        "reviews": [
+            "Clinical Trials"
+        ],
+        "biography": {
+            "biography": "Nina Singh is a renowned researcher in pharmacology."
+        },
+        "currentPosition": {
+            "position": "Professor of Pharmacology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838546b",
+        "firstName": "Yu",
+        "middleName": "Z",
+        "lastName": "Li",
+        "email": "Yu.Li@example.com",
+        "orcID": "0000-0014-4567-8901",
+        "hIndex": 33,
+        "totalCitations": 7200,
+        "profileURL": "http://example.com/YuLi",
+        "departmentId": "Chemical Engineering",
+        "researchStatements": [
+            "Process Optimization"
+        ],
+        "publications": [
+            "Chemical Engineering: A Practical Approach"
+        ],
+        "researchGroups": [
+            "ChemEng Research Group"
+        ],
+        "reviews": [
+            "Catalysis"
+        ],
+        "biography": {
+            "biography": "Yu Li is a renowned researcher in chemical engineering."
+        },
+        "currentPosition": {
+            "position": "Professor of Chemical Engineering"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838546c",
+        "firstName": "Ravi",
+        "middleName": "G",
+        "lastName": "Kumar",
+        "email": "Ravi.Kumar@example.com",
+        "orcID": "0000-0015-5678-9012",
+        "hIndex": 41,
+        "totalCitations": 9200,
+        "profileURL": "http://example.com/RaviKumar",
+        "departmentId": "Civil Engineering",
+        "researchStatements": [
+            "Structural Analysis"
+        ],
+        "publications": [
+            "Civil Engineering Materials"
+        ],
+        "researchGroups": [
+            "Infrastructure Research Group"
+        ],
+        "reviews": [
+            "Geotechnical Engineering"
+        ],
+        "biography": {
+            "biography": "Ravi Kumar is a renowned researcher in civil engineering."
+        },
+        "currentPosition": {
+            "position": "Professor of Civil Engineering"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838546d",
+        "firstName": "Aya",
+        "middleName": "E",
+        "lastName": "Sato",
+        "email": "Aya.Sato@example.com",
+        "orcID": "0000-0016-6789-0123",
+        "hIndex": 28,
+        "totalCitations": 5800,
+        "profileURL": "http://example.com/AyaSato",
+        "departmentId": "Linguistics",
+        "researchStatements": [
+            "Language Acquisition"
+        ],
+        "publications": [
+            "Linguistics: An Introduction"
+        ],
+        "researchGroups": [
+            "Language Research Group"
+        ],
+        "reviews": [
+            "Phonetics"
+        ],
+        "biography": {
+            "biography": "Aya Sato is a renowned researcher in linguistics."
+        },
+        "currentPosition": {
+            "position": "Professor of Linguistics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838546e",
+        "firstName": "Manoj",
+        "middleName": "H",
+        "lastName": "Desai",
+        "email": "Manoj.Desai@example.com",
+        "orcID": "0000-0017-7890-1234",
+        "hIndex": 48,
+        "totalCitations": 11500,
+        "profileURL": "http://example.com/ManojDesai",
+        "departmentId": "Electrical Engineering",
+        "researchStatements": [
+            "Power Systems"
+        ],
+        "publications": [
+            "Electrical Engineering Fundamentals"
+        ],
+        "researchGroups": [
+            "Power Research Group"
+        ],
+        "reviews": [
+            "Electromagnetics"
+        ],
+        "biography": {
+            "biography": "Manoj Desai is a renowned researcher in electrical engineering."
+        },
+        "currentPosition": {
+            "position": "Professor of Electrical Engineering"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838546f",
+        "firstName": "Sana",
+        "middleName": "F",
+        "lastName": "Ahmed",
+        "email": "Sana.Ahmed@example.com",
+        "orcID": "0000-0018-8901-2345",
+        "hIndex": 36,
+        "totalCitations": 7800,
+        "profileURL": "http://example.com/SanaAhmed",
+        "departmentId": "Sociology",
+        "researchStatements": [
+            "Social Inequality"
+        ],
+        "publications": [
+            "Sociology: A Global Perspective"
+        ],
+        "researchGroups": [
+            "Social Research Group"
+        ],
+        "reviews": [
+            "Cultural Studies"
+        ],
+        "biography": {
+            "biography": "Sana Ahmed is a renowned researcher in sociology."
+        },
+        "currentPosition": {
+            "position": "Professor of Sociology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385470",
+        "firstName": "Ken",
+        "middleName": "I",
+        "lastName": "Fujimoto",
+        "email": "Ken.Fujimoto@example.com",
+        "orcID": "0000-0019-9012-3456",
+        "hIndex": 43,
+        "totalCitations": 9800,
+        "profileURL": "http://example.com/KenFujimoto",
+        "departmentId": "Mechanical Engineering",
+        "researchStatements": [
+            "Thermodynamics"
+        ],
+        "publications": [
+            "Mechanical Engineering Design"
+        ],
+        "researchGroups": [
+            "MechEng Research Group"
+        ],
+        "reviews": [
+            "Fluid Mechanics"
+        ],
+        "biography": {
+            "biography": "Ken Fujimoto is a renowned researcher in mechanical engineering."
+        },
+        "currentPosition": {
+            "position": "Professor of Mechanical Engineering"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385471",
+        "firstName": "Aarav",
+        "middleName": "J",
+        "lastName": "Verma",
+        "email": "Aarav.Verma@example.com",
+        "orcID": "0000-0020-0123-4567",
+        "hIndex": 34,
+        "totalCitations": 7400,
+        "profileURL": "http://example.com/AaravVerma",
+        "departmentId": "Economics",
+        "researchStatements": [
+            "Behavioral Economics"
+        ],
+        "publications": [
+            "Economics: Principles and Policy"
+        ],
+        "researchGroups": [
+            "Economic Research Group"
+        ],
+        "reviews": [
+            "Macroeconomics"
+        ],
+        "biography": {
+            "biography": "Aarav Verma is a renowned researcher in economics."
+        },
+        "currentPosition": {
+            "position": "Professor of Economics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385472",
+        "firstName": "Hana",
+        "middleName": "K",
+        "lastName": "Lee",
+        "email": "Hana.Lee@example.com",
+        "orcID": "0000-0021-1234-5678",
+        "hIndex": 31,
+        "totalCitations": 6700,
+        "profileURL": "http://example.com/HanaLee",
+        "departmentId": "Political Science",
+        "researchStatements": [
+            "International Relations"
+        ],
+        "publications": [
+            "Political Science: An Introduction"
+        ],
+        "researchGroups": [
+            "Politics Research Group"
+        ],
+        "reviews": [
+            "Comparative Politics"
+        ],
+        "biography": {
+            "biography": "Hana Lee is a renowned researcher in political science."
+        },
+        "currentPosition": {
+            "position": "Professor of Political Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385473",
+        "firstName": "Yash",
+        "middleName": "L",
+        "lastName": "Mehta",
+        "email": "Yash.Mehta@example.com",
+        "orcID": "0000-0022-2345-6789",
+        "hIndex": 46,
+        "totalCitations": 10500,
+        "profileURL": "http://example.com/YashMehta",
+        "departmentId": "Anthropology",
+        "researchStatements": [
+            "Cultural Anthropology"
+        ],
+        "publications": [
+            "Anthropology: The Human Challenge"
+        ],
+        "researchGroups": [
+            "Anthro Research Group"
+        ],
+        "reviews": [
+            "Ethnography"
+        ],
+        "biography": {
+            "biography": "Yash Mehta is a renowned researcher in anthropology."
+        },
+        "currentPosition": {
+            "position": "Professor of Anthropology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385474",
+        "firstName": "Rina",
+        "middleName": "M",
+        "lastName": "Nakamura",
+        "email": "Rina.Nakamura@example.com",
+        "orcID": "0000-0023-3456-7890",
+        "hIndex": 27,
+        "totalCitations": 5500,
+        "profileURL": "http://example.com/RinaNakamura",
+        "departmentId": "Psychology",
+        "researchStatements": [
+            "Cognitive Psychology"
+        ],
+        "publications": [
+            "Psychology: Themes and Variations"
+        ],
+        "researchGroups": [
+            "Psych Research Group"
+        ],
+        "reviews": [
+            "Developmental Psychology"
+        ],
+        "biography": {
+            "biography": "Rina Nakamura is a renowned researcher in psychology."
+        },
+        "currentPosition": {
+            "position": "Professor of Psychology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385475",
+        "firstName": "Arjun",
+        "middleName": "N",
+        "lastName": "Reddy",
+        "email": "Arjun.Reddy@example.com",
+        "orcID": "0000-0024-4567-8901",
+        "hIndex": 49,
+        "totalCitations": 11800,
+        "profileURL": "http://example.com/ArjunReddy",
+        "departmentId": "Astrophysics",
+        "researchStatements": [
+            "Black Holes"
+        ],
+        "publications": [
+            "Astrophysics for People in a Hurry"
+        ],
+        "researchGroups": [
+            "Astro Research Group"
+        ],
+        "reviews": [
+            "Cosmology"
+        ],
+        "biography": {
+            "biography": "Arjun Reddy is a renowned researcher in astrophysics."
+        },
+        "currentPosition": {
+            "position": "Professor of Astrophysics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385476",
+        "firstName": "Mina",
+        "middleName": "O",
+        "lastName": "Kim",
+        "email": "Mina.Kim@example.com",
+        "orcID": "0000-0025-5678-9012",
+        "hIndex": 26,
+        "totalCitations": 5300,
+        "profileURL": "http://example.com/MinaKim",
+        "departmentId": "Art History",
+        "researchStatements": [
+            "Renaissance Art"
+        ],
+        "publications": [
+            "Art History: A Critical Introduction"
+        ],
+        "researchGroups": [
+            "Art Research Group"
+        ],
+        "reviews": [
+            "Modern Art"
+        ],
+        "biography": {
+            "biography": "Mina Kim is a renowned researcher in art history."
+        },
+        "currentPosition": {
+            "position": "Professor of Art History"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385477",
+        "firstName": "Akira",
+        "middleName": "T",
+        "lastName": "Yamamoto",
+        "email": "Akira.Yamamoto@example.com",
+        "orcID": "0000-0001-2345-6789",
+        "hIndex": 45,
+        "totalCitations": 12000,
+        "profileURL": "http://example.com/AkiraYamamoto",
+        "departmentId": "QuantumPhysicsDept",
+        "researchStatements": [
+            "Quantum Entanglement"
+        ],
+        "publications": [
+            "Quantum Mechanics: A New Perspective"
+        ],
+        "researchGroups": [
+            "Quantum Research Group"
+        ],
+        "reviews": [
+            "Quantum Computing"
+        ],
+        "biography": {
+            "biography": "Akira Yamamoto is a renowned researcher in Quantum Physics."
+        },
+        "currentPosition": {
+            "position": "Professor of Quantum Physics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385478",
+        "firstName": "Mei",
+        "middleName": "L",
+        "lastName": "Zhang",
+        "email": "Mei.Zhang@example.com",
+        "orcID": "0000-0002-3456-7890",
+        "hIndex": 38,
+        "totalCitations": 9500,
+        "profileURL": "http://example.com/MeiZhang",
+        "departmentId": "NanotechDept",
+        "researchStatements": [
+            "Nanomaterials"
+        ],
+        "publications": [
+            "Nanotechnology in Medicine"
+        ],
+        "researchGroups": [
+            "NanoTech Group"
+        ],
+        "reviews": [
+            "Nanoparticles"
+        ],
+        "biography": {
+            "biography": "Mei Zhang is a renowned researcher in Nanotechnology."
+        },
+        "currentPosition": {
+            "position": "Professor of Nanotechnology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385479",
+        "firstName": "Raj",
+        "middleName": "K",
+        "lastName": "Patel",
+        "email": "Raj.Patel@example.com",
+        "orcID": "0000-0003-4567-8901",
+        "hIndex": 40,
+        "totalCitations": 10000,
+        "profileURL": "http://example.com/RajPatel",
+        "departmentId": "AIDept",
+        "researchStatements": [
+            "Machine Learning"
+        ],
+        "publications": [
+            "AI and Future"
+        ],
+        "researchGroups": [
+            "AI Research Group"
+        ],
+        "reviews": [
+            "Deep Learning"
+        ],
+        "biography": {
+            "biography": "Raj Patel is a renowned researcher in Artificial Intelligence."
+        },
+        "currentPosition": {
+            "position": "Professor of Artificial Intelligence"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838547a",
+        "firstName": "Sakura",
+        "middleName": "M",
+        "lastName": "Tanaka",
+        "email": "Sakura.Tanaka@example.com",
+        "orcID": "0000-0004-5678-9012",
+        "hIndex": 42,
+        "totalCitations": 11000,
+        "profileURL": "http://example.com/SakuraTanaka",
+        "departmentId": "EnvSciDept",
+        "researchStatements": [
+            "Climate Change"
+        ],
+        "publications": [
+            "Environmental Challenges"
+        ],
+        "researchGroups": [
+            "Enviro Research Group"
+        ],
+        "reviews": [
+            "Sustainability"
+        ],
+        "biography": {
+            "biography": "Sakura Tanaka is a renowned researcher in Environmental Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Environmental Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838547b",
+        "firstName": "Chen",
+        "middleName": "Y",
+        "lastName": "Li",
+        "email": "Chen.Li@example.com",
+        "orcID": "0000-0005-6789-0123",
+        "hIndex": 37,
+        "totalCitations": 9000,
+        "profileURL": "http://example.com/ChenLi",
+        "departmentId": "BiotechDept",
+        "researchStatements": [
+            "Genetic Engineering"
+        ],
+        "publications": [
+            "Biotech Innovations"
+        ],
+        "researchGroups": [
+            "BioTech Group"
+        ],
+        "reviews": [
+            "Genomics"
+        ],
+        "biography": {
+            "biography": "Chen Li is a renowned researcher in Biotechnology."
+        },
+        "currentPosition": {
+            "position": "Professor of Biotechnology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838547c",
+        "firstName": "Amit",
+        "middleName": "R",
+        "lastName": "Singh",
+        "email": "Amit.Singh@example.com",
+        "orcID": "0000-0006-7890-1234",
+        "hIndex": 36,
+        "totalCitations": 8500,
+        "profileURL": "http://example.com/AmitSingh",
+        "departmentId": "DataSciDept",
+        "researchStatements": [
+            "Big Data Analytics"
+        ],
+        "publications": [
+            "Data Science Fundamentals"
+        ],
+        "researchGroups": [
+            "Data Science Group"
+        ],
+        "reviews": [
+            "Data Mining"
+        ],
+        "biography": {
+            "biography": "Amit Singh is a renowned researcher in Data Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Data Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838547d",
+        "firstName": "Hiroshi",
+        "middleName": "N",
+        "lastName": "Suzuki",
+        "email": "Hiroshi.Suzuki@example.com",
+        "orcID": "0000-0007-8901-2345",
+        "hIndex": 44,
+        "totalCitations": 11500,
+        "profileURL": "http://example.com/HiroshiSuzuki",
+        "departmentId": "RoboticsDept",
+        "researchStatements": [
+            "Autonomous Systems"
+        ],
+        "publications": [
+            "Robotics in Industry"
+        ],
+        "researchGroups": [
+            "Robotics Group"
+        ],
+        "reviews": [
+            "Automation"
+        ],
+        "biography": {
+            "biography": "Hiroshi Suzuki is a renowned researcher in Robotics."
+        },
+        "currentPosition": {
+            "position": "Professor of Robotics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838547e",
+        "firstName": "Yuki",
+        "middleName": "S",
+        "lastName": "Kobayashi",
+        "email": "Yuki.Kobayashi@example.com",
+        "orcID": "0000-0008-9012-3456",
+        "hIndex": 39,
+        "totalCitations": 9700,
+        "profileURL": "http://example.com/YukiKobayashi",
+        "departmentId": "MarineBioDept",
+        "researchStatements": [
+            "Coral Reefs"
+        ],
+        "publications": [
+            "Marine Life Conservation"
+        ],
+        "researchGroups": [
+            "Marine Research Group"
+        ],
+        "reviews": [
+            "Oceanography"
+        ],
+        "biography": {
+            "biography": "Yuki Kobayashi is a renowned researcher in Marine Biology."
+        },
+        "currentPosition": {
+            "position": "Professor of Marine Biology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838547f",
+        "firstName": "Anjali",
+        "middleName": "P",
+        "lastName": "Desai",
+        "email": "Anjali.Desai@example.com",
+        "orcID": "0000-0009-0123-4567",
+        "hIndex": 41,
+        "totalCitations": 10500,
+        "profileURL": "http://example.com/AnjaliDesai",
+        "departmentId": "NeuroDept",
+        "researchStatements": [
+            "Neural Networks"
+        ],
+        "publications": [
+            "Brain and Behavior"
+        ],
+        "researchGroups": [
+            "Neuro Research Group"
+        ],
+        "reviews": [
+            "Cognitive Science"
+        ],
+        "biography": {
+            "biography": "Anjali Desai is a renowned researcher in Neuroscience."
+        },
+        "currentPosition": {
+            "position": "Professor of Neuroscience"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385480",
+        "firstName": "Takeshi",
+        "middleName": "H",
+        "lastName": "Sato",
+        "email": "Takeshi.Sato@example.com",
+        "orcID": "0000-0010-1234-5678",
+        "hIndex": 43,
+        "totalCitations": 11200,
+        "profileURL": "http://example.com/TakeshiSato",
+        "departmentId": "AstroDept",
+        "researchStatements": [
+            "Black Holes"
+        ],
+        "publications": [
+            "The Universe Explored"
+        ],
+        "researchGroups": [
+            "Astro Research Group"
+        ],
+        "reviews": [
+            "Cosmology"
+        ],
+        "biography": {
+            "biography": "Takeshi Sato is a renowned researcher in Astrophysics."
+        },
+        "currentPosition": {
+            "position": "Professor of Astrophysics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385481",
+        "firstName": "Lina",
+        "middleName": "C",
+        "lastName": "Wang",
+        "email": "Lina.Wang@example.com",
+        "orcID": "0000-0011-2345-6789",
+        "hIndex": 35,
+        "totalCitations": 8200,
+        "profileURL": "http://example.com/LinaWang",
+        "departmentId": "ChemistryDept",
+        "researchStatements": [
+            "Organic Synthesis"
+        ],
+        "publications": [
+            "Chemistry Innovations"
+        ],
+        "researchGroups": [
+            "Chemistry Group"
+        ],
+        "reviews": [
+            "Chemical Reactions"
+        ],
+        "biography": {
+            "biography": "Lina Wang is a renowned researcher in Chemistry."
+        },
+        "currentPosition": {
+            "position": "Professor of Chemistry"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385482",
+        "firstName": "Sunil",
+        "middleName": "J",
+        "lastName": "Kumar",
+        "email": "Sunil.Kumar@example.com",
+        "orcID": "0000-0012-3456-7890",
+        "hIndex": 34,
+        "totalCitations": 7800,
+        "profileURL": "http://example.com/SunilKumar",
+        "departmentId": "EconomicsDept",
+        "researchStatements": [
+            "Market Dynamics"
+        ],
+        "publications": [
+            "Economics Today"
+        ],
+        "researchGroups": [
+            "Economics Group"
+        ],
+        "reviews": [
+            "Financial Systems"
+        ],
+        "biography": {
+            "biography": "Sunil Kumar is a renowned researcher in Economics."
+        },
+        "currentPosition": {
+            "position": "Professor of Economics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385483",
+        "firstName": "Yasmin",
+        "middleName": "F",
+        "lastName": "Ali",
+        "email": "Yasmin.Ali@example.com",
+        "orcID": "0000-0013-4567-8901",
+        "hIndex": 33,
+        "totalCitations": 7500,
+        "profileURL": "http://example.com/YasminAli",
+        "departmentId": "SociologyDept",
+        "researchStatements": [
+            "Social Change"
+        ],
+        "publications": [
+            "Sociology in Action"
+        ],
+        "researchGroups": [
+            "Sociology Group"
+        ],
+        "reviews": [
+            "Cultural Studies"
+        ],
+        "biography": {
+            "biography": "Yasmin Ali is a renowned researcher in Sociology."
+        },
+        "currentPosition": {
+            "position": "Professor of Sociology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385484",
+        "firstName": "Kenji",
+        "middleName": "A",
+        "lastName": "Ito",
+        "email": "Kenji.Ito@example.com",
+        "orcID": "0000-0014-5678-9012",
+        "hIndex": 32,
+        "totalCitations": 7000,
+        "profileURL": "http://example.com/KenjiIto",
+        "departmentId": "CSDept",
+        "researchStatements": [
+            "Algorithm Design"
+        ],
+        "publications": [
+            "Computer Science Essentials"
+        ],
+        "researchGroups": [
+            "CS Research Group"
+        ],
+        "reviews": [
+            "Software Engineering"
+        ],
+        "biography": {
+            "biography": "Kenji Ito is a renowned researcher in Computer Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Computer Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385485",
+        "firstName": "Priya",
+        "middleName": "V",
+        "lastName": "Nair",
+        "email": "Priya.Nair@example.com",
+        "orcID": "0000-0015-6789-0123",
+        "hIndex": 31,
+        "totalCitations": 6800,
+        "profileURL": "http://example.com/PriyaNair",
+        "departmentId": "PsychologyDept",
+        "researchStatements": [
+            "Human Behavior"
+        ],
+        "publications": [
+            "Psychology and Society"
+        ],
+        "researchGroups": [
+            "Psychology Group"
+        ],
+        "reviews": [
+            "Mental Health"
+        ],
+        "biography": {
+            "biography": "Priya Nair is a renowned researcher in Psychology."
+        },
+        "currentPosition": {
+            "position": "Professor of Psychology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385486",
+        "firstName": "Ryo",
+        "middleName": "D",
+        "lastName": "Kato",
+        "email": "Ryo.Kato@example.com",
+        "orcID": "0000-0016-7890-1234",
+        "hIndex": 30,
+        "totalCitations": 6600,
+        "profileURL": "http://example.com/RyoKato",
+        "departmentId": "MathDept",
+        "researchStatements": [
+            "Number Theory"
+        ],
+        "publications": [
+            "Mathematics Unveiled"
+        ],
+        "researchGroups": [
+            "Math Research Group"
+        ],
+        "reviews": [
+            "Abstract Algebra"
+        ],
+        "biography": {
+            "biography": "Ryo Kato is a renowned researcher in Mathematics."
+        },
+        "currentPosition": {
+            "position": "Professor of Mathematics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385487",
+        "firstName": "Sana",
+        "middleName": "E",
+        "lastName": "Khan",
+        "email": "Sana.Khan@example.com",
+        "orcID": "0000-0017-8901-2345",
+        "hIndex": 29,
+        "totalCitations": 6400,
+        "profileURL": "http://example.com/SanaKhan",
+        "departmentId": "PoliSciDept",
+        "researchStatements": [
+            "International Relations"
+        ],
+        "publications": [
+            "Politics and Governance"
+        ],
+        "researchGroups": [
+            "Political Science Group"
+        ],
+        "reviews": [
+            "Public Policy"
+        ],
+        "biography": {
+            "biography": "Sana Khan is a renowned researcher in Political Science."
+        },
+        "currentPosition": {
+            "position": "Professor of Political Science"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385488",
+        "firstName": "Shin",
+        "middleName": "O",
+        "lastName": "Kim",
+        "email": "Shin.Kim@example.com",
+        "orcID": "0000-0018-9012-3456",
+        "hIndex": 28,
+        "totalCitations": 6200,
+        "profileURL": "http://example.com/ShinKim",
+        "departmentId": "LinguisticsDept",
+        "researchStatements": [
+            "Language Acquisition"
+        ],
+        "publications": [
+            "Linguistics Today"
+        ],
+        "researchGroups": [
+            "Linguistics Group"
+        ],
+        "reviews": [
+            "Phonetics"
+        ],
+        "biography": {
+            "biography": "Shin Kim is a renowned researcher in Linguistics."
+        },
+        "currentPosition": {
+            "position": "Professor of Linguistics"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c5848385489",
+        "firstName": "Mina",
+        "middleName": "B",
+        "lastName": "Lee",
+        "email": "Mina.Lee@example.com",
+        "orcID": "0000-0019-0123-4567",
+        "hIndex": 27,
+        "totalCitations": 6000,
+        "profileURL": "http://example.com/MinaLee",
+        "departmentId": "AnthropologyDept",
+        "researchStatements": [
+            "Cultural Anthropology"
+        ],
+        "publications": [
+            "Anthropology Insights"
+        ],
+        "researchGroups": [
+            "Anthropology Group"
+        ],
+        "reviews": [
+            "Ethnography"
+        ],
+        "biography": {
+            "biography": "Mina Lee is a renowned researcher in Anthropology."
+        },
+        "currentPosition": {
+            "position": "Professor of Anthropology"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838548a",
+        "firstName": "Arjun",
+        "middleName": "G",
+        "lastName": "Reddy",
+        "email": "Arjun.Reddy@example.com",
+        "orcID": "0000-0020-1234-5678",
+        "hIndex": 26,
+        "totalCitations": 5800,
+        "profileURL": "http://example.com/ArjunReddy",
+        "departmentId": "HistoryDept",
+        "researchStatements": [
+            "Ancient Civilizations"
+        ],
+        "publications": [
+            "History Uncovered"
+        ],
+        "researchGroups": [
+            "History Group"
+        ],
+        "reviews": [
+            "Historical Analysis"
+        ],
+        "biography": {
+            "biography": "Arjun Reddy is a renowned researcher in History."
+        },
+        "currentPosition": {
+            "position": "Professor of History"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838548b",
+        "firstName": "Nina",
+        "middleName": "H",
+        "lastName": "Choi",
+        "email": "Nina.Choi@example.com",
+        "orcID": "0000-0021-2345-6789",
+        "hIndex": 25,
+        "totalCitations": 5600,
+        "profileURL": "http://example.com/NinaChoi",
+        "departmentId": "PhilosophyDept",
+        "researchStatements": [
+            "Ethics and Morality"
+        ],
+        "publications": [
+            "Philosophical Thoughts"
+        ],
+        "researchGroups": [
+            "Philosophy Group"
+        ],
+        "reviews": [
+            "Metaphysics"
+        ],
+        "biography": {
+            "biography": "Nina Choi is a renowned researcher in Philosophy."
+        },
+        "currentPosition": {
+            "position": "Professor of Philosophy"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838548c",
+        "firstName": "Wei",
+        "middleName": "Z",
+        "lastName": "Chen",
+        "email": "Wei.Chen@example.com",
+        "orcID": "0000-0022-3456-7890",
+        "hIndex": 24,
+        "totalCitations": 5400,
+        "profileURL": "http://example.com/WeiChen",
+        "departmentId": "GeographyDept",
+        "researchStatements": [
+            "Urban Geography"
+        ],
+        "publications": [
+            "Geography and Society"
+        ],
+        "researchGroups": [
+            "Geography Group"
+        ],
+        "reviews": [
+            "Cartography"
+        ],
+        "biography": {
+            "biography": "Wei Chen is a renowned researcher in Geography."
+        },
+        "currentPosition": {
+            "position": "Professor of Geography"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838548d",
+        "firstName": "Rina",
+        "middleName": "J",
+        "lastName": "Yamada",
+        "email": "Rina.Yamada@example.com",
+        "orcID": "0000-0023-4567-8901",
+        "hIndex": 23,
+        "totalCitations": 5200,
+        "profileURL": "http://example.com/RinaYamada",
+        "departmentId": "EducationDept",
+        "researchStatements": [
+            "Educational Psychology"
+        ],
+        "publications": [
+            "Education and Learning"
+        ],
+        "researchGroups": [
+            "Education Group"
+        ],
+        "reviews": [
+            "Pedagogy"
+        ],
+        "biography": {
+            "biography": "Rina Yamada is a renowned researcher in Education."
+        },
+        "currentPosition": {
+            "position": "Professor of Education"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838548e",
+        "firstName": "Tariq",
+        "middleName": "M",
+        "lastName": "Ahmed",
+        "email": "Tariq.Ahmed@example.com",
+        "orcID": "0000-0024-5678-9012",
+        "hIndex": 22,
+        "totalCitations": 5000,
+        "profileURL": "http://example.com/TariqAhmed",
+        "departmentId": "LawDept",
+        "researchStatements": [
+            "International Law"
+        ],
+        "publications": [
+            "Law and Justice"
+        ],
+        "researchGroups": [
+            "Law Research Group"
+        ],
+        "reviews": [
+            "Legal Studies"
+        ],
+        "biography": {
+            "biography": "Tariq Ahmed is a renowned researcher in Law."
+        },
+        "currentPosition": {
+            "position": "Professor of Law"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    },
+    {
+        "_id": "67bb80144c721c584838548f",
+        "firstName": "Hana",
+        "middleName": "Q",
+        "lastName": "Nguyen",
+        "email": "Hana.Nguyen@example.com",
+        "orcID": "0000-0025-6789-0123",
+        "hIndex": 21,
+        "totalCitations": 4800,
+        "profileURL": "http://example.com/HanaNguyen",
+        "departmentId": "ArtHistoryDept",
+        "researchStatements": [
+            "Renaissance Art"
+        ],
+        "publications": [
+            "Art Through Ages"
+        ],
+        "researchGroups": [
+            "Art History Group"
+        ],
+        "reviews": [
+            "Art Criticism"
+        ],
+        "biography": {
+            "biography": "Hana Nguyen is a renowned researcher in Art History."
+        },
+        "currentPosition": {
+            "position": "Professor of Art History"
+        },
+        "academicStatus": {
+            "status": "Tenured"
+        }
+    }
+]

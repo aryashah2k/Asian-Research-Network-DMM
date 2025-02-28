@@ -1,0 +1,902 @@
+[
+    {
+        "_id": "67bb80de4c721c5848385490",
+        "name": "Department of Computer Science",
+        "head": "Dr. Alice Wong",
+        "budget": 1500000,
+        "researchFocus": "Artificial Intelligence",
+        "facultyCount": 30,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385491",
+        "name": "Department of Physics",
+        "head": "Dr. Bob Chen",
+        "budget": 1200000,
+        "researchFocus": "Quantum Mechanics",
+        "facultyCount": 25,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385492",
+        "name": "Department of Chemistry",
+        "head": "Dr. Carol Lee",
+        "budget": 1300000,
+        "researchFocus": "Organic Chemistry",
+        "facultyCount": 28,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385493",
+        "name": "Department of Biology",
+        "head": "Dr. David Kim",
+        "budget": 1400000,
+        "researchFocus": "Genomics",
+        "facultyCount": 32,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385494",
+        "name": "Department of Mathematics",
+        "head": "Dr. Eva Zhang",
+        "budget": 1100000,
+        "researchFocus": "Algebraic Topology",
+        "facultyCount": 20,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385495",
+        "name": "Department of Electrical Engineering",
+        "head": "Dr. Frank Liu",
+        "budget": 1600000,
+        "researchFocus": "Signal Processing",
+        "facultyCount": 35,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385496",
+        "name": "Department of Mechanical Engineering",
+        "head": "Dr. Grace Tan",
+        "budget": 1500000,
+        "researchFocus": "Robotics",
+        "facultyCount": 33,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385497",
+        "name": "Department of Civil Engineering",
+        "head": "Dr. Henry Park",
+        "budget": 1400000,
+        "researchFocus": "Structural Engineering",
+        "facultyCount": 29,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385498",
+        "name": "Department of Environmental Science",
+        "head": "Dr. Irene Choi",
+        "budget": 1300000,
+        "researchFocus": "Climate Change",
+        "facultyCount": 27,
+        "institutionId": "Tech University"
+    },
+    {
+        "_id": "67bb80de4c721c5848385499",
+        "name": "Department of Medicine",
+        "head": "Dr. Jack Huang",
+        "budget": 1700000,
+        "researchFocus": "Epidemiology",
+        "facultyCount": 40,
+        "institutionId": "Health University"
+    },
+    {
+        "_id": "67bb80de4c721c584838549a",
+        "name": "Department of Nursing",
+        "head": "Dr. Karen Lin",
+        "budget": 1300000,
+        "researchFocus": "Patient Care",
+        "facultyCount": 30,
+        "institutionId": "Health University"
+    },
+    {
+        "_id": "67bb80de4c721c584838549b",
+        "name": "Department of Pharmacy",
+        "head": "Dr. Leo Wu",
+        "budget": 1400000,
+        "researchFocus": "Pharmacology",
+        "facultyCount": 28,
+        "institutionId": "Health University"
+    },
+    {
+        "_id": "67bb80de4c721c584838549c",
+        "name": "Department of Public Health",
+        "head": "Dr. Mia Yang",
+        "budget": 1500000,
+        "researchFocus": "Health Policy",
+        "facultyCount": 32,
+        "institutionId": "Health University"
+    },
+    {
+        "_id": "67bb80de4c721c584838549d",
+        "name": "Department of Psychology",
+        "head": "Dr. Noah Sun",
+        "budget": 1200000,
+        "researchFocus": "Cognitive Psychology",
+        "facultyCount": 25,
+        "institutionId": "Health University"
+    },
+    {
+        "_id": "67bb80de4c721c584838549e",
+        "name": "Department of Sociology",
+        "head": "Dr. Olivia Cheng",
+        "budget": 1100000,
+        "researchFocus": "Social Dynamics",
+        "facultyCount": 22,
+        "institutionId": "Social Sciences University"
+    },
+    {
+        "_id": "67bb80de4c721c584838549f",
+        "name": "Department of Anthropology",
+        "head": "Dr. Paul Ng",
+        "budget": 1150000,
+        "researchFocus": "Cultural Anthropology",
+        "facultyCount": 24,
+        "institutionId": "Social Sciences University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a0",
+        "name": "Department of Political Science",
+        "head": "Dr. Quinn Li",
+        "budget": 1250000,
+        "researchFocus": "International Relations",
+        "facultyCount": 26,
+        "institutionId": "Social Sciences University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a1",
+        "name": "Department of Economics",
+        "head": "Dr. Rachel Gao",
+        "budget": 1300000,
+        "researchFocus": "Macroeconomics",
+        "facultyCount": 28,
+        "institutionId": "Social Sciences University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a2",
+        "name": "Department of History",
+        "head": "Dr. Samuel Ho",
+        "budget": 1100000,
+        "researchFocus": "Modern History",
+        "facultyCount": 21,
+        "institutionId": "Social Sciences University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a3",
+        "name": "Department of Linguistics",
+        "head": "Dr. Tina Fang",
+        "budget": 1050000,
+        "researchFocus": "Syntax",
+        "facultyCount": 19,
+        "institutionId": "Social Sciences University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a4",
+        "name": "Department of Literature",
+        "head": "Dr. Uma Zhao",
+        "budget": 1150000,
+        "researchFocus": "Comparative Literature",
+        "facultyCount": 23,
+        "institutionId": "Humanities University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a5",
+        "name": "Department of Philosophy",
+        "head": "Dr. Victor Xu",
+        "budget": 1200000,
+        "researchFocus": "Ethics",
+        "facultyCount": 25,
+        "institutionId": "Humanities University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a6",
+        "name": "Department of Art History",
+        "head": "Dr. Wendy Guo",
+        "budget": 1100000,
+        "researchFocus": "Renaissance Art",
+        "facultyCount": 20,
+        "institutionId": "Humanities University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a7",
+        "name": "Department of Music",
+        "head": "Dr. Xavier Yu",
+        "budget": 1250000,
+        "researchFocus": "Music Theory",
+        "facultyCount": 26,
+        "institutionId": "Humanities University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a8",
+        "name": "Department of Theatre",
+        "head": "Dr. Yvonne Jiang",
+        "budget": 1150000,
+        "researchFocus": "Performing Arts",
+        "facultyCount": 22,
+        "institutionId": "Humanities University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854a9",
+        "name": "Department of Computer Science",
+        "head": "Dr. Alice Tan",
+        "budget": 2000000,
+        "researchFocus": "Artificial Intelligence",
+        "facultyCount": 25,
+        "institutionId": "National University of Singapore"
+    },
+    {
+        "_id": "67bb80de4c721c58483854aa",
+        "name": "Department of Physics",
+        "head": "Dr. Hiroshi Yamamoto",
+        "budget": 1500000,
+        "researchFocus": "Quantum Mechanics",
+        "facultyCount": 18,
+        "institutionId": "University of Tokyo"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ab",
+        "name": "Department of Chemistry",
+        "head": "Dr. Mei Lin",
+        "budget": 1800000,
+        "researchFocus": "Organic Chemistry",
+        "facultyCount": 22,
+        "institutionId": "Peking University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ac",
+        "name": "Department of Biology",
+        "head": "Dr. Rajesh Kumar",
+        "budget": 1700000,
+        "researchFocus": "Genomics",
+        "facultyCount": 20,
+        "institutionId": "Indian Institute of Science"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ad",
+        "name": "Department of Mathematics",
+        "head": "Dr. Yuki Sato",
+        "budget": 1300000,
+        "researchFocus": "Algebraic Geometry",
+        "facultyCount": 15,
+        "institutionId": "Kyoto University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ae",
+        "name": "Department of Electrical Engineering",
+        "head": "Dr. Chen Wei",
+        "budget": 2200000,
+        "researchFocus": "Nanotechnology",
+        "facultyCount": 28,
+        "institutionId": "Tsinghua University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854af",
+        "name": "Department of Mechanical Engineering",
+        "head": "Dr. Anil Patel",
+        "budget": 2100000,
+        "researchFocus": "Robotics",
+        "facultyCount": 26,
+        "institutionId": "Indian Institute of Technology Bombay"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b0",
+        "name": "Department of Civil Engineering",
+        "head": "Dr. Jiro Suzuki",
+        "budget": 1900000,
+        "researchFocus": "Structural Engineering",
+        "facultyCount": 23,
+        "institutionId": "Osaka University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b1",
+        "name": "Department of Environmental Science",
+        "head": "Dr. Sunita Sharma",
+        "budget": 1600000,
+        "researchFocus": "Climate Change",
+        "facultyCount": 19,
+        "institutionId": "Jawaharlal Nehru University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b2",
+        "name": "Department of Economics",
+        "head": "Dr. Kenji Nakamura",
+        "budget": 1400000,
+        "researchFocus": "Development Economics",
+        "facultyCount": 17,
+        "institutionId": "University of Tokyo"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b3",
+        "name": "Department of Sociology",
+        "head": "Dr. Li Zhang",
+        "budget": 1200000,
+        "researchFocus": "Urban Studies",
+        "facultyCount": 14,
+        "institutionId": "Fudan University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b4",
+        "name": "Department of Political Science",
+        "head": "Dr. Ayesha Khan",
+        "budget": 1100000,
+        "researchFocus": "International Relations",
+        "facultyCount": 13,
+        "institutionId": "University of Karachi"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b5",
+        "name": "Department of History",
+        "head": "Dr. Takashi Ito",
+        "budget": 1000000,
+        "researchFocus": "Modern Asian History",
+        "facultyCount": 12,
+        "institutionId": "Kyushu University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b6",
+        "name": "Department of Philosophy",
+        "head": "Dr. Min Joon",
+        "budget": 900000,
+        "researchFocus": "Ethics",
+        "facultyCount": 10,
+        "institutionId": "Seoul National University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b7",
+        "name": "Department of Linguistics",
+        "head": "Dr. Nguyen Van",
+        "budget": 800000,
+        "researchFocus": "Phonetics",
+        "facultyCount": 9,
+        "institutionId": "Vietnam National University, Hanoi"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b8",
+        "name": "Department of Psychology",
+        "head": "Dr. Priya Nair",
+        "budget": 1500000,
+        "researchFocus": "Cognitive Psychology",
+        "facultyCount": 16,
+        "institutionId": "University of Delhi"
+    },
+    {
+        "_id": "67bb80de4c721c58483854b9",
+        "name": "Department of Anthropology",
+        "head": "Dr. Satoshi Yamashita",
+        "budget": 1300000,
+        "researchFocus": "Cultural Anthropology",
+        "facultyCount": 14,
+        "institutionId": "Nagoya University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ba",
+        "name": "Department of Law",
+        "head": "Dr. Fatima Ali",
+        "budget": 1700000,
+        "researchFocus": "International Law",
+        "facultyCount": 18,
+        "institutionId": "University of Malaya"
+    },
+    {
+        "_id": "67bb80de4c721c58483854bb",
+        "name": "Department of Business Administration",
+        "head": "Dr. Choi Min-ho",
+        "budget": 2000000,
+        "researchFocus": "Entrepreneurship",
+        "facultyCount": 21,
+        "institutionId": "Korea University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854bc",
+        "name": "Department of Education",
+        "head": "Dr. Arif Rahman",
+        "budget": 1400000,
+        "researchFocus": "Educational Policy",
+        "facultyCount": 16,
+        "institutionId": "Universitas Indonesia"
+    },
+    {
+        "_id": "67bb80de4c721c58483854bd",
+        "name": "Department of Art and Design",
+        "head": "Dr. Kim Soo-jin",
+        "budget": 1200000,
+        "researchFocus": "Visual Arts",
+        "facultyCount": 12,
+        "institutionId": "Hongik University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854be",
+        "name": "Department of Architecture",
+        "head": "Dr. Zhang Wei",
+        "budget": 1800000,
+        "researchFocus": "Sustainable Architecture",
+        "facultyCount": 20,
+        "institutionId": "Tongji University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854bf",
+        "name": "Department of Information Technology",
+        "head": "Dr. Ravi Shankar",
+        "budget": 2100000,
+        "researchFocus": "Cybersecurity",
+        "facultyCount": 24,
+        "institutionId": "Indian Institute of Technology Delhi"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c0",
+        "name": "Department of Media Studies",
+        "head": "Dr. Aiko Tanaka",
+        "budget": 1100000,
+        "researchFocus": "Digital Media",
+        "facultyCount": 13,
+        "institutionId": "Tokyo University of the Arts"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c1",
+        "name": "Department of Veterinary Science",
+        "head": "Dr. Nguyen Thi",
+        "budget": 1600000,
+        "researchFocus": "Animal Health",
+        "facultyCount": 19,
+        "institutionId": "Chulalongkorn University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c2",
+        "name": "Department of Computer Science",
+        "head": "Dr. Akira Tanaka",
+        "budget": 1500000,
+        "researchFocus": "Artificial Intelligence",
+        "facultyCount": 35,
+        "institutionId": "Tokyo Institute of Technology"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c3",
+        "name": "Department of Mechanical Engineering",
+        "head": "Dr. Mei Ling",
+        "budget": 1200000,
+        "researchFocus": "Robotics",
+        "facultyCount": 28,
+        "institutionId": "National University of Singapore"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c4",
+        "name": "Department of Electrical Engineering",
+        "head": "Dr. Rajesh Kumar",
+        "budget": 1300000,
+        "researchFocus": "Renewable Energy",
+        "facultyCount": 30,
+        "institutionId": "Indian Institute of Technology Bombay"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c5",
+        "name": "Department of Civil Engineering",
+        "head": "Dr. Chen Wei",
+        "budget": 1100000,
+        "researchFocus": "Sustainable Infrastructure",
+        "facultyCount": 25,
+        "institutionId": "Tsinghua University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c6",
+        "name": "Department of Biotechnology",
+        "head": "Dr. Siti Nurhaliza",
+        "budget": 1400000,
+        "researchFocus": "Genetic Engineering",
+        "facultyCount": 32,
+        "institutionId": "University of Malaya"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c7",
+        "name": "Department of Chemistry",
+        "head": "Dr. Kim Soo-jin",
+        "budget": 1250000,
+        "researchFocus": "Nanotechnology",
+        "facultyCount": 29,
+        "institutionId": "Seoul National University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c8",
+        "name": "Department of Physics",
+        "head": "Dr. Nguyen Van Minh",
+        "budget": 1150000,
+        "researchFocus": "Quantum Mechanics",
+        "facultyCount": 27,
+        "institutionId": "Vietnam National University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854c9",
+        "name": "Department of Mathematics",
+        "head": "Dr. Aung Kyaw",
+        "budget": 1000000,
+        "researchFocus": "Algebraic Geometry",
+        "facultyCount": 22,
+        "institutionId": "University of Yangon"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ca",
+        "name": "Department of Environmental Science",
+        "head": "Dr. Laila Khan",
+        "budget": 1350000,
+        "researchFocus": "Climate Change",
+        "facultyCount": 31,
+        "institutionId": "University of Dhaka"
+    },
+    {
+        "_id": "67bb80de4c721c58483854cb",
+        "name": "Department of Psychology",
+        "head": "Dr. Hiroshi Yamamoto",
+        "budget": 1050000,
+        "researchFocus": "Cognitive Neuroscience",
+        "facultyCount": 24,
+        "institutionId": "Kyoto University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854cc",
+        "name": "Department of Sociology",
+        "head": "Dr. Fatima Al-Mansoori",
+        "budget": 950000,
+        "researchFocus": "Urban Studies",
+        "facultyCount": 20,
+        "institutionId": "Qatar University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854cd",
+        "name": "Department of Political Science",
+        "head": "Dr. Ananda Sen",
+        "budget": 980000,
+        "researchFocus": "International Relations",
+        "facultyCount": 21,
+        "institutionId": "Jawaharlal Nehru University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ce",
+        "name": "Department of History",
+        "head": "Dr. Lee Ji-hoon",
+        "budget": 920000,
+        "researchFocus": "Asian History",
+        "facultyCount": 19,
+        "institutionId": "Yonsei University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854cf",
+        "name": "Department of Philosophy",
+        "head": "Dr. Thuy Trang",
+        "budget": 890000,
+        "researchFocus": "Ethics",
+        "facultyCount": 18,
+        "institutionId": "University of Ho Chi Minh City"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d0",
+        "name": "Department of Linguistics",
+        "head": "Dr. Ahmad Zainal",
+        "budget": 870000,
+        "researchFocus": "Language Acquisition",
+        "facultyCount": 17,
+        "institutionId": "University of Indonesia"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d1",
+        "name": "Department of Economics",
+        "head": "Dr. Piyush Patel",
+        "budget": 1300000,
+        "researchFocus": "Development Economics",
+        "facultyCount": 30,
+        "institutionId": "University of Colombo"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d2",
+        "name": "Department of Business Administration",
+        "head": "Dr. Rina Sato",
+        "budget": 1450000,
+        "researchFocus": "Corporate Strategy",
+        "facultyCount": 33,
+        "institutionId": "Hitotsubashi University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d3",
+        "name": "Department of Law",
+        "head": "Dr. Muhammad Ali",
+        "budget": 1250000,
+        "researchFocus": "International Law",
+        "facultyCount": 29,
+        "institutionId": "University of Karachi"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d4",
+        "name": "Department of Medicine",
+        "head": "Dr. Jiro Nakamura",
+        "budget": 2000000,
+        "researchFocus": "Cardiology",
+        "facultyCount": 40,
+        "institutionId": "Osaka University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d5",
+        "name": "Department of Nursing",
+        "head": "Dr. Ayesha Rahman",
+        "budget": 1100000,
+        "researchFocus": "Pediatric Nursing",
+        "facultyCount": 26,
+        "institutionId": "Aga Khan University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d6",
+        "name": "Department of Pharmacy",
+        "head": "Dr. Hyeon Kim",
+        "budget": 1200000,
+        "researchFocus": "Pharmacology",
+        "facultyCount": 28,
+        "institutionId": "Korea University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d7",
+        "name": "Department of Architecture",
+        "head": "Dr. Nandita Roy",
+        "budget": 1150000,
+        "researchFocus": "Urban Design",
+        "facultyCount": 27,
+        "institutionId": "Indian Institute of Technology Kharagpur"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d8",
+        "name": "Department of Art and Design",
+        "head": "Dr. Yuki Kato",
+        "budget": 950000,
+        "researchFocus": "Visual Arts",
+        "facultyCount": 20,
+        "institutionId": "Tokyo University of the Arts"
+    },
+    {
+        "_id": "67bb80de4c721c58483854d9",
+        "name": "Department of Education",
+        "head": "Dr. Sunita Sharma",
+        "budget": 1050000,
+        "researchFocus": "Educational Technology",
+        "facultyCount": 24,
+        "institutionId": "University of Delhi"
+    },
+    {
+        "_id": "67bb80de4c721c58483854da",
+        "name": "Department of Information Technology",
+        "head": "Dr. Zhang Wei",
+        "budget": 1350000,
+        "researchFocus": "Cybersecurity",
+        "facultyCount": 31,
+        "institutionId": "Shanghai Jiao Tong University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854db",
+        "name": "Department of Computer Science",
+        "head": "Dr. Alice Tan",
+        "budget": 1500000,
+        "researchFocus": "Artificial Intelligence",
+        "facultyCount": 25,
+        "institutionId": "National University of Singapore"
+    },
+    {
+        "_id": "67bb80de4c721c58483854dc",
+        "name": "Department of Mechanical Engineering",
+        "head": "Dr. Rajesh Kumar",
+        "budget": 1200000,
+        "researchFocus": "Robotics",
+        "facultyCount": 30,
+        "institutionId": "National University of Singapore"
+    },
+    {
+        "_id": "67bb80de4c721c58483854dd",
+        "name": "Department of Physics",
+        "head": "Dr. Mei Ling",
+        "budget": 900000,
+        "researchFocus": "Quantum Mechanics",
+        "facultyCount": 20,
+        "institutionId": "National University of Singapore"
+    },
+    {
+        "_id": "67bb80de4c721c58483854de",
+        "name": "Department of Chemistry",
+        "head": "Dr. Hiroshi Yamamoto",
+        "budget": 1100000,
+        "researchFocus": "Organic Chemistry",
+        "facultyCount": 22,
+        "institutionId": "University of Tokyo"
+    },
+    {
+        "_id": "67bb80de4c721c58483854df",
+        "name": "Department of Biology",
+        "head": "Dr. Sunita Patel",
+        "budget": 950000,
+        "researchFocus": "Genomics",
+        "facultyCount": 18,
+        "institutionId": "University of Tokyo"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e0",
+        "name": "Department of Electrical Engineering",
+        "head": "Dr. Chen Wei",
+        "budget": 1300000,
+        "researchFocus": "Nanotechnology",
+        "facultyCount": 28,
+        "institutionId": "University of Tokyo"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e1",
+        "name": "Department of Mathematics",
+        "head": "Dr. Anil Gupta",
+        "budget": 800000,
+        "researchFocus": "Algebraic Topology",
+        "facultyCount": 15,
+        "institutionId": "Indian Institute of Science"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e2",
+        "name": "Department of Civil Engineering",
+        "head": "Dr. Fatima Noor",
+        "budget": 1000000,
+        "researchFocus": "Structural Engineering",
+        "facultyCount": 20,
+        "institutionId": "Indian Institute of Science"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e3",
+        "name": "Department of Environmental Science",
+        "head": "Dr. Kenji Sato",
+        "budget": 700000,
+        "researchFocus": "Climate Change",
+        "facultyCount": 12,
+        "institutionId": "Indian Institute of Science"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e4",
+        "name": "Department of Economics",
+        "head": "Dr. Li Zhang",
+        "budget": 850000,
+        "researchFocus": "Development Economics",
+        "facultyCount": 17,
+        "institutionId": "Peking University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e5",
+        "name": "Department of Political Science",
+        "head": "Dr. Maria Chen",
+        "budget": 750000,
+        "researchFocus": "International Relations",
+        "facultyCount": 14,
+        "institutionId": "Peking University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e6",
+        "name": "Department of History",
+        "head": "Dr. John Lim",
+        "budget": 600000,
+        "researchFocus": "Asian History",
+        "facultyCount": 10,
+        "institutionId": "Peking University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e7",
+        "name": "Department of Linguistics",
+        "head": "Dr. Aisha Khan",
+        "budget": 500000,
+        "researchFocus": "Sociolinguistics",
+        "facultyCount": 8,
+        "institutionId": "National Taiwan University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e8",
+        "name": "Department of Philosophy",
+        "head": "Dr. Haruki Tanaka",
+        "budget": 550000,
+        "researchFocus": "Ethics",
+        "facultyCount": 9,
+        "institutionId": "National Taiwan University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854e9",
+        "name": "Department of Sociology",
+        "head": "Dr. Emily Wong",
+        "budget": 650000,
+        "researchFocus": "Urban Sociology",
+        "facultyCount": 13,
+        "institutionId": "National Taiwan University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ea",
+        "name": "Department of Psychology",
+        "head": "Dr. Ryo Nakamura",
+        "budget": 720000,
+        "researchFocus": "Cognitive Psychology",
+        "facultyCount": 16,
+        "institutionId": "Seoul National University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854eb",
+        "name": "Department of Art History",
+        "head": "Dr. Min-Ji Park",
+        "budget": 480000,
+        "researchFocus": "East Asian Art",
+        "facultyCount": 7,
+        "institutionId": "Seoul National University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ec",
+        "name": "Department of Music",
+        "head": "Dr. Hye-Jin Kim",
+        "budget": 530000,
+        "researchFocus": "Ethnomusicology",
+        "facultyCount": 10,
+        "institutionId": "Seoul National University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ed",
+        "name": "Department of Architecture",
+        "head": "Dr. Ahmed Al-Farsi",
+        "budget": 1400000,
+        "researchFocus": "Sustainable Design",
+        "facultyCount": 26,
+        "institutionId": "Tsinghua University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ee",
+        "name": "Department of Urban Planning",
+        "head": "Dr. Wei Zhao",
+        "budget": 1300000,
+        "researchFocus": "Smart Cities",
+        "facultyCount": 24,
+        "institutionId": "Tsinghua University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854ef",
+        "name": "Department of Law",
+        "head": "Dr. Jiro Suzuki",
+        "budget": 1150000,
+        "researchFocus": "International Law",
+        "facultyCount": 21,
+        "institutionId": "Tsinghua University"
+    },
+    {
+        "_id": "67bb80de4c721c58483854f0",
+        "name": "Department of Business Administration",
+        "head": "Dr. Sarah Lee",
+        "budget": 1250000,
+        "researchFocus": "Entrepreneurship",
+        "facultyCount": 23,
+        "institutionId": "University of Hong Kong"
+    },
+    {
+        "_id": "67bb80de4c721c58483854f1",
+        "name": "Department of Information Systems",
+        "head": "Dr. David Chan",
+        "budget": 1350000,
+        "researchFocus": "Cybersecurity",
+        "facultyCount": 27,
+        "institutionId": "University of Hong Kong"
+    },
+    {
+        "_id": "67bb80de4c721c58483854f2",
+        "name": "Department of Education",
+        "head": "Dr. Linda Ho",
+        "budget": 900000,
+        "researchFocus": "Curriculum Development",
+        "facultyCount": 19,
+        "institutionId": "University of Hong Kong"
+    },
+    {
+        "_id": "67bb80de4c721c58483854f3",
+        "name": "Department of Public Health",
+        "head": "Dr. Yasmin Al-Mansoori",
+        "budget": 1050000,
+        "researchFocus": "Epidemiology",
+        "facultyCount": 22,
+        "institutionId": "University of Hong Kong"
+    }
+]

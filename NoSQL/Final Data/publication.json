@@ -1,0 +1,2885 @@
+[
+    {
+        "_id": "67bb827c4c721c58483854f4",
+        "title": "Advances in Quantum Computing",
+        "abstract": "This paper explores quantum algorithms.",
+        "publicationDate": "2023-01-15",
+        "doi": "10.1000/xyz123",
+        "keywords": [
+            "quantum computing",
+            "algorithms"
+        ],
+        "field": "Computer Science",
+        "topicId": "quantum",
+        "citations": [
+            "Cited by Nature"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Quantum Information"
+        },
+        "datasets": [
+            "QuantumDataSet1"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854f5",
+        "title": "Machine Learning in Healthcare",
+        "abstract": "This paper explores predictive models for healthcare.",
+        "publicationDate": "2022-11-10",
+        "doi": "10.1000/xyz124",
+        "keywords": [
+            "machine learning",
+            "healthcare"
+        ],
+        "field": "Artificial Intelligence",
+        "topicId": "healthcare",
+        "citations": [
+            "Cited by IEEE"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Health Conference"
+        },
+        "datasets": [
+            "HealthData2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854f6",
+        "title": "Renewable Energy Technologies",
+        "abstract": "This paper explores solar and wind energy systems.",
+        "publicationDate": "2021-07-22",
+        "doi": "10.1000/xyz125",
+        "keywords": [
+            "renewable energy",
+            "solar",
+            "wind"
+        ],
+        "field": "Environmental Science",
+        "topicId": "energy",
+        "citations": [
+            "Cited by Science"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Renewable Energy Journal"
+        },
+        "datasets": [
+            "EnergyData2021"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854f7",
+        "title": "Blockchain Applications in Finance",
+        "abstract": "This paper explores blockchain technology in financial systems.",
+        "publicationDate": "2023-03-05",
+        "doi": "10.1000/xyz126",
+        "keywords": [
+            "blockchain",
+            "finance"
+        ],
+        "field": "Finance",
+        "topicId": "blockchain",
+        "citations": [
+            "Cited by Financial Times"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Financial Technology"
+        },
+        "datasets": [
+            "BlockchainFinanceData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854f8",
+        "title": "Advancements in Robotics",
+        "abstract": "This paper explores humanoid robots and their applications.",
+        "publicationDate": "2020-09-30",
+        "doi": "10.1000/xyz127",
+        "keywords": [
+            "robotics",
+            "humanoids"
+        ],
+        "field": "Engineering",
+        "topicId": "robotics",
+        "citations": [
+            "Cited by Robotics Today"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "International Robotics Conference"
+        },
+        "datasets": [
+            "RoboticsData2020"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854f9",
+        "title": "Climate Change and Its Impact",
+        "abstract": "This paper explores the effects of climate change on ecosystems.",
+        "publicationDate": "2021-05-18",
+        "doi": "10.1000/xyz128",
+        "keywords": [
+            "climate change",
+            "ecosystems"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climate",
+        "citations": [
+            "Cited by Nature"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Climate Science Journal"
+        },
+        "datasets": [
+            "ClimateImpactData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854fa",
+        "title": "Artificial Intelligence in Education",
+        "abstract": "This paper explores AI-driven learning systems.",
+        "publicationDate": "2022-02-14",
+        "doi": "10.1000/xyz129",
+        "keywords": [
+            "AI",
+            "education"
+        ],
+        "field": "Education",
+        "topicId": "AI",
+        "citations": [
+            "Cited by Educational Review"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI in Education Conference"
+        },
+        "datasets": [
+            "EducationAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854fb",
+        "title": "Cybersecurity in the Digital Age",
+        "abstract": "This paper explores cybersecurity threats and solutions.",
+        "publicationDate": "2020-12-01",
+        "doi": "10.1000/xyz130",
+        "keywords": [
+            "cybersecurity",
+            "digital"
+        ],
+        "field": "Information Technology",
+        "topicId": "cybersecurity",
+        "citations": [
+            "Cited by Cybersecurity Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Cybersecurity"
+        },
+        "datasets": [
+            "CyberThreatData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854fc",
+        "title": "Genomics and Personalized Medicine",
+        "abstract": "This paper explores the role of genomics in personalized healthcare.",
+        "publicationDate": "2023-07-19",
+        "doi": "10.1000/xyz131",
+        "keywords": [
+            "genomics",
+            "personalized medicine"
+        ],
+        "field": "Biotechnology",
+        "topicId": "genomics",
+        "citations": [
+            "Cited by Medical Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Genomic Medicine"
+        },
+        "datasets": [
+            "GenomicData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854fd",
+        "title": "Urbanization and Its Challenges",
+        "abstract": "This paper explores the effects of urbanization on infrastructure.",
+        "publicationDate": "2021-11-25",
+        "doi": "10.1000/xyz132",
+        "keywords": [
+            "urbanization",
+            "infrastructure"
+        ],
+        "field": "Urban Studies",
+        "topicId": "urban",
+        "citations": [
+            "Cited by Urban Studies Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Urban Development Conference"
+        },
+        "datasets": [
+            "UrbanData2021"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854fe",
+        "title": "Nanotechnology in Medicine",
+        "abstract": "This paper explores the use of nanotechnology in drug delivery.",
+        "publicationDate": "2022-06-12",
+        "doi": "10.1000/xyz133",
+        "keywords": [
+            "nanotechnology",
+            "medicine"
+        ],
+        "field": "Nanotechnology",
+        "topicId": "nanomedicine",
+        "citations": [
+            "Cited by Nano Today"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Nanomedicine"
+        },
+        "datasets": [
+            "NanoMedicineData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c58483854ff",
+        "title": "Sustainable Agriculture Practices",
+        "abstract": "This paper explores sustainable farming techniques.",
+        "publicationDate": "2023-04-09",
+        "doi": "10.1000/xyz134",
+        "keywords": [
+            "sustainable agriculture",
+            "farming"
+        ],
+        "field": "Agricultural Science",
+        "topicId": "sustainability",
+        "citations": [
+            "Cited by Agricultural Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Sustainable Agriculture Conference"
+        },
+        "datasets": [
+            "AgriData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385500",
+        "title": "The Future of Autonomous Vehicles",
+        "abstract": "This paper explores the development of self-driving cars.",
+        "publicationDate": "2020-08-21",
+        "doi": "10.1000/xyz135",
+        "keywords": [
+            "autonomous vehicles",
+            "self-driving cars"
+        ],
+        "field": "Automotive Engineering",
+        "topicId": "autonomous",
+        "citations": [
+            "Cited by Automotive Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Autonomous Vehicles"
+        },
+        "datasets": [
+            "AutoData2020"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385501",
+        "title": "The Role of Big Data in Business",
+        "abstract": "This paper explores big data analytics in business decision-making.",
+        "publicationDate": "2021-03-17",
+        "doi": "10.1000/xyz136",
+        "keywords": [
+            "big data",
+            "business analytics"
+        ],
+        "field": "Business",
+        "topicId": "bigdata",
+        "citations": [
+            "Cited by Business Analytics Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Big Data Business Conference"
+        },
+        "datasets": [
+            "BusinessData2021"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385502",
+        "title": "Advances in Biotechnology",
+        "abstract": "This paper explores genetic engineering techniques.",
+        "publicationDate": "2022-09-06",
+        "doi": "10.1000/xyz137",
+        "keywords": [
+            "biotechnology",
+            "genetic engineering"
+        ],
+        "field": "Biotechnology",
+        "topicId": "biotech",
+        "citations": [
+            "Cited by Biotech Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Biotechnology"
+        },
+        "datasets": [
+            "BioTechData2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385503",
+        "title": "The Impact of Social Media on Society",
+        "abstract": "This paper explores the influence of social media on public opinion.",
+        "publicationDate": "2023-02-28",
+        "doi": "10.1000/xyz138",
+        "keywords": [
+            "social media",
+            "public opinion"
+        ],
+        "field": "Sociology",
+        "topicId": "socialmedia",
+        "citations": [
+            "Cited by Social Science Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Social Media Conference"
+        },
+        "datasets": [
+            "SocialMediaData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385504",
+        "title": "Innovations in Renewable Energy",
+        "abstract": "This paper explores new technologies in solar and wind energy.",
+        "publicationDate": "2021-10-14",
+        "doi": "10.1000/xyz139",
+        "keywords": [
+            "renewable energy",
+            "solar",
+            "wind"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewable",
+        "citations": [
+            "Cited by Energy Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Renewable Energy"
+        },
+        "datasets": [
+            "RenewableData2021"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385505",
+        "title": "The Evolution of Artificial Intelligence",
+        "abstract": "This paper explores the advancements in AI technologies.",
+        "publicationDate": "2020-04-11",
+        "doi": "10.1000/xyz140",
+        "keywords": [
+            "AI",
+            "technology"
+        ],
+        "field": "Artificial Intelligence",
+        "topicId": "AI",
+        "citations": [
+            "Cited by AI Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Evolution Conference"
+        },
+        "datasets": [
+            "AIData2020"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385506",
+        "title": "The Role of Genetics in Disease Prevention",
+        "abstract": "This paper explores genetic predispositions to diseases.",
+        "publicationDate": "2022-08-29",
+        "doi": "10.1000/xyz141",
+        "keywords": [
+            "genetics",
+            "disease prevention"
+        ],
+        "field": "Genetics",
+        "topicId": "genetics",
+        "citations": [
+            "Cited by Genetics Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Genetics"
+        },
+        "datasets": [
+            "GeneticData2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385507",
+        "title": "The Future of Space Exploration",
+        "abstract": "This paper explores advancements in space technology.",
+        "publicationDate": "2023-05-23",
+        "doi": "10.1000/xyz142",
+        "keywords": [
+            "space exploration",
+            "technology"
+        ],
+        "field": "Astronomy",
+        "topicId": "space",
+        "citations": [
+            "Cited by Space Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Space Exploration Conference"
+        },
+        "datasets": [
+            "SpaceData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385508",
+        "title": "The Impact of Climate Change on Agriculture",
+        "abstract": "This paper explores the effects of climate change on crop yields.",
+        "publicationDate": "2021-12-15",
+        "doi": "10.1000/xyz143",
+        "keywords": [
+            "climate change",
+            "agriculture"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climate",
+        "citations": [
+            "Cited by Agriculture Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Climate Change"
+        },
+        "datasets": [
+            "ClimateAgriData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385509",
+        "title": "The Rise of Digital Currencies",
+        "abstract": "This paper explores the adoption of cryptocurrencies.",
+        "publicationDate": "2022-11-07",
+        "doi": "10.1000/xyz144",
+        "keywords": [
+            "digital currencies",
+            "cryptocurrencies"
+        ],
+        "field": "Finance",
+        "topicId": "digitalcurrency",
+        "citations": [
+            "Cited by Financial Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Digital Currency Conference"
+        },
+        "datasets": [
+            "CryptoData2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838550a",
+        "title": "The Role of AI in Cybersecurity",
+        "abstract": "This paper explores AI applications in threat detection.",
+        "publicationDate": "2023-01-30",
+        "doi": "10.1000/xyz145",
+        "keywords": [
+            "AI",
+            "cybersecurity"
+        ],
+        "field": "Information Technology",
+        "topicId": "AIcybersecurity",
+        "citations": [
+            "Cited by IT Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of AI and Cybersecurity"
+        },
+        "datasets": [
+            "AICyberData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838550b",
+        "title": "The Impact of Technology on Education",
+        "abstract": "This paper explores digital learning tools in education.",
+        "publicationDate": "2020-06-19",
+        "doi": "10.1000/xyz146",
+        "keywords": [
+            "technology",
+            "education"
+        ],
+        "field": "Education",
+        "topicId": "edtech",
+        "citations": [
+            "Cited by Education Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Education Technology Conference"
+        },
+        "datasets": [
+            "EdTechData2020"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838550c",
+        "title": "Advancements in Renewable Energy Storage",
+        "abstract": "This paper explores new battery technologies for energy storage.",
+        "publicationDate": "2021-09-04",
+        "doi": "10.1000/xyz147",
+        "keywords": [
+            "renewable energy",
+            "energy storage"
+        ],
+        "field": "Environmental Science",
+        "topicId": "energystorage",
+        "citations": [
+            "Cited by Energy Storage Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Energy Storage"
+        },
+        "datasets": [
+            "EnergyStorageData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838550d",
+        "title": "The Future of Quantum Computing",
+        "abstract": "This paper explores potential applications of quantum computers.",
+        "publicationDate": "2022-03-11",
+        "doi": "10.1000/xyz148",
+        "keywords": [
+            "quantum computing",
+            "applications"
+        ],
+        "field": "Computer Science",
+        "topicId": "quantumfuture",
+        "citations": [
+            "Cited by Quantum Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Quantum Computing Conference"
+        },
+        "datasets": [
+            "QuantumFutureData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838550e",
+        "title": "The Role of Nanotechnology in Electronics",
+        "abstract": "This paper explores nanotechnology applications in electronic devices.",
+        "publicationDate": "2023-08-16",
+        "doi": "10.1000/xyz149",
+        "keywords": [
+            "nanotechnology",
+            "electronics"
+        ],
+        "field": "Nanotechnology",
+        "topicId": "nanoelectronics",
+        "citations": [
+            "Cited by Electronics Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Nanoelectronics"
+        },
+        "datasets": [
+            "NanoElectronicsData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838550f",
+        "title": "The Impact of Urbanization on the Environment",
+        "abstract": "This paper explores the environmental effects of urban growth.",
+        "publicationDate": "2021-02-22",
+        "doi": "10.1000/xyz150",
+        "keywords": [
+            "urbanization",
+            "environment"
+        ],
+        "field": "Environmental Science",
+        "topicId": "urbanenvironment",
+        "citations": [
+            "Cited by Environmental Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Urban Environment Conference"
+        },
+        "datasets": [
+            "UrbanEnvData2021"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385510",
+        "title": "The Future of Biotechnology in Agriculture",
+        "abstract": "This paper explores genetic modifications in crops.",
+        "publicationDate": "2022-05-27",
+        "doi": "10.1000/xyz151",
+        "keywords": [
+            "biotechnology",
+            "agriculture"
+        ],
+        "field": "Agricultural Science",
+        "topicId": "biotechagri",
+        "citations": [
+            "Cited by Agricultural Biotechnology Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Agricultural Biotechnology"
+        },
+        "datasets": [
+            "AgriBiotechData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385511",
+        "title": "The Role of Artificial Intelligence in Healthcare",
+        "abstract": "This paper explores AI applications in medical diagnostics.",
+        "publicationDate": "2023-06-05",
+        "doi": "10.1000/xyz152",
+        "keywords": [
+            "AI",
+            "healthcare"
+        ],
+        "field": "Artificial Intelligence",
+        "topicId": "AIhealthcare",
+        "citations": [
+            "Cited by Medical AI Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Healthcare Conference"
+        },
+        "datasets": [
+            "HealthcareAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385512",
+        "title": "The Impact of Climate Change on Biodiversity",
+        "abstract": "This paper explores the effects of climate change on species diversity.",
+        "publicationDate": "2020-07-13",
+        "doi": "10.1000/xyz153",
+        "keywords": [
+            "climate change",
+            "biodiversity"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climatebiodiversity",
+        "citations": [
+            "Cited by Biodiversity Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Biodiversity"
+        },
+        "datasets": [
+            "ClimateBiodiversityData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385513",
+        "title": "The Future of Renewable Energy Technologies",
+        "abstract": "This paper explores advancements in solar and wind energy.",
+        "publicationDate": "2022-10-03",
+        "doi": "10.1000/xyz154",
+        "keywords": [
+            "renewable energy",
+            "solar",
+            "wind"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewablefuture",
+        "citations": [
+            "Cited by Renewable Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Renewable Energy Conference"
+        },
+        "datasets": [
+            "RenewableFutureData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385514",
+        "title": "The Role of Blockchain in Supply Chain Management",
+        "abstract": "This paper explores blockchain applications in supply chains.",
+        "publicationDate": "2023-09-12",
+        "doi": "10.1000/xyz155",
+        "keywords": [
+            "blockchain",
+            "supply chain"
+        ],
+        "field": "Supply Chain Management",
+        "topicId": "blockchainsupply",
+        "citations": [
+            "Cited by Supply Chain Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Blockchain and Supply Chain"
+        },
+        "datasets": [
+            "SupplyChainBlockchainData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385515",
+        "title": "The Impact of Digital Transformation on Business",
+        "abstract": "This paper explores digital strategies in business operations.",
+        "publicationDate": "2021-01-09",
+        "doi": "10.1000/xyz156",
+        "keywords": [
+            "digital transformation",
+            "business"
+        ],
+        "field": "Business",
+        "topicId": "digitalbusiness",
+        "citations": [
+            "Cited by Business Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Digital Business Conference"
+        },
+        "datasets": [
+            "DigitalBusinessData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385516",
+        "title": "The Role of Genomics in Personalized Medicine",
+        "abstract": "This paper explores the use of genomics for tailored treatments.",
+        "publicationDate": "2022-07-08",
+        "doi": "10.1000/xyz157",
+        "keywords": [
+            "genomics",
+            "personalized medicine"
+        ],
+        "field": "Biotechnology",
+        "topicId": "genomicspersonalized",
+        "citations": [
+            "Cited by Personalized Medicine Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Personalized Genomics"
+        },
+        "datasets": [
+            "GenomicsPersonalizedData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385517",
+        "title": "The Future of Artificial Intelligence in Robotics",
+        "abstract": "This paper explores AI-driven robots and automation.",
+        "publicationDate": "2023-04-20",
+        "doi": "10.1000/xyz158",
+        "keywords": [
+            "AI",
+            "robotics"
+        ],
+        "field": "Robotics",
+        "topicId": "AIrobotics",
+        "citations": [
+            "Cited by Robotics AI Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Robotics Conference"
+        },
+        "datasets": [
+            "RoboticsAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385518",
+        "title": "The Impact of Social Media on Marketing",
+        "abstract": "This paper explores social media strategies in marketing.",
+        "publicationDate": "2021-11-30",
+        "doi": "10.1000/xyz159",
+        "keywords": [
+            "social media",
+            "marketing"
+        ],
+        "field": "Marketing",
+        "topicId": "socialmediamarketing",
+        "citations": [
+            "Cited by Marketing Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Social Media Marketing"
+        },
+        "datasets": [
+            "SocialMediaMarketingData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385519",
+        "title": "The Role of Renewable Energy in Sustainable Development",
+        "abstract": "This paper explores the contribution of renewable energy to sustainability.",
+        "publicationDate": "2022-02-05",
+        "doi": "10.1000/xyz160",
+        "keywords": [
+            "renewable energy",
+            "sustainability"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewablesustainability",
+        "citations": [
+            "Cited by Sustainability Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Sustainable Development Conference"
+        },
+        "datasets": [
+            "RenewableSustainabilityData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838551a",
+        "title": "The Future of Quantum Computing in Cryptography",
+        "abstract": "This paper explores quantum computing applications in encryption.",
+        "publicationDate": "2023-03-16",
+        "doi": "10.1000/xyz161",
+        "keywords": [
+            "quantum computing",
+            "cryptography"
+        ],
+        "field": "Computer Science",
+        "topicId": "quantumcryptography",
+        "citations": [
+            "Cited by Cryptography Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Quantum Cryptography"
+        },
+        "datasets": [
+            "QuantumCryptoData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838551b",
+        "title": "The Role of Big Data in Healthcare",
+        "abstract": "This paper explores big data analytics for patient care.",
+        "publicationDate": "2021-08-01",
+        "doi": "10.1000/xyz162",
+        "keywords": [
+            "big data",
+            "healthcare"
+        ],
+        "field": "Healthcare",
+        "topicId": "bigdatahealthcare",
+        "citations": [
+            "Cited by Healthcare Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Healthcare Big Data Conference"
+        },
+        "datasets": [
+            "HealthcareBigData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838551c",
+        "title": "The Impact of Climate Change on Water Resources",
+        "abstract": "This paper explores the effects of climate change on water availability.",
+        "publicationDate": "2022-12-21",
+        "doi": "10.1000/xyz163",
+        "keywords": [
+            "climate change",
+            "water resources"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climatewater",
+        "citations": [
+            "Cited by Water Resources Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Water Resources"
+        },
+        "datasets": [
+            "ClimateWaterData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838551d",
+        "title": "The Role of AI in Financial Markets",
+        "abstract": "This paper explores AI applications in stock trading.",
+        "publicationDate": "2023-07-01",
+        "doi": "10.1000/xyz164",
+        "keywords": [
+            "AI",
+            "financial markets"
+        ],
+        "field": "Finance",
+        "topicId": "AIfinance",
+        "citations": [
+            "Cited by Financial AI Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Finance Conference"
+        },
+        "datasets": [
+            "FinanceAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838551e",
+        "title": "The Impact of Urbanization on Public Health",
+        "abstract": "This paper explores the health challenges of urban living.",
+        "publicationDate": "2021-05-12",
+        "doi": "10.1000/xyz165",
+        "keywords": [
+            "urbanization",
+            "public health"
+        ],
+        "field": "Public Health",
+        "topicId": "urbanhealth",
+        "citations": [
+            "Cited by Public Health Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Urban Health"
+        },
+        "datasets": [
+            "UrbanHealthData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838551f",
+        "title": "The Future of Nanotechnology in Medicine",
+        "abstract": "This paper explores nanotechnology applications in medical treatments.",
+        "publicationDate": "2022-09-15",
+        "doi": "10.1000/xyz166",
+        "keywords": [
+            "nanotechnology",
+            "medicine"
+        ],
+        "field": "Nanotechnology",
+        "topicId": "nanomedicinefuture",
+        "citations": [
+            "Cited by Medical Nano Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Nano Medicine Conference"
+        },
+        "datasets": [
+            "NanoMedicineFutureData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385520",
+        "title": "The Role of Blockchain in Healthcare",
+        "abstract": "This paper explores blockchain applications in patient data management.",
+        "publicationDate": "2023-02-09",
+        "doi": "10.1000/xyz167",
+        "keywords": [
+            "blockchain",
+            "healthcare"
+        ],
+        "field": "Healthcare",
+        "topicId": "blockchainhealthcare",
+        "citations": [
+            "Cited by Healthcare Blockchain Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Blockchain Healthcare"
+        },
+        "datasets": [
+            "BlockchainHealthcareData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385521",
+        "title": "The Impact of Social Media on Political Campaigns",
+        "abstract": "This paper explores social media strategies in political marketing.",
+        "publicationDate": "2021-03-29",
+        "doi": "10.1000/xyz168",
+        "keywords": [
+            "social media",
+            "political campaigns"
+        ],
+        "field": "Political Science",
+        "topicId": "socialmediapolitics",
+        "citations": [
+            "Cited by Political Science Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Political Campaigns Conference"
+        },
+        "datasets": [
+            "SocialMediaPoliticsData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385522",
+        "title": "The Future of Robotics in Manufacturing",
+        "abstract": "This paper explores robotics applications in industrial automation.",
+        "publicationDate": "2022-06-18",
+        "doi": "10.1000/xyz169",
+        "keywords": [
+            "robotics",
+            "manufacturing"
+        ],
+        "field": "Manufacturing",
+        "topicId": "roboticsmanufacturing",
+        "citations": [
+            "Cited by Manufacturing Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Robotics Manufacturing"
+        },
+        "datasets": [
+            "ManufacturingRoboticsData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385523",
+        "title": "The Role of AI in Smart Cities",
+        "abstract": "This paper explores AI applications in urban planning.",
+        "publicationDate": "2023-05-02",
+        "doi": "10.1000/xyz170",
+        "keywords": [
+            "AI",
+            "smart cities"
+        ],
+        "field": "Urban Studies",
+        "topicId": "AIsmartcities",
+        "citations": [
+            "Cited by Smart Cities Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Smart Cities AI Conference"
+        },
+        "datasets": [
+            "SmartCitiesAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385524",
+        "title": "The Impact of Climate Change on Marine Life",
+        "abstract": "This paper explores the effects of climate change on ocean ecosystems.",
+        "publicationDate": "2021-10-27",
+        "doi": "10.1000/xyz171",
+        "keywords": [
+            "climate change",
+            "marine life"
+        ],
+        "field": "Marine Biology",
+        "topicId": "climatemarine",
+        "citations": [
+            "Cited by Marine Biology Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Marine Biology"
+        },
+        "datasets": [
+            "ClimateMarineData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385525",
+        "title": "The Future of Digital Currencies in Banking",
+        "abstract": "This paper explores the integration of cryptocurrencies in banking.",
+        "publicationDate": "2022-01-04",
+        "doi": "10.1000/xyz172",
+        "keywords": [
+            "digital currencies",
+            "banking"
+        ],
+        "field": "Finance",
+        "topicId": "digitalbanking",
+        "citations": [
+            "Cited by Banking Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Digital Banking Conference"
+        },
+        "datasets": [
+            "DigitalBankingData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385526",
+        "title": "The Role of Renewable Energy in Reducing Carbon Emissions",
+        "abstract": "This paper explores the impact of renewable energy on carbon footprints.",
+        "publicationDate": "2023-08-24",
+        "doi": "10.1000/xyz173",
+        "keywords": [
+            "renewable energy",
+            "carbon emissions"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewablecarbon",
+        "citations": [
+            "Cited by Carbon Emissions Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Carbon Emissions"
+        },
+        "datasets": [
+            "RenewableCarbonData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385527",
+        "title": "The Future of AI in Autonomous Vehicles",
+        "abstract": "This paper explores AI technologies in self-driving cars.",
+        "publicationDate": "2021-04-08",
+        "doi": "10.1000/xyz174",
+        "keywords": [
+            "AI",
+            "autonomous vehicles"
+        ],
+        "field": "Automotive Engineering",
+        "topicId": "AIautonomous",
+        "citations": [
+            "Cited by Automotive AI Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Autonomous Vehicles AI Conference"
+        },
+        "datasets": [
+            "AutonomousAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385528",
+        "title": "The Impact of Urbanization on Air Quality",
+        "abstract": "This paper explores the effects of urban growth on air pollution.",
+        "publicationDate": "2022-11-19",
+        "doi": "10.1000/xyz175",
+        "keywords": [
+            "urbanization",
+            "air quality"
+        ],
+        "field": "Environmental Science",
+        "topicId": "urbanair",
+        "citations": [
+            "Cited by Air Quality Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Air Quality"
+        },
+        "datasets": [
+            "UrbanAirData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385529",
+        "title": "The Role of Blockchain in Digital Identity Management",
+        "abstract": "This paper explores blockchain applications in identity verification.",
+        "publicationDate": "2023-01-17",
+        "doi": "10.1000/xyz176",
+        "keywords": [
+            "blockchain",
+            "digital identity"
+        ],
+        "field": "Information Technology",
+        "topicId": "blockchainidentity",
+        "citations": [
+            "Cited by IT Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Digital Identity Conference"
+        },
+        "datasets": [
+            "BlockchainIdentityData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838552a",
+        "title": "The Future of Biotechnology in Environmental Conservation",
+        "abstract": "This paper explores genetic engineering for ecosystem restoration.",
+        "publicationDate": "2022-06-30",
+        "doi": "10.1000/xyz177",
+        "keywords": [
+            "biotechnology",
+            "environmental conservation"
+        ],
+        "field": "Biotechnology",
+        "topicId": "biotechconservation",
+        "citations": [
+            "Cited by Environmental Biotechnology Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Environmental Biotechnology"
+        },
+        "datasets": [
+            "BiotechConservationData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838552b",
+        "title": "The Role of AI in Personalized Education",
+        "abstract": "This paper explores AI-driven learning personalization.",
+        "publicationDate": "2023-02-03",
+        "doi": "10.1000/xyz178",
+        "keywords": [
+            "AI",
+            "personalized education"
+        ],
+        "field": "Education",
+        "topicId": "AIeducation",
+        "citations": [
+            "Cited by Education AI Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Personalized Education Conference"
+        },
+        "datasets": [
+            "EducationAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838552c",
+        "title": "The Impact of Climate Change on Food Security",
+        "abstract": "This paper explores the effects of climate change on global food supply.",
+        "publicationDate": "2021-07-26",
+        "doi": "10.1000/xyz179",
+        "keywords": [
+            "climate change",
+            "food security"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climatefood",
+        "citations": [
+            "Cited by Food Security Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Food Security"
+        },
+        "datasets": [
+            "ClimateFoodData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838552d",
+        "title": "The Future of Renewable Energy in Rural Electrification",
+        "abstract": "This paper explores renewable energy solutions for rural areas.",
+        "publicationDate": "2022-10-25",
+        "doi": "10.1000/xyz180",
+        "keywords": [
+            "renewable energy",
+            "rural electrification"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewablerural",
+        "citations": [
+            "Cited by Rural Energy Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Rural Electrification Conference"
+        },
+        "datasets": [
+            "RuralEnergyData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838552e",
+        "title": "The Role of Big Data in Environmental Monitoring",
+        "abstract": "This paper explores big data analytics for ecosystem tracking.",
+        "publicationDate": "2023-06-14",
+        "doi": "10.1000/xyz181",
+        "keywords": [
+            "big data",
+            "environmental monitoring"
+        ],
+        "field": "Environmental Science",
+        "topicId": "bigdataenvironment",
+        "citations": [
+            "Cited by Environmental Monitoring Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Environmental Monitoring"
+        },
+        "datasets": [
+            "BigDataEnvironmentData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838552f",
+        "title": "The Impact of Urbanization on Wildlife",
+        "abstract": "This paper explores the effects of urban growth on animal habitats.",
+        "publicationDate": "2021-09-09",
+        "doi": "10.1000/xyz182",
+        "keywords": [
+            "urbanization",
+            "wildlife"
+        ],
+        "field": "Environmental Science",
+        "topicId": "urbanwildlife",
+        "citations": [
+            "Cited by Wildlife Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Urban Wildlife Conference"
+        },
+        "datasets": [
+            "UrbanWildlifeData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385530",
+        "title": "The Role of AI in Predictive Maintenance",
+        "abstract": "This paper explores AI technologies in equipment maintenance.",
+        "publicationDate": "2022-03-21",
+        "doi": "10.1000/xyz183",
+        "keywords": [
+            "AI",
+            "predictive maintenance"
+        ],
+        "field": "Engineering",
+        "topicId": "AImaintenance",
+        "citations": [
+            "Cited by Maintenance Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Predictive Maintenance"
+        },
+        "datasets": [
+            "AIMaintenanceData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385531",
+        "title": "The Future of Blockchain in Supply Chain Transparency",
+        "abstract": "This paper explores blockchain solutions for supply chain visibility.",
+        "publicationDate": "2023-05-29",
+        "doi": "10.1000/xyz184",
+        "keywords": [
+            "blockchain",
+            "supply chain transparency"
+        ],
+        "field": "Supply Chain Management",
+        "topicId": "blockchainsupplytransparency",
+        "citations": [
+            "Cited by Supply Chain Transparency Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Supply Chain Transparency Conference"
+        },
+        "datasets": [
+            "SupplyChainTransparencyData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385532",
+        "title": "The Impact of Social Media on Consumer Behavior",
+        "abstract": "This paper explores social media influences on purchasing decisions.",
+        "publicationDate": "2021-12-06",
+        "doi": "10.1000/xyz185",
+        "keywords": [
+            "social media",
+            "consumer behavior"
+        ],
+        "field": "Marketing",
+        "topicId": "socialmediaconsumer",
+        "citations": [
+            "Cited by Consumer Behavior Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Consumer Behavior"
+        },
+        "datasets": [
+            "SocialMediaConsumerData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385533",
+        "title": "The Role of AI in Fraud Detection",
+        "abstract": "This paper explores AI applications in identifying fraudulent activities.",
+        "publicationDate": "2022-08-13",
+        "doi": "10.1000/xyz186",
+        "keywords": [
+            "AI",
+            "fraud detection"
+        ],
+        "field": "Finance",
+        "topicId": "AIfraud",
+        "citations": [
+            "Cited by Fraud Detection Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Fraud Detection AI Conference"
+        },
+        "datasets": [
+            "FraudDetectionAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385534",
+        "title": "The Future of Renewable Energy in Urban Areas",
+        "abstract": "This paper explores renewable energy solutions for cities.",
+        "publicationDate": "2023-04-27",
+        "doi": "10.1000/xyz187",
+        "keywords": [
+            "renewable energy",
+            "urban areas"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewableurban",
+        "citations": [
+            "Cited by Urban Energy Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Urban Energy"
+        },
+        "datasets": [
+            "UrbanRenewableData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385535",
+        "title": "The Impact of Climate Change on Human Health",
+        "abstract": "This paper explores the health impacts of climate change.",
+        "publicationDate": "2021-06-15",
+        "doi": "10.1000/xyz188",
+        "keywords": [
+            "climate change",
+            "human health"
+        ],
+        "field": "Public Health",
+        "topicId": "climatehealth",
+        "citations": [
+            "Cited by Health Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Climate Health Conference"
+        },
+        "datasets": [
+            "ClimateHealthData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385536",
+        "title": "The Role of Blockchain in Financial Transactions",
+        "abstract": "This paper explores blockchain applications in secure transactions.",
+        "publicationDate": "2022-11-03",
+        "doi": "10.1000/xyz189",
+        "keywords": [
+            "blockchain",
+            "financial transactions"
+        ],
+        "field": "Finance",
+        "topicId": "blockchainfinance",
+        "citations": [
+            "Cited by Financial Transactions Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Blockchain Finance"
+        },
+        "datasets": [
+            "BlockchainFinanceData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385537",
+        "title": "The Future of AI in Customer Service",
+        "abstract": "This paper explores AI technologies in enhancing customer interactions.",
+        "publicationDate": "2023-01-25",
+        "doi": "10.1000/xyz190",
+        "keywords": [
+            "AI",
+            "customer service"
+        ],
+        "field": "Business",
+        "topicId": "AIcustomer",
+        "citations": [
+            "Cited by Customer Service Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Customer Service Conference"
+        },
+        "datasets": [
+            "CustomerServiceAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385538",
+        "title": "The Impact of Urbanization on Water Quality",
+        "abstract": "This paper explores the effects of urban growth on water pollution.",
+        "publicationDate": "2021-09-23",
+        "doi": "10.1000/xyz191",
+        "keywords": [
+            "urbanization",
+            "water quality"
+        ],
+        "field": "Environmental Science",
+        "topicId": "urbanwater",
+        "citations": [
+            "Cited by Water Quality Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Water Quality"
+        },
+        "datasets": [
+            "UrbanWaterData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385539",
+        "title": "The Role of AI in Climate Change Mitigation",
+        "abstract": "This paper explores AI applications in reducing carbon emissions.",
+        "publicationDate": "2022-07-20",
+        "doi": "10.1000/xyz192",
+        "keywords": [
+            "AI",
+            "climate change"
+        ],
+        "field": "Environmental Science",
+        "topicId": "AIclimate",
+        "citations": [
+            "Cited by Climate Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Climate Conference"
+        },
+        "datasets": [
+            "ClimateAIdata"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838553a",
+        "title": "The Future of Nanotechnology in Electronics",
+        "abstract": "This paper explores advancements in nanoelectronics.",
+        "publicationDate": "2023-03-08",
+        "doi": "10.1000/xyz193",
+        "keywords": [
+            "nanotechnology",
+            "electronics"
+        ],
+        "field": "Nanotechnology",
+        "topicId": "nanoelectronicsfuture",
+        "citations": [
+            "Cited by Nanoelectronics Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Future Nanoelectronics"
+        },
+        "datasets": [
+            "NanoElectronicsFutureData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838553b",
+        "title": "The Impact of Social Media on Brand Loyalty",
+        "abstract": "This paper explores social media influences on consumer loyalty.",
+        "publicationDate": "2021-02-11",
+        "doi": "10.1000/xyz194",
+        "keywords": [
+            "social media",
+            "brand loyalty"
+        ],
+        "field": "Marketing",
+        "topicId": "socialmediabrand",
+        "citations": [
+            "Cited by Brand Loyalty Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Brand Loyalty Conference"
+        },
+        "datasets": [
+            "SocialMediaBrandData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838553c",
+        "title": "The Role of Blockchain in Data Privacy",
+        "abstract": "This paper explores blockchain applications in protecting user data.",
+        "publicationDate": "2022-10-17",
+        "doi": "10.1000/xyz195",
+        "keywords": [
+            "blockchain",
+            "data privacy"
+        ],
+        "field": "Information Technology",
+        "topicId": "blockchaindata",
+        "citations": [
+            "Cited by Data Privacy Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Blockchain Data Privacy"
+        },
+        "datasets": [
+            "BlockchainDataPrivacyData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838553d",
+        "title": "The Future of AI in Financial Forecasting",
+        "abstract": "This paper explores AI technologies in predicting market trends.",
+        "publicationDate": "2023-05-11",
+        "doi": "10.1000/xyz196",
+        "keywords": [
+            "AI",
+            "financial forecasting"
+        ],
+        "field": "Finance",
+        "topicId": "AIfinancial",
+        "citations": [
+            "Cited by Financial Forecasting Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Financial Forecasting Conference"
+        },
+        "datasets": [
+            "FinancialForecastingAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838553e",
+        "title": "The Impact of Climate Change on Agriculture Productivity",
+        "abstract": "This paper explores the effects of climate change on crop yields.",
+        "publicationDate": "2021-10-19",
+        "doi": "10.1000/xyz197",
+        "keywords": [
+            "climate change",
+            "agriculture"
+        ],
+        "field": "Agricultural Science",
+        "topicId": "climateagriculture",
+        "citations": [
+            "Cited by Agriculture Productivity Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Agriculture Productivity"
+        },
+        "datasets": [
+            "ClimateAgricultureData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838553f",
+        "title": "The Role of AI in Enhancing Cybersecurity",
+        "abstract": "This paper explores AI applications in threat detection and prevention.",
+        "publicationDate": "2022-01-28",
+        "doi": "10.1000/xyz198",
+        "keywords": [
+            "AI",
+            "cybersecurity"
+        ],
+        "field": "Information Technology",
+        "topicId": "AIcybersecurityenhance",
+        "citations": [
+            "Cited by Cybersecurity Enhancement Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Cybersecurity Enhancement Conference"
+        },
+        "datasets": [
+            "CybersecurityEnhancementAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385540",
+        "title": "The Future of Renewable Energy in Transportation",
+        "abstract": "This paper explores renewable energy solutions for vehicles.",
+        "publicationDate": "2023-02-15",
+        "doi": "10.1000/xyz199",
+        "keywords": [
+            "renewable energy",
+            "transportation"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewabletransport",
+        "citations": [
+            "Cited by Transportation Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Transportation Energy"
+        },
+        "datasets": [
+            "TransportationRenewableData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385541",
+        "title": "The Impact of Urbanization on Energy Consumption",
+        "abstract": "This paper explores the effects of urban growth on energy demand.",
+        "publicationDate": "2021-05-04",
+        "doi": "10.1000/xyz200",
+        "keywords": [
+            "urbanization",
+            "energy consumption"
+        ],
+        "field": "Environmental Science",
+        "topicId": "urbanenergy",
+        "citations": [
+            "Cited by Energy Consumption Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Urban Energy Conference"
+        },
+        "datasets": [
+            "UrbanEnergyData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385542",
+        "title": "The Role of Blockchain in Securing IoT Devices",
+        "abstract": "This paper explores blockchain applications in IoT security.",
+        "publicationDate": "2022-09-28",
+        "doi": "10.1000/xyz201",
+        "keywords": [
+            "blockchain",
+            "IoT security"
+        ],
+        "field": "Information Technology",
+        "topicId": "blockchainIoT",
+        "citations": [
+            "Cited by IoT Security Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of IoT Security"
+        },
+        "datasets": [
+            "IoTSecurityBlockchainData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385543",
+        "title": "The Future of AI in Healthcare Diagnostics",
+        "abstract": "This paper explores AI technologies in medical imaging and diagnostics.",
+        "publicationDate": "2023-06-22",
+        "doi": "10.1000/xyz202",
+        "keywords": [
+            "AI",
+            "healthcare diagnostics"
+        ],
+        "field": "Healthcare",
+        "topicId": "AIhealthdiagnostics",
+        "citations": [
+            "Cited by Healthcare Diagnostics Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Healthcare Diagnostics Conference"
+        },
+        "datasets": [
+            "HealthcareDiagnosticsAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385544",
+        "title": "The Impact of Climate Change on Coastal Ecosystems",
+        "abstract": "This paper explores the effects of climate change on coastal habitats.",
+        "publicationDate": "2021-11-11",
+        "doi": "10.1000/xyz203",
+        "keywords": [
+            "climate change",
+            "coastal ecosystems"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climatecoastal",
+        "citations": [
+            "Cited by Coastal Ecosystems Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Coastal Ecosystems"
+        },
+        "datasets": [
+            "ClimateCoastalData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385545",
+        "title": "The Role of AI in Enhancing Supply Chain Efficiency",
+        "abstract": "This paper explores AI applications in optimizing supply chains.",
+        "publicationDate": "2022-02-01",
+        "doi": "10.1000/xyz204",
+        "keywords": [
+            "AI",
+            "supply chain"
+        ],
+        "field": "Supply Chain Management",
+        "topicId": "AIsupplychain",
+        "citations": [
+            "Cited by Supply Chain Efficiency Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Supply Chain Conference"
+        },
+        "datasets": [
+            "SupplyChainEfficiencyAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385546",
+        "title": "The Future of Renewable Energy in Industrial Applications",
+        "abstract": "This paper explores renewable energy solutions for industries.",
+        "publicationDate": "2023-04-13",
+        "doi": "10.1000/xyz205",
+        "keywords": [
+            "renewable energy",
+            "industrial applications"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewableindustrial",
+        "citations": [
+            "Cited by Industrial Energy Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Industrial Energy"
+        },
+        "datasets": [
+            "IndustrialRenewableData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385547",
+        "title": "The Impact of Urbanization on Transportation Systems",
+        "abstract": "This paper explores the effects of urban growth on public transit.",
+        "publicationDate": "2021-06-08",
+        "doi": "10.1000/xyz206",
+        "keywords": [
+            "urbanization",
+            "transportation systems"
+        ],
+        "field": "Urban Studies",
+        "topicId": "urbantransport",
+        "citations": [
+            "Cited by Transportation Systems Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Urban Transportation Conference"
+        },
+        "datasets": [
+            "UrbanTransportData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385548",
+        "title": "The Role of Blockchain in Enhancing Data Security",
+        "abstract": "This paper explores blockchain applications in safeguarding data.",
+        "publicationDate": "2022-12-13",
+        "doi": "10.1000/xyz207",
+        "keywords": [
+            "blockchain",
+            "data security"
+        ],
+        "field": "Information Technology",
+        "topicId": "blockchaindatasecurity",
+        "citations": [
+            "Cited by Data Security Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Blockchain Data Security"
+        },
+        "datasets": [
+            "DataSecurityBlockchainData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385549",
+        "title": "The Future of AI in Personalized Marketing",
+        "abstract": "This paper explores AI technologies in targeted advertising.",
+        "publicationDate": "2023-01-12",
+        "doi": "10.1000/xyz208",
+        "keywords": [
+            "AI",
+            "personalized marketing"
+        ],
+        "field": "Marketing",
+        "topicId": "AImarketing",
+        "citations": [
+            "Cited by Personalized Marketing Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Marketing Conference"
+        },
+        "datasets": [
+            "MarketingAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838554a",
+        "title": "The Impact of Climate Change on Forest Ecosystems",
+        "abstract": "This paper explores the effects of climate change on forest biodiversity.",
+        "publicationDate": "2021-08-29",
+        "doi": "10.1000/xyz209",
+        "keywords": [
+            "climate change",
+            "forest ecosystems"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climateforest",
+        "citations": [
+            "Cited by Forest Ecosystems Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Forest Ecosystems"
+        },
+        "datasets": [
+            "ClimateForestData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838554b",
+        "title": "The Role of AI in Enhancing Manufacturing Processes",
+        "abstract": "This paper explores AI applications in improving production efficiency.",
+        "publicationDate": "2022-03-07",
+        "doi": "10.1000/xyz210",
+        "keywords": [
+            "AI",
+            "manufacturing processes"
+        ],
+        "field": "Manufacturing",
+        "topicId": "AImanufacturing",
+        "citations": [
+            "Cited by Manufacturing Processes Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Manufacturing Conference"
+        },
+        "datasets": [
+            "ManufacturingAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838554c",
+        "title": "The Future of Renewable Energy in Power Grids",
+        "abstract": "This paper explores renewable energy integration into power grids.",
+        "publicationDate": "2023-05-19",
+        "doi": "10.1000/xyz211",
+        "keywords": [
+            "renewable energy",
+            "power grids"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewablepowergrids",
+        "citations": [
+            "Cited by Power Grids Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Power Grids"
+        },
+        "datasets": [
+            "PowerGridsRenewableData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838554d",
+        "title": "The Impact of Urbanization on Waste Management",
+        "abstract": "This paper explores the effects of urban growth on waste disposal systems.",
+        "publicationDate": "2021-12-01",
+        "doi": "10.1000/xyz212",
+        "keywords": [
+            "urbanization",
+            "waste management"
+        ],
+        "field": "Environmental Science",
+        "topicId": "urbanwaste",
+        "citations": [
+            "Cited by Waste Management Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Urban Waste Conference"
+        },
+        "datasets": [
+            "UrbanWasteData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838554e",
+        "title": "The Role of Blockchain in Enhancing Transparency",
+        "abstract": "This paper explores blockchain applications in increasing transparency.",
+        "publicationDate": "2022-09-02",
+        "doi": "10.1000/xyz213",
+        "keywords": [
+            "blockchain",
+            "transparency"
+        ],
+        "field": "Information Technology",
+        "topicId": "blockchaintransparency",
+        "citations": [
+            "Cited by Transparency Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Blockchain Transparency"
+        },
+        "datasets": [
+            "TransparencyBlockchainData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838554f",
+        "title": "The Future of AI in Enhancing User Experience",
+        "abstract": "This paper explores AI technologies in improving user interfaces.",
+        "publicationDate": "2023-01-05",
+        "doi": "10.1000/xyz214",
+        "keywords": [
+            "AI",
+            "user experience"
+        ],
+        "field": "User Experience Design",
+        "topicId": "AIuserexperience",
+        "citations": [
+            "Cited by User Experience Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI User Experience Conference"
+        },
+        "datasets": [
+            "UserExperienceAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385550",
+        "title": "The Impact of Climate Change on Ocean Acidification",
+        "abstract": "This paper explores the effects of climate change on ocean pH levels.",
+        "publicationDate": "2021-07-17",
+        "doi": "10.1000/xyz215",
+        "keywords": [
+            "climate change",
+            "ocean acidification"
+        ],
+        "field": "Marine Biology",
+        "topicId": "climateocean",
+        "citations": [
+            "Cited by Ocean Acidification Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Ocean Acidification"
+        },
+        "datasets": [
+            "ClimateOceanData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385551",
+        "title": "The Role of AI in Enhancing Customer Satisfaction",
+        "abstract": "This paper explores AI applications in improving customer service.",
+        "publicationDate": "2022-02-26",
+        "doi": "10.1000/xyz216",
+        "keywords": [
+            "AI",
+            "customer satisfaction"
+        ],
+        "field": "Business",
+        "topicId": "AIcustomersatisfaction",
+        "citations": [
+            "Cited by Customer Satisfaction Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Customer Satisfaction Conference"
+        },
+        "datasets": [
+            "CustomerSatisfactionAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385552",
+        "title": "The Future of Renewable Energy in Residential Areas",
+        "abstract": "This paper explores renewable energy solutions for homes.",
+        "publicationDate": "2023-04-06",
+        "doi": "10.1000/xyz217",
+        "keywords": [
+            "renewable energy",
+            "residential areas"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewableresidential",
+        "citations": [
+            "Cited by Residential Energy Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Residential Energy"
+        },
+        "datasets": [
+            "ResidentialRenewableData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385553",
+        "title": "The Impact of Urbanization on Green Spaces",
+        "abstract": "This paper explores the effects of urban growth on parks and gardens.",
+        "publicationDate": "2021-05-25",
+        "doi": "10.1000/xyz218",
+        "keywords": [
+            "urbanization",
+            "green spaces"
+        ],
+        "field": "Urban Studies",
+        "topicId": "urbangreen",
+        "citations": [
+            "Cited by Green Spaces Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Urban Green Conference"
+        },
+        "datasets": [
+            "UrbanGreenData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385554",
+        "title": "The Role of Blockchain in Enhancing Trust",
+        "abstract": "This paper explores blockchain applications in building trust.",
+        "publicationDate": "2022-12-09",
+        "doi": "10.1000/xyz219",
+        "keywords": [
+            "blockchain",
+            "trust"
+        ],
+        "field": "Information Technology",
+        "topicId": "blockchaintrust",
+        "citations": [
+            "Cited by Trust Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Blockchain Trust"
+        },
+        "datasets": [
+            "TrustBlockchainData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385555",
+        "title": "The Future of AI in Enhancing Productivity",
+        "abstract": "This paper explores AI technologies in boosting workplace efficiency.",
+        "publicationDate": "2023-01-31",
+        "doi": "10.1000/xyz220",
+        "keywords": [
+            "AI",
+            "productivity"
+        ],
+        "field": "Business",
+        "topicId": "AIproductivity",
+        "citations": [
+            "Cited by Productivity Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Productivity Conference"
+        },
+        "datasets": [
+            "ProductivityAIData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385556",
+        "title": "The Impact of Climate Change on Glacial Retreat",
+        "abstract": "This paper explores the effects of climate change on glacier melting.",
+        "publicationDate": "2021-08-05",
+        "doi": "10.1000/xyz221",
+        "keywords": [
+            "climate change",
+            "glacial retreat"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climateglacial",
+        "citations": [
+            "Cited by Glacial Retreat Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Glacial Retreat"
+        },
+        "datasets": [
+            "ClimateGlacialData"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385557",
+        "title": "The Role of AI in Enhancing Human-Computer Interaction",
+        "abstract": "This paper explores AI applications in improving user interfaces.",
+        "publicationDate": "2022-03-14",
+        "doi": "10.1000/xyz222",
+        "keywords": [
+            "AI",
+            "human-computer interaction"
+        ],
+        "field": "User Experience Design",
+        "topicId": "AIHCI",
+        "citations": [
+            "Cited by HCI Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI HCI Conference"
+        },
+        "datasets": [
+            "HCIDataAI"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385558",
+        "title": "Advances in Quantum Computing",
+        "abstract": "This paper explores the latest advancements in quantum computing.",
+        "publicationDate": "2023-01-15",
+        "doi": "10.1000/xyz123",
+        "keywords": [
+            "Quantum Computing",
+            "Technology"
+        ],
+        "field": "Computer Science",
+        "topicId": "quantum",
+        "citations": [
+            "Cited by Nature"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Quantum Science"
+        },
+        "datasets": [
+            "QuantumData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385559",
+        "title": "Machine Learning in Healthcare",
+        "abstract": "This paper explores applications of machine learning in healthcare.",
+        "publicationDate": "2022-11-20",
+        "doi": "10.1000/xyz124",
+        "keywords": [
+            "Machine Learning",
+            "Healthcare"
+        ],
+        "field": "Artificial Intelligence",
+        "topicId": "healthcare_ai",
+        "citations": [
+            "Cited by IEEE"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "AI Health Conference"
+        },
+        "datasets": [
+            "HealthML2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838555a",
+        "title": "Renewable Energy Sources",
+        "abstract": "This paper explores the potential of renewable energy sources.",
+        "publicationDate": "2023-05-10",
+        "doi": "10.1000/xyz125",
+        "keywords": [
+            "Renewable Energy",
+            "Sustainability"
+        ],
+        "field": "Environmental Science",
+        "topicId": "renewables",
+        "citations": [
+            "Cited by ScienceDirect"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Sustainable Energy"
+        },
+        "datasets": [
+            "RenewableData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838555b",
+        "title": "Blockchain Technology in Finance",
+        "abstract": "This paper explores the impact of blockchain technology in finance.",
+        "publicationDate": "2023-03-22",
+        "doi": "10.1000/xyz126",
+        "keywords": [
+            "Blockchain",
+            "Finance"
+        ],
+        "field": "Finance",
+        "topicId": "blockchain_finance",
+        "citations": [
+            "Cited by Financial Times"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Blockchain Finance Summit"
+        },
+        "datasets": [
+            "FinanceBlockchain2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838555c",
+        "title": "Artificial Intelligence in Robotics",
+        "abstract": "This paper explores the integration of artificial intelligence in robotics.",
+        "publicationDate": "2022-09-30",
+        "doi": "10.1000/xyz127",
+        "keywords": [
+            "Artificial Intelligence",
+            "Robotics"
+        ],
+        "field": "Robotics",
+        "topicId": "ai_robotics",
+        "citations": [
+            "Cited by Robotics Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Robotics"
+        },
+        "datasets": [
+            "RoboticsAI2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838555d",
+        "title": "Cybersecurity Threats and Solutions",
+        "abstract": "This paper explores various cybersecurity threats and their solutions.",
+        "publicationDate": "2023-02-18",
+        "doi": "10.1000/xyz128",
+        "keywords": [
+            "Cybersecurity",
+            "Threats"
+        ],
+        "field": "Information Technology",
+        "topicId": "cybersecurity",
+        "citations": [
+            "Cited by Cybersecurity Review"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Cybersecurity Journal"
+        },
+        "datasets": [
+            "CyberThreats2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838555e",
+        "title": "Climate Change and Its Effects",
+        "abstract": "This paper explores the effects of climate change on global ecosystems.",
+        "publicationDate": "2023-04-05",
+        "doi": "10.1000/xyz129",
+        "keywords": [
+            "Climate Change",
+            "Ecosystems"
+        ],
+        "field": "Environmental Science",
+        "topicId": "climate_change",
+        "citations": [
+            "Cited by Nature Climate"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Climate Science Journal"
+        },
+        "datasets": [
+            "ClimateData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838555f",
+        "title": "Nanotechnology in Medicine",
+        "abstract": "This paper explores the applications of nanotechnology in medicine.",
+        "publicationDate": "2022-12-12",
+        "doi": "10.1000/xyz130",
+        "keywords": [
+            "Nanotechnology",
+            "Medicine"
+        ],
+        "field": "Biomedical Engineering",
+        "topicId": "nano_medicine",
+        "citations": [
+            "Cited by Medical Nanotech"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "NanoMed Conference"
+        },
+        "datasets": [
+            "NanoMedData2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385560",
+        "title": "The Future of Autonomous Vehicles",
+        "abstract": "This paper explores the future developments in autonomous vehicles.",
+        "publicationDate": "2023-06-01",
+        "doi": "10.1000/xyz131",
+        "keywords": [
+            "Autonomous Vehicles",
+            "Transportation"
+        ],
+        "field": "Automotive Engineering",
+        "topicId": "autonomous_vehicles",
+        "citations": [
+            "Cited by Automotive World"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "Journal of Automotive Engineering"
+        },
+        "datasets": [
+            "AutoData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385561",
+        "title": "Big Data Analytics in Business",
+        "abstract": "This paper explores the role of big data analytics in business decision-making.",
+        "publicationDate": "2023-03-10",
+        "doi": "10.1000/xyz132",
+        "keywords": [
+            "Big Data",
+            "Business"
+        ],
+        "field": "Business Analytics",
+        "topicId": "big_data_business",
+        "citations": [
+            "Cited by Business Analytics Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "Big Data Business Summit"
+        },
+        "datasets": [
+            "BusinessData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385562",
+        "title": "Advances in Quantum Computing",
+        "abstract": "This paper explores quantum algorithms.",
+        "publicationDate": "2022-01-15",
+        "doi": "10.1000/xyz123",
+        "keywords": [
+            "quantum",
+            "algorithms"
+        ],
+        "field": "Computer Science",
+        "topicId": "Quantum Computing",
+        "citations": [
+            "Cited by Journal of Computing"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "QCC2022"
+        },
+        "datasets": [
+            "QuantumDataSet1"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385563",
+        "title": "Machine Learning in Healthcare",
+        "abstract": "This paper explores predictive analytics.",
+        "publicationDate": "2021-11-10",
+        "doi": "10.1000/abc456",
+        "keywords": [
+            "machine learning",
+            "healthcare"
+        ],
+        "field": "Health Informatics",
+        "topicId": "Predictive Analytics",
+        "citations": [
+            "Cited by HealthTech Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "HTJ2021"
+        },
+        "datasets": [
+            "HealthDataSet2021"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385564",
+        "title": "Blockchain for Supply Chain Management",
+        "abstract": "This paper explores distributed ledger technology.",
+        "publicationDate": "2020-06-30",
+        "doi": "10.1000/def789",
+        "keywords": [
+            "blockchain",
+            "supply chain"
+        ],
+        "field": "Business Technology",
+        "topicId": "Distributed Ledger",
+        "citations": [
+            "Cited by Business Tech Review"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "BTR2020"
+        },
+        "datasets": [
+            "SupplyChainData2020"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385565",
+        "title": "Renewable Energy Systems",
+        "abstract": "This paper explores solar power integration.",
+        "publicationDate": "2023-03-20",
+        "doi": "10.1000/ghi012",
+        "keywords": [
+            "renewable energy",
+            "solar power"
+        ],
+        "field": "Environmental Science",
+        "topicId": "Solar Energy",
+        "citations": [
+            "Cited by Energy Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "RES2023"
+        },
+        "datasets": [
+            "SolarDataSet2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385566",
+        "title": "AI Ethics and Society",
+        "abstract": "This paper explores ethical AI frameworks.",
+        "publicationDate": "2022-09-05",
+        "doi": "10.1000/jkl345",
+        "keywords": [
+            "AI ethics",
+            "society"
+        ],
+        "field": "Philosophy and Ethics",
+        "topicId": "Ethical AI",
+        "citations": [
+            "Cited by Ethics in AI Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Journal",
+            "venueId": "EAIJ2022"
+        },
+        "datasets": [
+            "EthicsDataSet2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385567",
+        "title": "Cybersecurity in the IoT Era",
+        "abstract": "This paper explores security protocols.",
+        "publicationDate": "2021-05-18",
+        "doi": "10.1000/mno678",
+        "keywords": [
+            "cybersecurity",
+            "IoT"
+        ],
+        "field": "Information Security",
+        "topicId": "IoT Security",
+        "citations": [
+            "Cited by Security Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Conference",
+            "venueId": "CSIE2021"
+        },
+        "datasets": [
+            "IoTSecurityData2021"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385568",
+        "title": "Nanotechnology in Medicine",
+        "abstract": "This paper explores nanomedicine applications.",
+        "publicationDate": "2023-07-12",
+        "doi": "10.1000/pqr901",
+        "keywords": [
+            "nanotechnology",
+            "medicine"
+        ],
+        "field": "Biomedical Engineering",
+        "topicId": "Nanomedicine",
+        "citations": [
+            "Cited by NanoTech Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "NTJ2023"
+        },
+        "datasets": [
+            "NanoMedData2023"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c5848385569",
+        "title": "Climate Change and Agriculture",
+        "abstract": "This paper explores adaptive farming techniques.",
+        "publicationDate": "2020-12-01",
+        "doi": "10.1000/stu234",
+        "keywords": [
+            "climate change",
+            "agriculture"
+        ],
+        "field": "Agricultural Science",
+        "topicId": "Adaptive Farming",
+        "citations": [
+            "Cited by Climate Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "CCA2020"
+        },
+        "datasets": [
+            "ClimateAgriData2020"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838556a",
+        "title": "5G Networks and Beyond",
+        "abstract": "This paper explores next-gen communication.",
+        "publicationDate": "2022-02-28",
+        "doi": "10.1000/vwx567",
+        "keywords": [
+            "5G",
+            "communication"
+        ],
+        "field": "Telecommunications",
+        "topicId": "Next-Gen Networks",
+        "citations": [
+            "Cited by Telecom Journal"
+        ],
+        "researchImpact": "High",
+        "venue": {
+            "type": "Journal",
+            "venueId": "TJ2022"
+        },
+        "datasets": [
+            "5GDataSet2022"
+        ]
+    },
+    {
+        "_id": "67bb827c4c721c584838556b",
+        "title": "Robotics in Manufacturing",
+        "abstract": "This paper explores automation technologies.",
+        "publicationDate": "2021-08-22",
+        "doi": "10.1000/yza890",
+        "keywords": [
+            "robotics",
+            "manufacturing"
+        ],
+        "field": "Industrial Engineering",
+        "topicId": "Automation",
+        "citations": [
+            "Cited by Manufacturing Tech Journal"
+        ],
+        "researchImpact": "Medium",
+        "venue": {
+            "type": "Conference",
+            "venueId": "RIM2021"
+        },
+        "datasets": [
+            "AutomationData2021"
+        ]
+    }
+]

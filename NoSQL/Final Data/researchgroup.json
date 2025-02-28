@@ -1,0 +1,688 @@
+[
+    {
+        "_id": "67bb83024c721c584838556c",
+        "name": "Quantum Computing Research Group",
+        "description": "A group focused on quantum computing.",
+        "formationDate": "2015-06-12",
+        "leader": "Dr. Akira Tanaka",
+        "memberCount": 25,
+        "projectCount": 10,
+        "focusArea": "Quantum Computing",
+        "grants": [
+            "Quantum Leap Initiative",
+            "National Science Foundation"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838556d",
+        "name": "AI and Robotics Lab",
+        "description": "A group focused on artificial intelligence and robotics.",
+        "formationDate": "2018-03-22",
+        "leader": "Dr. Mei Ling",
+        "memberCount": 30,
+        "projectCount": 15,
+        "focusArea": "AI and Robotics",
+        "grants": [
+            "AI Innovation Fund",
+            "Robotics Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838556e",
+        "name": "Renewable Energy Consortium",
+        "description": "A group focused on renewable energy technologies.",
+        "formationDate": "2010-11-05",
+        "leader": "Dr. Rajesh Kumar",
+        "memberCount": 40,
+        "projectCount": 20,
+        "focusArea": "Renewable Energy",
+        "grants": [
+            "Green Energy Initiative",
+            "Sustainable Power Fund"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838556f",
+        "name": "Nanotechnology Research Unit",
+        "description": "A group focused on nanotechnology advancements.",
+        "formationDate": "2012-07-18",
+        "leader": "Dr. Hiroshi Sato",
+        "memberCount": 22,
+        "projectCount": 8,
+        "focusArea": "Nanotechnology",
+        "grants": [
+            "NanoTech Research Fund",
+            "Advanced Materials Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385570",
+        "name": "Biotechnology Innovations Group",
+        "description": "A group focused on biotechnology and genetic engineering.",
+        "formationDate": "2016-01-30",
+        "leader": "Dr. Sunita Patel",
+        "memberCount": 35,
+        "projectCount": 12,
+        "focusArea": "Biotechnology",
+        "grants": [
+            "Biotech Advancement Grant",
+            "Genetic Research Fund"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385571",
+        "name": "Cybersecurity Analysis Team",
+        "description": "A group focused on cybersecurity and data protection.",
+        "formationDate": "2014-09-10",
+        "leader": "Dr. Chen Wei",
+        "memberCount": 28,
+        "projectCount": 11,
+        "focusArea": "Cybersecurity",
+        "grants": [
+            "Cyber Defense Initiative",
+            "Data Security Fund"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385572",
+        "name": "Climate Change Research Alliance",
+        "description": "A group focused on climate change and environmental studies.",
+        "formationDate": "2008-04-15",
+        "leader": "Dr. Aisha Khan",
+        "memberCount": 50,
+        "projectCount": 18,
+        "focusArea": "Climate Change",
+        "grants": [
+            "Climate Action Fund",
+            "Environmental Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385573",
+        "name": "Marine Biology Exploration Group",
+        "description": "A group focused on marine biology and oceanography.",
+        "formationDate": "2011-12-09",
+        "leader": "Dr. Kenji Yamamoto",
+        "memberCount": 20,
+        "projectCount": 9,
+        "focusArea": "Marine Biology",
+        "grants": [
+            "Oceanic Research Fund",
+            "Marine Life Conservation Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385574",
+        "name": "Astrophysics and Space Science Team",
+        "description": "A group focused on astrophysics and space exploration.",
+        "formationDate": "2013-08-25",
+        "leader": "Dr. Li Wei",
+        "memberCount": 27,
+        "projectCount": 14,
+        "focusArea": "Astrophysics",
+        "grants": [
+            "Space Exploration Grant",
+            "Astro Research Fund"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385575",
+        "name": "Cognitive Neuroscience Lab",
+        "description": "A group focused on cognitive neuroscience and brain research.",
+        "formationDate": "2017-05-14",
+        "leader": "Dr. Priya Desai",
+        "memberCount": 33,
+        "projectCount": 13,
+        "focusArea": "Cognitive Neuroscience",
+        "grants": [
+            "Neuroscience Innovation Fund",
+            "Brain Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385576",
+        "name": "Agricultural Technology Research Group",
+        "description": "A group focused on agricultural technology and food security.",
+        "formationDate": "2009-02-20",
+        "leader": "Dr. Nguyen Minh",
+        "memberCount": 45,
+        "projectCount": 16,
+        "focusArea": "Agricultural Technology",
+        "grants": [
+            "AgriTech Development Fund",
+            "Food Security Initiative"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385577",
+        "name": "Biomedical Engineering Consortium",
+        "description": "A group focused on biomedical engineering and healthcare innovation.",
+        "formationDate": "2019-11-02",
+        "leader": "Dr. Yuki Nakamura",
+        "memberCount": 29,
+        "projectCount": 10,
+        "focusArea": "Biomedical Engineering",
+        "grants": [
+            "Healthcare Innovation Grant",
+            "Biomedical Research Fund"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385578",
+        "name": "Materials Science and Engineering Team",
+        "description": "A group focused on materials science and engineering.",
+        "formationDate": "2014-06-18",
+        "leader": "Dr. Park Ji-hoon",
+        "memberCount": 31,
+        "projectCount": 17,
+        "focusArea": "Materials Science",
+        "grants": [
+            "Materials Innovation Fund",
+            "Engineering Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385579",
+        "name": "Social Sciences and Humanities Research Unit",
+        "description": "A group focused on social sciences and humanities.",
+        "formationDate": "2007-10-30",
+        "leader": "Dr. Fatima Ali",
+        "memberCount": 38,
+        "projectCount": 19,
+        "focusArea": "Social Sciences",
+        "grants": [
+            "Humanities Research Fund",
+            "Social Innovation Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838557a",
+        "name": "Environmental Engineering and Sustainability Group",
+        "description": "A group focused on environmental engineering and sustainability.",
+        "formationDate": "2011-03-12",
+        "leader": "Dr. Liu Zhang",
+        "memberCount": 36,
+        "projectCount": 15,
+        "focusArea": "Environmental Engineering",
+        "grants": [
+            "Sustainability Initiative",
+            "Environmental Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838557b",
+        "name": "Telecommunications and Networking Research Team",
+        "description": "A group focused on telecommunications and networking technologies.",
+        "formationDate": "2015-12-01",
+        "leader": "Dr. Ananda Singh",
+        "memberCount": 26,
+        "projectCount": 11,
+        "focusArea": "Telecommunications",
+        "grants": [
+            "Networking Innovation Fund",
+            "Telecom Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838557c",
+        "name": "Geospatial Science and Remote Sensing Group",
+        "description": "A group focused on geospatial science and remote sensing.",
+        "formationDate": "2013-07-23",
+        "leader": "Dr. Rina Hasegawa",
+        "memberCount": 24,
+        "projectCount": 13,
+        "focusArea": "Geospatial Science",
+        "grants": [
+            "Remote Sensing Grant",
+            "Geospatial Research Fund"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838557d",
+        "name": "Pharmaceutical Research and Development Unit",
+        "description": "A group focused on pharmaceutical research and drug development.",
+        "formationDate": "2016-09-14",
+        "leader": "Dr. Jaya Rao",
+        "memberCount": 32,
+        "projectCount": 14,
+        "focusArea": "Pharmaceutical Research",
+        "grants": [
+            "Drug Development Fund",
+            "Pharma Innovation Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838557e",
+        "name": "Data Science and Analytics Lab",
+        "description": "A group focused on data science and analytics.",
+        "formationDate": "2018-05-29",
+        "leader": "Dr. Kim Soo-jin",
+        "memberCount": 28,
+        "projectCount": 12,
+        "focusArea": "Data Science",
+        "grants": [
+            "Analytics Innovation Fund",
+            "Big Data Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838557f",
+        "name": "Artificial Intelligence Ethics Research Group",
+        "description": "A group focused on the ethics of artificial intelligence.",
+        "formationDate": "2017-11-07",
+        "leader": "Dr. David Wong",
+        "memberCount": 18,
+        "projectCount": 7,
+        "focusArea": "AI Ethics",
+        "grants": [
+            "Ethics in AI Fund",
+            "Responsible AI Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385580",
+        "name": "Urban Development and Planning Consortium",
+        "description": "A group focused on urban development and city planning.",
+        "formationDate": "2012-04-19",
+        "leader": "Dr. Maria Garcia",
+        "memberCount": 34,
+        "projectCount": 16,
+        "focusArea": "Urban Development",
+        "grants": [
+            "City Planning Grant",
+            "Urban Innovation Fund"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385581",
+        "name": "Genomics and Bioinformatics Research Team",
+        "description": "A group focused on genomics and bioinformatics.",
+        "formationDate": "2014-08-13",
+        "leader": "Dr. Ahmed El-Sayed",
+        "memberCount": 29,
+        "projectCount": 13,
+        "focusArea": "Genomics",
+        "grants": [
+            "Genomic Research Fund",
+            "Bioinformatics Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385582",
+        "name": "Cultural Heritage and Archaeology Group",
+        "description": "A group focused on cultural heritage and archaeology.",
+        "formationDate": "2009-01-25",
+        "leader": "Dr. Sofia Rossi",
+        "memberCount": 21,
+        "projectCount": 10,
+        "focusArea": "Archaeology",
+        "grants": [
+            "Cultural Heritage Fund",
+            "Archaeological Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385583",
+        "name": "Transportation Systems and Engineering Lab",
+        "description": "A group focused on transportation systems and engineering.",
+        "formationDate": "2011-11-17",
+        "leader": "Dr. Lee Min-ho",
+        "memberCount": 37,
+        "projectCount": 15,
+        "focusArea": "Transportation Engineering",
+        "grants": [
+            "Transport Innovation Fund",
+            "Engineering Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385584",
+        "name": "Water Resources and Hydrology Research Team",
+        "description": "A group focused on water resources and hydrology.",
+        "formationDate": "2013-03-05",
+        "leader": "Dr. Elena Petrova",
+        "memberCount": 27,
+        "projectCount": 12,
+        "focusArea": "Hydrology",
+        "grants": [
+            "Water Research Fund",
+            "Hydrological Study Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385585",
+        "name": "Food Science and Nutrition Group",
+        "description": "A group focused on food science and nutrition.",
+        "formationDate": "2015-07-30",
+        "leader": "Dr. Hassan Ali",
+        "memberCount": 33,
+        "projectCount": 14,
+        "focusArea": "Food Science",
+        "grants": [
+            "Nutrition Research Fund",
+            "Food Innovation Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385586",
+        "name": "Human-Computer Interaction Lab",
+        "description": "A group focused on human-computer interaction.",
+        "formationDate": "2017-10-21",
+        "leader": "Dr. Emily Chen",
+        "memberCount": 25,
+        "projectCount": 11,
+        "focusArea": "HCI",
+        "grants": [
+            "HCI Innovation Fund",
+            "User Experience Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385587",
+        "name": "Renewable Materials Research Consortium",
+        "description": "A group focused on renewable materials and sustainability.",
+        "formationDate": "2010-02-11",
+        "leader": "Dr. Oscar Martinez",
+        "memberCount": 41,
+        "projectCount": 17,
+        "focusArea": "Renewable Materials",
+        "grants": [
+            "Sustainable Materials Fund",
+            "Green Innovation Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385588",
+        "name": "Behavioral Economics and Decision Making Group",
+        "description": "A group focused on behavioral economics and decision making.",
+        "formationDate": "2018-06-06",
+        "leader": "Dr. Sarah Johnson",
+        "memberCount": 30,
+        "projectCount": 13,
+        "focusArea": "Behavioral Economics",
+        "grants": [
+            "Decision Making Research Fund",
+            "Behavioral Science Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385589",
+        "name": "Structural Engineering and Mechanics Lab",
+        "description": "A group focused on structural engineering and mechanics.",
+        "formationDate": "2012-09-28",
+        "leader": "Dr. Ivan Petrov",
+        "memberCount": 35,
+        "projectCount": 16,
+        "focusArea": "Structural Engineering",
+        "grants": [
+            "Engineering Innovation Fund",
+            "Structural Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838558a",
+        "name": "Educational Technology and Learning Sciences Team",
+        "description": "A group focused on educational technology and learning sciences.",
+        "formationDate": "2016-12-15",
+        "leader": "Dr. Rachel Lee",
+        "memberCount": 28,
+        "projectCount": 12,
+        "focusArea": "Educational Technology",
+        "grants": [
+            "Learning Innovation Fund",
+            "EdTech Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838558b",
+        "name": "Microbiology and Infectious Diseases Research Group",
+        "description": "A group focused on microbiology and infectious diseases.",
+        "formationDate": "2014-05-09",
+        "leader": "Dr. Tomoko Suzuki",
+        "memberCount": 32,
+        "projectCount": 14,
+        "focusArea": "Microbiology",
+        "grants": [
+            "Infectious Diseases Fund",
+            "Microbial Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838558c",
+        "name": "Machine Learning and Data Mining Lab",
+        "description": "A group focused on machine learning and data mining.",
+        "formationDate": "2019-08-01",
+        "leader": "Dr. Carlos Rodriguez",
+        "memberCount": 26,
+        "projectCount": 10,
+        "focusArea": "Machine Learning",
+        "grants": [
+            "Data Mining Fund",
+            "AI Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838558d",
+        "name": "Oceanography and Marine Science Consortium",
+        "description": "A group focused on oceanography and marine science.",
+        "formationDate": "2011-01-19",
+        "leader": "Dr. Linda Kim",
+        "memberCount": 22,
+        "projectCount": 9,
+        "focusArea": "Oceanography",
+        "grants": [
+            "Marine Science Fund",
+            "Ocean Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838558e",
+        "name": "Quantum Physics and Theoretical Research Team",
+        "description": "A group focused on quantum physics and theoretical research.",
+        "formationDate": "2013-10-03",
+        "leader": "Dr. Anil Mehta",
+        "memberCount": 24,
+        "projectCount": 13,
+        "focusArea": "Quantum Physics",
+        "grants": [
+            "Theoretical Physics Fund",
+            "Quantum Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838558f",
+        "name": "Ecology and Biodiversity Research Group",
+        "description": "A group focused on ecology and biodiversity.",
+        "formationDate": "2015-03-27",
+        "leader": "Dr. Isabella Wang",
+        "memberCount": 36,
+        "projectCount": 15,
+        "focusArea": "Ecology",
+        "grants": [
+            "Biodiversity Conservation Fund",
+            "Ecological Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385590",
+        "name": "Information Systems and Technology Innovation Lab",
+        "description": "A group focused on information systems and technology innovation.",
+        "formationDate": "2017-07-11",
+        "leader": "Dr. Robert Lee",
+        "memberCount": 29,
+        "projectCount": 11,
+        "focusArea": "Information Systems",
+        "grants": [
+            "Tech Innovation Fund",
+            "Information Systems Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385591",
+        "name": "Cognitive Psychology and Human Behavior Team",
+        "description": "A group focused on cognitive psychology and human behavior.",
+        "formationDate": "2010-11-22",
+        "leader": "Dr. Laura Smith",
+        "memberCount": 31,
+        "projectCount": 13,
+        "focusArea": "Cognitive Psychology",
+        "grants": [
+            "Behavioral Research Fund",
+            "Cognitive Science Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385592",
+        "name": "Chemical Engineering and Process Optimization Group",
+        "description": "A group focused on chemical engineering and process optimization.",
+        "formationDate": "2012-06-16",
+        "leader": "Dr. Chen Li",
+        "memberCount": 38,
+        "projectCount": 16,
+        "focusArea": "Chemical Engineering",
+        "grants": [
+            "Process Optimization Fund",
+            "Chemical Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385593",
+        "name": "Astronomy and Space Exploration Research Team",
+        "description": "A group focused on astronomy and space exploration.",
+        "formationDate": "2014-12-04",
+        "leader": "Dr. Maria Gonzalez",
+        "memberCount": 25,
+        "projectCount": 12,
+        "focusArea": "Astronomy",
+        "grants": [
+            "Space Research Fund",
+            "Astronomical Studies Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385594",
+        "name": "Advanced Robotics and Automation Lab",
+        "description": "A group focused on advanced robotics and automation.",
+        "formationDate": "2016-09-20",
+        "leader": "Dr. Hiroshi Nakamura",
+        "memberCount": 34,
+        "projectCount": 14,
+        "focusArea": "Robotics",
+        "grants": [
+            "Automation Innovation Fund",
+            "Robotics Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385595",
+        "name": "Environmental Science and Policy Research Group",
+        "description": "A group focused on environmental science and policy.",
+        "formationDate": "2018-02-28",
+        "leader": "Dr. Sarah Ahmed",
+        "memberCount": 27,
+        "projectCount": 11,
+        "focusArea": "Environmental Science",
+        "grants": [
+            "Policy Research Fund",
+            "Environmental Studies Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385596",
+        "name": "Genetic Engineering and Biotechnology Lab",
+        "description": "A group focused on genetic engineering and biotechnology.",
+        "formationDate": "2011-08-14",
+        "leader": "Dr. Ahmed Khan",
+        "memberCount": 30,
+        "projectCount": 13,
+        "focusArea": "Genetic Engineering",
+        "grants": [
+            "Biotech Innovation Fund",
+            "Genetic Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385597",
+        "name": "Civil Engineering and Infrastructure Development Team",
+        "description": "A group focused on civil engineering and infrastructure development.",
+        "formationDate": "2013-05-02",
+        "leader": "Dr. Li Wei",
+        "memberCount": 39,
+        "projectCount": 15,
+        "focusArea": "Civil Engineering",
+        "grants": [
+            "Infrastructure Development Fund",
+            "Civil Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385598",
+        "name": "Neuroscience and Cognitive Research Consortium",
+        "description": "A group focused on neuroscience and cognitive research.",
+        "formationDate": "2015-10-19",
+        "leader": "Dr. Emily Park",
+        "memberCount": 32,
+        "projectCount": 14,
+        "focusArea": "Neuroscience",
+        "grants": [
+            "Cognitive Research Fund",
+            "Neuroscience Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c5848385599",
+        "name": "Energy Systems and Sustainability Lab",
+        "description": "A group focused on energy systems and sustainability.",
+        "formationDate": "2017-04-25",
+        "leader": "Dr. Kenji Tanaka",
+        "memberCount": 31,
+        "projectCount": 12,
+        "focusArea": "Energy Systems",
+        "grants": [
+            "Sustainable Energy Fund",
+            "Energy Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838559a",
+        "name": "Cultural Studies and Anthropology Group",
+        "description": "A group focused on cultural studies and anthropology.",
+        "formationDate": "2010-09-08",
+        "leader": "Dr. Fatima Khan",
+        "memberCount": 23,
+        "projectCount": 10,
+        "focusArea": "Cultural Studies",
+        "grants": [
+            "Anthropology Research Fund",
+            "Cultural Studies Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838559b",
+        "name": "Health Informatics and Data Science Team",
+        "description": "A group focused on health informatics and data science.",
+        "formationDate": "2012-12-21",
+        "leader": "Dr. David Kim",
+        "memberCount": 29,
+        "projectCount": 13,
+        "focusArea": "Health Informatics",
+        "grants": [
+            "Health Data Fund",
+            "Informatics Research Grant"
+        ]
+    },
+    {
+        "_id": "67bb83024c721c584838559c",
+        "name": "Sociology and Social Policy Research Group",
+        "description": "A group focused on sociology and social policy.",
+        "formationDate": "2014-07-16",
+        "leader": "Dr. Maria Lopez",
+        "memberCount": 28,
+        "projectCount": 11,
+        "focusArea": "Sociology",
+        "grants": [
+            "Social Policy Fund",
+            "Sociological Research Grant"
+        ]
+    }
+]

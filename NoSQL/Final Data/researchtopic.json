@@ -1,0 +1,402 @@
+[
+    {
+        "_id": "67bb83a94c721c58483855e3",
+        "name": "Artificial Intelligence",
+        "description": "Research focused on machine learning and neural networks.",
+        "popularityScore": 89,
+        "trendIndex": 95,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855e4",
+        "name": "Quantum Computing",
+        "description": "Research focused on quantum algorithms and computational models.",
+        "popularityScore": 78,
+        "trendIndex": 88,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855e5",
+        "name": "Renewable Energy",
+        "description": "Research focused on solar, wind, and geothermal energy sources.",
+        "popularityScore": 85,
+        "trendIndex": 92,
+        "parentTopicId": "Environment"
+    },
+    {
+        "_id": "67bb83a94c721c58483855e6",
+        "name": "Climate Change",
+        "description": "Research focused on global warming and environmental impact.",
+        "popularityScore": 91,
+        "trendIndex": 97,
+        "parentTopicId": "Environment"
+    },
+    {
+        "_id": "67bb83a94c721c58483855e7",
+        "name": "Cybersecurity",
+        "description": "Research focused on protecting networks and data from cyber threats.",
+        "popularityScore": 83,
+        "trendIndex": 89,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855e8",
+        "name": "Nanotechnology",
+        "description": "Research focused on manipulating matter at the nanoscale.",
+        "popularityScore": 77,
+        "trendIndex": 84,
+        "parentTopicId": "Science"
+    },
+    {
+        "_id": "67bb83a94c721c58483855e9",
+        "name": "Genomics",
+        "description": "Research focused on mapping and editing genomes.",
+        "popularityScore": 80,
+        "trendIndex": 86,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855ea",
+        "name": "Blockchain Technology",
+        "description": "Research focused on decentralized ledgers and cryptocurrencies.",
+        "popularityScore": 82,
+        "trendIndex": 90,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855eb",
+        "name": "Biotechnology",
+        "description": "Research focused on using biological processes for technological advancement.",
+        "popularityScore": 79,
+        "trendIndex": 85,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855ec",
+        "name": "Astrophysics",
+        "description": "Research focused on the physical properties of celestial objects.",
+        "popularityScore": 75,
+        "trendIndex": 82,
+        "parentTopicId": "Science"
+    },
+    {
+        "_id": "67bb83a94c721c58483855ed",
+        "name": "Robotics",
+        "description": "Research focused on designing and building robots.",
+        "popularityScore": 84,
+        "trendIndex": 91,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855ee",
+        "name": "Machine Learning",
+        "description": "Research focused on algorithms that learn from data.",
+        "popularityScore": 90,
+        "trendIndex": 96,
+        "parentTopicId": "Artificial Intelligence"
+    },
+    {
+        "_id": "67bb83a94c721c58483855ef",
+        "name": "Neuroscience",
+        "description": "Research focused on the nervous system and brain functions.",
+        "popularityScore": 81,
+        "trendIndex": 87,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f0",
+        "name": "Materials Science",
+        "description": "Research focused on the properties of matter and materials.",
+        "popularityScore": 76,
+        "trendIndex": 83,
+        "parentTopicId": "Science"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f1",
+        "name": "Social Media Analysis",
+        "description": "Research focused on trends and behaviors on social platforms.",
+        "popularityScore": 74,
+        "trendIndex": 80,
+        "parentTopicId": "Social Sciences"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f2",
+        "name": "Virtual Reality",
+        "description": "Research focused on immersive digital environments.",
+        "popularityScore": 86,
+        "trendIndex": 93,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f3",
+        "name": "Augmented Reality",
+        "description": "Research focused on overlaying digital information on the real world.",
+        "popularityScore": 87,
+        "trendIndex": 94,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f4",
+        "name": "5G Technology",
+        "description": "Research focused on the next generation of mobile networks.",
+        "popularityScore": 88,
+        "trendIndex": 95,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f5",
+        "name": "Internet of Things",
+        "description": "Research focused on interconnected devices and smart systems.",
+        "popularityScore": 83,
+        "trendIndex": 89,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f6",
+        "name": "Big Data",
+        "description": "Research focused on processing and analyzing large datasets.",
+        "popularityScore": 82,
+        "trendIndex": 88,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f7",
+        "name": "Epidemiology",
+        "description": "Research focused on the spread and control of diseases.",
+        "popularityScore": 80,
+        "trendIndex": 86,
+        "parentTopicId": "Medicine"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f8",
+        "name": "Public Health",
+        "description": "Research focused on health policies and community health.",
+        "popularityScore": 79,
+        "trendIndex": 85,
+        "parentTopicId": "Medicine"
+    },
+    {
+        "_id": "67bb83a94c721c58483855f9",
+        "name": "Space Exploration",
+        "description": "Research focused on exploring outer space and celestial bodies.",
+        "popularityScore": 78,
+        "trendIndex": 84,
+        "parentTopicId": "Science"
+    },
+    {
+        "_id": "67bb83a94c721c58483855fa",
+        "name": "Agricultural Technology",
+        "description": "Research focused on improving farming and crop production.",
+        "popularityScore": 77,
+        "trendIndex": 83,
+        "parentTopicId": "Agriculture"
+    },
+    {
+        "_id": "67bb83a94c721c58483855fb",
+        "name": "Marine Biology",
+        "description": "Research focused on oceanic ecosystems and marine life.",
+        "popularityScore": 76,
+        "trendIndex": 82,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855fc",
+        "name": "Human-Computer Interaction",
+        "description": "Research focused on the design of user interfaces and experiences.",
+        "popularityScore": 75,
+        "trendIndex": 81,
+        "parentTopicId": "Technology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855fd",
+        "name": "Cognitive Science",
+        "description": "Research focused on understanding thought processes and perception.",
+        "popularityScore": 74,
+        "trendIndex": 80,
+        "parentTopicId": "Psychology"
+    },
+    {
+        "_id": "67bb83a94c721c58483855fe",
+        "name": "Urban Planning",
+        "description": "Research focused on the development and design of urban areas.",
+        "popularityScore": 73,
+        "trendIndex": 79,
+        "parentTopicId": "Social Sciences"
+    },
+    {
+        "_id": "67bb83a94c721c58483855ff",
+        "name": "Sustainable Development",
+        "description": "Research focused on meeting human development goals sustainably.",
+        "popularityScore": 72,
+        "trendIndex": 78,
+        "parentTopicId": "Environment"
+    },
+    {
+        "_id": "67bb83a94c721c5848385600",
+        "name": "Educational Technology",
+        "description": "Research focused on digital tools and methods in education.",
+        "popularityScore": 71,
+        "trendIndex": 77,
+        "parentTopicId": "Education"
+    },
+    {
+        "_id": "67bb83a94c721c5848385601",
+        "name": "Behavioral Economics",
+        "description": "Research focused on psychological factors in economic decisions.",
+        "popularityScore": 70,
+        "trendIndex": 76,
+        "parentTopicId": "Economics"
+    },
+    {
+        "_id": "67bb83a94c721c5848385602",
+        "name": "Artificial Life",
+        "description": "Research focused on synthetic biology and life-like systems.",
+        "popularityScore": 69,
+        "trendIndex": 75,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c5848385603",
+        "name": "Cultural Studies",
+        "description": "Research focused on cultural phenomena and societal impacts.",
+        "popularityScore": 68,
+        "trendIndex": 74,
+        "parentTopicId": "Social Sciences"
+    },
+    {
+        "_id": "67bb83a94c721c5848385604",
+        "name": "Linguistics",
+        "description": "Research focused on language structure and development.",
+        "popularityScore": 67,
+        "trendIndex": 73,
+        "parentTopicId": "Social Sciences"
+    },
+    {
+        "_id": "67bb83a94c721c5848385605",
+        "name": "Ethics in Technology",
+        "description": "Research focused on moral issues in technological advancements.",
+        "popularityScore": 66,
+        "trendIndex": 72,
+        "parentTopicId": "Philosophy"
+    },
+    {
+        "_id": "67bb83a94c721c5848385606",
+        "name": "Pharmacology",
+        "description": "Research focused on drug action and development.",
+        "popularityScore": 65,
+        "trendIndex": 71,
+        "parentTopicId": "Medicine"
+    },
+    {
+        "_id": "67bb83a94c721c5848385607",
+        "name": "Artificial Consciousness",
+        "description": "Research focused on creating machines with awareness.",
+        "popularityScore": 64,
+        "trendIndex": 70,
+        "parentTopicId": "Artificial Intelligence"
+    },
+    {
+        "_id": "67bb83a94c721c5848385608",
+        "name": "Environmental Psychology",
+        "description": "Research focused on human interaction with the environment.",
+        "popularityScore": 63,
+        "trendIndex": 69,
+        "parentTopicId": "Psychology"
+    },
+    {
+        "_id": "67bb83a94c721c5848385609",
+        "name": "Paleontology",
+        "description": "Research focused on the history of life on Earth through fossils.",
+        "popularityScore": 62,
+        "trendIndex": 68,
+        "parentTopicId": "Science"
+    },
+    {
+        "_id": "67bb83a94c721c584838560a",
+        "name": "Astrobiology",
+        "description": "Research focused on the potential for life beyond Earth.",
+        "popularityScore": 61,
+        "trendIndex": 67,
+        "parentTopicId": "Science"
+    },
+    {
+        "_id": "67bb83a94c721c584838560b",
+        "name": "Quantum Biology",
+        "description": "Research focused on quantum phenomena in biological systems.",
+        "popularityScore": 60,
+        "trendIndex": 66,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c584838560c",
+        "name": "Bioinformatics",
+        "description": "Research focused on computational analysis of biological data.",
+        "popularityScore": 59,
+        "trendIndex": 65,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c584838560d",
+        "name": "Digital Humanities",
+        "description": "Research focused on the intersection of digital technology and humanities.",
+        "popularityScore": 58,
+        "trendIndex": 64,
+        "parentTopicId": "Humanities"
+    },
+    {
+        "_id": "67bb83a94c721c584838560e",
+        "name": "Cognitive Robotics",
+        "description": "Research focused on robots with cognitive capabilities.",
+        "popularityScore": 57,
+        "trendIndex": 63,
+        "parentTopicId": "Robotics"
+    },
+    {
+        "_id": "67bb83a94c721c584838560f",
+        "name": "Hydrology",
+        "description": "Research focused on the distribution and movement of water.",
+        "popularityScore": 56,
+        "trendIndex": 62,
+        "parentTopicId": "Environment"
+    },
+    {
+        "_id": "67bb83a94c721c5848385610",
+        "name": "Telemedicine",
+        "description": "Research focused on remote diagnosis and treatment of patients.",
+        "popularityScore": 55,
+        "trendIndex": 61,
+        "parentTopicId": "Medicine"
+    },
+    {
+        "_id": "67bb83a94c721c5848385611",
+        "name": "Aerodynamics",
+        "description": "Research focused on the behavior of air as it interacts with solid objects.",
+        "popularityScore": 54,
+        "trendIndex": 60,
+        "parentTopicId": "Physics"
+    },
+    {
+        "_id": "67bb83a94c721c5848385612",
+        "name": "Cultural Heritage Preservation",
+        "description": "Research focused on maintaining and protecting cultural artifacts.",
+        "popularityScore": 53,
+        "trendIndex": 59,
+        "parentTopicId": "Humanities"
+    },
+    {
+        "_id": "67bb83a94c721c5848385613",
+        "name": "Fungal Biology",
+        "description": "Research focused on the study of fungi and their ecological roles.",
+        "popularityScore": 52,
+        "trendIndex": 58,
+        "parentTopicId": "Biology"
+    },
+    {
+        "_id": "67bb83a94c721c5848385614",
+        "name": "Nuclear Physics",
+        "description": "Research focused on the components and behavior of atomic nuclei.",
+        "popularityScore": 51,
+        "trendIndex": 57,
+        "parentTopicId": "Physics"
+    }
+]

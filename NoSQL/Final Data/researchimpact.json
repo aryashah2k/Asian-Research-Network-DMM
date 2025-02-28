@@ -1,0 +1,2702 @@
+[
+    {
+        "_id": "67bb8a384c721c58483858d0",
+        "description": "Impact of renewable energy adoption in urban areas",
+        "publicationId": "PUB-001",
+        "field": "Environmental Science",
+        "citationScore": 72,
+        "fieldWeightImpact": 1.5,
+        "industryImpact": 3.2
+    },
+    {
+        "_id": "67bb8a384c721c58483858d1",
+        "description": "Impact of AI in healthcare diagnostics",
+        "publicationId": "PUB-002",
+        "field": "Healthcare",
+        "citationScore": 88,
+        "fieldWeightImpact": 2.3,
+        "industryImpact": 4.1
+    },
+    {
+        "_id": "67bb8a384c721c58483858d2",
+        "description": "Impact of climate change on agriculture",
+        "publicationId": "PUB-003",
+        "field": "Agriculture",
+        "citationScore": 65,
+        "fieldWeightImpact": 1.8,
+        "industryImpact": 2.9
+    },
+    {
+        "_id": "67bb8a384c721c58483858d3",
+        "description": "Impact of blockchain on financial services",
+        "publicationId": "PUB-004",
+        "field": "Finance",
+        "citationScore": 77,
+        "fieldWeightImpact": 2.0,
+        "industryImpact": 3.8
+    },
+    {
+        "_id": "67bb8a384c721c58483858d4",
+        "description": "Impact of social media on youth mental health",
+        "publicationId": "PUB-005",
+        "field": "Psychology",
+        "citationScore": 71,
+        "fieldWeightImpact": 1.9,
+        "industryImpact": 3.0
+    },
+    {
+        "_id": "67bb8a384c721c58483858d5",
+        "description": "Impact of nanotechnology in drug delivery systems",
+        "publicationId": "PUB-006",
+        "field": "Pharmaceuticals",
+        "citationScore": 85,
+        "fieldWeightImpact": 2.5,
+        "industryImpact": 4.5
+    },
+    {
+        "_id": "67bb8a384c721c58483858d6",
+        "description": "Impact of 5G technology on telecommunications",
+        "publicationId": "PUB-007",
+        "field": "Telecommunications",
+        "citationScore": 79,
+        "fieldWeightImpact": 2.1,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c58483858d7",
+        "description": "Impact of dietary habits on cardiovascular health",
+        "publicationId": "PUB-008",
+        "field": "Nutrition",
+        "citationScore": 68,
+        "fieldWeightImpact": 1.7,
+        "industryImpact": 3.1
+    },
+    {
+        "_id": "67bb8a384c721c58483858d8",
+        "description": "Impact of automation on manufacturing efficiency",
+        "publicationId": "PUB-009",
+        "field": "Manufacturing",
+        "citationScore": 82,
+        "fieldWeightImpact": 2.4,
+        "industryImpact": 4.2
+    },
+    {
+        "_id": "67bb8a384c721c58483858d9",
+        "description": "Impact of education technology in remote learning",
+        "publicationId": "PUB-010",
+        "field": "Education",
+        "citationScore": 74,
+        "fieldWeightImpact": 2.0,
+        "industryImpact": 3.5
+    },
+    {
+        "_id": "67bb8a384c721c58483858da",
+        "description": "Impact of pollution on urban biodiversity",
+        "publicationId": "PUB-011",
+        "field": "Ecology",
+        "citationScore": 69,
+        "fieldWeightImpact": 1.6,
+        "industryImpact": 2.8
+    },
+    {
+        "_id": "67bb8a384c721c58483858db",
+        "description": "Impact of cybersecurity measures on data protection",
+        "publicationId": "PUB-012",
+        "field": "Information Technology",
+        "citationScore": 83,
+        "fieldWeightImpact": 2.3,
+        "industryImpact": 4.3
+    },
+    {
+        "_id": "67bb8a384c721c58483858dc",
+        "description": "Impact of genetic engineering on crop yield",
+        "publicationId": "PUB-013",
+        "field": "Biotechnology",
+        "citationScore": 76,
+        "fieldWeightImpact": 2.1,
+        "industryImpact": 3.7
+    },
+    {
+        "_id": "67bb8a384c721c58483858dd",
+        "description": "Impact of renewable resources on energy policy",
+        "publicationId": "PUB-014",
+        "field": "Energy Policy",
+        "citationScore": 81,
+        "fieldWeightImpact": 2.2,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c58483858de",
+        "description": "Impact of urban planning on sustainable cities",
+        "publicationId": "PUB-015",
+        "field": "Urban Studies",
+        "citationScore": 70,
+        "fieldWeightImpact": 1.9,
+        "industryImpact": 3.2
+    },
+    {
+        "_id": "67bb8a384c721c58483858df",
+        "description": "Impact of virtual reality in education",
+        "publicationId": "PUB-016",
+        "field": "Educational Technology",
+        "citationScore": 78,
+        "fieldWeightImpact": 2.0,
+        "industryImpact": 3.9
+    },
+    {
+        "_id": "67bb8a384c721c58483858e0",
+        "description": "Impact of internet of things on smart homes",
+        "publicationId": "PUB-017",
+        "field": "Smart Technology",
+        "citationScore": 80,
+        "fieldWeightImpact": 2.3,
+        "industryImpact": 4.1
+    },
+    {
+        "_id": "67bb8a384c721c58483858e1",
+        "description": "Impact of global trade policies on local economies",
+        "publicationId": "PUB-018",
+        "field": "Economics",
+        "citationScore": 73,
+        "fieldWeightImpact": 1.8,
+        "industryImpact": 3.4
+    },
+    {
+        "_id": "67bb8a384c721c58483858e2",
+        "description": "Impact of artificial intelligence on job markets",
+        "publicationId": "PUB-019",
+        "field": "Labor Studies",
+        "citationScore": 75,
+        "fieldWeightImpact": 2.1,
+        "industryImpact": 3.6
+    },
+    {
+        "_id": "67bb8a384c721c58483858e3",
+        "description": "Impact of marine conservation on biodiversity",
+        "publicationId": "PUB-020",
+        "field": "Marine Biology",
+        "citationScore": 67,
+        "fieldWeightImpact": 1.7,
+        "industryImpact": 3.0
+    },
+    {
+        "_id": "67bb8a384c721c58483858e4",
+        "description": "Impact of big data analytics in retail",
+        "publicationId": "PUB-021",
+        "field": "Retail Management",
+        "citationScore": 84,
+        "fieldWeightImpact": 2.4,
+        "industryImpact": 4.4
+    },
+    {
+        "_id": "67bb8a384c721c58483858e5",
+        "description": "Impact of climate policies on carbon emissions",
+        "publicationId": "PUB-022",
+        "field": "Environmental Policy",
+        "citationScore": 86,
+        "fieldWeightImpact": 2.5,
+        "industryImpact": 4.2
+    },
+    {
+        "_id": "67bb8a384c721c58483858e6",
+        "description": "Impact of digital currencies on global finance",
+        "publicationId": "PUB-023",
+        "field": "Cryptocurrency",
+        "citationScore": 87,
+        "fieldWeightImpact": 2.6,
+        "industryImpact": 4.3
+    },
+    {
+        "_id": "67bb8a384c721c58483858e7",
+        "description": "Impact of mental health awareness in workplaces",
+        "publicationId": "PUB-024",
+        "field": "Occupational Health",
+        "citationScore": 66,
+        "fieldWeightImpact": 1.6,
+        "industryImpact": 2.9
+    },
+    {
+        "_id": "67bb8a384c721c58483858e8",
+        "description": "Impact of renewable materials in construction",
+        "publicationId": "PUB-025",
+        "field": "Construction Engineering",
+        "citationScore": 79,
+        "fieldWeightImpact": 2.2,
+        "industryImpact": 3.8
+    },
+    {
+        "_id": "67bb8a384c721c58483858e9",
+        "description": "Impact of cultural heritage on tourism",
+        "publicationId": "PUB-026",
+        "field": "Tourism Studies",
+        "citationScore": 72,
+        "fieldWeightImpact": 1.9,
+        "industryImpact": 3.3
+    },
+    {
+        "_id": "67bb8a384c721c58483858ea",
+        "description": "Impact of remote work on productivity",
+        "publicationId": "PUB-027",
+        "field": "Human Resources",
+        "citationScore": 77,
+        "fieldWeightImpact": 2.0,
+        "industryImpact": 3.7
+    },
+    {
+        "_id": "67bb8a384c721c58483858eb",
+        "description": "Impact of biodiversity loss on ecosystem services",
+        "publicationId": "PUB-028",
+        "field": "Ecology",
+        "citationScore": 68,
+        "fieldWeightImpact": 1.7,
+        "industryImpact": 3.1
+    },
+    {
+        "_id": "67bb8a384c721c58483858ec",
+        "description": "Impact of space exploration on technology advancement",
+        "publicationId": "PUB-029",
+        "field": "Aerospace Engineering",
+        "citationScore": 85,
+        "fieldWeightImpact": 2.5,
+        "industryImpact": 4.5
+    },
+    {
+        "_id": "67bb8a384c721c58483858ed",
+        "description": "Impact of digital marketing on consumer behavior",
+        "publicationId": "PUB-030",
+        "field": "Marketing",
+        "citationScore": 81,
+        "fieldWeightImpact": 2.3,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c58483858ee",
+        "description": "Impact of urbanization on water resources",
+        "publicationId": "PUB-031",
+        "field": "Hydrology",
+        "citationScore": 74,
+        "fieldWeightImpact": 1.8,
+        "industryImpact": 3.4
+    },
+    {
+        "_id": "67bb8a384c721c58483858ef",
+        "description": "Impact of telemedicine on rural healthcare",
+        "publicationId": "PUB-032",
+        "field": "Telemedicine",
+        "citationScore": 82,
+        "fieldWeightImpact": 2.4,
+        "industryImpact": 4.2
+    },
+    {
+        "_id": "67bb8a384c721c58483858f0",
+        "description": "Impact of policy reforms on education quality",
+        "publicationId": "PUB-033",
+        "field": "Education Policy",
+        "citationScore": 69,
+        "fieldWeightImpact": 1.9,
+        "industryImpact": 3.2
+    },
+    {
+        "_id": "67bb8a384c721c58483858f1",
+        "description": "Impact of robotics in manufacturing industries",
+        "publicationId": "PUB-034",
+        "field": "Robotics",
+        "citationScore": 83,
+        "fieldWeightImpact": 2.3,
+        "industryImpact": 4.3
+    },
+    {
+        "_id": "67bb8a384c721c58483858f2",
+        "description": "Impact of climate adaptation strategies on agriculture",
+        "publicationId": "PUB-035",
+        "field": "Agricultural Science",
+        "citationScore": 76,
+        "fieldWeightImpact": 2.0,
+        "industryImpact": 3.6
+    },
+    {
+        "_id": "67bb8a384c721c58483858f3",
+        "description": "Impact of digital transformation on business models",
+        "publicationId": "PUB-036",
+        "field": "Business Management",
+        "citationScore": 78,
+        "fieldWeightImpact": 2.1,
+        "industryImpact": 3.9
+    },
+    {
+        "_id": "67bb8a384c721c58483858f4",
+        "description": "Impact of air quality on public health",
+        "publicationId": "PUB-037",
+        "field": "Public Health",
+        "citationScore": 70,
+        "fieldWeightImpact": 1.8,
+        "industryImpact": 3.1
+    },
+    {
+        "_id": "67bb8a384c721c58483858f5",
+        "description": "Impact of renewable energy on grid stability",
+        "publicationId": "PUB-038",
+        "field": "Electrical Engineering",
+        "citationScore": 84,
+        "fieldWeightImpact": 2.4,
+        "industryImpact": 4.4
+    },
+    {
+        "_id": "67bb8a384c721c58483858f6",
+        "description": "Impact of transportation infrastructure on urban growth",
+        "publicationId": "PUB-039",
+        "field": "Civil Engineering",
+        "citationScore": 73,
+        "fieldWeightImpact": 1.9,
+        "industryImpact": 3.3
+    },
+    {
+        "_id": "67bb8a384c721c58483858f7",
+        "description": "Impact of e-commerce on traditional retail",
+        "publicationId": "PUB-040",
+        "field": "Retail Studies",
+        "citationScore": 80,
+        "fieldWeightImpact": 2.2,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c58483858f8",
+        "description": "Impact of biodiversity conservation on ecosystem resilience",
+        "publicationId": "PUB-041",
+        "field": "Conservation Biology",
+        "citationScore": 75,
+        "fieldWeightImpact": 2.0,
+        "industryImpact": 3.5
+    },
+    {
+        "_id": "67bb8a384c721c58483858f9",
+        "description": "Impact of virtual teams on organizational culture",
+        "publicationId": "PUB-042",
+        "field": "Organizational Behavior",
+        "citationScore": 77,
+        "fieldWeightImpact": 2.1,
+        "industryImpact": 3.7
+    },
+    {
+        "_id": "67bb8a384c721c58483858fa",
+        "description": "Impact of renewable energy investments on economic growth",
+        "publicationId": "PUB-043",
+        "field": "Economics",
+        "citationScore": 86,
+        "fieldWeightImpact": 2.5,
+        "industryImpact": 4.2
+    },
+    {
+        "_id": "67bb8a384c721c58483858fb",
+        "description": "Impact of artificial intelligence on supply chain management",
+        "publicationId": "PUB-044",
+        "field": "Supply Chain Management",
+        "citationScore": 88,
+        "fieldWeightImpact": 2.6,
+        "industryImpact": 4.3
+    },
+    {
+        "_id": "67bb8a384c721c58483858fc",
+        "description": "Impact of sustainable practices on corporate reputation",
+        "publicationId": "PUB-045",
+        "field": "Corporate Social Responsibility",
+        "citationScore": 79,
+        "fieldWeightImpact": 2.2,
+        "industryImpact": 3.8
+    },
+    {
+        "_id": "67bb8a384c721c58483858fd",
+        "description": "Impact of climate change on water scarcity",
+        "publicationId": "PUB-046",
+        "field": "Environmental Science",
+        "citationScore": 82,
+        "fieldWeightImpact": 2.3,
+        "industryImpact": 4.1
+    },
+    {
+        "_id": "67bb8a384c721c58483858fe",
+        "description": "Impact of digital health technologies on patient outcomes",
+        "publicationId": "PUB-047",
+        "field": "Healthcare Technology",
+        "citationScore": 85,
+        "fieldWeightImpact": 2.5,
+        "industryImpact": 4.5
+    },
+    {
+        "_id": "67bb8a384c721c58483858ff",
+        "description": "Impact of renewable energy policies on carbon footprint",
+        "publicationId": "PUB-048",
+        "field": "Environmental Policy",
+        "citationScore": 81,
+        "fieldWeightImpact": 2.2,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385900",
+        "description": "Impact of AI-driven automation on industry 4.0",
+        "publicationId": "PUB-049",
+        "field": "Industrial Engineering",
+        "citationScore": 87,
+        "fieldWeightImpact": 2.6,
+        "industryImpact": 4.4
+    },
+    {
+        "_id": "67bb8a384c721c5848385901",
+        "description": "Impact of climate resilience on urban infrastructure",
+        "publicationId": "PUB-050",
+        "field": "Urban Planning",
+        "citationScore": 74,
+        "fieldWeightImpact": 1.9,
+        "industryImpact": 3.4
+    },
+    {
+        "_id": "67bb8a384c721c5848385902",
+        "description": "Impact of renewable energy adoption",
+        "publicationId": "Pub001",
+        "field": "Environmental Science",
+        "citationScore": 45,
+        "fieldWeightImpact": 3.5,
+        "industryImpact": 4.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385903",
+        "description": "Impact of AI in healthcare diagnostics",
+        "publicationId": "Pub002",
+        "field": "Healthcare",
+        "citationScore": 78,
+        "fieldWeightImpact": 4.8,
+        "industryImpact": 5.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385904",
+        "description": "Impact of blockchain on financial transactions",
+        "publicationId": "Pub003",
+        "field": "Finance",
+        "citationScore": 62,
+        "fieldWeightImpact": 4.0,
+        "industryImpact": 4.7
+    },
+    {
+        "_id": "67bb8a384c721c5848385905",
+        "description": "Impact of climate change on agriculture",
+        "publicationId": "Pub004",
+        "field": "Agriculture",
+        "citationScore": 53,
+        "fieldWeightImpact": 3.9,
+        "industryImpact": 3.8
+    },
+    {
+        "_id": "67bb8a384c721c5848385906",
+        "description": "Impact of telecommuting on productivity",
+        "publicationId": "Pub005",
+        "field": "Business",
+        "citationScore": 39,
+        "fieldWeightImpact": 3.2,
+        "industryImpact": 3.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385907",
+        "description": "Impact of social media on mental health",
+        "publicationId": "Pub006",
+        "field": "Psychology",
+        "citationScore": 84,
+        "fieldWeightImpact": 4.6,
+        "industryImpact": 4.1
+    },
+    {
+        "_id": "67bb8a384c721c5848385908",
+        "description": "Impact of nanotechnology in medicine",
+        "publicationId": "Pub007",
+        "field": "Nanotechnology",
+        "citationScore": 71,
+        "fieldWeightImpact": 4.5,
+        "industryImpact": 4.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385909",
+        "description": "Impact of urbanization on biodiversity",
+        "publicationId": "Pub008",
+        "field": "Ecology",
+        "citationScore": 50,
+        "fieldWeightImpact": 3.7,
+        "industryImpact": 3.6
+    },
+    {
+        "_id": "67bb8a384c721c584838590a",
+        "description": "Impact of quantum computing on cryptography",
+        "publicationId": "Pub009",
+        "field": "Computer Science",
+        "citationScore": 89,
+        "fieldWeightImpact": 4.9,
+        "industryImpact": 5.0
+    },
+    {
+        "_id": "67bb8a384c721c584838590b",
+        "description": "Impact of education technology in classrooms",
+        "publicationId": "Pub010",
+        "field": "Education",
+        "citationScore": 67,
+        "fieldWeightImpact": 4.2,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c584838590c",
+        "description": "Impact of dietary changes on public health",
+        "publicationId": "Pub011",
+        "field": "Nutrition",
+        "citationScore": 55,
+        "fieldWeightImpact": 3.8,
+        "industryImpact": 3.9
+    },
+    {
+        "_id": "67bb8a384c721c584838590d",
+        "description": "Impact of 5G technology on telecommunications",
+        "publicationId": "Pub012",
+        "field": "Telecommunications",
+        "citationScore": 76,
+        "fieldWeightImpact": 4.4,
+        "industryImpact": 4.8
+    },
+    {
+        "_id": "67bb8a384c721c584838590e",
+        "description": "Impact of robotics in manufacturing",
+        "publicationId": "Pub013",
+        "field": "Engineering",
+        "citationScore": 64,
+        "fieldWeightImpact": 4.1,
+        "industryImpact": 4.6
+    },
+    {
+        "_id": "67bb8a384c721c584838590f",
+        "description": "Impact of genetic engineering on crop yield",
+        "publicationId": "Pub014",
+        "field": "Biotechnology",
+        "citationScore": 58,
+        "fieldWeightImpact": 3.9,
+        "industryImpact": 4.3
+    },
+    {
+        "_id": "67bb8a384c721c5848385910",
+        "description": "Impact of automation on employment",
+        "publicationId": "Pub015",
+        "field": "Economics",
+        "citationScore": 47,
+        "fieldWeightImpact": 3.4,
+        "industryImpact": 3.7
+    },
+    {
+        "_id": "67bb8a384c721c5848385911",
+        "description": "Impact of renewable materials in construction",
+        "publicationId": "Pub016",
+        "field": "Architecture",
+        "citationScore": 52,
+        "fieldWeightImpact": 3.6,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385912",
+        "description": "Impact of cybersecurity measures on data protection",
+        "publicationId": "Pub017",
+        "field": "Information Technology",
+        "citationScore": 82,
+        "fieldWeightImpact": 4.7,
+        "industryImpact": 4.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385913",
+        "description": "Impact of virtual reality in education",
+        "publicationId": "Pub018",
+        "field": "Educational Technology",
+        "citationScore": 68,
+        "fieldWeightImpact": 4.3,
+        "industryImpact": 4.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385914",
+        "description": "Impact of sustainable tourism on local economies",
+        "publicationId": "Pub019",
+        "field": "Tourism",
+        "citationScore": 44,
+        "fieldWeightImpact": 3.3,
+        "industryImpact": 3.8
+    },
+    {
+        "_id": "67bb8a384c721c5848385915",
+        "description": "Impact of artificial intelligence in retail",
+        "publicationId": "Pub020",
+        "field": "Retail",
+        "citationScore": 73,
+        "fieldWeightImpact": 4.4,
+        "industryImpact": 4.7
+    },
+    {
+        "_id": "67bb8a384c721c5848385916",
+        "description": "Impact of electric vehicles on urban air quality",
+        "publicationId": "Pub021",
+        "field": "Environmental Engineering",
+        "citationScore": 60,
+        "fieldWeightImpact": 4.0,
+        "industryImpact": 4.4
+    },
+    {
+        "_id": "67bb8a384c721c5848385917",
+        "description": "Impact of machine learning in drug discovery",
+        "publicationId": "Pub022",
+        "field": "Pharmaceuticals",
+        "citationScore": 87,
+        "fieldWeightImpact": 4.8,
+        "industryImpact": 5.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385918",
+        "description": "Impact of e-commerce on traditional retail",
+        "publicationId": "Pub023",
+        "field": "Business",
+        "citationScore": 49,
+        "fieldWeightImpact": 3.5,
+        "industryImpact": 3.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385919",
+        "description": "Impact of climate policies on energy markets",
+        "publicationId": "Pub024",
+        "field": "Economics",
+        "citationScore": 57,
+        "fieldWeightImpact": 3.8,
+        "industryImpact": 4.1
+    },
+    {
+        "_id": "67bb8a384c721c584838591a",
+        "description": "Impact of big data analytics in supply chain management",
+        "publicationId": "Pub025",
+        "field": "Logistics",
+        "citationScore": 69,
+        "fieldWeightImpact": 4.3,
+        "industryImpact": 4.6
+    },
+    {
+        "_id": "67bb8a384c721c584838591b",
+        "description": "Impact of digital marketing on consumer behavior",
+        "publicationId": "Pub026",
+        "field": "Marketing",
+        "citationScore": 63,
+        "fieldWeightImpact": 4.1,
+        "industryImpact": 4.2
+    },
+    {
+        "_id": "67bb8a384c721c584838591c",
+        "description": "Impact of renewable energy on grid stability",
+        "publicationId": "Pub027",
+        "field": "Energy",
+        "citationScore": 54,
+        "fieldWeightImpact": 3.7,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c584838591d",
+        "description": "Impact of autonomous vehicles on transportation",
+        "publicationId": "Pub028",
+        "field": "Transportation",
+        "citationScore": 79,
+        "fieldWeightImpact": 4.5,
+        "industryImpact": 4.8
+    },
+    {
+        "_id": "67bb8a384c721c584838591e",
+        "description": "Impact of fintech innovations on banking",
+        "publicationId": "Pub029",
+        "field": "Finance",
+        "citationScore": 66,
+        "fieldWeightImpact": 4.2,
+        "industryImpact": 4.4
+    },
+    {
+        "_id": "67bb8a384c721c584838591f",
+        "description": "Impact of climate adaptation strategies on coastal cities",
+        "publicationId": "Pub030",
+        "field": "Urban Planning",
+        "citationScore": 51,
+        "fieldWeightImpact": 3.6,
+        "industryImpact": 3.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385920",
+        "description": "Impact of personalized medicine on patient outcomes",
+        "publicationId": "Pub031",
+        "field": "Medicine",
+        "citationScore": 85,
+        "fieldWeightImpact": 4.7,
+        "industryImpact": 4.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385921",
+        "description": "Impact of social entrepreneurship on community development",
+        "publicationId": "Pub032",
+        "field": "Social Sciences",
+        "citationScore": 46,
+        "fieldWeightImpact": 3.4,
+        "industryImpact": 3.7
+    },
+    {
+        "_id": "67bb8a384c721c5848385922",
+        "description": "Impact of cloud computing on IT infrastructure",
+        "publicationId": "Pub033",
+        "field": "Information Technology",
+        "citationScore": 72,
+        "fieldWeightImpact": 4.4,
+        "industryImpact": 4.6
+    },
+    {
+        "_id": "67bb8a384c721c5848385923",
+        "description": "Impact of microfinance on poverty alleviation",
+        "publicationId": "Pub034",
+        "field": "Economics",
+        "citationScore": 59,
+        "fieldWeightImpact": 3.9,
+        "industryImpact": 4.1
+    },
+    {
+        "_id": "67bb8a384c721c5848385924",
+        "description": "Impact of biotechnology in food production",
+        "publicationId": "Pub035",
+        "field": "Biotechnology",
+        "citationScore": 61,
+        "fieldWeightImpact": 4.0,
+        "industryImpact": 4.3
+    },
+    {
+        "_id": "67bb8a384c721c5848385925",
+        "description": "Impact of digital currencies on global trade",
+        "publicationId": "Pub036",
+        "field": "Finance",
+        "citationScore": 70,
+        "fieldWeightImpact": 4.3,
+        "industryImpact": 4.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385926",
+        "description": "Impact of wearable technology on fitness",
+        "publicationId": "Pub037",
+        "field": "Health",
+        "citationScore": 56,
+        "fieldWeightImpact": 3.8,
+        "industryImpact": 4.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385927",
+        "description": "Impact of renewable energy policies on emissions",
+        "publicationId": "Pub038",
+        "field": "Environmental Policy",
+        "citationScore": 65,
+        "fieldWeightImpact": 4.1,
+        "industryImpact": 4.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385928",
+        "description": "Impact of artificial intelligence on job automation",
+        "publicationId": "Pub039",
+        "field": "Technology",
+        "citationScore": 83,
+        "fieldWeightImpact": 4.6,
+        "industryImpact": 4.8
+    },
+    {
+        "_id": "67bb8a384c721c5848385929",
+        "description": "Impact of sustainable agriculture on food security",
+        "publicationId": "Pub040",
+        "field": "Agriculture",
+        "citationScore": 48,
+        "fieldWeightImpact": 3.5,
+        "industryImpact": 3.8
+    },
+    {
+        "_id": "67bb8a384c721c584838592a",
+        "description": "Impact of digital transformation on business models",
+        "publicationId": "Pub041",
+        "field": "Business",
+        "citationScore": 77,
+        "fieldWeightImpact": 4.5,
+        "industryImpact": 4.7
+    },
+    {
+        "_id": "67bb8a384c721c584838592b",
+        "description": "Impact of online education on learning outcomes",
+        "publicationId": "Pub042",
+        "field": "Education",
+        "citationScore": 74,
+        "fieldWeightImpact": 4.3,
+        "industryImpact": 4.5
+    },
+    {
+        "_id": "67bb8a384c721c584838592c",
+        "description": "Impact of renewable energy on rural electrification",
+        "publicationId": "Pub043",
+        "field": "Energy",
+        "citationScore": 43,
+        "fieldWeightImpact": 3.3,
+        "industryImpact": 3.6
+    },
+    {
+        "_id": "67bb8a384c721c584838592d",
+        "description": "Impact of data privacy regulations on tech companies",
+        "publicationId": "Pub044",
+        "field": "Law",
+        "citationScore": 80,
+        "fieldWeightImpact": 4.5,
+        "industryImpact": 4.8
+    },
+    {
+        "_id": "67bb8a384c721c584838592e",
+        "description": "Impact of smart cities on urban living",
+        "publicationId": "Pub045",
+        "field": "Urban Planning",
+        "citationScore": 75,
+        "fieldWeightImpact": 4.4,
+        "industryImpact": 4.6
+    },
+    {
+        "_id": "67bb8a384c721c584838592f",
+        "description": "Impact of climate resilience on infrastructure",
+        "publicationId": "Pub046",
+        "field": "Civil Engineering",
+        "citationScore": 42,
+        "fieldWeightImpact": 3.2,
+        "industryImpact": 3.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385930",
+        "description": "Impact of mobile banking on financial inclusion",
+        "publicationId": "Pub047",
+        "field": "Finance",
+        "citationScore": 81,
+        "fieldWeightImpact": 4.6,
+        "industryImpact": 4.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385931",
+        "description": "Impact of organic farming on soil health",
+        "publicationId": "Pub048",
+        "field": "Agriculture",
+        "citationScore": 41,
+        "fieldWeightImpact": 3.1,
+        "industryImpact": 3.4
+    },
+    {
+        "_id": "67bb8a384c721c5848385932",
+        "description": "Impact of artificial intelligence on supply chain efficiency",
+        "publicationId": "Pub049",
+        "field": "Logistics",
+        "citationScore": 86,
+        "fieldWeightImpact": 4.7,
+        "industryImpact": 5.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385933",
+        "description": "Impact of renewable energy on economic growth",
+        "publicationId": "Pub050",
+        "field": "Economics",
+        "citationScore": 88,
+        "fieldWeightImpact": 4.9,
+        "industryImpact": 5.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385934",
+        "description": "Impact of AI in Healthcare",
+        "publicationId": "PUB001",
+        "field": "Healthcare",
+        "citationScore": 85,
+        "fieldWeightImpact": 0.95,
+        "industryImpact": 0.89
+    },
+    {
+        "_id": "67bb8a384c721c5848385935",
+        "description": "Impact of Renewable Energy Adoption",
+        "publicationId": "PUB002",
+        "field": "Energy",
+        "citationScore": 78,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.92
+    },
+    {
+        "_id": "67bb8a384c721c5848385936",
+        "description": "Impact of Blockchain in Finance",
+        "publicationId": "PUB003",
+        "field": "Finance",
+        "citationScore": 90,
+        "fieldWeightImpact": 0.91,
+        "industryImpact": 0.87
+    },
+    {
+        "_id": "67bb8a384c721c5848385937",
+        "description": "Impact of Climate Change Policies",
+        "publicationId": "PUB004",
+        "field": "Environment",
+        "citationScore": 82,
+        "fieldWeightImpact": 0.89,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c5848385938",
+        "description": "Impact of Machine Learning in Retail",
+        "publicationId": "PUB005",
+        "field": "Retail",
+        "citationScore": 77,
+        "fieldWeightImpact": 0.84,
+        "industryImpact": 0.81
+    },
+    {
+        "_id": "67bb8a384c721c5848385939",
+        "description": "Impact of Big Data on Marketing Strategies",
+        "publicationId": "PUB006",
+        "field": "Marketing",
+        "citationScore": 88,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.86
+    },
+    {
+        "_id": "67bb8a384c721c584838593a",
+        "description": "Impact of Robotics in Manufacturing",
+        "publicationId": "PUB007",
+        "field": "Manufacturing",
+        "citationScore": 80,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.84
+    },
+    {
+        "_id": "67bb8a384c721c584838593b",
+        "description": "Impact of Telemedicine on Patient Care",
+        "publicationId": "PUB008",
+        "field": "Healthcare",
+        "citationScore": 83,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c584838593c",
+        "description": "Impact of Electric Vehicles on Urban Transport",
+        "publicationId": "PUB009",
+        "field": "Transport",
+        "citationScore": 79,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c584838593d",
+        "description": "Impact of Cybersecurity Measures",
+        "publicationId": "PUB010",
+        "field": "Technology",
+        "citationScore": 91,
+        "fieldWeightImpact": 0.93,
+        "industryImpact": 0.89
+    },
+    {
+        "_id": "67bb8a384c721c584838593e",
+        "description": "Impact of Social Media on Public Opinion",
+        "publicationId": "PUB011",
+        "field": "Sociology",
+        "citationScore": 76,
+        "fieldWeightImpact": 0.83,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c584838593f",
+        "description": "Impact of E-commerce on Traditional Retail",
+        "publicationId": "PUB012",
+        "field": "Retail",
+        "citationScore": 84,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c5848385940",
+        "description": "Impact of Genomics on Personalized Medicine",
+        "publicationId": "PUB013",
+        "field": "Healthcare",
+        "citationScore": 89,
+        "fieldWeightImpact": 0.94,
+        "industryImpact": 0.91
+    },
+    {
+        "_id": "67bb8a384c721c5848385941",
+        "description": "Impact of Virtual Reality in Education",
+        "publicationId": "PUB014",
+        "field": "Education",
+        "citationScore": 81,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.83
+    },
+    {
+        "_id": "67bb8a384c721c5848385942",
+        "description": "Impact of Internet of Things on Smart Homes",
+        "publicationId": "PUB015",
+        "field": "Technology",
+        "citationScore": 87,
+        "fieldWeightImpact": 0.89,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c5848385943",
+        "description": "Impact of 5G Technology on Communication",
+        "publicationId": "PUB016",
+        "field": "Telecommunications",
+        "citationScore": 92,
+        "fieldWeightImpact": 0.91,
+        "industryImpact": 0.93
+    },
+    {
+        "_id": "67bb8a384c721c5848385944",
+        "description": "Impact of Digital Payments on Banking",
+        "publicationId": "PUB017",
+        "field": "Finance",
+        "citationScore": 86,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.84
+    },
+    {
+        "_id": "67bb8a384c721c5848385945",
+        "description": "Impact of Urbanization on Ecosystems",
+        "publicationId": "PUB018",
+        "field": "Environment",
+        "citationScore": 75,
+        "fieldWeightImpact": 0.82,
+        "industryImpact": 0.79
+    },
+    {
+        "_id": "67bb8a384c721c5848385946",
+        "description": "Impact of Cloud Computing on IT Infrastructure",
+        "publicationId": "PUB019",
+        "field": "Technology",
+        "citationScore": 93,
+        "fieldWeightImpact": 0.95,
+        "industryImpact": 0.92
+    },
+    {
+        "_id": "67bb8a384c721c5848385947",
+        "description": "Impact of Automation on Job Markets",
+        "publicationId": "PUB020",
+        "field": "Economics",
+        "citationScore": 80,
+        "fieldWeightImpact": 0.84,
+        "industryImpact": 0.81
+    },
+    {
+        "_id": "67bb8a384c721c5848385948",
+        "description": "Impact of Data Privacy Regulations",
+        "publicationId": "PUB021",
+        "field": "Law",
+        "citationScore": 88,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.83
+    },
+    {
+        "_id": "67bb8a384c721c5848385949",
+        "description": "Impact of AI in Autonomous Vehicles",
+        "publicationId": "PUB022",
+        "field": "Transport",
+        "citationScore": 90,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.89
+    },
+    {
+        "_id": "67bb8a384c721c584838594a",
+        "description": "Impact of Renewable Resources on Energy Security",
+        "publicationId": "PUB023",
+        "field": "Energy",
+        "citationScore": 79,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.87
+    },
+    {
+        "_id": "67bb8a384c721c584838594b",
+        "description": "Impact of Nanotechnology on Material Science",
+        "publicationId": "PUB024",
+        "field": "Material Science",
+        "citationScore": 83,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.84
+    },
+    {
+        "_id": "67bb8a384c721c584838594c",
+        "description": "Impact of Social Networks on Mental Health",
+        "publicationId": "PUB025",
+        "field": "Psychology",
+        "citationScore": 82,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c584838594d",
+        "description": "Impact of Biometric Authentication",
+        "publicationId": "PUB026",
+        "field": "Technology",
+        "citationScore": 85,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c584838594e",
+        "description": "Impact of Smart Grids on Electricity Distribution",
+        "publicationId": "PUB027",
+        "field": "Energy",
+        "citationScore": 87,
+        "fieldWeightImpact": 0.89,
+        "industryImpact": 0.86
+    },
+    {
+        "_id": "67bb8a384c721c584838594f",
+        "description": "Impact of Quantum Computing on Cryptography",
+        "publicationId": "PUB028",
+        "field": "Technology",
+        "citationScore": 94,
+        "fieldWeightImpact": 0.96,
+        "industryImpact": 0.91
+    },
+    {
+        "_id": "67bb8a384c721c5848385950",
+        "description": "Impact of E-learning on Traditional Education",
+        "publicationId": "PUB029",
+        "field": "Education",
+        "citationScore": 78,
+        "fieldWeightImpact": 0.83,
+        "industryImpact": 0.81
+    },
+    {
+        "_id": "67bb8a384c721c5848385951",
+        "description": "Impact of Genetic Engineering on Agriculture",
+        "publicationId": "PUB030",
+        "field": "Agriculture",
+        "citationScore": 86,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c5848385952",
+        "description": "Impact of Smart Cities on Urban Living",
+        "publicationId": "PUB031",
+        "field": "Urban Planning",
+        "citationScore": 81,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c5848385953",
+        "description": "Impact of Streaming Services on Traditional Media",
+        "publicationId": "PUB032",
+        "field": "Media",
+        "citationScore": 84,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.83
+    },
+    {
+        "_id": "67bb8a384c721c5848385954",
+        "description": "Impact of AI in Drug Discovery",
+        "publicationId": "PUB033",
+        "field": "Pharmaceuticals",
+        "citationScore": 89,
+        "fieldWeightImpact": 0.93,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385955",
+        "description": "Impact of Digital Transformation on Business Models",
+        "publicationId": "PUB034",
+        "field": "Business",
+        "citationScore": 88,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.84
+    },
+    {
+        "_id": "67bb8a384c721c5848385956",
+        "description": "Impact of 3D Printing on Manufacturing",
+        "publicationId": "PUB035",
+        "field": "Manufacturing",
+        "citationScore": 80,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c5848385957",
+        "description": "Impact of Wearable Technology on Health Monitoring",
+        "publicationId": "PUB036",
+        "field": "Healthcare",
+        "citationScore": 83,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.87
+    },
+    {
+        "_id": "67bb8a384c721c5848385958",
+        "description": "Impact of Renewable Energy on Climate Change Mitigation",
+        "publicationId": "PUB037",
+        "field": "Environment",
+        "citationScore": 91,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.89
+    },
+    {
+        "_id": "67bb8a384c721c5848385959",
+        "description": "Impact of Cryptocurrency on Financial Markets",
+        "publicationId": "PUB038",
+        "field": "Finance",
+        "citationScore": 85,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.83
+    },
+    {
+        "_id": "67bb8a384c721c584838595a",
+        "description": "Impact of AI in Legal Practices",
+        "publicationId": "PUB039",
+        "field": "Law",
+        "citationScore": 82,
+        "fieldWeightImpact": 0.84,
+        "industryImpact": 0.81
+    },
+    {
+        "_id": "67bb8a384c721c584838595b",
+        "description": "Impact of Virtual Assistants in Customer Service",
+        "publicationId": "PUB040",
+        "field": "Business",
+        "citationScore": 79,
+        "fieldWeightImpact": 0.82,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c584838595c",
+        "description": "Impact of AI in Supply Chain Optimization",
+        "publicationId": "PUB041",
+        "field": "Logistics",
+        "citationScore": 87,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c584838595d",
+        "description": "Impact of Digital Twins in Manufacturing",
+        "publicationId": "PUB042",
+        "field": "Manufacturing",
+        "citationScore": 84,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.83
+    },
+    {
+        "_id": "67bb8a384c721c584838595e",
+        "description": "Impact of AI in Predictive Maintenance",
+        "publicationId": "PUB043",
+        "field": "Engineering",
+        "citationScore": 90,
+        "fieldWeightImpact": 0.91,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c584838595f",
+        "description": "Impact of Smart Contracts in Legal Agreements",
+        "publicationId": "PUB044",
+        "field": "Law",
+        "citationScore": 77,
+        "fieldWeightImpact": 0.83,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c5848385960",
+        "description": "Impact of AI in Fraud Detection",
+        "publicationId": "PUB045",
+        "field": "Finance",
+        "citationScore": 91,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.89
+    },
+    {
+        "_id": "67bb8a384c721c5848385961",
+        "description": "Impact of AI in Natural Language Processing",
+        "publicationId": "PUB046",
+        "field": "Linguistics",
+        "citationScore": 92,
+        "fieldWeightImpact": 0.94,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385962",
+        "description": "Impact of AI in Personalized Marketing",
+        "publicationId": "PUB047",
+        "field": "Marketing",
+        "citationScore": 86,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c5848385963",
+        "description": "Impact of AI in Predictive Analytics",
+        "publicationId": "PUB048",
+        "field": "Data Science",
+        "citationScore": 89,
+        "fieldWeightImpact": 0.91,
+        "industryImpact": 0.87
+    },
+    {
+        "_id": "67bb8a384c721c5848385964",
+        "description": "Impact of AI in Image Recognition",
+        "publicationId": "PUB049",
+        "field": "Computer Vision",
+        "citationScore": 93,
+        "fieldWeightImpact": 0.95,
+        "industryImpact": 0.91
+    },
+    {
+        "_id": "67bb8a384c721c5848385965",
+        "description": "Impact of AI in Speech Recognition",
+        "publicationId": "PUB050",
+        "field": "Linguistics",
+        "citationScore": 88,
+        "fieldWeightImpact": 0.89,
+        "industryImpact": 0.86
+    },
+    {
+        "_id": "67bb8a384c721c5848385966",
+        "description": "Impact of renewable energy adoption",
+        "publicationId": "PUB001",
+        "field": "Environmental Science",
+        "citationScore": 45,
+        "fieldWeightImpact": 8.5,
+        "industryImpact": 7.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385967",
+        "description": "Impact of AI in healthcare",
+        "publicationId": "PUB002",
+        "field": "Healthcare",
+        "citationScore": 58,
+        "fieldWeightImpact": 9.1,
+        "industryImpact": 8.7
+    },
+    {
+        "_id": "67bb8a384c721c5848385968",
+        "description": "Impact of blockchain in finance",
+        "publicationId": "PUB003",
+        "field": "Finance",
+        "citationScore": 67,
+        "fieldWeightImpact": 8.9,
+        "industryImpact": 9.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385969",
+        "description": "Impact of climate change on agriculture",
+        "publicationId": "PUB004",
+        "field": "Agriculture",
+        "citationScore": 52,
+        "fieldWeightImpact": 8.3,
+        "industryImpact": 7.5
+    },
+    {
+        "_id": "67bb8a384c721c584838596a",
+        "description": "Impact of big data on business analytics",
+        "publicationId": "PUB005",
+        "field": "Business",
+        "citationScore": 63,
+        "fieldWeightImpact": 8.7,
+        "industryImpact": 8.1
+    },
+    {
+        "_id": "67bb8a384c721c584838596b",
+        "description": "Impact of nanotechnology in medicine",
+        "publicationId": "PUB006",
+        "field": "Medicine",
+        "citationScore": 71,
+        "fieldWeightImpact": 9.3,
+        "industryImpact": 8.9
+    },
+    {
+        "_id": "67bb8a384c721c584838596c",
+        "description": "Impact of social media on communication",
+        "publicationId": "PUB007",
+        "field": "Communication",
+        "citationScore": 49,
+        "fieldWeightImpact": 7.8,
+        "industryImpact": 7.0
+    },
+    {
+        "_id": "67bb8a384c721c584838596d",
+        "description": "Impact of genetic engineering on food security",
+        "publicationId": "PUB008",
+        "field": "Biotechnology",
+        "citationScore": 55,
+        "fieldWeightImpact": 8.4,
+        "industryImpact": 7.8
+    },
+    {
+        "_id": "67bb8a384c721c584838596e",
+        "description": "Impact of cybersecurity in digital transformation",
+        "publicationId": "PUB009",
+        "field": "Information Technology",
+        "citationScore": 66,
+        "fieldWeightImpact": 9.0,
+        "industryImpact": 8.5
+    },
+    {
+        "_id": "67bb8a384c721c584838596f",
+        "description": "Impact of urbanization on biodiversity",
+        "publicationId": "PUB010",
+        "field": "Urban Studies",
+        "citationScore": 48,
+        "fieldWeightImpact": 7.7,
+        "industryImpact": 6.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385970",
+        "description": "Impact of 3D printing in manufacturing",
+        "publicationId": "PUB011",
+        "field": "Manufacturing",
+        "citationScore": 60,
+        "fieldWeightImpact": 8.8,
+        "industryImpact": 8.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385971",
+        "description": "Impact of remote work on productivity",
+        "publicationId": "PUB012",
+        "field": "Human Resources",
+        "citationScore": 53,
+        "fieldWeightImpact": 8.1,
+        "industryImpact": 7.6
+    },
+    {
+        "_id": "67bb8a384c721c5848385972",
+        "description": "Impact of e-commerce on retail",
+        "publicationId": "PUB013",
+        "field": "Retail",
+        "citationScore": 62,
+        "fieldWeightImpact": 8.6,
+        "industryImpact": 8.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385973",
+        "description": "Impact of quantum computing on cryptography",
+        "publicationId": "PUB014",
+        "field": "Computer Science",
+        "citationScore": 74,
+        "fieldWeightImpact": 9.5,
+        "industryImpact": 9.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385974",
+        "description": "Impact of machine learning on predictive analytics",
+        "publicationId": "PUB015",
+        "field": "Data Science",
+        "citationScore": 69,
+        "fieldWeightImpact": 9.2,
+        "industryImpact": 8.8
+    },
+    {
+        "_id": "67bb8a384c721c5848385975",
+        "description": "Impact of virtual reality in education",
+        "publicationId": "PUB016",
+        "field": "Education",
+        "citationScore": 57,
+        "fieldWeightImpact": 8.2,
+        "industryImpact": 7.7
+    },
+    {
+        "_id": "67bb8a384c721c5848385976",
+        "description": "Impact of telemedicine on healthcare access",
+        "publicationId": "PUB017",
+        "field": "Telemedicine",
+        "citationScore": 61,
+        "fieldWeightImpact": 8.5,
+        "industryImpact": 8.3
+    },
+    {
+        "_id": "67bb8a384c721c5848385977",
+        "description": "Impact of autonomous vehicles on transportation",
+        "publicationId": "PUB018",
+        "field": "Transportation",
+        "citationScore": 65,
+        "fieldWeightImpact": 8.9,
+        "industryImpact": 8.6
+    },
+    {
+        "_id": "67bb8a384c721c5848385978",
+        "description": "Impact of renewable energy on economic growth",
+        "publicationId": "PUB019",
+        "field": "Economics",
+        "citationScore": 54,
+        "fieldWeightImpact": 8.0,
+        "industryImpact": 7.4
+    },
+    {
+        "_id": "67bb8a384c721c5848385979",
+        "description": "Impact of internet of things on smart cities",
+        "publicationId": "PUB020",
+        "field": "Smart Cities",
+        "citationScore": 68,
+        "fieldWeightImpact": 9.1,
+        "industryImpact": 8.4
+    },
+    {
+        "_id": "67bb8a384c721c584838597a",
+        "description": "Impact of cloud computing on IT infrastructure",
+        "publicationId": "PUB021",
+        "field": "Information Technology",
+        "citationScore": 70,
+        "fieldWeightImpact": 9.3,
+        "industryImpact": 8.7
+    },
+    {
+        "_id": "67bb8a384c721c584838597b",
+        "description": "Impact of digital marketing on consumer behavior",
+        "publicationId": "PUB022",
+        "field": "Marketing",
+        "citationScore": 56,
+        "fieldWeightImpact": 8.3,
+        "industryImpact": 7.9
+    },
+    {
+        "_id": "67bb8a384c721c584838597c",
+        "description": "Impact of sustainable practices on corporate reputation",
+        "publicationId": "PUB023",
+        "field": "Corporate Governance",
+        "citationScore": 51,
+        "fieldWeightImpact": 8.1,
+        "industryImpact": 7.3
+    },
+    {
+        "_id": "67bb8a384c721c584838597d",
+        "description": "Impact of artificial intelligence on job automation",
+        "publicationId": "PUB024",
+        "field": "Labor Studies",
+        "citationScore": 64,
+        "fieldWeightImpact": 8.8,
+        "industryImpact": 8.1
+    },
+    {
+        "_id": "67bb8a384c721c584838597e",
+        "description": "Impact of fintech innovations on banking",
+        "publicationId": "PUB025",
+        "field": "Banking",
+        "citationScore": 59,
+        "fieldWeightImpact": 8.6,
+        "industryImpact": 8.0
+    },
+    {
+        "_id": "67bb8a384c721c584838597f",
+        "description": "Impact of biodiversity loss on ecosystems",
+        "publicationId": "PUB026",
+        "field": "Ecology",
+        "citationScore": 47,
+        "fieldWeightImpact": 7.6,
+        "industryImpact": 6.8
+    },
+    {
+        "_id": "67bb8a384c721c5848385980",
+        "description": "Impact of personalized medicine on patient care",
+        "publicationId": "PUB027",
+        "field": "Healthcare",
+        "citationScore": 72,
+        "fieldWeightImpact": 9.4,
+        "industryImpact": 9.1
+    },
+    {
+        "_id": "67bb8a384c721c5848385981",
+        "description": "Impact of renewable resources on energy security",
+        "publicationId": "PUB028",
+        "field": "Energy Studies",
+        "citationScore": 50,
+        "fieldWeightImpact": 8.0,
+        "industryImpact": 7.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385982",
+        "description": "Impact of augmented reality on user experience",
+        "publicationId": "PUB029",
+        "field": "User Experience",
+        "citationScore": 55,
+        "fieldWeightImpact": 8.3,
+        "industryImpact": 7.6
+    },
+    {
+        "_id": "67bb8a384c721c5848385983",
+        "description": "Impact of digital currencies on global trade",
+        "publicationId": "PUB030",
+        "field": "Economics",
+        "citationScore": 67,
+        "fieldWeightImpact": 9.0,
+        "industryImpact": 8.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385984",
+        "description": "Impact of climate policies on carbon emissions",
+        "publicationId": "PUB031",
+        "field": "Environmental Policy",
+        "citationScore": 46,
+        "fieldWeightImpact": 7.5,
+        "industryImpact": 6.7
+    },
+    {
+        "_id": "67bb8a384c721c5848385985",
+        "description": "Impact of 5G technology on telecommunications",
+        "publicationId": "PUB032",
+        "field": "Telecommunications",
+        "citationScore": 73,
+        "fieldWeightImpact": 9.4,
+        "industryImpact": 9.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385986",
+        "description": "Impact of behavioral economics on consumer decisions",
+        "publicationId": "PUB033",
+        "field": "Behavioral Economics",
+        "citationScore": 60,
+        "fieldWeightImpact": 8.7,
+        "industryImpact": 8.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385987",
+        "description": "Impact of smart grids on energy efficiency",
+        "publicationId": "PUB034",
+        "field": "Energy Studies",
+        "citationScore": 58,
+        "fieldWeightImpact": 8.5,
+        "industryImpact": 7.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385988",
+        "description": "Impact of digital literacy on education outcomes",
+        "publicationId": "PUB035",
+        "field": "Education",
+        "citationScore": 52,
+        "fieldWeightImpact": 8.2,
+        "industryImpact": 7.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385989",
+        "description": "Impact of robotics on manufacturing efficiency",
+        "publicationId": "PUB036",
+        "field": "Manufacturing",
+        "citationScore": 66,
+        "fieldWeightImpact": 8.9,
+        "industryImpact": 8.4
+    },
+    {
+        "_id": "67bb8a384c721c584838598a",
+        "description": "Impact of marine conservation on biodiversity",
+        "publicationId": "PUB037",
+        "field": "Marine Biology",
+        "citationScore": 49,
+        "fieldWeightImpact": 7.8,
+        "industryImpact": 7.0
+    },
+    {
+        "_id": "67bb8a384c721c584838598b",
+        "description": "Impact of digital transformation on supply chain management",
+        "publicationId": "PUB038",
+        "field": "Supply Chain",
+        "citationScore": 65,
+        "fieldWeightImpact": 8.8,
+        "industryImpact": 8.3
+    },
+    {
+        "_id": "67bb8a384c721c584838598c",
+        "description": "Impact of renewable materials on construction",
+        "publicationId": "PUB039",
+        "field": "Construction",
+        "citationScore": 57,
+        "fieldWeightImpact": 8.4,
+        "industryImpact": 7.8
+    },
+    {
+        "_id": "67bb8a384c721c584838598d",
+        "description": "Impact of AI on decision-making processes",
+        "publicationId": "PUB040",
+        "field": "Artificial Intelligence",
+        "citationScore": 69,
+        "fieldWeightImpact": 9.2,
+        "industryImpact": 8.6
+    },
+    {
+        "_id": "67bb8a384c721c584838598e",
+        "description": "Impact of data privacy regulations on businesses",
+        "publicationId": "PUB041",
+        "field": "Law",
+        "citationScore": 54,
+        "fieldWeightImpact": 8.1,
+        "industryImpact": 7.4
+    },
+    {
+        "_id": "67bb8a384c721c584838598f",
+        "description": "Impact of climate change on water resources",
+        "publicationId": "PUB042",
+        "field": "Hydrology",
+        "citationScore": 48,
+        "fieldWeightImpact": 7.7,
+        "industryImpact": 6.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385990",
+        "description": "Impact of mobile technology on financial inclusion",
+        "publicationId": "PUB043",
+        "field": "Finance",
+        "citationScore": 62,
+        "fieldWeightImpact": 8.6,
+        "industryImpact": 8.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385991",
+        "description": "Impact of AI in autonomous systems",
+        "publicationId": "PUB044",
+        "field": "Robotics",
+        "citationScore": 71,
+        "fieldWeightImpact": 9.3,
+        "industryImpact": 8.9
+    },
+    {
+        "_id": "67bb8a384c721c5848385992",
+        "description": "Impact of renewable energy on climate resilience",
+        "publicationId": "PUB045",
+        "field": "Environmental Science",
+        "citationScore": 50,
+        "fieldWeightImpact": 8.0,
+        "industryImpact": 7.2
+    },
+    {
+        "_id": "67bb8a384c721c5848385993",
+        "description": "Impact of digital health technologies on patient outcomes",
+        "publicationId": "PUB046",
+        "field": "Digital Health",
+        "citationScore": 68,
+        "fieldWeightImpact": 9.1,
+        "industryImpact": 8.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385994",
+        "description": "Impact of artificial intelligence on financial forecasting",
+        "publicationId": "PUB047",
+        "field": "Finance",
+        "citationScore": 64,
+        "fieldWeightImpact": 8.8,
+        "industryImpact": 8.1
+    },
+    {
+        "_id": "67bb8a384c721c5848385995",
+        "description": "Impact of climate adaptation strategies on urban planning",
+        "publicationId": "PUB048",
+        "field": "Urban Studies",
+        "citationScore": 51,
+        "fieldWeightImpact": 8.1,
+        "industryImpact": 7.3
+    },
+    {
+        "_id": "67bb8a384c721c5848385996",
+        "description": "Impact of renewable energy on rural development",
+        "publicationId": "PUB049",
+        "field": "Rural Development",
+        "citationScore": 53,
+        "fieldWeightImpact": 8.2,
+        "industryImpact": 7.5
+    },
+    {
+        "_id": "67bb8a384c721c5848385997",
+        "description": "Impact of AI on customer service",
+        "publicationId": "PUB050",
+        "field": "Customer Service",
+        "citationScore": 59,
+        "fieldWeightImpact": 8.6,
+        "industryImpact": 8.0
+    },
+    {
+        "_id": "67bb8a384c721c5848385998",
+        "description": "Impact of renewable energy adoption",
+        "publicationId": "Pub1",
+        "field": "Environmental Science",
+        "citationScore": 45,
+        "fieldWeightImpact": 0.75,
+        "industryImpact": 0.6
+    },
+    {
+        "_id": "67bb8a384c721c5848385999",
+        "description": "Impact of AI in healthcare",
+        "publicationId": "Pub2",
+        "field": "Healthcare",
+        "citationScore": 78,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c584838599a",
+        "description": "Impact of blockchain on finance",
+        "publicationId": "Pub3",
+        "field": "Finance",
+        "citationScore": 65,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c584838599b",
+        "description": "Impact of climate change on agriculture",
+        "publicationId": "Pub4",
+        "field": "Agriculture",
+        "citationScore": 82,
+        "fieldWeightImpact": 0.95,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c584838599c",
+        "description": "Impact of social media on youth",
+        "publicationId": "Pub5",
+        "field": "Sociology",
+        "citationScore": 50,
+        "fieldWeightImpact": 0.65,
+        "industryImpact": 0.5
+    },
+    {
+        "_id": "67bb8a384c721c584838599d",
+        "description": "Impact of 5G technology",
+        "publicationId": "Pub6",
+        "field": "Telecommunications",
+        "citationScore": 73,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.77
+    },
+    {
+        "_id": "67bb8a384c721c584838599e",
+        "description": "Impact of e-learning in education",
+        "publicationId": "Pub7",
+        "field": "Education",
+        "citationScore": 60,
+        "fieldWeightImpact": 0.7,
+        "industryImpact": 0.6
+    },
+    {
+        "_id": "67bb8a384c721c584838599f",
+        "description": "Impact of urbanization on biodiversity",
+        "publicationId": "Pub8",
+        "field": "Ecology",
+        "citationScore": 68,
+        "fieldWeightImpact": 0.8,
+        "industryImpact": 0.65
+    },
+    {
+        "_id": "67bb8a384c721c58483859a0",
+        "description": "Impact of big data analytics",
+        "publicationId": "Pub9",
+        "field": "Data Science",
+        "citationScore": 88,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859a1",
+        "description": "Impact of mental health awareness",
+        "publicationId": "Pub10",
+        "field": "Psychology",
+        "citationScore": 55,
+        "fieldWeightImpact": 0.68,
+        "industryImpact": 0.58
+    },
+    {
+        "_id": "67bb8a384c721c58483859a2",
+        "description": "Impact of nanotechnology in medicine",
+        "publicationId": "Pub11",
+        "field": "Nanotechnology",
+        "citationScore": 77,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859a3",
+        "description": "Impact of cybersecurity threats",
+        "publicationId": "Pub12",
+        "field": "Information Technology",
+        "citationScore": 90,
+        "fieldWeightImpact": 0.93,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c58483859a4",
+        "description": "Impact of globalization on culture",
+        "publicationId": "Pub13",
+        "field": "Cultural Studies",
+        "citationScore": 48,
+        "fieldWeightImpact": 0.6,
+        "industryImpact": 0.5
+    },
+    {
+        "_id": "67bb8a384c721c58483859a5",
+        "description": "Impact of gene editing",
+        "publicationId": "Pub14",
+        "field": "Genetics",
+        "citationScore": 85,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c58483859a6",
+        "description": "Impact of renewable materials",
+        "publicationId": "Pub15",
+        "field": "Materials Science",
+        "citationScore": 70,
+        "fieldWeightImpact": 0.8,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859a7",
+        "description": "Impact of tourism on local economies",
+        "publicationId": "Pub16",
+        "field": "Economics",
+        "citationScore": 63,
+        "fieldWeightImpact": 0.75,
+        "industryImpact": 0.68
+    },
+    {
+        "_id": "67bb8a384c721c58483859a8",
+        "description": "Impact of digital marketing strategies",
+        "publicationId": "Pub17",
+        "field": "Marketing",
+        "citationScore": 58,
+        "fieldWeightImpact": 0.7,
+        "industryImpact": 0.6
+    },
+    {
+        "_id": "67bb8a384c721c58483859a9",
+        "description": "Impact of space exploration",
+        "publicationId": "Pub18",
+        "field": "Astronomy",
+        "citationScore": 95,
+        "fieldWeightImpact": 0.98,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859aa",
+        "description": "Impact of renewable water resources",
+        "publicationId": "Pub19",
+        "field": "Hydrology",
+        "citationScore": 66,
+        "fieldWeightImpact": 0.78,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859ab",
+        "description": "Impact of AI on job markets",
+        "publicationId": "Pub20",
+        "field": "Economics",
+        "citationScore": 74,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859ac",
+        "description": "Impact of virtual reality in gaming",
+        "publicationId": "Pub21",
+        "field": "Entertainment",
+        "citationScore": 62,
+        "fieldWeightImpact": 0.72,
+        "industryImpact": 0.65
+    },
+    {
+        "_id": "67bb8a384c721c58483859ad",
+        "description": "Impact of antibiotic resistance",
+        "publicationId": "Pub22",
+        "field": "Microbiology",
+        "citationScore": 83,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859ae",
+        "description": "Impact of fintech innovations",
+        "publicationId": "Pub23",
+        "field": "Finance",
+        "citationScore": 79,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c58483859af",
+        "description": "Impact of climate policies",
+        "publicationId": "Pub24",
+        "field": "Environmental Policy",
+        "citationScore": 67,
+        "fieldWeightImpact": 0.8,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859b0",
+        "description": "Impact of dietary supplements",
+        "publicationId": "Pub25",
+        "field": "Nutrition",
+        "citationScore": 54,
+        "fieldWeightImpact": 0.66,
+        "industryImpact": 0.6
+    },
+    {
+        "_id": "67bb8a384c721c58483859b1",
+        "description": "Impact of renewable agriculture",
+        "publicationId": "Pub26",
+        "field": "Agriculture",
+        "citationScore": 76,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859b2",
+        "description": "Impact of smart cities",
+        "publicationId": "Pub27",
+        "field": "Urban Planning",
+        "citationScore": 71,
+        "fieldWeightImpact": 0.82,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859b3",
+        "description": "Impact of e-commerce on retail",
+        "publicationId": "Pub28",
+        "field": "Business",
+        "citationScore": 69,
+        "fieldWeightImpact": 0.78,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859b4",
+        "description": "Impact of robotics in manufacturing",
+        "publicationId": "Pub29",
+        "field": "Engineering",
+        "citationScore": 87,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859b5",
+        "description": "Impact of mental health on productivity",
+        "publicationId": "Pub30",
+        "field": "Psychology",
+        "citationScore": 57,
+        "fieldWeightImpact": 0.68,
+        "industryImpact": 0.6
+    },
+    {
+        "_id": "67bb8a384c721c58483859b6",
+        "description": "Impact of renewable transport",
+        "publicationId": "Pub31",
+        "field": "Transportation",
+        "citationScore": 64,
+        "fieldWeightImpact": 0.75,
+        "industryImpact": 0.68
+    },
+    {
+        "_id": "67bb8a384c721c58483859b7",
+        "description": "Impact of digital currencies",
+        "publicationId": "Pub32",
+        "field": "Finance",
+        "citationScore": 81,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859b8",
+        "description": "Impact of genetic research",
+        "publicationId": "Pub33",
+        "field": "Genetics",
+        "citationScore": 91,
+        "fieldWeightImpact": 0.94,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c58483859b9",
+        "description": "Impact of AI in education",
+        "publicationId": "Pub34",
+        "field": "Education",
+        "citationScore": 75,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.77
+    },
+    {
+        "_id": "67bb8a384c721c58483859ba",
+        "description": "Impact of sustainable fashion",
+        "publicationId": "Pub35",
+        "field": "Fashion",
+        "citationScore": 52,
+        "fieldWeightImpact": 0.65,
+        "industryImpact": 0.55
+    },
+    {
+        "_id": "67bb8a384c721c58483859bb",
+        "description": "Impact of renewable energy on grids",
+        "publicationId": "Pub36",
+        "field": "Energy",
+        "citationScore": 84,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c58483859bc",
+        "description": "Impact of digital health records",
+        "publicationId": "Pub37",
+        "field": "Healthcare",
+        "citationScore": 72,
+        "fieldWeightImpact": 0.82,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859bd",
+        "description": "Impact of AI on creative industries",
+        "publicationId": "Pub38",
+        "field": "Arts",
+        "citationScore": 59,
+        "fieldWeightImpact": 0.7,
+        "industryImpact": 0.65
+    },
+    {
+        "_id": "67bb8a384c721c58483859be",
+        "description": "Impact of climate change on water resources",
+        "publicationId": "Pub39",
+        "field": "Environmental Science",
+        "citationScore": 92,
+        "fieldWeightImpact": 0.96,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859bf",
+        "description": "Impact of telemedicine",
+        "publicationId": "Pub40",
+        "field": "Healthcare",
+        "citationScore": 80,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859c0",
+        "description": "Impact of renewable energy on employment",
+        "publicationId": "Pub41",
+        "field": "Economics",
+        "citationScore": 61,
+        "fieldWeightImpact": 0.72,
+        "industryImpact": 0.65
+    },
+    {
+        "_id": "67bb8a384c721c58483859c1",
+        "description": "Impact of AI on manufacturing",
+        "publicationId": "Pub42",
+        "field": "Engineering",
+        "citationScore": 89,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859c2",
+        "description": "Impact of climate change on fisheries",
+        "publicationId": "Pub43",
+        "field": "Marine Biology",
+        "citationScore": 86,
+        "fieldWeightImpact": 0.91,
+        "industryImpact": 0.83
+    },
+    {
+        "_id": "67bb8a384c721c58483859c3",
+        "description": "Impact of digital divide",
+        "publicationId": "Pub44",
+        "field": "Sociology",
+        "citationScore": 56,
+        "fieldWeightImpact": 0.67,
+        "industryImpact": 0.6
+    },
+    {
+        "_id": "67bb8a384c721c58483859c4",
+        "description": "Impact of AI on transportation",
+        "publicationId": "Pub45",
+        "field": "Transportation",
+        "citationScore": 82,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859c5",
+        "description": "Impact of renewable energy on climate",
+        "publicationId": "Pub46",
+        "field": "Environmental Science",
+        "citationScore": 93,
+        "fieldWeightImpact": 0.97,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859c6",
+        "description": "Impact of AI on logistics",
+        "publicationId": "Pub47",
+        "field": "Logistics",
+        "citationScore": 78,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859c7",
+        "description": "Impact of renewable energy on industry",
+        "publicationId": "Pub48",
+        "field": "Industrial Engineering",
+        "citationScore": 74,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859c8",
+        "description": "Impact of AI on agriculture",
+        "publicationId": "Pub49",
+        "field": "Agriculture",
+        "citationScore": 88,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859c9",
+        "description": "Impact of digital transformation",
+        "publicationId": "Pub50",
+        "field": "Business",
+        "citationScore": 65,
+        "fieldWeightImpact": 0.78,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859ca",
+        "description": "Impact of renewable energy adoption on urban infrastructure",
+        "publicationId": "pub_001",
+        "field": "Environmental Science",
+        "citationScore": 12,
+        "fieldWeightImpact": 0.8,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859cb",
+        "description": "Impact of AI in healthcare diagnostics",
+        "publicationId": "pub_002",
+        "field": "Computer Science",
+        "citationScore": 15,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859cc",
+        "description": "Impact of climate change on agricultural productivity",
+        "publicationId": "pub_003",
+        "field": "Agricultural Science",
+        "citationScore": 18,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859cd",
+        "description": "Impact of blockchain on financial transactions",
+        "publicationId": "pub_004",
+        "field": "Finance",
+        "citationScore": 22,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859ce",
+        "description": "Impact of social media on mental health",
+        "publicationId": "pub_005",
+        "field": "Psychology",
+        "citationScore": 10,
+        "fieldWeightImpact": 0.7,
+        "industryImpact": 0.6
+    },
+    {
+        "_id": "67bb8a384c721c58483859cf",
+        "description": "Impact of nanotechnology in drug delivery systems",
+        "publicationId": "pub_006",
+        "field": "Pharmaceutical Science",
+        "citationScore": 25,
+        "fieldWeightImpact": 0.95,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859d0",
+        "description": "Impact of big data analytics on business intelligence",
+        "publicationId": "pub_007",
+        "field": "Business Management",
+        "citationScore": 20,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859d1",
+        "description": "Impact of dietary patterns on cardiovascular health",
+        "publicationId": "pub_008",
+        "field": "Nutrition",
+        "citationScore": 17,
+        "fieldWeightImpact": 0.78,
+        "industryImpact": 0.65
+    },
+    {
+        "_id": "67bb8a384c721c58483859d2",
+        "description": "Impact of 5G technology on communication networks",
+        "publicationId": "pub_009",
+        "field": "Telecommunications",
+        "citationScore": 14,
+        "fieldWeightImpact": 0.82,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c58483859d3",
+        "description": "Impact of urbanization on biodiversity",
+        "publicationId": "pub_010",
+        "field": "Ecology",
+        "citationScore": 19,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859d4",
+        "description": "Impact of quantum computing on cryptography",
+        "publicationId": "pub_011",
+        "field": "Computer Science",
+        "citationScore": 23,
+        "fieldWeightImpact": 0.94,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859d5",
+        "description": "Impact of remote work on employee productivity",
+        "publicationId": "pub_012",
+        "field": "Human Resources",
+        "citationScore": 13,
+        "fieldWeightImpact": 0.75,
+        "industryImpact": 0.68
+    },
+    {
+        "_id": "67bb8a384c721c58483859d6",
+        "description": "Impact of genetic engineering on crop yield",
+        "publicationId": "pub_013",
+        "field": "Biotechnology",
+        "citationScore": 21,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859d7",
+        "description": "Impact of virtual reality in education",
+        "publicationId": "pub_014",
+        "field": "Education",
+        "citationScore": 16,
+        "fieldWeightImpact": 0.8,
+        "industryImpact": 0.72
+    },
+    {
+        "_id": "67bb8a384c721c58483859d8",
+        "description": "Impact of cybersecurity measures on data protection",
+        "publicationId": "pub_015",
+        "field": "Information Technology",
+        "citationScore": 24,
+        "fieldWeightImpact": 0.91,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859d9",
+        "description": "Impact of pollution on marine ecosystems",
+        "publicationId": "pub_016",
+        "field": "Marine Biology",
+        "citationScore": 18,
+        "fieldWeightImpact": 0.89,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859da",
+        "description": "Impact of microfinance on small businesses",
+        "publicationId": "pub_017",
+        "field": "Economics",
+        "citationScore": 20,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859db",
+        "description": "Impact of automation on manufacturing efficiency",
+        "publicationId": "pub_018",
+        "field": "Engineering",
+        "citationScore": 22,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859dc",
+        "description": "Impact of climate policy on renewable energy investment",
+        "publicationId": "pub_019",
+        "field": "Environmental Policy",
+        "citationScore": 15,
+        "fieldWeightImpact": 0.83,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859dd",
+        "description": "Impact of e-commerce on traditional retail",
+        "publicationId": "pub_020",
+        "field": "Business Management",
+        "citationScore": 19,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c58483859de",
+        "description": "Impact of telemedicine on rural healthcare access",
+        "publicationId": "pub_021",
+        "field": "Medicine",
+        "citationScore": 17,
+        "fieldWeightImpact": 0.84,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859df",
+        "description": "Impact of artificial intelligence on supply chain management",
+        "publicationId": "pub_022",
+        "field": "Logistics",
+        "citationScore": 21,
+        "fieldWeightImpact": 0.91,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c58483859e0",
+        "description": "Impact of social networking on consumer behavior",
+        "publicationId": "pub_023",
+        "field": "Marketing",
+        "citationScore": 14,
+        "fieldWeightImpact": 0.76,
+        "industryImpact": 0.68
+    },
+    {
+        "_id": "67bb8a384c721c58483859e1",
+        "description": "Impact of electric vehicles on urban air quality",
+        "publicationId": "pub_024",
+        "field": "Environmental Science",
+        "citationScore": 18,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859e2",
+        "description": "Impact of fintech on banking services",
+        "publicationId": "pub_025",
+        "field": "Finance",
+        "citationScore": 23,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859e3",
+        "description": "Impact of personalized medicine on treatment outcomes",
+        "publicationId": "pub_026",
+        "field": "Medicine",
+        "citationScore": 20,
+        "fieldWeightImpact": 0.89,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859e4",
+        "description": "Impact of online education on student performance",
+        "publicationId": "pub_027",
+        "field": "Education",
+        "citationScore": 16,
+        "fieldWeightImpact": 0.8,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859e5",
+        "description": "Impact of renewable energy policies on carbon emissions",
+        "publicationId": "pub_028",
+        "field": "Environmental Policy",
+        "citationScore": 19,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859e6",
+        "description": "Impact of digital marketing on brand awareness",
+        "publicationId": "pub_029",
+        "field": "Marketing",
+        "citationScore": 15,
+        "fieldWeightImpact": 0.82,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859e7",
+        "description": "Impact of machine learning on predictive analytics",
+        "publicationId": "pub_030",
+        "field": "Data Science",
+        "citationScore": 22,
+        "fieldWeightImpact": 0.93,
+        "industryImpact": 0.88
+    },
+    {
+        "_id": "67bb8a384c721c58483859e8",
+        "description": "Impact of telecommunication advancements on global connectivity",
+        "publicationId": "pub_031",
+        "field": "Telecommunications",
+        "citationScore": 18,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c58483859e9",
+        "description": "Impact of climate change on water resources",
+        "publicationId": "pub_032",
+        "field": "Hydrology",
+        "citationScore": 21,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859ea",
+        "description": "Impact of wearable technology on health monitoring",
+        "publicationId": "pub_033",
+        "field": "Health Technology",
+        "citationScore": 19,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859eb",
+        "description": "Impact of renewable energy on fossil fuel dependency",
+        "publicationId": "pub_034",
+        "field": "Energy Policy",
+        "citationScore": 17,
+        "fieldWeightImpact": 0.84,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859ec",
+        "description": "Impact of digital transformation on business operations",
+        "publicationId": "pub_035",
+        "field": "Business Management",
+        "citationScore": 20,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859ed",
+        "description": "Impact of AI on autonomous vehicles",
+        "publicationId": "pub_036",
+        "field": "Automotive Engineering",
+        "citationScore": 23,
+        "fieldWeightImpact": 0.92,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859ee",
+        "description": "Impact of social media influencers on consumer behavior",
+        "publicationId": "pub_037",
+        "field": "Marketing",
+        "citationScore": 16,
+        "fieldWeightImpact": 0.81,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859ef",
+        "description": "Impact of climate change on polar ice melting",
+        "publicationId": "pub_038",
+        "field": "Climatology",
+        "citationScore": 22,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859f0",
+        "description": "Impact of e-learning platforms on education accessibility",
+        "publicationId": "pub_039",
+        "field": "Education Technology",
+        "citationScore": 18,
+        "fieldWeightImpact": 0.85,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859f1",
+        "description": "Impact of renewable energy on economic growth",
+        "publicationId": "pub_040",
+        "field": "Economics",
+        "citationScore": 19,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.82
+    },
+    {
+        "_id": "67bb8a384c721c58483859f2",
+        "description": "Impact of digital currencies on global finance",
+        "publicationId": "pub_041",
+        "field": "Finance",
+        "citationScore": 24,
+        "fieldWeightImpact": 0.93,
+        "industryImpact": 0.9
+    },
+    {
+        "_id": "67bb8a384c721c58483859f3",
+        "description": "Impact of climate change on food security",
+        "publicationId": "pub_042",
+        "field": "Agricultural Science",
+        "citationScore": 21,
+        "fieldWeightImpact": 0.89,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859f4",
+        "description": "Impact of smart grids on energy distribution",
+        "publicationId": "pub_043",
+        "field": "Energy Engineering",
+        "citationScore": 20,
+        "fieldWeightImpact": 0.88,
+        "industryImpact": 0.85
+    },
+    {
+        "_id": "67bb8a384c721c58483859f5",
+        "description": "Impact of digital health records on patient care",
+        "publicationId": "pub_044",
+        "field": "Health Informatics",
+        "citationScore": 17,
+        "fieldWeightImpact": 0.83,
+        "industryImpact": 0.78
+    },
+    {
+        "_id": "67bb8a384c721c58483859f6",
+        "description": "Impact of renewable energy on grid stability",
+        "publicationId": "pub_045",
+        "field": "Electrical Engineering",
+        "citationScore": 18,
+        "fieldWeightImpact": 0.86,
+        "industryImpact": 0.8
+    },
+    {
+        "_id": "67bb8a384c721c58483859f7",
+        "description": "Impact of urban planning on sustainable development",
+        "publicationId": "pub_046",
+        "field": "Urban Studies",
+        "citationScore": 19,
+        "fieldWeightImpact": 0.87,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859f8",
+        "description": "Impact of digital advertising on consumer engagement",
+        "publicationId": "pub_047",
+        "field": "Marketing",
+        "citationScore": 15,
+        "fieldWeightImpact": 0.8,
+        "industryImpact": 0.72
+    },
+    {
+        "_id": "67bb8a384c721c58483859f9",
+        "description": "Impact of virtual teams on organizational culture",
+        "publicationId": "pub_048",
+        "field": "Human Resources",
+        "citationScore": 14,
+        "fieldWeightImpact": 0.78,
+        "industryImpact": 0.7
+    },
+    {
+        "_id": "67bb8a384c721c58483859fa",
+        "description": "Impact of renewable energy on rural electrification",
+        "publicationId": "pub_049",
+        "field": "Energy Policy",
+        "citationScore": 16,
+        "fieldWeightImpact": 0.82,
+        "industryImpact": 0.75
+    },
+    {
+        "_id": "67bb8a384c721c58483859fb",
+        "description": "Impact of digital transformation on customer experience",
+        "publicationId": "pub_050",
+        "field": "Business Management",
+        "citationScore": 22,
+        "fieldWeightImpact": 0.9,
+        "industryImpact": 0.85
+    }
+]

@@ -1,0 +1,4002 @@
+[
+    {
+        "_id": "67bb887f4c721c58483856dc",
+        "citingPublicationId": "Pub_001",
+        "citedPublicationId": "Pub_101",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483856dd",
+        "citingPublicationId": "Pub_002",
+        "citedPublicationId": "Pub_102",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Theory",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483856de",
+        "citingPublicationId": "Pub_003",
+        "citedPublicationId": "Pub_103",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483856df",
+        "citingPublicationId": "Pub_004",
+        "citedPublicationId": "Pub_104",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483856e0",
+        "citingPublicationId": "Pub_005",
+        "citedPublicationId": "Pub_105",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483856e1",
+        "citingPublicationId": "Pub_006",
+        "citedPublicationId": "Pub_106",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483856e2",
+        "citingPublicationId": "Pub_007",
+        "citedPublicationId": "Pub_107",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483856e3",
+        "citingPublicationId": "Pub_008",
+        "citedPublicationId": "Pub_108",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483856e4",
+        "citingPublicationId": "Pub_009",
+        "citedPublicationId": "Pub_109",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Theory",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483856e5",
+        "citingPublicationId": "Pub_010",
+        "citedPublicationId": "Pub_110",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483856e6",
+        "citingPublicationId": "Pub_011",
+        "citedPublicationId": "Pub_111",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483856e7",
+        "citingPublicationId": "Pub_012",
+        "citedPublicationId": "Pub_112",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483856e8",
+        "citingPublicationId": "Pub_013",
+        "citedPublicationId": "Pub_113",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483856e9",
+        "citingPublicationId": "Pub_014",
+        "citedPublicationId": "Pub_114",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483856ea",
+        "citingPublicationId": "Pub_015",
+        "citedPublicationId": "Pub_115",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483856eb",
+        "citingPublicationId": "Pub_016",
+        "citedPublicationId": "Pub_116",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Theory",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483856ec",
+        "citingPublicationId": "Pub_017",
+        "citedPublicationId": "Pub_117",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483856ed",
+        "citingPublicationId": "Pub_018",
+        "citedPublicationId": "Pub_118",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483856ee",
+        "citingPublicationId": "Pub_019",
+        "citedPublicationId": "Pub_119",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483856ef",
+        "citingPublicationId": "Pub_020",
+        "citedPublicationId": "Pub_120",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483856f0",
+        "citingPublicationId": "Pub_021",
+        "citedPublicationId": "Pub_121",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483856f1",
+        "citingPublicationId": "Pub_022",
+        "citedPublicationId": "Pub_122",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483856f2",
+        "citingPublicationId": "Pub_023",
+        "citedPublicationId": "Pub_123",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Theory",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483856f3",
+        "citingPublicationId": "Pub_024",
+        "citedPublicationId": "Pub_124",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483856f4",
+        "citingPublicationId": "Pub_025",
+        "citedPublicationId": "Pub_125",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483856f5",
+        "citingPublicationId": "Pub_026",
+        "citedPublicationId": "Pub_126",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483856f6",
+        "citingPublicationId": "Pub_027",
+        "citedPublicationId": "Pub_127",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483856f7",
+        "citingPublicationId": "Pub_028",
+        "citedPublicationId": "Pub_128",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483856f8",
+        "citingPublicationId": "Pub_029",
+        "citedPublicationId": "Pub_129",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483856f9",
+        "citingPublicationId": "Pub_030",
+        "citedPublicationId": "Pub_130",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Theory",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483856fa",
+        "citingPublicationId": "Pub_031",
+        "citedPublicationId": "Pub_131",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483856fb",
+        "citingPublicationId": "Pub_032",
+        "citedPublicationId": "Pub_132",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483856fc",
+        "citingPublicationId": "Pub_033",
+        "citedPublicationId": "Pub_133",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483856fd",
+        "citingPublicationId": "Pub_034",
+        "citedPublicationId": "Pub_134",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483856fe",
+        "citingPublicationId": "Pub_035",
+        "citedPublicationId": "Pub_135",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483856ff",
+        "citingPublicationId": "Pub_036",
+        "citedPublicationId": "Pub_136",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385700",
+        "citingPublicationId": "Pub_037",
+        "citedPublicationId": "Pub_137",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Theory",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385701",
+        "citingPublicationId": "Pub_038",
+        "citedPublicationId": "Pub_138",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385702",
+        "citingPublicationId": "Pub_039",
+        "citedPublicationId": "Pub_139",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385703",
+        "citingPublicationId": "Pub_040",
+        "citedPublicationId": "Pub_140",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385704",
+        "citingPublicationId": "Pub_041",
+        "citedPublicationId": "Pub_141",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385705",
+        "citingPublicationId": "Pub_042",
+        "citedPublicationId": "Pub_142",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385706",
+        "citingPublicationId": "Pub_043",
+        "citedPublicationId": "Pub_143",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385707",
+        "citingPublicationId": "Pub_044",
+        "citedPublicationId": "Pub_144",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Theory",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385708",
+        "citingPublicationId": "Pub_045",
+        "citedPublicationId": "Pub_145",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385709",
+        "citingPublicationId": "Pub_046",
+        "citedPublicationId": "Pub_146",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838570a",
+        "citingPublicationId": "Pub_047",
+        "citedPublicationId": "Pub_147",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838570b",
+        "citingPublicationId": "Pub_048",
+        "citedPublicationId": "Pub_148",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838570c",
+        "citingPublicationId": "Pub_049",
+        "citedPublicationId": "Pub_149",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c584838570d",
+        "citingPublicationId": "Pub_050",
+        "citedPublicationId": "Pub_150",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838570e",
+        "citingPublicationId": "PubA001",
+        "citedPublicationId": "PubB001",
+        "citationContext": "Referenced in the introduction of climate change studies",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838570f",
+        "citingPublicationId": "PubA002",
+        "citedPublicationId": "PubB002",
+        "citationContext": "Referenced in the methodology section of renewable energy research",
+        "citationType": "Methodology",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385710",
+        "citingPublicationId": "PubA003",
+        "citedPublicationId": "PubB003",
+        "citationContext": "Referenced in the results discussion of AI applications",
+        "citationType": "Results",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c5848385711",
+        "citingPublicationId": "PubA004",
+        "citedPublicationId": "PubB004",
+        "citationContext": "Referenced in the literature review of water resource management",
+        "citationType": "Literature Review",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385712",
+        "citingPublicationId": "PubA005",
+        "citedPublicationId": "PubB005",
+        "citationContext": "Referenced in the conclusion of biodiversity conservation",
+        "citationType": "Conclusion",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385713",
+        "citingPublicationId": "PubA006",
+        "citedPublicationId": "PubB006",
+        "citationContext": "Referenced in the abstract of nanotechnology advancements",
+        "citationType": "Abstract",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385714",
+        "citingPublicationId": "PubA007",
+        "citedPublicationId": "PubB007",
+        "citationContext": "Referenced in the introduction of genetic engineering",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385715",
+        "citingPublicationId": "PubA008",
+        "citedPublicationId": "PubB008",
+        "citationContext": "Referenced in the discussion of machine learning algorithms",
+        "citationType": "Discussion",
+        "citationImpact": 10
+    },
+    {
+        "_id": "67bb887f4c721c5848385716",
+        "citingPublicationId": "PubA009",
+        "citedPublicationId": "PubB009",
+        "citationContext": "Referenced in the methodology of pharmaceutical studies",
+        "citationType": "Methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385717",
+        "citingPublicationId": "PubA010",
+        "citedPublicationId": "PubB010",
+        "citationContext": "Referenced in the results of agricultural innovation",
+        "citationType": "Results",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385718",
+        "citingPublicationId": "PubA011",
+        "citedPublicationId": "PubB011",
+        "citationContext": "Referenced in the literature review of urban planning",
+        "citationType": "Literature Review",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385719",
+        "citingPublicationId": "PubA012",
+        "citedPublicationId": "PubB012",
+        "citationContext": "Referenced in the conclusion of renewable energy policies",
+        "citationType": "Conclusion",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c584838571a",
+        "citingPublicationId": "PubA013",
+        "citedPublicationId": "PubB013",
+        "citationContext": "Referenced in the abstract of cybersecurity frameworks",
+        "citationType": "Abstract",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838571b",
+        "citingPublicationId": "PubA014",
+        "citedPublicationId": "PubB014",
+        "citationContext": "Referenced in the introduction of quantum computing",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c584838571c",
+        "citingPublicationId": "PubA015",
+        "citedPublicationId": "PubB015",
+        "citationContext": "Referenced in the discussion of blockchain technology",
+        "citationType": "Discussion",
+        "citationImpact": 10
+    },
+    {
+        "_id": "67bb887f4c721c584838571d",
+        "citingPublicationId": "PubA016",
+        "citedPublicationId": "PubB016",
+        "citationContext": "Referenced in the methodology of medical imaging",
+        "citationType": "Methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838571e",
+        "citingPublicationId": "PubA017",
+        "citedPublicationId": "PubB017",
+        "citationContext": "Referenced in the results of environmental impact assessments",
+        "citationType": "Results",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838571f",
+        "citingPublicationId": "PubA018",
+        "citedPublicationId": "PubB018",
+        "citationContext": "Referenced in the literature review of social media influence",
+        "citationType": "Literature Review",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385720",
+        "citingPublicationId": "PubA019",
+        "citedPublicationId": "PubB019",
+        "citationContext": "Referenced in the conclusion of artificial intelligence ethics",
+        "citationType": "Conclusion",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c5848385721",
+        "citingPublicationId": "PubA020",
+        "citedPublicationId": "PubB020",
+        "citationContext": "Referenced in the abstract of gene therapy research",
+        "citationType": "Abstract",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385722",
+        "citingPublicationId": "PubA021",
+        "citedPublicationId": "PubB021",
+        "citationContext": "Referenced in the introduction of smart city technologies",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385723",
+        "citingPublicationId": "PubA022",
+        "citedPublicationId": "PubB022",
+        "citationContext": "Referenced in the discussion of renewable energy storage",
+        "citationType": "Discussion",
+        "citationImpact": 10
+    },
+    {
+        "_id": "67bb887f4c721c5848385724",
+        "citingPublicationId": "PubA023",
+        "citedPublicationId": "PubB023",
+        "citationContext": "Referenced in the methodology of vaccine development",
+        "citationType": "Methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385725",
+        "citingPublicationId": "PubA024",
+        "citedPublicationId": "PubB024",
+        "citationContext": "Referenced in the results of climate adaptation strategies",
+        "citationType": "Results",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385726",
+        "citingPublicationId": "PubA025",
+        "citedPublicationId": "PubB025",
+        "citationContext": "Referenced in the literature review of digital transformation",
+        "citationType": "Literature Review",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385727",
+        "citingPublicationId": "PubA026",
+        "citedPublicationId": "PubB026",
+        "citationContext": "Referenced in the conclusion of renewable energy economics",
+        "citationType": "Conclusion",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c5848385728",
+        "citingPublicationId": "PubA027",
+        "citedPublicationId": "PubB027",
+        "citationContext": "Referenced in the abstract of neuroscience breakthroughs",
+        "citationType": "Abstract",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385729",
+        "citingPublicationId": "PubA028",
+        "citedPublicationId": "PubB028",
+        "citationContext": "Referenced in the introduction of sustainable agriculture",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c584838572a",
+        "citingPublicationId": "PubA029",
+        "citedPublicationId": "PubB029",
+        "citationContext": "Referenced in the discussion of data privacy laws",
+        "citationType": "Discussion",
+        "citationImpact": 10
+    },
+    {
+        "_id": "67bb887f4c721c584838572b",
+        "citingPublicationId": "PubA030",
+        "citedPublicationId": "PubB030",
+        "citationContext": "Referenced in the methodology of robotics engineering",
+        "citationType": "Methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838572c",
+        "citingPublicationId": "PubA031",
+        "citedPublicationId": "PubB031",
+        "citationContext": "Referenced in the results of marine biology research",
+        "citationType": "Results",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838572d",
+        "citingPublicationId": "PubA032",
+        "citedPublicationId": "PubB032",
+        "citationContext": "Referenced in the literature review of artificial intelligence in healthcare",
+        "citationType": "Literature Review",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c584838572e",
+        "citingPublicationId": "PubA033",
+        "citedPublicationId": "PubB033",
+        "citationContext": "Referenced in the conclusion of environmental policy analysis",
+        "citationType": "Conclusion",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c584838572f",
+        "citingPublicationId": "PubA034",
+        "citedPublicationId": "PubB034",
+        "citationContext": "Referenced in the abstract of biotechnology innovations",
+        "citationType": "Abstract",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385730",
+        "citingPublicationId": "PubA035",
+        "citedPublicationId": "PubB035",
+        "citationContext": "Referenced in the introduction of renewable energy systems",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385731",
+        "citingPublicationId": "PubA036",
+        "citedPublicationId": "PubB036",
+        "citationContext": "Referenced in the discussion of cybersecurity threats",
+        "citationType": "Discussion",
+        "citationImpact": 10
+    },
+    {
+        "_id": "67bb887f4c721c5848385732",
+        "citingPublicationId": "PubA037",
+        "citedPublicationId": "PubB037",
+        "citationContext": "Referenced in the methodology of genetic research",
+        "citationType": "Methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385733",
+        "citingPublicationId": "PubA038",
+        "citedPublicationId": "PubB038",
+        "citationContext": "Referenced in the results of space exploration studies",
+        "citationType": "Results",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385734",
+        "citingPublicationId": "PubA039",
+        "citedPublicationId": "PubB039",
+        "citationContext": "Referenced in the literature review of economic development",
+        "citationType": "Literature Review",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385735",
+        "citingPublicationId": "PubA040",
+        "citedPublicationId": "PubB040",
+        "citationContext": "Referenced in the conclusion of digital marketing strategies",
+        "citationType": "Conclusion",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c5848385736",
+        "citingPublicationId": "PubA041",
+        "citedPublicationId": "PubB041",
+        "citationContext": "Referenced in the abstract of climate resilience frameworks",
+        "citationType": "Abstract",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385737",
+        "citingPublicationId": "PubA042",
+        "citedPublicationId": "PubB042",
+        "citationContext": "Referenced in the introduction of AI-driven analytics",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385738",
+        "citingPublicationId": "PubA043",
+        "citedPublicationId": "PubB043",
+        "citationContext": "Referenced in the discussion of sustainable urban development",
+        "citationType": "Discussion",
+        "citationImpact": 10
+    },
+    {
+        "_id": "67bb887f4c721c5848385739",
+        "citingPublicationId": "PubA044",
+        "citedPublicationId": "PubB044",
+        "citationContext": "Referenced in the methodology of renewable energy integration",
+        "citationType": "Methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838573a",
+        "citingPublicationId": "PubA045",
+        "citedPublicationId": "PubB045",
+        "citationContext": "Referenced in the results of artificial intelligence in education",
+        "citationType": "Results",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838573b",
+        "citingPublicationId": "PubA046",
+        "citedPublicationId": "PubB046",
+        "citationContext": "Referenced in the literature review of healthcare technology",
+        "citationType": "Literature Review",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c584838573c",
+        "citingPublicationId": "PubA047",
+        "citedPublicationId": "PubB047",
+        "citationContext": "Referenced in the conclusion of digital currency research",
+        "citationType": "Conclusion",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c584838573d",
+        "citingPublicationId": "PubA048",
+        "citedPublicationId": "PubB048",
+        "citationContext": "Referenced in the abstract of machine learning in finance",
+        "citationType": "Abstract",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838573e",
+        "citingPublicationId": "PubA049",
+        "citedPublicationId": "PubB049",
+        "citationContext": "Referenced in the introduction of environmental sustainability",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c584838573f",
+        "citingPublicationId": "PubA050",
+        "citedPublicationId": "PubB050",
+        "citationContext": "Referenced in the discussion of nanotechnology in medicine",
+        "citationType": "Discussion",
+        "citationImpact": 10
+    },
+    {
+        "_id": "67bb887f4c721c5848385740",
+        "citingPublicationId": "Pub_001",
+        "citedPublicationId": "Pub_050",
+        "citationContext": "Referenced in section 2.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385741",
+        "citingPublicationId": "Pub_002",
+        "citedPublicationId": "Pub_045",
+        "citationContext": "Referenced in introduction",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385742",
+        "citingPublicationId": "Pub_003",
+        "citedPublicationId": "Pub_047",
+        "citationContext": "Referenced in discussion",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385743",
+        "citingPublicationId": "Pub_004",
+        "citedPublicationId": "Pub_048",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385744",
+        "citingPublicationId": "Pub_005",
+        "citedPublicationId": "Pub_046",
+        "citationContext": "Referenced in literature review",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385745",
+        "citingPublicationId": "Pub_006",
+        "citedPublicationId": "Pub_049",
+        "citationContext": "Referenced in abstract",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385746",
+        "citingPublicationId": "Pub_007",
+        "citedPublicationId": "Pub_044",
+        "citationContext": "Referenced in methodology",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385747",
+        "citingPublicationId": "Pub_008",
+        "citedPublicationId": "Pub_043",
+        "citationContext": "Referenced in section 4.3",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385748",
+        "citingPublicationId": "Pub_009",
+        "citedPublicationId": "Pub_042",
+        "citationContext": "Referenced in section 5.2",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385749",
+        "citingPublicationId": "Pub_010",
+        "citedPublicationId": "Pub_041",
+        "citationContext": "Referenced in section 3.1",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838574a",
+        "citingPublicationId": "Pub_011",
+        "citedPublicationId": "Pub_040",
+        "citationContext": "Referenced in section 6.1",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838574b",
+        "citingPublicationId": "Pub_012",
+        "citedPublicationId": "Pub_039",
+        "citationContext": "Referenced in section 7.1",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838574c",
+        "citingPublicationId": "Pub_013",
+        "citedPublicationId": "Pub_038",
+        "citationContext": "Referenced in section 8.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838574d",
+        "citingPublicationId": "Pub_014",
+        "citedPublicationId": "Pub_037",
+        "citationContext": "Referenced in section 9.1",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838574e",
+        "citingPublicationId": "Pub_015",
+        "citedPublicationId": "Pub_036",
+        "citationContext": "Referenced in section 10.1",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838574f",
+        "citingPublicationId": "Pub_016",
+        "citedPublicationId": "Pub_035",
+        "citationContext": "Referenced in section 11.1",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385750",
+        "citingPublicationId": "Pub_017",
+        "citedPublicationId": "Pub_034",
+        "citationContext": "Referenced in section 12.1",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385751",
+        "citingPublicationId": "Pub_018",
+        "citedPublicationId": "Pub_033",
+        "citationContext": "Referenced in section 13.1",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385752",
+        "citingPublicationId": "Pub_019",
+        "citedPublicationId": "Pub_032",
+        "citationContext": "Referenced in section 14.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385753",
+        "citingPublicationId": "Pub_020",
+        "citedPublicationId": "Pub_031",
+        "citationContext": "Referenced in section 15.1",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385754",
+        "citingPublicationId": "Pub_021",
+        "citedPublicationId": "Pub_030",
+        "citationContext": "Referenced in section 16.1",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385755",
+        "citingPublicationId": "Pub_022",
+        "citedPublicationId": "Pub_029",
+        "citationContext": "Referenced in section 17.1",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385756",
+        "citingPublicationId": "Pub_023",
+        "citedPublicationId": "Pub_028",
+        "citationContext": "Referenced in section 18.1",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385757",
+        "citingPublicationId": "Pub_024",
+        "citedPublicationId": "Pub_027",
+        "citationContext": "Referenced in section 19.1",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385758",
+        "citingPublicationId": "Pub_025",
+        "citedPublicationId": "Pub_026",
+        "citationContext": "Referenced in section 20.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385759",
+        "citingPublicationId": "Pub_026",
+        "citedPublicationId": "Pub_025",
+        "citationContext": "Referenced in section 21.1",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838575a",
+        "citingPublicationId": "Pub_027",
+        "citedPublicationId": "Pub_024",
+        "citationContext": "Referenced in section 22.1",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838575b",
+        "citingPublicationId": "Pub_028",
+        "citedPublicationId": "Pub_023",
+        "citationContext": "Referenced in section 23.1",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838575c",
+        "citingPublicationId": "Pub_029",
+        "citedPublicationId": "Pub_022",
+        "citationContext": "Referenced in section 24.1",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838575d",
+        "citingPublicationId": "Pub_030",
+        "citedPublicationId": "Pub_021",
+        "citationContext": "Referenced in section 25.1",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838575e",
+        "citingPublicationId": "Pub_031",
+        "citedPublicationId": "Pub_020",
+        "citationContext": "Referenced in section 26.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838575f",
+        "citingPublicationId": "Pub_032",
+        "citedPublicationId": "Pub_019",
+        "citationContext": "Referenced in section 27.1",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385760",
+        "citingPublicationId": "Pub_033",
+        "citedPublicationId": "Pub_018",
+        "citationContext": "Referenced in section 28.1",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385761",
+        "citingPublicationId": "Pub_034",
+        "citedPublicationId": "Pub_017",
+        "citationContext": "Referenced in section 29.1",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385762",
+        "citingPublicationId": "Pub_035",
+        "citedPublicationId": "Pub_016",
+        "citationContext": "Referenced in section 30.1",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385763",
+        "citingPublicationId": "Pub_036",
+        "citedPublicationId": "Pub_015",
+        "citationContext": "Referenced in section 31.1",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385764",
+        "citingPublicationId": "Pub_037",
+        "citedPublicationId": "Pub_014",
+        "citationContext": "Referenced in section 32.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385765",
+        "citingPublicationId": "Pub_038",
+        "citedPublicationId": "Pub_013",
+        "citationContext": "Referenced in section 33.1",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385766",
+        "citingPublicationId": "Pub_039",
+        "citedPublicationId": "Pub_012",
+        "citationContext": "Referenced in section 34.1",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385767",
+        "citingPublicationId": "Pub_040",
+        "citedPublicationId": "Pub_011",
+        "citationContext": "Referenced in section 35.1",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385768",
+        "citingPublicationId": "Pub_041",
+        "citedPublicationId": "Pub_010",
+        "citationContext": "Referenced in section 36.1",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385769",
+        "citingPublicationId": "Pub_042",
+        "citedPublicationId": "Pub_009",
+        "citationContext": "Referenced in section 37.1",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838576a",
+        "citingPublicationId": "Pub_043",
+        "citedPublicationId": "Pub_008",
+        "citationContext": "Referenced in section 38.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838576b",
+        "citingPublicationId": "Pub_044",
+        "citedPublicationId": "Pub_007",
+        "citationContext": "Referenced in section 39.1",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838576c",
+        "citingPublicationId": "Pub_045",
+        "citedPublicationId": "Pub_006",
+        "citationContext": "Referenced in section 40.1",
+        "citationType": "results",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838576d",
+        "citingPublicationId": "Pub_046",
+        "citedPublicationId": "Pub_005",
+        "citationContext": "Referenced in section 41.1",
+        "citationType": "background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838576e",
+        "citingPublicationId": "Pub_047",
+        "citedPublicationId": "Pub_004",
+        "citationContext": "Referenced in section 42.1",
+        "citationType": "methodology",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838576f",
+        "citingPublicationId": "Pub_048",
+        "citedPublicationId": "Pub_003",
+        "citationContext": "Referenced in section 43.1",
+        "citationType": "results",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385770",
+        "citingPublicationId": "Pub_049",
+        "citedPublicationId": "Pub_002",
+        "citationContext": "Referenced in section 44.1",
+        "citationType": "background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385771",
+        "citingPublicationId": "Pub_050",
+        "citedPublicationId": "Pub_001",
+        "citationContext": "Referenced in section 45.1",
+        "citationType": "methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385772",
+        "citingPublicationId": "PubA1",
+        "citedPublicationId": "PubB1",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385773",
+        "citingPublicationId": "PubA2",
+        "citedPublicationId": "PubB2",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385774",
+        "citingPublicationId": "PubA3",
+        "citedPublicationId": "PubB3",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Methodology",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385775",
+        "citingPublicationId": "PubA4",
+        "citedPublicationId": "PubB4",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385776",
+        "citingPublicationId": "PubA5",
+        "citedPublicationId": "PubB5",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385777",
+        "citingPublicationId": "PubA6",
+        "citedPublicationId": "PubB6",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385778",
+        "citingPublicationId": "PubA7",
+        "citedPublicationId": "PubB7",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385779",
+        "citingPublicationId": "PubA8",
+        "citedPublicationId": "PubB8",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838577a",
+        "citingPublicationId": "PubA9",
+        "citedPublicationId": "PubB9",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838577b",
+        "citingPublicationId": "PubA10",
+        "citedPublicationId": "PubB10",
+        "citationContext": "Referenced in Acknowledgements",
+        "citationType": "Acknowledgement",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838577c",
+        "citingPublicationId": "PubA11",
+        "citedPublicationId": "PubB11",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838577d",
+        "citingPublicationId": "PubA12",
+        "citedPublicationId": "PubB12",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838577e",
+        "citingPublicationId": "PubA13",
+        "citedPublicationId": "PubB13",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Methodology",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838577f",
+        "citingPublicationId": "PubA14",
+        "citedPublicationId": "PubB14",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385780",
+        "citingPublicationId": "PubA15",
+        "citedPublicationId": "PubB15",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385781",
+        "citingPublicationId": "PubA16",
+        "citedPublicationId": "PubB16",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385782",
+        "citingPublicationId": "PubA17",
+        "citedPublicationId": "PubB17",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385783",
+        "citingPublicationId": "PubA18",
+        "citedPublicationId": "PubB18",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385784",
+        "citingPublicationId": "PubA19",
+        "citedPublicationId": "PubB19",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385785",
+        "citingPublicationId": "PubA20",
+        "citedPublicationId": "PubB20",
+        "citationContext": "Referenced in Acknowledgements",
+        "citationType": "Acknowledgement",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385786",
+        "citingPublicationId": "PubA21",
+        "citedPublicationId": "PubB21",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385787",
+        "citingPublicationId": "PubA22",
+        "citedPublicationId": "PubB22",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385788",
+        "citingPublicationId": "PubA23",
+        "citedPublicationId": "PubB23",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Methodology",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385789",
+        "citingPublicationId": "PubA24",
+        "citedPublicationId": "PubB24",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838578a",
+        "citingPublicationId": "PubA25",
+        "citedPublicationId": "PubB25",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838578b",
+        "citingPublicationId": "PubA26",
+        "citedPublicationId": "PubB26",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838578c",
+        "citingPublicationId": "PubA27",
+        "citedPublicationId": "PubB27",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838578d",
+        "citingPublicationId": "PubA28",
+        "citedPublicationId": "PubB28",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838578e",
+        "citingPublicationId": "PubA29",
+        "citedPublicationId": "PubB29",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838578f",
+        "citingPublicationId": "PubA30",
+        "citedPublicationId": "PubB30",
+        "citationContext": "Referenced in Acknowledgements",
+        "citationType": "Acknowledgement",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385790",
+        "citingPublicationId": "PubA31",
+        "citedPublicationId": "PubB31",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385791",
+        "citingPublicationId": "PubA32",
+        "citedPublicationId": "PubB32",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385792",
+        "citingPublicationId": "PubA33",
+        "citedPublicationId": "PubB33",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Methodology",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385793",
+        "citingPublicationId": "PubA34",
+        "citedPublicationId": "PubB34",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385794",
+        "citingPublicationId": "PubA35",
+        "citedPublicationId": "PubB35",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385795",
+        "citingPublicationId": "PubA36",
+        "citedPublicationId": "PubB36",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385796",
+        "citingPublicationId": "PubA37",
+        "citedPublicationId": "PubB37",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385797",
+        "citingPublicationId": "PubA38",
+        "citedPublicationId": "PubB38",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385798",
+        "citingPublicationId": "PubA39",
+        "citedPublicationId": "PubB39",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385799",
+        "citingPublicationId": "PubA40",
+        "citedPublicationId": "PubB40",
+        "citationContext": "Referenced in Acknowledgements",
+        "citationType": "Acknowledgement",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838579a",
+        "citingPublicationId": "PubA41",
+        "citedPublicationId": "PubB41",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838579b",
+        "citingPublicationId": "PubA42",
+        "citedPublicationId": "PubB42",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838579c",
+        "citingPublicationId": "PubA43",
+        "citedPublicationId": "PubB43",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Methodology",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838579d",
+        "citingPublicationId": "PubA44",
+        "citedPublicationId": "PubB44",
+        "citationContext": "Referenced in Results",
+        "citationType": "Data",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838579e",
+        "citingPublicationId": "PubA45",
+        "citedPublicationId": "PubB45",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c584838579f",
+        "citingPublicationId": "PubA46",
+        "citedPublicationId": "PubB46",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857a0",
+        "citingPublicationId": "PubA47",
+        "citedPublicationId": "PubB47",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857a1",
+        "citingPublicationId": "PubA48",
+        "citedPublicationId": "PubB48",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857a2",
+        "citingPublicationId": "PubA49",
+        "citedPublicationId": "PubB49",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857a3",
+        "citingPublicationId": "PubA50",
+        "citedPublicationId": "PubB50",
+        "citationContext": "Referenced in Acknowledgements",
+        "citationType": "Acknowledgement",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483857a4",
+        "citingPublicationId": "Pub001",
+        "citedPublicationId": "Pub101",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857a5",
+        "citingPublicationId": "Pub002",
+        "citedPublicationId": "Pub102",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857a6",
+        "citingPublicationId": "Pub003",
+        "citedPublicationId": "Pub103",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Comparison",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857a7",
+        "citingPublicationId": "Pub004",
+        "citedPublicationId": "Pub104",
+        "citationContext": "Referenced in Results",
+        "citationType": "Contrast",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857a8",
+        "citingPublicationId": "Pub005",
+        "citedPublicationId": "Pub105",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Future Work",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857a9",
+        "citingPublicationId": "Pub006",
+        "citedPublicationId": "Pub106",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Validation",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857aa",
+        "citingPublicationId": "Pub007",
+        "citedPublicationId": "Pub107",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857ab",
+        "citingPublicationId": "Pub008",
+        "citedPublicationId": "Pub108",
+        "citationContext": "Referenced in Background",
+        "citationType": "Historical",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857ac",
+        "citingPublicationId": "Pub009",
+        "citedPublicationId": "Pub109",
+        "citationContext": "Referenced in Analysis",
+        "citationType": "Method Comparison",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857ad",
+        "citingPublicationId": "Pub010",
+        "citedPublicationId": "Pub110",
+        "citationContext": "Referenced in Findings",
+        "citationType": "Evidence",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857ae",
+        "citingPublicationId": "Pub011",
+        "citedPublicationId": "Pub111",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857af",
+        "citingPublicationId": "Pub012",
+        "citedPublicationId": "Pub112",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857b0",
+        "citingPublicationId": "Pub013",
+        "citedPublicationId": "Pub113",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857b1",
+        "citingPublicationId": "Pub014",
+        "citedPublicationId": "Pub114",
+        "citationContext": "Referenced in Results",
+        "citationType": "Contrast",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857b2",
+        "citingPublicationId": "Pub015",
+        "citedPublicationId": "Pub115",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Future Work",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857b3",
+        "citingPublicationId": "Pub016",
+        "citedPublicationId": "Pub116",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Validation",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857b4",
+        "citingPublicationId": "Pub017",
+        "citedPublicationId": "Pub117",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857b5",
+        "citingPublicationId": "Pub018",
+        "citedPublicationId": "Pub118",
+        "citationContext": "Referenced in Background",
+        "citationType": "Historical",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857b6",
+        "citingPublicationId": "Pub019",
+        "citedPublicationId": "Pub119",
+        "citationContext": "Referenced in Analysis",
+        "citationType": "Method Comparison",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857b7",
+        "citingPublicationId": "Pub020",
+        "citedPublicationId": "Pub120",
+        "citationContext": "Referenced in Findings",
+        "citationType": "Evidence",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857b8",
+        "citingPublicationId": "Pub021",
+        "citedPublicationId": "Pub121",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857b9",
+        "citingPublicationId": "Pub022",
+        "citedPublicationId": "Pub122",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857ba",
+        "citingPublicationId": "Pub023",
+        "citedPublicationId": "Pub123",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857bb",
+        "citingPublicationId": "Pub024",
+        "citedPublicationId": "Pub124",
+        "citationContext": "Referenced in Results",
+        "citationType": "Contrast",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857bc",
+        "citingPublicationId": "Pub025",
+        "citedPublicationId": "Pub125",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Future Work",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857bd",
+        "citingPublicationId": "Pub026",
+        "citedPublicationId": "Pub126",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Validation",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857be",
+        "citingPublicationId": "Pub027",
+        "citedPublicationId": "Pub127",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857bf",
+        "citingPublicationId": "Pub028",
+        "citedPublicationId": "Pub128",
+        "citationContext": "Referenced in Background",
+        "citationType": "Historical",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857c0",
+        "citingPublicationId": "Pub029",
+        "citedPublicationId": "Pub129",
+        "citationContext": "Referenced in Analysis",
+        "citationType": "Method Comparison",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857c1",
+        "citingPublicationId": "Pub030",
+        "citedPublicationId": "Pub130",
+        "citationContext": "Referenced in Findings",
+        "citationType": "Evidence",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857c2",
+        "citingPublicationId": "Pub031",
+        "citedPublicationId": "Pub131",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857c3",
+        "citingPublicationId": "Pub032",
+        "citedPublicationId": "Pub132",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857c4",
+        "citingPublicationId": "Pub033",
+        "citedPublicationId": "Pub133",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857c5",
+        "citingPublicationId": "Pub034",
+        "citedPublicationId": "Pub134",
+        "citationContext": "Referenced in Results",
+        "citationType": "Contrast",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857c6",
+        "citingPublicationId": "Pub035",
+        "citedPublicationId": "Pub135",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Future Work",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857c7",
+        "citingPublicationId": "Pub036",
+        "citedPublicationId": "Pub136",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Validation",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857c8",
+        "citingPublicationId": "Pub037",
+        "citedPublicationId": "Pub137",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857c9",
+        "citingPublicationId": "Pub038",
+        "citedPublicationId": "Pub138",
+        "citationContext": "Referenced in Background",
+        "citationType": "Historical",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857ca",
+        "citingPublicationId": "Pub039",
+        "citedPublicationId": "Pub139",
+        "citationContext": "Referenced in Analysis",
+        "citationType": "Method Comparison",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857cb",
+        "citingPublicationId": "Pub040",
+        "citedPublicationId": "Pub140",
+        "citationContext": "Referenced in Findings",
+        "citationType": "Evidence",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857cc",
+        "citingPublicationId": "Pub041",
+        "citedPublicationId": "Pub141",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857cd",
+        "citingPublicationId": "Pub042",
+        "citedPublicationId": "Pub142",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857ce",
+        "citingPublicationId": "Pub043",
+        "citedPublicationId": "Pub143",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857cf",
+        "citingPublicationId": "Pub044",
+        "citedPublicationId": "Pub144",
+        "citationContext": "Referenced in Results",
+        "citationType": "Contrast",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857d0",
+        "citingPublicationId": "Pub045",
+        "citedPublicationId": "Pub145",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Future Work",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857d1",
+        "citingPublicationId": "Pub046",
+        "citedPublicationId": "Pub146",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Validation",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857d2",
+        "citingPublicationId": "Pub047",
+        "citedPublicationId": "Pub147",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857d3",
+        "citingPublicationId": "Pub048",
+        "citedPublicationId": "Pub148",
+        "citationContext": "Referenced in Background",
+        "citationType": "Historical",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857d4",
+        "citingPublicationId": "Pub049",
+        "citedPublicationId": "Pub149",
+        "citationContext": "Referenced in Analysis",
+        "citationType": "Method Comparison",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857d5",
+        "citingPublicationId": "Pub050",
+        "citedPublicationId": "Pub150",
+        "citationContext": "Referenced in Findings",
+        "citationType": "Evidence",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857d6",
+        "citingPublicationId": "PubA",
+        "citedPublicationId": "PubB",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857d7",
+        "citingPublicationId": "PubC",
+        "citedPublicationId": "PubD",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857d8",
+        "citingPublicationId": "PubE",
+        "citedPublicationId": "PubF",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857d9",
+        "citingPublicationId": "PubG",
+        "citedPublicationId": "PubH",
+        "citationContext": "Referenced in Results",
+        "citationType": "Comparison",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857da",
+        "citingPublicationId": "PubI",
+        "citedPublicationId": "PubJ",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857db",
+        "citingPublicationId": "PubK",
+        "citedPublicationId": "PubL",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483857dc",
+        "citingPublicationId": "PubM",
+        "citedPublicationId": "PubN",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483857dd",
+        "citingPublicationId": "PubO",
+        "citedPublicationId": "PubP",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857de",
+        "citingPublicationId": "PubQ",
+        "citedPublicationId": "PubR",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857df",
+        "citingPublicationId": "PubS",
+        "citedPublicationId": "PubT",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857e0",
+        "citingPublicationId": "PubU",
+        "citedPublicationId": "PubV",
+        "citationContext": "Referenced in Results",
+        "citationType": "Comparison",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857e1",
+        "citingPublicationId": "PubW",
+        "citedPublicationId": "PubX",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857e2",
+        "citingPublicationId": "PubY",
+        "citedPublicationId": "PubZ",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483857e3",
+        "citingPublicationId": "PubAA",
+        "citedPublicationId": "PubBB",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483857e4",
+        "citingPublicationId": "PubCC",
+        "citedPublicationId": "PubDD",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857e5",
+        "citingPublicationId": "PubEE",
+        "citedPublicationId": "PubFF",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857e6",
+        "citingPublicationId": "PubGG",
+        "citedPublicationId": "PubHH",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857e7",
+        "citingPublicationId": "PubII",
+        "citedPublicationId": "PubJJ",
+        "citationContext": "Referenced in Results",
+        "citationType": "Comparison",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857e8",
+        "citingPublicationId": "PubKK",
+        "citedPublicationId": "PubLL",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857e9",
+        "citingPublicationId": "PubMM",
+        "citedPublicationId": "PubNN",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483857ea",
+        "citingPublicationId": "PubOO",
+        "citedPublicationId": "PubPP",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483857eb",
+        "citingPublicationId": "PubQQ",
+        "citedPublicationId": "PubRR",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857ec",
+        "citingPublicationId": "PubSS",
+        "citedPublicationId": "PubTT",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857ed",
+        "citingPublicationId": "PubUU",
+        "citedPublicationId": "PubVV",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857ee",
+        "citingPublicationId": "PubWW",
+        "citedPublicationId": "PubXX",
+        "citationContext": "Referenced in Results",
+        "citationType": "Comparison",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857ef",
+        "citingPublicationId": "PubYY",
+        "citedPublicationId": "PubZZ",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857f0",
+        "citingPublicationId": "PubAAA",
+        "citedPublicationId": "PubBBB",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483857f1",
+        "citingPublicationId": "PubCCC",
+        "citedPublicationId": "PubDDD",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483857f2",
+        "citingPublicationId": "PubEEE",
+        "citedPublicationId": "PubFFF",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857f3",
+        "citingPublicationId": "PubGGG",
+        "citedPublicationId": "PubHHH",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857f4",
+        "citingPublicationId": "PubIII",
+        "citedPublicationId": "PubJJJ",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857f5",
+        "citingPublicationId": "PubKKK",
+        "citedPublicationId": "PubLLL",
+        "citationContext": "Referenced in Results",
+        "citationType": "Comparison",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857f6",
+        "citingPublicationId": "PubMMM",
+        "citedPublicationId": "PubNNN",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857f7",
+        "citingPublicationId": "PubOOO",
+        "citedPublicationId": "PubPPP",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483857f8",
+        "citingPublicationId": "PubQQQ",
+        "citedPublicationId": "PubRRR",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c58483857f9",
+        "citingPublicationId": "PubSSS",
+        "citedPublicationId": "PubTTT",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c58483857fa",
+        "citingPublicationId": "PubUUU",
+        "citedPublicationId": "PubVVV",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c58483857fb",
+        "citingPublicationId": "PubWWW",
+        "citedPublicationId": "PubXXX",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c58483857fc",
+        "citingPublicationId": "PubYYY",
+        "citedPublicationId": "PubZZZ",
+        "citationContext": "Referenced in Results",
+        "citationType": "Comparison",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c58483857fd",
+        "citingPublicationId": "PubAAAA",
+        "citedPublicationId": "PubBBBB",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c58483857fe",
+        "citingPublicationId": "PubCCCC",
+        "citedPublicationId": "PubDDDD",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c58483857ff",
+        "citingPublicationId": "PubEEEE",
+        "citedPublicationId": "PubFFFF",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385800",
+        "citingPublicationId": "PubGGGG",
+        "citedPublicationId": "PubHHHH",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385801",
+        "citingPublicationId": "PubIIII",
+        "citedPublicationId": "PubJJJJ",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Support",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385802",
+        "citingPublicationId": "PubKKKK",
+        "citedPublicationId": "PubLLLL",
+        "citationContext": "Referenced in Methods",
+        "citationType": "Methodology",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385803",
+        "citingPublicationId": "PubMMMM",
+        "citedPublicationId": "PubNNNN",
+        "citationContext": "Referenced in Results",
+        "citationType": "Comparison",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385804",
+        "citingPublicationId": "PubOOOO",
+        "citedPublicationId": "PubPPPP",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385805",
+        "citingPublicationId": "PubQQQQ",
+        "citedPublicationId": "PubRRRR",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385806",
+        "citingPublicationId": "PubSSSS",
+        "citedPublicationId": "PubTTTT",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385807",
+        "citingPublicationId": "PubUUUU",
+        "citedPublicationId": "PubVVVV",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385808",
+        "citingPublicationId": "Pub1",
+        "citedPublicationId": "Pub2",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385809",
+        "citingPublicationId": "Pub3",
+        "citedPublicationId": "Pub4",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838580a",
+        "citingPublicationId": "Pub5",
+        "citedPublicationId": "Pub6",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Analysis",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c584838580b",
+        "citingPublicationId": "Pub7",
+        "citedPublicationId": "Pub8",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Conclusion",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838580c",
+        "citingPublicationId": "Pub9",
+        "citedPublicationId": "Pub10",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Review",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838580d",
+        "citingPublicationId": "Pub11",
+        "citedPublicationId": "Pub12",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Summary",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838580e",
+        "citingPublicationId": "Pub13",
+        "citedPublicationId": "Pub14",
+        "citationContext": "Referenced in Results",
+        "citationType": "Result",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c584838580f",
+        "citingPublicationId": "Pub15",
+        "citedPublicationId": "Pub16",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Prospective",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385810",
+        "citingPublicationId": "Pub17",
+        "citedPublicationId": "Pub18",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385811",
+        "citingPublicationId": "Pub19",
+        "citedPublicationId": "Pub20",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Introduction",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385812",
+        "citingPublicationId": "Pub21",
+        "citedPublicationId": "Pub22",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385813",
+        "citingPublicationId": "Pub23",
+        "citedPublicationId": "Pub24",
+        "citationContext": "Referenced in Results",
+        "citationType": "Result",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385814",
+        "citingPublicationId": "Pub25",
+        "citedPublicationId": "Pub26",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Discussion",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c5848385815",
+        "citingPublicationId": "Pub27",
+        "citedPublicationId": "Pub28",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Conclusion",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385816",
+        "citingPublicationId": "Pub29",
+        "citedPublicationId": "Pub30",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Review",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385817",
+        "citingPublicationId": "Pub31",
+        "citedPublicationId": "Pub32",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Summary",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385818",
+        "citingPublicationId": "Pub33",
+        "citedPublicationId": "Pub34",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Prospective",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385819",
+        "citingPublicationId": "Pub35",
+        "citedPublicationId": "Pub36",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c584838581a",
+        "citingPublicationId": "Pub37",
+        "citedPublicationId": "Pub38",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Introduction",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838581b",
+        "citingPublicationId": "Pub39",
+        "citedPublicationId": "Pub40",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838581c",
+        "citingPublicationId": "Pub41",
+        "citedPublicationId": "Pub42",
+        "citationContext": "Referenced in Results",
+        "citationType": "Result",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c584838581d",
+        "citingPublicationId": "Pub43",
+        "citedPublicationId": "Pub44",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Discussion",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838581e",
+        "citingPublicationId": "Pub45",
+        "citedPublicationId": "Pub46",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Conclusion",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c584838581f",
+        "citingPublicationId": "Pub47",
+        "citedPublicationId": "Pub48",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Review",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385820",
+        "citingPublicationId": "Pub49",
+        "citedPublicationId": "Pub50",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Summary",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385821",
+        "citingPublicationId": "Pub51",
+        "citedPublicationId": "Pub52",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Prospective",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385822",
+        "citingPublicationId": "Pub53",
+        "citedPublicationId": "Pub54",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385823",
+        "citingPublicationId": "Pub55",
+        "citedPublicationId": "Pub56",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Introduction",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385824",
+        "citingPublicationId": "Pub57",
+        "citedPublicationId": "Pub58",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385825",
+        "citingPublicationId": "Pub59",
+        "citedPublicationId": "Pub60",
+        "citationContext": "Referenced in Results",
+        "citationType": "Result",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385826",
+        "citingPublicationId": "Pub61",
+        "citedPublicationId": "Pub62",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Discussion",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385827",
+        "citingPublicationId": "Pub63",
+        "citedPublicationId": "Pub64",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Conclusion",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385828",
+        "citingPublicationId": "Pub65",
+        "citedPublicationId": "Pub66",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Review",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c5848385829",
+        "citingPublicationId": "Pub67",
+        "citedPublicationId": "Pub68",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Summary",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838582a",
+        "citingPublicationId": "Pub69",
+        "citedPublicationId": "Pub70",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Prospective",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c584838582b",
+        "citingPublicationId": "Pub71",
+        "citedPublicationId": "Pub72",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838582c",
+        "citingPublicationId": "Pub73",
+        "citedPublicationId": "Pub74",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Introduction",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838582d",
+        "citingPublicationId": "Pub75",
+        "citedPublicationId": "Pub76",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838582e",
+        "citingPublicationId": "Pub77",
+        "citedPublicationId": "Pub78",
+        "citationContext": "Referenced in Results",
+        "citationType": "Result",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838582f",
+        "citingPublicationId": "Pub79",
+        "citedPublicationId": "Pub80",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Discussion",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c5848385830",
+        "citingPublicationId": "Pub81",
+        "citedPublicationId": "Pub82",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Conclusion",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385831",
+        "citingPublicationId": "Pub83",
+        "citedPublicationId": "Pub84",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Review",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385832",
+        "citingPublicationId": "Pub85",
+        "citedPublicationId": "Pub86",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Summary",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385833",
+        "citingPublicationId": "Pub87",
+        "citedPublicationId": "Pub88",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Prospective",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385834",
+        "citingPublicationId": "Pub89",
+        "citedPublicationId": "Pub90",
+        "citationContext": "Referenced in Background",
+        "citationType": "Background",
+        "citationImpact": 9
+    },
+    {
+        "_id": "67bb887f4c721c5848385835",
+        "citingPublicationId": "Pub91",
+        "citedPublicationId": "Pub92",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Introduction",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385836",
+        "citingPublicationId": "Pub93",
+        "citedPublicationId": "Pub94",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385837",
+        "citingPublicationId": "Pub95",
+        "citedPublicationId": "Pub96",
+        "citationContext": "Referenced in Results",
+        "citationType": "Result",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385838",
+        "citingPublicationId": "Pub97",
+        "citedPublicationId": "Pub98",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Discussion",
+        "citationImpact": 7
+    },
+    {
+        "_id": "67bb887f4c721c5848385839",
+        "citingPublicationId": "Pub99",
+        "citedPublicationId": "Pub100",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Conclusion",
+        "citationImpact": 8
+    },
+    {
+        "_id": "67bb887f4c721c584838583a",
+        "citingPublicationId": "PubA1",
+        "citedPublicationId": "PubB1",
+        "citationContext": "Referenced in introduction",
+        "citationType": "Background",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838583b",
+        "citingPublicationId": "PubA2",
+        "citedPublicationId": "PubB2",
+        "citationContext": "Referenced in methodology",
+        "citationType": "Methodology",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838583c",
+        "citingPublicationId": "PubA3",
+        "citedPublicationId": "PubB3",
+        "citationContext": "Referenced in discussion",
+        "citationType": "Discussion",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838583d",
+        "citingPublicationId": "PubA4",
+        "citedPublicationId": "PubB4",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "Conclusion",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838583e",
+        "citingPublicationId": "PubA5",
+        "citedPublicationId": "PubB5",
+        "citationContext": "Referenced in literature review",
+        "citationType": "Literature Review",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838583f",
+        "citingPublicationId": "PubA6",
+        "citedPublicationId": "PubB6",
+        "citationContext": "Referenced in results",
+        "citationType": "Results",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385840",
+        "citingPublicationId": "PubA7",
+        "citedPublicationId": "PubB7",
+        "citationContext": "Referenced in abstract",
+        "citationType": "Abstract",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385841",
+        "citingPublicationId": "PubA8",
+        "citedPublicationId": "PubB8",
+        "citationContext": "Referenced in theoretical framework",
+        "citationType": "Theory",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385842",
+        "citingPublicationId": "PubA9",
+        "citedPublicationId": "PubB9",
+        "citationContext": "Referenced in acknowledgments",
+        "citationType": "Acknowledgment",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385843",
+        "citingPublicationId": "PubA10",
+        "citedPublicationId": "PubB10",
+        "citationContext": "Referenced in appendix",
+        "citationType": "Appendix",
+        "citationImpact": 1
+    },
+    {
+        "_id": "67bb887f4c721c5848385844",
+        "citingPublicationId": "PubA11",
+        "citedPublicationId": "PubB11",
+        "citationContext": "Referenced in hypothesis",
+        "citationType": "Hypothesis",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385845",
+        "citingPublicationId": "PubA12",
+        "citedPublicationId": "PubB12",
+        "citationContext": "Referenced in data analysis",
+        "citationType": "Data Analysis",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385846",
+        "citingPublicationId": "PubA13",
+        "citedPublicationId": "PubB13",
+        "citationContext": "Referenced in future work",
+        "citationType": "Future Work",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385847",
+        "citingPublicationId": "PubA14",
+        "citedPublicationId": "PubB14",
+        "citationContext": "Referenced in executive summary",
+        "citationType": "Summary",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385848",
+        "citingPublicationId": "PubA15",
+        "citedPublicationId": "PubB15",
+        "citationContext": "Referenced in case study",
+        "citationType": "Case Study",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385849",
+        "citingPublicationId": "PubA16",
+        "citedPublicationId": "PubB16",
+        "citationContext": "Referenced in experimental design",
+        "citationType": "Experiment",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838584a",
+        "citingPublicationId": "PubA17",
+        "citedPublicationId": "PubB17",
+        "citationContext": "Referenced in technical details",
+        "citationType": "Technical",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838584b",
+        "citingPublicationId": "PubA18",
+        "citedPublicationId": "PubB18",
+        "citationContext": "Referenced in problem statement",
+        "citationType": "Problem",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838584c",
+        "citingPublicationId": "PubA19",
+        "citedPublicationId": "PubB19",
+        "citationContext": "Referenced in related work",
+        "citationType": "Related Work",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838584d",
+        "citingPublicationId": "PubA20",
+        "citedPublicationId": "PubB20",
+        "citationContext": "Referenced in validation",
+        "citationType": "Validation",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838584e",
+        "citingPublicationId": "PubA21",
+        "citedPublicationId": "PubB21",
+        "citationContext": "Referenced in hypothesis testing",
+        "citationType": "Testing",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838584f",
+        "citingPublicationId": "PubA22",
+        "citedPublicationId": "PubB22",
+        "citationContext": "Referenced in simulation",
+        "citationType": "Simulation",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385850",
+        "citingPublicationId": "PubA23",
+        "citedPublicationId": "PubB23",
+        "citationContext": "Referenced in field study",
+        "citationType": "Field Study",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385851",
+        "citingPublicationId": "PubA24",
+        "citedPublicationId": "PubB24",
+        "citationContext": "Referenced in survey",
+        "citationType": "Survey",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385852",
+        "citingPublicationId": "PubA25",
+        "citedPublicationId": "PubB25",
+        "citationContext": "Referenced in pilot study",
+        "citationType": "Pilot Study",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385853",
+        "citingPublicationId": "PubA26",
+        "citedPublicationId": "PubB26",
+        "citationContext": "Referenced in comparative analysis",
+        "citationType": "Comparison",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385854",
+        "citingPublicationId": "PubA27",
+        "citedPublicationId": "PubB27",
+        "citationContext": "Referenced in qualitative analysis",
+        "citationType": "Qualitative",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385855",
+        "citingPublicationId": "PubA28",
+        "citedPublicationId": "PubB28",
+        "citationContext": "Referenced in quantitative analysis",
+        "citationType": "Quantitative",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385856",
+        "citingPublicationId": "PubA29",
+        "citedPublicationId": "PubB29",
+        "citationContext": "Referenced in theoretical analysis",
+        "citationType": "Theoretical",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385857",
+        "citingPublicationId": "PubA30",
+        "citedPublicationId": "PubB30",
+        "citationContext": "Referenced in empirical study",
+        "citationType": "Empirical",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385858",
+        "citingPublicationId": "PubA31",
+        "citedPublicationId": "PubB31",
+        "citationContext": "Referenced in statistical analysis",
+        "citationType": "Statistical",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385859",
+        "citingPublicationId": "PubA32",
+        "citedPublicationId": "PubB32",
+        "citationContext": "Referenced in system architecture",
+        "citationType": "Architecture",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838585a",
+        "citingPublicationId": "PubA33",
+        "citedPublicationId": "PubB33",
+        "citationContext": "Referenced in data collection",
+        "citationType": "Data Collection",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838585b",
+        "citingPublicationId": "PubA34",
+        "citedPublicationId": "PubB34",
+        "citationContext": "Referenced in data processing",
+        "citationType": "Data Processing",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c584838585c",
+        "citingPublicationId": "PubA35",
+        "citedPublicationId": "PubB35",
+        "citationContext": "Referenced in data visualization",
+        "citationType": "Visualization",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838585d",
+        "citingPublicationId": "PubA36",
+        "citedPublicationId": "PubB36",
+        "citationContext": "Referenced in model development",
+        "citationType": "Modeling",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838585e",
+        "citingPublicationId": "PubA37",
+        "citedPublicationId": "PubB37",
+        "citationContext": "Referenced in algorithm design",
+        "citationType": "Algorithm",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c584838585f",
+        "citingPublicationId": "PubA38",
+        "citedPublicationId": "PubB38",
+        "citationContext": "Referenced in software implementation",
+        "citationType": "Implementation",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385860",
+        "citingPublicationId": "PubA39",
+        "citedPublicationId": "PubB39",
+        "citationContext": "Referenced in hardware setup",
+        "citationType": "Hardware",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385861",
+        "citingPublicationId": "PubA40",
+        "citedPublicationId": "PubB40",
+        "citationContext": "Referenced in network configuration",
+        "citationType": "Network",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385862",
+        "citingPublicationId": "PubA41",
+        "citedPublicationId": "PubB41",
+        "citationContext": "Referenced in protocol design",
+        "citationType": "Protocol",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385863",
+        "citingPublicationId": "PubA42",
+        "citedPublicationId": "PubB42",
+        "citationContext": "Referenced in user study",
+        "citationType": "User Study",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385864",
+        "citingPublicationId": "PubA43",
+        "citedPublicationId": "PubB43",
+        "citationContext": "Referenced in usability testing",
+        "citationType": "Usability",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c5848385865",
+        "citingPublicationId": "PubA44",
+        "citedPublicationId": "PubB44",
+        "citationContext": "Referenced in performance evaluation",
+        "citationType": "Performance",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c5848385866",
+        "citingPublicationId": "PubA45",
+        "citedPublicationId": "PubB45",
+        "citationContext": "Referenced in security analysis",
+        "citationType": "Security",
+        "citationImpact": 3
+    },
+    {
+        "_id": "67bb887f4c721c5848385867",
+        "citingPublicationId": "PubA46",
+        "citedPublicationId": "PubB46",
+        "citationContext": "Referenced in privacy assessment",
+        "citationType": "Privacy",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c5848385868",
+        "citingPublicationId": "PubA47",
+        "citedPublicationId": "PubB47",
+        "citationContext": "Referenced in ethical considerations",
+        "citationType": "Ethics",
+        "citationImpact": 2
+    },
+    {
+        "_id": "67bb887f4c721c5848385869",
+        "citingPublicationId": "PubA48",
+        "citedPublicationId": "PubB48",
+        "citationContext": "Referenced in regulatory compliance",
+        "citationType": "Regulation",
+        "citationImpact": 5
+    },
+    {
+        "_id": "67bb887f4c721c584838586a",
+        "citingPublicationId": "PubA49",
+        "citedPublicationId": "PubB49",
+        "citationContext": "Referenced in project management",
+        "citationType": "Management",
+        "citationImpact": 6
+    },
+    {
+        "_id": "67bb887f4c721c584838586b",
+        "citingPublicationId": "PubA50",
+        "citedPublicationId": "PubB50",
+        "citationContext": "Referenced in resource allocation",
+        "citationType": "Resource",
+        "citationImpact": 4
+    },
+    {
+        "_id": "67bb887f4c721c584838586c",
+        "citingPublicationId": "Pub101",
+        "citedPublicationId": "Pub201",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3.5
+    },
+    {
+        "_id": "67bb887f4c721c584838586d",
+        "citingPublicationId": "Pub102",
+        "citedPublicationId": "Pub202",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 2.8
+    },
+    {
+        "_id": "67bb887f4c721c584838586e",
+        "citingPublicationId": "Pub103",
+        "citedPublicationId": "Pub203",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 4.1
+    },
+    {
+        "_id": "67bb887f4c721c584838586f",
+        "citingPublicationId": "Pub104",
+        "citedPublicationId": "Pub204",
+        "citationContext": "Referenced in Results",
+        "citationType": "Support",
+        "citationImpact": 3.9
+    },
+    {
+        "_id": "67bb887f4c721c5848385870",
+        "citingPublicationId": "Pub105",
+        "citedPublicationId": "Pub205",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2.5
+    },
+    {
+        "_id": "67bb887f4c721c5848385871",
+        "citingPublicationId": "Pub106",
+        "citedPublicationId": "Pub206",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3.7
+    },
+    {
+        "_id": "67bb887f4c721c5848385872",
+        "citingPublicationId": "Pub107",
+        "citedPublicationId": "Pub207",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 4.0
+    },
+    {
+        "_id": "67bb887f4c721c5848385873",
+        "citingPublicationId": "Pub108",
+        "citedPublicationId": "Pub208",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Extension",
+        "citationImpact": 3.2
+    },
+    {
+        "_id": "67bb887f4c721c5848385874",
+        "citingPublicationId": "Pub109",
+        "citedPublicationId": "Pub209",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 4.5
+    },
+    {
+        "_id": "67bb887f4c721c5848385875",
+        "citingPublicationId": "Pub110",
+        "citedPublicationId": "Pub210",
+        "citationContext": "Referenced in Acknowledgments",
+        "citationType": "Acknowledgment",
+        "citationImpact": 1.8
+    },
+    {
+        "_id": "67bb887f4c721c5848385876",
+        "citingPublicationId": "Pub111",
+        "citedPublicationId": "Pub211",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3.6
+    },
+    {
+        "_id": "67bb887f4c721c5848385877",
+        "citingPublicationId": "Pub112",
+        "citedPublicationId": "Pub212",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 2.9
+    },
+    {
+        "_id": "67bb887f4c721c5848385878",
+        "citingPublicationId": "Pub113",
+        "citedPublicationId": "Pub213",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 4.2
+    },
+    {
+        "_id": "67bb887f4c721c5848385879",
+        "citingPublicationId": "Pub114",
+        "citedPublicationId": "Pub214",
+        "citationContext": "Referenced in Results",
+        "citationType": "Support",
+        "citationImpact": 3.8
+    },
+    {
+        "_id": "67bb887f4c721c584838587a",
+        "citingPublicationId": "Pub115",
+        "citedPublicationId": "Pub215",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2.6
+    },
+    {
+        "_id": "67bb887f4c721c584838587b",
+        "citingPublicationId": "Pub116",
+        "citedPublicationId": "Pub216",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3.8
+    },
+    {
+        "_id": "67bb887f4c721c584838587c",
+        "citingPublicationId": "Pub117",
+        "citedPublicationId": "Pub217",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 4.1
+    },
+    {
+        "_id": "67bb887f4c721c584838587d",
+        "citingPublicationId": "Pub118",
+        "citedPublicationId": "Pub218",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Extension",
+        "citationImpact": 3.3
+    },
+    {
+        "_id": "67bb887f4c721c584838587e",
+        "citingPublicationId": "Pub119",
+        "citedPublicationId": "Pub219",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 4.6
+    },
+    {
+        "_id": "67bb887f4c721c584838587f",
+        "citingPublicationId": "Pub120",
+        "citedPublicationId": "Pub220",
+        "citationContext": "Referenced in Acknowledgments",
+        "citationType": "Acknowledgment",
+        "citationImpact": 1.9
+    },
+    {
+        "_id": "67bb887f4c721c5848385880",
+        "citingPublicationId": "Pub121",
+        "citedPublicationId": "Pub221",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3.7
+    },
+    {
+        "_id": "67bb887f4c721c5848385881",
+        "citingPublicationId": "Pub122",
+        "citedPublicationId": "Pub222",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 3.0
+    },
+    {
+        "_id": "67bb887f4c721c5848385882",
+        "citingPublicationId": "Pub123",
+        "citedPublicationId": "Pub223",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 4.3
+    },
+    {
+        "_id": "67bb887f4c721c5848385883",
+        "citingPublicationId": "Pub124",
+        "citedPublicationId": "Pub224",
+        "citationContext": "Referenced in Results",
+        "citationType": "Support",
+        "citationImpact": 3.7
+    },
+    {
+        "_id": "67bb887f4c721c5848385884",
+        "citingPublicationId": "Pub125",
+        "citedPublicationId": "Pub225",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2.7
+    },
+    {
+        "_id": "67bb887f4c721c5848385885",
+        "citingPublicationId": "Pub126",
+        "citedPublicationId": "Pub226",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 3.9
+    },
+    {
+        "_id": "67bb887f4c721c5848385886",
+        "citingPublicationId": "Pub127",
+        "citedPublicationId": "Pub227",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 4.2
+    },
+    {
+        "_id": "67bb887f4c721c5848385887",
+        "citingPublicationId": "Pub128",
+        "citedPublicationId": "Pub228",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Extension",
+        "citationImpact": 3.4
+    },
+    {
+        "_id": "67bb887f4c721c5848385888",
+        "citingPublicationId": "Pub129",
+        "citedPublicationId": "Pub229",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 4.7
+    },
+    {
+        "_id": "67bb887f4c721c5848385889",
+        "citingPublicationId": "Pub130",
+        "citedPublicationId": "Pub230",
+        "citationContext": "Referenced in Acknowledgments",
+        "citationType": "Acknowledgment",
+        "citationImpact": 2.0
+    },
+    {
+        "_id": "67bb887f4c721c584838588a",
+        "citingPublicationId": "Pub131",
+        "citedPublicationId": "Pub231",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3.8
+    },
+    {
+        "_id": "67bb887f4c721c584838588b",
+        "citingPublicationId": "Pub132",
+        "citedPublicationId": "Pub232",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 3.1
+    },
+    {
+        "_id": "67bb887f4c721c584838588c",
+        "citingPublicationId": "Pub133",
+        "citedPublicationId": "Pub233",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 4.4
+    },
+    {
+        "_id": "67bb887f4c721c584838588d",
+        "citingPublicationId": "Pub134",
+        "citedPublicationId": "Pub234",
+        "citationContext": "Referenced in Results",
+        "citationType": "Support",
+        "citationImpact": 3.6
+    },
+    {
+        "_id": "67bb887f4c721c584838588e",
+        "citingPublicationId": "Pub135",
+        "citedPublicationId": "Pub235",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2.8
+    },
+    {
+        "_id": "67bb887f4c721c584838588f",
+        "citingPublicationId": "Pub136",
+        "citedPublicationId": "Pub236",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 4.0
+    },
+    {
+        "_id": "67bb887f4c721c5848385890",
+        "citingPublicationId": "Pub137",
+        "citedPublicationId": "Pub237",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 4.3
+    },
+    {
+        "_id": "67bb887f4c721c5848385891",
+        "citingPublicationId": "Pub138",
+        "citedPublicationId": "Pub238",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Extension",
+        "citationImpact": 3.5
+    },
+    {
+        "_id": "67bb887f4c721c5848385892",
+        "citingPublicationId": "Pub139",
+        "citedPublicationId": "Pub239",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 4.8
+    },
+    {
+        "_id": "67bb887f4c721c5848385893",
+        "citingPublicationId": "Pub140",
+        "citedPublicationId": "Pub240",
+        "citationContext": "Referenced in Acknowledgments",
+        "citationType": "Acknowledgment",
+        "citationImpact": 2.1
+    },
+    {
+        "_id": "67bb887f4c721c5848385894",
+        "citingPublicationId": "Pub141",
+        "citedPublicationId": "Pub241",
+        "citationContext": "Referenced in Introduction",
+        "citationType": "Background",
+        "citationImpact": 3.9
+    },
+    {
+        "_id": "67bb887f4c721c5848385895",
+        "citingPublicationId": "Pub142",
+        "citedPublicationId": "Pub242",
+        "citationContext": "Referenced in Literature Review",
+        "citationType": "Comparison",
+        "citationImpact": 3.2
+    },
+    {
+        "_id": "67bb887f4c721c5848385896",
+        "citingPublicationId": "Pub143",
+        "citedPublicationId": "Pub243",
+        "citationContext": "Referenced in Methodology",
+        "citationType": "Method",
+        "citationImpact": 4.5
+    },
+    {
+        "_id": "67bb887f4c721c5848385897",
+        "citingPublicationId": "Pub144",
+        "citedPublicationId": "Pub244",
+        "citationContext": "Referenced in Results",
+        "citationType": "Support",
+        "citationImpact": 3.5
+    },
+    {
+        "_id": "67bb887f4c721c5848385898",
+        "citingPublicationId": "Pub145",
+        "citedPublicationId": "Pub245",
+        "citationContext": "Referenced in Discussion",
+        "citationType": "Critique",
+        "citationImpact": 2.9
+    },
+    {
+        "_id": "67bb887f4c721c5848385899",
+        "citingPublicationId": "Pub146",
+        "citedPublicationId": "Pub246",
+        "citationContext": "Referenced in Conclusion",
+        "citationType": "Summary",
+        "citationImpact": 4.1
+    },
+    {
+        "_id": "67bb887f4c721c584838589a",
+        "citingPublicationId": "Pub147",
+        "citedPublicationId": "Pub247",
+        "citationContext": "Referenced in Abstract",
+        "citationType": "Overview",
+        "citationImpact": 4.4
+    },
+    {
+        "_id": "67bb887f4c721c584838589b",
+        "citingPublicationId": "Pub148",
+        "citedPublicationId": "Pub248",
+        "citationContext": "Referenced in Related Work",
+        "citationType": "Extension",
+        "citationImpact": 3.6
+    },
+    {
+        "_id": "67bb887f4c721c584838589c",
+        "citingPublicationId": "Pub149",
+        "citedPublicationId": "Pub249",
+        "citationContext": "Referenced in Future Work",
+        "citationType": "Proposal",
+        "citationImpact": 4.9
+    },
+    {
+        "_id": "67bb887f4c721c584838589d",
+        "citingPublicationId": "Pub150",
+        "citedPublicationId": "Pub250",
+        "citationContext": "Referenced in Acknowledgments",
+        "citationType": "Acknowledgment",
+        "citationImpact": 2.2
+    },
+    {
+        "_id": "67bb887f4c721c584838589e",
+        "citingPublicationId": "pub_001",
+        "citedPublicationId": "pub_002",
+        "citationContext": "Referenced in literature review",
+        "citationType": "journal",
+        "citationImpact": 3.5
+    },
+    {
+        "_id": "67bb887f4c721c584838589f",
+        "citingPublicationId": "pub_003",
+        "citedPublicationId": "pub_004",
+        "citationContext": "Referenced in introduction",
+        "citationType": "conference",
+        "citationImpact": 4.2
+    },
+    {
+        "_id": "67bb887f4c721c58483858a0",
+        "citingPublicationId": "pub_005",
+        "citedPublicationId": "pub_006",
+        "citationContext": "Referenced in methodology",
+        "citationType": "journal",
+        "citationImpact": 2.8
+    },
+    {
+        "_id": "67bb887f4c721c58483858a1",
+        "citingPublicationId": "pub_007",
+        "citedPublicationId": "pub_008",
+        "citationContext": "Referenced in discussion",
+        "citationType": "book",
+        "citationImpact": 5.0
+    },
+    {
+        "_id": "67bb887f4c721c58483858a2",
+        "citingPublicationId": "pub_009",
+        "citedPublicationId": "pub_010",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "journal",
+        "citationImpact": 3.1
+    },
+    {
+        "_id": "67bb887f4c721c58483858a3",
+        "citingPublicationId": "pub_011",
+        "citedPublicationId": "pub_012",
+        "citationContext": "Referenced in literature review",
+        "citationType": "conference",
+        "citationImpact": 4.5
+    },
+    {
+        "_id": "67bb887f4c721c58483858a4",
+        "citingPublicationId": "pub_013",
+        "citedPublicationId": "pub_014",
+        "citationContext": "Referenced in introduction",
+        "citationType": "journal",
+        "citationImpact": 3.7
+    },
+    {
+        "_id": "67bb887f4c721c58483858a5",
+        "citingPublicationId": "pub_015",
+        "citedPublicationId": "pub_016",
+        "citationContext": "Referenced in methodology",
+        "citationType": "book",
+        "citationImpact": 2.9
+    },
+    {
+        "_id": "67bb887f4c721c58483858a6",
+        "citingPublicationId": "pub_017",
+        "citedPublicationId": "pub_018",
+        "citationContext": "Referenced in discussion",
+        "citationType": "journal",
+        "citationImpact": 4.8
+    },
+    {
+        "_id": "67bb887f4c721c58483858a7",
+        "citingPublicationId": "pub_019",
+        "citedPublicationId": "pub_020",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "conference",
+        "citationImpact": 3.4
+    },
+    {
+        "_id": "67bb887f4c721c58483858a8",
+        "citingPublicationId": "pub_021",
+        "citedPublicationId": "pub_022",
+        "citationContext": "Referenced in literature review",
+        "citationType": "journal",
+        "citationImpact": 4.1
+    },
+    {
+        "_id": "67bb887f4c721c58483858a9",
+        "citingPublicationId": "pub_023",
+        "citedPublicationId": "pub_024",
+        "citationContext": "Referenced in introduction",
+        "citationType": "book",
+        "citationImpact": 2.6
+    },
+    {
+        "_id": "67bb887f4c721c58483858aa",
+        "citingPublicationId": "pub_025",
+        "citedPublicationId": "pub_026",
+        "citationContext": "Referenced in methodology",
+        "citationType": "journal",
+        "citationImpact": 4.9
+    },
+    {
+        "_id": "67bb887f4c721c58483858ab",
+        "citingPublicationId": "pub_027",
+        "citedPublicationId": "pub_028",
+        "citationContext": "Referenced in discussion",
+        "citationType": "conference",
+        "citationImpact": 3.2
+    },
+    {
+        "_id": "67bb887f4c721c58483858ac",
+        "citingPublicationId": "pub_029",
+        "citedPublicationId": "pub_030",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "journal",
+        "citationImpact": 4.3
+    },
+    {
+        "_id": "67bb887f4c721c58483858ad",
+        "citingPublicationId": "pub_031",
+        "citedPublicationId": "pub_032",
+        "citationContext": "Referenced in literature review",
+        "citationType": "book",
+        "citationImpact": 3.9
+    },
+    {
+        "_id": "67bb887f4c721c58483858ae",
+        "citingPublicationId": "pub_033",
+        "citedPublicationId": "pub_034",
+        "citationContext": "Referenced in introduction",
+        "citationType": "journal",
+        "citationImpact": 2.7
+    },
+    {
+        "_id": "67bb887f4c721c58483858af",
+        "citingPublicationId": "pub_035",
+        "citedPublicationId": "pub_036",
+        "citationContext": "Referenced in methodology",
+        "citationType": "conference",
+        "citationImpact": 4.0
+    },
+    {
+        "_id": "67bb887f4c721c58483858b0",
+        "citingPublicationId": "pub_037",
+        "citedPublicationId": "pub_038",
+        "citationContext": "Referenced in discussion",
+        "citationType": "journal",
+        "citationImpact": 3.6
+    },
+    {
+        "_id": "67bb887f4c721c58483858b1",
+        "citingPublicationId": "pub_039",
+        "citedPublicationId": "pub_040",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "book",
+        "citationImpact": 4.4
+    },
+    {
+        "_id": "67bb887f4c721c58483858b2",
+        "citingPublicationId": "pub_041",
+        "citedPublicationId": "pub_042",
+        "citationContext": "Referenced in literature review",
+        "citationType": "journal",
+        "citationImpact": 2.5
+    },
+    {
+        "_id": "67bb887f4c721c58483858b3",
+        "citingPublicationId": "pub_043",
+        "citedPublicationId": "pub_044",
+        "citationContext": "Referenced in introduction",
+        "citationType": "conference",
+        "citationImpact": 4.7
+    },
+    {
+        "_id": "67bb887f4c721c58483858b4",
+        "citingPublicationId": "pub_045",
+        "citedPublicationId": "pub_046",
+        "citationContext": "Referenced in methodology",
+        "citationType": "journal",
+        "citationImpact": 3.0
+    },
+    {
+        "_id": "67bb887f4c721c58483858b5",
+        "citingPublicationId": "pub_047",
+        "citedPublicationId": "pub_048",
+        "citationContext": "Referenced in discussion",
+        "citationType": "book",
+        "citationImpact": 4.6
+    },
+    {
+        "_id": "67bb887f4c721c58483858b6",
+        "citingPublicationId": "pub_049",
+        "citedPublicationId": "pub_050",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "journal",
+        "citationImpact": 3.3
+    },
+    {
+        "_id": "67bb887f4c721c58483858b7",
+        "citingPublicationId": "pub_051",
+        "citedPublicationId": "pub_052",
+        "citationContext": "Referenced in literature review",
+        "citationType": "conference",
+        "citationImpact": 4.1
+    },
+    {
+        "_id": "67bb887f4c721c58483858b8",
+        "citingPublicationId": "pub_053",
+        "citedPublicationId": "pub_054",
+        "citationContext": "Referenced in introduction",
+        "citationType": "journal",
+        "citationImpact": 2.8
+    },
+    {
+        "_id": "67bb887f4c721c58483858b9",
+        "citingPublicationId": "pub_055",
+        "citedPublicationId": "pub_056",
+        "citationContext": "Referenced in methodology",
+        "citationType": "book",
+        "citationImpact": 4.2
+    },
+    {
+        "_id": "67bb887f4c721c58483858ba",
+        "citingPublicationId": "pub_057",
+        "citedPublicationId": "pub_058",
+        "citationContext": "Referenced in discussion",
+        "citationType": "journal",
+        "citationImpact": 3.5
+    },
+    {
+        "_id": "67bb887f4c721c58483858bb",
+        "citingPublicationId": "pub_059",
+        "citedPublicationId": "pub_060",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "conference",
+        "citationImpact": 4.9
+    },
+    {
+        "_id": "67bb887f4c721c58483858bc",
+        "citingPublicationId": "pub_061",
+        "citedPublicationId": "pub_062",
+        "citationContext": "Referenced in literature review",
+        "citationType": "journal",
+        "citationImpact": 3.2
+    },
+    {
+        "_id": "67bb887f4c721c58483858bd",
+        "citingPublicationId": "pub_063",
+        "citedPublicationId": "pub_064",
+        "citationContext": "Referenced in introduction",
+        "citationType": "book",
+        "citationImpact": 4.0
+    },
+    {
+        "_id": "67bb887f4c721c58483858be",
+        "citingPublicationId": "pub_065",
+        "citedPublicationId": "pub_066",
+        "citationContext": "Referenced in methodology",
+        "citationType": "journal",
+        "citationImpact": 3.9
+    },
+    {
+        "_id": "67bb887f4c721c58483858bf",
+        "citingPublicationId": "pub_067",
+        "citedPublicationId": "pub_068",
+        "citationContext": "Referenced in discussion",
+        "citationType": "conference",
+        "citationImpact": 2.6
+    },
+    {
+        "_id": "67bb887f4c721c58483858c0",
+        "citingPublicationId": "pub_069",
+        "citedPublicationId": "pub_070",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "journal",
+        "citationImpact": 4.5
+    },
+    {
+        "_id": "67bb887f4c721c58483858c1",
+        "citingPublicationId": "pub_071",
+        "citedPublicationId": "pub_072",
+        "citationContext": "Referenced in literature review",
+        "citationType": "book",
+        "citationImpact": 3.4
+    },
+    {
+        "_id": "67bb887f4c721c58483858c2",
+        "citingPublicationId": "pub_073",
+        "citedPublicationId": "pub_074",
+        "citationContext": "Referenced in introduction",
+        "citationType": "journal",
+        "citationImpact": 4.7
+    },
+    {
+        "_id": "67bb887f4c721c58483858c3",
+        "citingPublicationId": "pub_075",
+        "citedPublicationId": "pub_076",
+        "citationContext": "Referenced in methodology",
+        "citationType": "conference",
+        "citationImpact": 3.1
+    },
+    {
+        "_id": "67bb887f4c721c58483858c4",
+        "citingPublicationId": "pub_077",
+        "citedPublicationId": "pub_078",
+        "citationContext": "Referenced in discussion",
+        "citationType": "journal",
+        "citationImpact": 4.8
+    },
+    {
+        "_id": "67bb887f4c721c58483858c5",
+        "citingPublicationId": "pub_079",
+        "citedPublicationId": "pub_080",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "book",
+        "citationImpact": 3.0
+    },
+    {
+        "_id": "67bb887f4c721c58483858c6",
+        "citingPublicationId": "pub_081",
+        "citedPublicationId": "pub_082",
+        "citationContext": "Referenced in literature review",
+        "citationType": "journal",
+        "citationImpact": 4.6
+    },
+    {
+        "_id": "67bb887f4c721c58483858c7",
+        "citingPublicationId": "pub_083",
+        "citedPublicationId": "pub_084",
+        "citationContext": "Referenced in introduction",
+        "citationType": "conference",
+        "citationImpact": 3.3
+    },
+    {
+        "_id": "67bb887f4c721c58483858c8",
+        "citingPublicationId": "pub_085",
+        "citedPublicationId": "pub_086",
+        "citationContext": "Referenced in methodology",
+        "citationType": "journal",
+        "citationImpact": 4.2
+    },
+    {
+        "_id": "67bb887f4c721c58483858c9",
+        "citingPublicationId": "pub_087",
+        "citedPublicationId": "pub_088",
+        "citationContext": "Referenced in discussion",
+        "citationType": "book",
+        "citationImpact": 2.9
+    },
+    {
+        "_id": "67bb887f4c721c58483858ca",
+        "citingPublicationId": "pub_089",
+        "citedPublicationId": "pub_090",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "journal",
+        "citationImpact": 4.1
+    },
+    {
+        "_id": "67bb887f4c721c58483858cb",
+        "citingPublicationId": "pub_091",
+        "citedPublicationId": "pub_092",
+        "citationContext": "Referenced in literature review",
+        "citationType": "conference",
+        "citationImpact": 3.6
+    },
+    {
+        "_id": "67bb887f4c721c58483858cc",
+        "citingPublicationId": "pub_093",
+        "citedPublicationId": "pub_094",
+        "citationContext": "Referenced in introduction",
+        "citationType": "journal",
+        "citationImpact": 4.4
+    },
+    {
+        "_id": "67bb887f4c721c58483858cd",
+        "citingPublicationId": "pub_095",
+        "citedPublicationId": "pub_096",
+        "citationContext": "Referenced in methodology",
+        "citationType": "book",
+        "citationImpact": 3.8
+    },
+    {
+        "_id": "67bb887f4c721c58483858ce",
+        "citingPublicationId": "pub_097",
+        "citedPublicationId": "pub_098",
+        "citationContext": "Referenced in discussion",
+        "citationType": "journal",
+        "citationImpact": 2.7
+    },
+    {
+        "_id": "67bb887f4c721c58483858cf",
+        "citingPublicationId": "pub_099",
+        "citedPublicationId": "pub_100",
+        "citationContext": "Referenced in conclusion",
+        "citationType": "conference",
+        "citationImpact": 4.3
+    }
+]

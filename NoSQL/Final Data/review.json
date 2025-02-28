@@ -1,0 +1,5002 @@
+[
+    {
+        "_id": "67bb8f8b4c721c5848385a60",
+        "researcherId": "researcher_01",
+        "publicationId": "publication_01",
+        "reviewText": "Comprehensive study on climate change impacts.",
+        "rating": 4,
+        "reviewDate": "2023-01-15",
+        "decision": "accept",
+        "reviewerComments": "Well-researched and detailed analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a61",
+        "researcherId": "researcher_02",
+        "publicationId": "publication_02",
+        "reviewText": "Innovative approach to renewable energy solutions.",
+        "rating": 5,
+        "reviewDate": "2023-02-10",
+        "decision": "accept",
+        "reviewerComments": "Excellent methodology and application."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a62",
+        "researcherId": "researcher_03",
+        "publicationId": "publication_03",
+        "reviewText": "Detailed analysis of urbanization effects.",
+        "rating": 3,
+        "reviewDate": "2023-03-05",
+        "decision": "revise",
+        "reviewerComments": "Needs more data on long-term implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a63",
+        "researcherId": "researcher_04",
+        "publicationId": "publication_04",
+        "reviewText": "Study on biodiversity conservation strategies.",
+        "rating": 4,
+        "reviewDate": "2023-04-12",
+        "decision": "accept",
+        "reviewerComments": "Strong evidence and clear recommendations."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a64",
+        "researcherId": "researcher_05",
+        "publicationId": "publication_05",
+        "reviewText": "Research on the economic impacts of pandemics.",
+        "rating": 2,
+        "reviewDate": "2023-05-20",
+        "decision": "reject",
+        "reviewerComments": "Lacks sufficient data and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a65",
+        "researcherId": "researcher_06",
+        "publicationId": "publication_06",
+        "reviewText": "Analysis of water resource management.",
+        "rating": 3,
+        "reviewDate": "2023-06-15",
+        "decision": "revise",
+        "reviewerComments": "Requires more case studies for validation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a66",
+        "researcherId": "researcher_07",
+        "publicationId": "publication_07",
+        "reviewText": "Study on technological advancements in agriculture.",
+        "rating": 5,
+        "reviewDate": "2023-07-10",
+        "decision": "accept",
+        "reviewerComments": "Highly relevant and well-executed research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a67",
+        "researcherId": "researcher_08",
+        "publicationId": "publication_08",
+        "reviewText": "Exploration of digital transformation in education.",
+        "rating": 4,
+        "reviewDate": "2023-08-25",
+        "decision": "accept",
+        "reviewerComments": "Insightful and forward-thinking study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a68",
+        "researcherId": "researcher_09",
+        "publicationId": "publication_09",
+        "reviewText": "Research on mental health trends in urban areas.",
+        "rating": 3,
+        "reviewDate": "2023-09-05",
+        "decision": "revise",
+        "reviewerComments": "More comprehensive data needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a69",
+        "researcherId": "researcher_10",
+        "publicationId": "publication_10",
+        "reviewText": "Study on the impact of social media on youth.",
+        "rating": 4,
+        "reviewDate": "2023-10-15",
+        "decision": "accept",
+        "reviewerComments": "Well-structured and significant findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a6a",
+        "researcherId": "researcher_11",
+        "publicationId": "publication_11",
+        "reviewText": "Analysis of global trade dynamics.",
+        "rating": 2,
+        "reviewDate": "2023-01-20",
+        "decision": "reject",
+        "reviewerComments": "Insufficient analysis and outdated data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a6b",
+        "researcherId": "researcher_12",
+        "publicationId": "publication_12",
+        "reviewText": "Study on the effects of pollution on health.",
+        "rating": 5,
+        "reviewDate": "2023-02-15",
+        "decision": "accept",
+        "reviewerComments": "Comprehensive and impactful research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a6c",
+        "researcherId": "researcher_13",
+        "publicationId": "publication_13",
+        "reviewText": "Research on the evolution of language.",
+        "rating": 3,
+        "reviewDate": "2023-03-10",
+        "decision": "revise",
+        "reviewerComments": "Interesting topic, but needs more depth."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a6d",
+        "researcherId": "researcher_14",
+        "publicationId": "publication_14",
+        "reviewText": "Analysis of the financial markets post-pandemic.",
+        "rating": 4,
+        "reviewDate": "2023-04-18",
+        "decision": "accept",
+        "reviewerComments": "Timely and well-analyzed study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a6e",
+        "researcherId": "researcher_15",
+        "publicationId": "publication_15",
+        "reviewText": "Study on the cultural impacts of globalization.",
+        "rating": 2,
+        "reviewDate": "2023-05-25",
+        "decision": "reject",
+        "reviewerComments": "Lacks a coherent argument and evidence."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a6f",
+        "researcherId": "researcher_16",
+        "publicationId": "publication_16",
+        "reviewText": "Research on the role of AI in healthcare.",
+        "rating": 5,
+        "reviewDate": "2023-06-20",
+        "decision": "accept",
+        "reviewerComments": "Cutting-edge research with promising implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a70",
+        "researcherId": "researcher_17",
+        "publicationId": "publication_17",
+        "reviewText": "Study on the history of art movements.",
+        "rating": 3,
+        "reviewDate": "2023-07-15",
+        "decision": "revise",
+        "reviewerComments": "Requires more contextual analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a71",
+        "researcherId": "researcher_18",
+        "publicationId": "publication_18",
+        "reviewText": "Analysis of cybersecurity trends.",
+        "rating": 4,
+        "reviewDate": "2023-08-30",
+        "decision": "accept",
+        "reviewerComments": "Informative and well-researched."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a72",
+        "researcherId": "researcher_19",
+        "publicationId": "publication_19",
+        "reviewText": "Research on the ethics of genetic engineering.",
+        "rating": 2,
+        "reviewDate": "2023-09-10",
+        "decision": "reject",
+        "reviewerComments": "Ethical considerations are not thoroughly addressed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a73",
+        "researcherId": "researcher_20",
+        "publicationId": "publication_20",
+        "reviewText": "Study on the impact of tourism on local cultures.",
+        "rating": 4,
+        "reviewDate": "2023-10-20",
+        "decision": "accept",
+        "reviewerComments": "Comprehensive and insightful analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a74",
+        "researcherId": "researcher_21",
+        "publicationId": "publication_21",
+        "reviewText": "Research on the development of quantum computing.",
+        "rating": 5,
+        "reviewDate": "2023-01-25",
+        "decision": "accept",
+        "reviewerComments": "Groundbreaking research with significant potential."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a75",
+        "researcherId": "researcher_22",
+        "publicationId": "publication_22",
+        "reviewText": "Study on the effects of diet on mental health.",
+        "rating": 3,
+        "reviewDate": "2023-02-20",
+        "decision": "revise",
+        "reviewerComments": "Interesting findings, but needs more data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a76",
+        "researcherId": "researcher_23",
+        "publicationId": "publication_23",
+        "reviewText": "Analysis of political systems in emerging economies.",
+        "rating": 4,
+        "reviewDate": "2023-03-15",
+        "decision": "accept",
+        "reviewerComments": "Well-structured and informative."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a77",
+        "researcherId": "researcher_24",
+        "publicationId": "publication_24",
+        "reviewText": "Research on the future of urban transportation.",
+        "rating": 2,
+        "reviewDate": "2023-04-22",
+        "decision": "reject",
+        "reviewerComments": "Lacks innovative solutions and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a78",
+        "researcherId": "researcher_25",
+        "publicationId": "publication_25",
+        "reviewText": "Study on the impact of music on cognitive development.",
+        "rating": 5,
+        "reviewDate": "2023-05-30",
+        "decision": "accept",
+        "reviewerComments": "Compelling evidence and well-presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a79",
+        "researcherId": "researcher_26",
+        "publicationId": "publication_26",
+        "reviewText": "Analysis of the global supply chain disruptions.",
+        "rating": 3,
+        "reviewDate": "2023-06-25",
+        "decision": "revise",
+        "reviewerComments": "Needs more detailed case studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a7a",
+        "researcherId": "researcher_27",
+        "publicationId": "publication_27",
+        "reviewText": "Research on the role of women in technology.",
+        "rating": 4,
+        "reviewDate": "2023-07-20",
+        "decision": "accept",
+        "reviewerComments": "Important topic with strong analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a7b",
+        "researcherId": "researcher_28",
+        "publicationId": "publication_28",
+        "reviewText": "Study on the economic benefits of green energy.",
+        "rating": 2,
+        "reviewDate": "2023-08-05",
+        "decision": "reject",
+        "reviewerComments": "Lacks quantitative data and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a7c",
+        "researcherId": "researcher_29",
+        "publicationId": "publication_29",
+        "reviewText": "Analysis of the social impacts of automation.",
+        "rating": 5,
+        "reviewDate": "2023-09-15",
+        "decision": "accept",
+        "reviewerComments": "Thorough and thought-provoking study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a7d",
+        "researcherId": "researcher_30",
+        "publicationId": "publication_30",
+        "reviewText": "Research on the history of space exploration.",
+        "rating": 3,
+        "reviewDate": "2023-10-25",
+        "decision": "revise",
+        "reviewerComments": "Interesting narrative but needs more analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a7e",
+        "researcherId": "researcher_31",
+        "publicationId": "publication_31",
+        "reviewText": "Study on the psychological effects of remote work.",
+        "rating": 4,
+        "reviewDate": "2023-01-30",
+        "decision": "accept",
+        "reviewerComments": "Relevant and well-supported research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a7f",
+        "researcherId": "researcher_32",
+        "publicationId": "publication_32",
+        "reviewText": "Analysis of the evolution of digital currencies.",
+        "rating": 5,
+        "reviewDate": "2023-02-25",
+        "decision": "accept",
+        "reviewerComments": "Comprehensive and forward-looking analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a80",
+        "researcherId": "researcher_33",
+        "publicationId": "publication_33",
+        "reviewText": "Research on the impact of climate policies.",
+        "rating": 3,
+        "reviewDate": "2023-03-20",
+        "decision": "revise",
+        "reviewerComments": "Needs more data on policy effectiveness."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a81",
+        "researcherId": "researcher_34",
+        "publicationId": "publication_34",
+        "reviewText": "Study on the history of pandemics.",
+        "rating": 4,
+        "reviewDate": "2023-04-28",
+        "decision": "accept",
+        "reviewerComments": "Informative and well-researched."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a82",
+        "researcherId": "researcher_35",
+        "publicationId": "publication_35",
+        "reviewText": "Analysis of the effects of global warming.",
+        "rating": 2,
+        "reviewDate": "2023-05-05",
+        "decision": "reject",
+        "reviewerComments": "Lacks depth and comprehensive data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a83",
+        "researcherId": "researcher_36",
+        "publicationId": "publication_36",
+        "reviewText": "Research on the future of artificial intelligence.",
+        "rating": 5,
+        "reviewDate": "2023-06-30",
+        "decision": "accept",
+        "reviewerComments": "Insightful and forward-thinking research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a84",
+        "researcherId": "researcher_37",
+        "publicationId": "publication_37",
+        "reviewText": "Study on the effects of urban sprawl.",
+        "rating": 3,
+        "reviewDate": "2023-07-25",
+        "decision": "revise",
+        "reviewerComments": "Requires more case studies for validation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a85",
+        "researcherId": "researcher_38",
+        "publicationId": "publication_38",
+        "reviewText": "Analysis of the role of media in politics.",
+        "rating": 4,
+        "reviewDate": "2023-08-10",
+        "decision": "accept",
+        "reviewerComments": "Well-argued and supported by evidence."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a86",
+        "researcherId": "researcher_39",
+        "publicationId": "publication_39",
+        "reviewText": "Research on the impact of technology on privacy.",
+        "rating": 2,
+        "reviewDate": "2023-09-20",
+        "decision": "reject",
+        "reviewerComments": "Lacks a clear focus and detailed analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a87",
+        "researcherId": "researcher_40",
+        "publicationId": "publication_40",
+        "reviewText": "Study on the effects of globalization on economies.",
+        "rating": 4,
+        "reviewDate": "2023-10-30",
+        "decision": "accept",
+        "reviewerComments": "Comprehensive and well-researched."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a88",
+        "researcherId": "researcher_41",
+        "publicationId": "publication_41",
+        "reviewText": "Research on the development of sustainable cities.",
+        "rating": 5,
+        "reviewDate": "2023-01-05",
+        "decision": "accept",
+        "reviewerComments": "Innovative and highly relevant research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a89",
+        "researcherId": "researcher_42",
+        "publicationId": "publication_42",
+        "reviewText": "Study on the impact of AI on employment.",
+        "rating": 3,
+        "reviewDate": "2023-02-10",
+        "decision": "revise",
+        "reviewerComments": "Interesting findings, but needs more data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a8a",
+        "researcherId": "researcher_43",
+        "publicationId": "publication_43",
+        "reviewText": "Analysis of the effects of social media on society.",
+        "rating": 4,
+        "reviewDate": "2023-03-25",
+        "decision": "accept",
+        "reviewerComments": "Well-structured and significant findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a8b",
+        "researcherId": "researcher_44",
+        "publicationId": "publication_44",
+        "reviewText": "Research on the future of renewable energy.",
+        "rating": 2,
+        "reviewDate": "2023-04-05",
+        "decision": "reject",
+        "reviewerComments": "Lacks quantitative data and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a8c",
+        "researcherId": "researcher_45",
+        "publicationId": "publication_45",
+        "reviewText": "Study on the history of scientific discoveries.",
+        "rating": 5,
+        "reviewDate": "2023-05-10",
+        "decision": "accept",
+        "reviewerComments": "Compelling evidence and well-presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a8d",
+        "researcherId": "researcher_46",
+        "publicationId": "publication_46",
+        "reviewText": "Analysis of the global economic recovery post-COVID.",
+        "rating": 3,
+        "reviewDate": "2023-06-05",
+        "decision": "revise",
+        "reviewerComments": "Needs more detailed case studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a8e",
+        "researcherId": "researcher_47",
+        "publicationId": "publication_47",
+        "reviewText": "Research on the role of education in social mobility.",
+        "rating": 4,
+        "reviewDate": "2023-07-01",
+        "decision": "accept",
+        "reviewerComments": "Important topic with strong analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a8f",
+        "researcherId": "researcher_48",
+        "publicationId": "publication_48",
+        "reviewText": "Study on the economic impacts of climate change.",
+        "rating": 2,
+        "reviewDate": "2023-08-15",
+        "decision": "reject",
+        "reviewerComments": "Lacks sufficient data and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a90",
+        "researcherId": "researcher_49",
+        "publicationId": "publication_49",
+        "reviewText": "Analysis of the effects of digital transformation.",
+        "rating": 5,
+        "reviewDate": "2023-09-25",
+        "decision": "accept",
+        "reviewerComments": "Highly relevant and well-executed research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a91",
+        "researcherId": "researcher_50",
+        "publicationId": "publication_50",
+        "reviewText": "Research on the history of technological innovations.",
+        "rating": 3,
+        "reviewDate": "2023-10-05",
+        "decision": "revise",
+        "reviewerComments": "Interesting narrative but needs more analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a92",
+        "researcherId": "researcher_1",
+        "publicationId": "publication_1",
+        "reviewText": "The methodology is robust and well-documented.",
+        "rating": 4,
+        "reviewDate": "2023-01-15",
+        "decision": "Accept",
+        "reviewerComments": "The study provides valuable insights into the topic."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a93",
+        "researcherId": "researcher_2",
+        "publicationId": "publication_2",
+        "reviewText": "The results are not clearly presented.",
+        "rating": 2,
+        "reviewDate": "2023-02-10",
+        "decision": "Reject",
+        "reviewerComments": "Consider revising the results section for clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a94",
+        "researcherId": "researcher_3",
+        "publicationId": "publication_3",
+        "reviewText": "Excellent analysis and discussion.",
+        "rating": 5,
+        "reviewDate": "2023-03-05",
+        "decision": "Accept",
+        "reviewerComments": "The paper makes a significant contribution to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a95",
+        "researcherId": "researcher_4",
+        "publicationId": "publication_4",
+        "reviewText": "The introduction lacks sufficient background information.",
+        "rating": 3,
+        "reviewDate": "2023-04-20",
+        "decision": "Minor Revision",
+        "reviewerComments": "Add more context to the introduction section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a96",
+        "researcherId": "researcher_5",
+        "publicationId": "publication_5",
+        "reviewText": "The figures are well-designed and informative.",
+        "rating": 4,
+        "reviewDate": "2023-05-18",
+        "decision": "Accept",
+        "reviewerComments": "Consider adding more figures to enhance understanding."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a97",
+        "researcherId": "researcher_6",
+        "publicationId": "publication_6",
+        "reviewText": "The conclusion does not align with the data presented.",
+        "rating": 2,
+        "reviewDate": "2023-06-02",
+        "decision": "Reject",
+        "reviewerComments": "Re-evaluate the conclusion based on the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a98",
+        "researcherId": "researcher_7",
+        "publicationId": "publication_7",
+        "reviewText": "The literature review is comprehensive.",
+        "rating": 4,
+        "reviewDate": "2023-07-12",
+        "decision": "Accept",
+        "reviewerComments": "The literature review is well-researched and thorough."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a99",
+        "researcherId": "researcher_8",
+        "publicationId": "publication_8",
+        "reviewText": "The hypothesis is not clearly stated.",
+        "rating": 3,
+        "reviewDate": "2023-08-22",
+        "decision": "Minor Revision",
+        "reviewerComments": "Clarify the hypothesis in the introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a9a",
+        "researcherId": "researcher_9",
+        "publicationId": "publication_9",
+        "reviewText": "The statistical analysis is flawed.",
+        "rating": 1,
+        "reviewDate": "2023-09-10",
+        "decision": "Reject",
+        "reviewerComments": "Revisit the statistical methods used in the analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a9b",
+        "researcherId": "researcher_10",
+        "publicationId": "publication_10",
+        "reviewText": "The paper is well-structured and easy to follow.",
+        "rating": 5,
+        "reviewDate": "2023-10-01",
+        "decision": "Accept",
+        "reviewerComments": "The paper is clear and well-organized."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a9c",
+        "researcherId": "researcher_11",
+        "publicationId": "publication_11",
+        "reviewText": "The abstract is too vague.",
+        "rating": 2,
+        "reviewDate": "2023-01-25",
+        "decision": "Reject",
+        "reviewerComments": "Provide more specific details in the abstract."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a9d",
+        "researcherId": "researcher_12",
+        "publicationId": "publication_12",
+        "reviewText": "The research question is novel and interesting.",
+        "rating": 4,
+        "reviewDate": "2023-02-15",
+        "decision": "Accept",
+        "reviewerComments": "The research question addresses a gap in the literature."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a9e",
+        "researcherId": "researcher_13",
+        "publicationId": "publication_13",
+        "reviewText": "The references are outdated.",
+        "rating": 3,
+        "reviewDate": "2023-03-25",
+        "decision": "Minor Revision",
+        "reviewerComments": "Update the references with more recent studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385a9f",
+        "researcherId": "researcher_14",
+        "publicationId": "publication_14",
+        "reviewText": "The experimental design is sound.",
+        "rating": 5,
+        "reviewDate": "2023-04-05",
+        "decision": "Accept",
+        "reviewerComments": "The experimental design is well thought out and executed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa0",
+        "researcherId": "researcher_15",
+        "publicationId": "publication_15",
+        "reviewText": "The paper lacks a clear focus.",
+        "rating": 2,
+        "reviewDate": "2023-05-15",
+        "decision": "Reject",
+        "reviewerComments": "Define a clearer focus for the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa1",
+        "researcherId": "researcher_16",
+        "publicationId": "publication_16",
+        "reviewText": "The data is well-presented and analyzed.",
+        "rating": 4,
+        "reviewDate": "2023-06-25",
+        "decision": "Accept",
+        "reviewerComments": "The data presentation is clear and comprehensive."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa2",
+        "researcherId": "researcher_17",
+        "publicationId": "publication_17",
+        "reviewText": "The discussion is repetitive.",
+        "rating": 3,
+        "reviewDate": "2023-07-05",
+        "decision": "Minor Revision",
+        "reviewerComments": "Avoid repetition in the discussion section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa3",
+        "researcherId": "researcher_18",
+        "publicationId": "publication_18",
+        "reviewText": "The paper addresses an important issue.",
+        "rating": 5,
+        "reviewDate": "2023-08-15",
+        "decision": "Accept",
+        "reviewerComments": "The paper addresses a critical issue in the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa4",
+        "researcherId": "researcher_19",
+        "publicationId": "publication_19",
+        "reviewText": "The methods section is incomplete.",
+        "rating": 2,
+        "reviewDate": "2023-09-25",
+        "decision": "Reject",
+        "reviewerComments": "Provide more details in the methods section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa5",
+        "researcherId": "researcher_20",
+        "publicationId": "publication_20",
+        "reviewText": "The paper is well-written and engaging.",
+        "rating": 5,
+        "reviewDate": "2023-10-05",
+        "decision": "Accept",
+        "reviewerComments": "The writing style is excellent and engaging."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa6",
+        "researcherId": "researcher_21",
+        "publicationId": "publication_21",
+        "reviewText": "The analysis lacks depth.",
+        "rating": 3,
+        "reviewDate": "2023-01-30",
+        "decision": "Minor Revision",
+        "reviewerComments": "Expand the analysis to include more variables."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa7",
+        "researcherId": "researcher_22",
+        "publicationId": "publication_22",
+        "reviewText": "The study is innovative and well-executed.",
+        "rating": 5,
+        "reviewDate": "2023-02-20",
+        "decision": "Accept",
+        "reviewerComments": "The study introduces novel methods and findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa8",
+        "researcherId": "researcher_23",
+        "publicationId": "publication_23",
+        "reviewText": "The paper is too technical for a general audience.",
+        "rating": 2,
+        "reviewDate": "2023-03-10",
+        "decision": "Reject",
+        "reviewerComments": "Simplify the language for broader accessibility."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aa9",
+        "researcherId": "researcher_24",
+        "publicationId": "publication_24",
+        "reviewText": "The conclusion is well-supported by the data.",
+        "rating": 4,
+        "reviewDate": "2023-04-30",
+        "decision": "Accept",
+        "reviewerComments": "The conclusion logically follows from the results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aaa",
+        "researcherId": "researcher_25",
+        "publicationId": "publication_25",
+        "reviewText": "The paper lacks sufficient data.",
+        "rating": 2,
+        "reviewDate": "2023-05-20",
+        "decision": "Reject",
+        "reviewerComments": "Include more data to support the findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aab",
+        "researcherId": "researcher_26",
+        "publicationId": "publication_26",
+        "reviewText": "The introduction is engaging and informative.",
+        "rating": 5,
+        "reviewDate": "2023-06-10",
+        "decision": "Accept",
+        "reviewerComments": "The introduction sets a strong foundation for the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aac",
+        "researcherId": "researcher_27",
+        "publicationId": "publication_27",
+        "reviewText": "The paper is overly long and detailed.",
+        "rating": 3,
+        "reviewDate": "2023-07-20",
+        "decision": "Minor Revision",
+        "reviewerComments": "Consider condensing the content for brevity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aad",
+        "researcherId": "researcher_28",
+        "publicationId": "publication_28",
+        "reviewText": "The study design is innovative.",
+        "rating": 4,
+        "reviewDate": "2023-08-30",
+        "decision": "Accept",
+        "reviewerComments": "The study design is creative and effective."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aae",
+        "researcherId": "researcher_29",
+        "publicationId": "publication_29",
+        "reviewText": "The paper lacks a clear hypothesis.",
+        "rating": 2,
+        "reviewDate": "2023-09-15",
+        "decision": "Reject",
+        "reviewerComments": "Clearly state the hypothesis in the introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aaf",
+        "researcherId": "researcher_30",
+        "publicationId": "publication_30",
+        "reviewText": "The results are well-explained and contextualized.",
+        "rating": 5,
+        "reviewDate": "2023-10-10",
+        "decision": "Accept",
+        "reviewerComments": "The results are thoroughly explained and contextualized."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab0",
+        "researcherId": "researcher_31",
+        "publicationId": "publication_31",
+        "reviewText": "The paper is difficult to follow.",
+        "rating": 2,
+        "reviewDate": "2023-01-18",
+        "decision": "Reject",
+        "reviewerComments": "Improve the organization and flow of the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab1",
+        "researcherId": "researcher_32",
+        "publicationId": "publication_32",
+        "reviewText": "The study is comprehensive and detailed.",
+        "rating": 4,
+        "reviewDate": "2023-02-28",
+        "decision": "Accept",
+        "reviewerComments": "The study covers the topic comprehensively and in detail."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab2",
+        "researcherId": "researcher_33",
+        "publicationId": "publication_33",
+        "reviewText": "The paper lacks originality.",
+        "rating": 2,
+        "reviewDate": "2023-03-18",
+        "decision": "Reject",
+        "reviewerComments": "Introduce more original ideas and perspectives."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab3",
+        "researcherId": "researcher_34",
+        "publicationId": "publication_34",
+        "reviewText": "The findings are significant and impactful.",
+        "rating": 5,
+        "reviewDate": "2023-04-28",
+        "decision": "Accept",
+        "reviewerComments": "The findings have significant implications for the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab4",
+        "researcherId": "researcher_35",
+        "publicationId": "publication_35",
+        "reviewText": "The paper is poorly structured.",
+        "rating": 2,
+        "reviewDate": "2023-05-08",
+        "decision": "Reject",
+        "reviewerComments": "Reorganize the paper for better readability."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab5",
+        "researcherId": "researcher_36",
+        "publicationId": "publication_36",
+        "reviewText": "The analysis is comprehensive and detailed.",
+        "rating": 4,
+        "reviewDate": "2023-06-18",
+        "decision": "Accept",
+        "reviewerComments": "The analysis is thorough and well-documented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab6",
+        "researcherId": "researcher_37",
+        "publicationId": "publication_37",
+        "reviewText": "The paper lacks theoretical grounding.",
+        "rating": 2,
+        "reviewDate": "2023-07-28",
+        "decision": "Reject",
+        "reviewerComments": "Provide a stronger theoretical framework."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab7",
+        "researcherId": "researcher_38",
+        "publicationId": "publication_38",
+        "reviewText": "The paper is insightful and thought-provoking.",
+        "rating": 5,
+        "reviewDate": "2023-08-08",
+        "decision": "Accept",
+        "reviewerComments": "The paper provides new insights and perspectives."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab8",
+        "researcherId": "researcher_39",
+        "publicationId": "publication_39",
+        "reviewText": "The methodology is not adequately explained.",
+        "rating": 3,
+        "reviewDate": "2023-09-18",
+        "decision": "Minor Revision",
+        "reviewerComments": "Provide a more detailed explanation of the methodology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ab9",
+        "researcherId": "researcher_40",
+        "publicationId": "publication_40",
+        "reviewText": "The paper is well-researched and informative.",
+        "rating": 4,
+        "reviewDate": "2023-10-28",
+        "decision": "Accept",
+        "reviewerComments": "The paper is based on thorough research and provides valuable information."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aba",
+        "researcherId": "researcher_41",
+        "publicationId": "publication_41",
+        "reviewText": "The paper is overly complex.",
+        "rating": 2,
+        "reviewDate": "2023-01-12",
+        "decision": "Reject",
+        "reviewerComments": "Simplify the content for better understanding."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385abb",
+        "researcherId": "researcher_42",
+        "publicationId": "publication_42",
+        "reviewText": "The study is well-organized and clear.",
+        "rating": 5,
+        "reviewDate": "2023-02-22",
+        "decision": "Accept",
+        "reviewerComments": "The study is well-structured and easy to follow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385abc",
+        "researcherId": "researcher_43",
+        "publicationId": "publication_43",
+        "reviewText": "The paper lacks sufficient evidence.",
+        "rating": 2,
+        "reviewDate": "2023-03-12",
+        "decision": "Reject",
+        "reviewerComments": "Provide more evidence to support the claims."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385abd",
+        "researcherId": "researcher_44",
+        "publicationId": "publication_44",
+        "reviewText": "The paper is engaging and well-written.",
+        "rating": 5,
+        "reviewDate": "2023-04-22",
+        "decision": "Accept",
+        "reviewerComments": "The writing style is engaging and effective."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385abe",
+        "researcherId": "researcher_45",
+        "publicationId": "publication_45",
+        "reviewText": "The paper is too brief.",
+        "rating": 3,
+        "reviewDate": "2023-05-02",
+        "decision": "Minor Revision",
+        "reviewerComments": "Expand the content for more depth."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385abf",
+        "researcherId": "researcher_46",
+        "publicationId": "publication_46",
+        "reviewText": "The study provides new insights.",
+        "rating": 4,
+        "reviewDate": "2023-06-12",
+        "decision": "Accept",
+        "reviewerComments": "The study offers valuable new insights into the topic."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac0",
+        "researcherId": "researcher_47",
+        "publicationId": "publication_47",
+        "reviewText": "The paper is not well-organized.",
+        "rating": 2,
+        "reviewDate": "2023-07-22",
+        "decision": "Reject",
+        "reviewerComments": "Reorganize the paper for better clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac1",
+        "researcherId": "researcher_48",
+        "publicationId": "publication_48",
+        "reviewText": "The paper is comprehensive and detailed.",
+        "rating": 5,
+        "reviewDate": "2023-08-02",
+        "decision": "Accept",
+        "reviewerComments": "The paper covers the topic in great detail and comprehensively."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac2",
+        "researcherId": "researcher_49",
+        "publicationId": "publication_49",
+        "reviewText": "The paper lacks coherence.",
+        "rating": 2,
+        "reviewDate": "2023-09-12",
+        "decision": "Reject",
+        "reviewerComments": "Ensure the paper has a coherent structure and flow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac3",
+        "researcherId": "researcher_50",
+        "publicationId": "publication_50",
+        "reviewText": "The paper is insightful and well-researched.",
+        "rating": 5,
+        "reviewDate": "2023-10-22",
+        "decision": "Accept",
+        "reviewerComments": "The paper provides valuable insights and is well-researched."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac4",
+        "researcherId": "researcher1",
+        "publicationId": "publication1",
+        "reviewText": "The research provides a comprehensive analysis of the subject.",
+        "rating": 4,
+        "reviewDate": "2023-01-15",
+        "decision": "Accept",
+        "reviewerComments": "Well-structured and insightful."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac5",
+        "researcherId": "researcher2",
+        "publicationId": "publication2",
+        "reviewText": "The methodology needs clarification.",
+        "rating": 3,
+        "reviewDate": "2023-02-10",
+        "decision": "Minor Revision",
+        "reviewerComments": "Consider revising the methodology section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac6",
+        "researcherId": "researcher3",
+        "publicationId": "publication3",
+        "reviewText": "Excellent research with significant findings.",
+        "rating": 5,
+        "reviewDate": "2023-03-05",
+        "decision": "Accept",
+        "reviewerComments": "The findings are groundbreaking."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac7",
+        "researcherId": "researcher4",
+        "publicationId": "publication4",
+        "reviewText": "The literature review is thorough.",
+        "rating": 4,
+        "reviewDate": "2023-04-12",
+        "decision": "Accept",
+        "reviewerComments": "Covers all relevant studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac8",
+        "researcherId": "researcher5",
+        "publicationId": "publication5",
+        "reviewText": "The paper lacks a clear conclusion.",
+        "rating": 2,
+        "reviewDate": "2023-05-18",
+        "decision": "Reject",
+        "reviewerComments": "Needs a more defined conclusion."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ac9",
+        "researcherId": "researcher6",
+        "publicationId": "publication6",
+        "reviewText": "The results section is well-detailed.",
+        "rating": 4,
+        "reviewDate": "2023-06-21",
+        "decision": "Accept",
+        "reviewerComments": "Results are clearly presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aca",
+        "researcherId": "researcher7",
+        "publicationId": "publication7",
+        "reviewText": "The introduction is engaging.",
+        "rating": 4,
+        "reviewDate": "2023-07-30",
+        "decision": "Accept",
+        "reviewerComments": "Captures the reader's interest."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385acb",
+        "researcherId": "researcher8",
+        "publicationId": "publication8",
+        "reviewText": "The discussion lacks depth.",
+        "rating": 2,
+        "reviewDate": "2023-08-25",
+        "decision": "Major Revision",
+        "reviewerComments": "Expand on the discussion points."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385acc",
+        "researcherId": "researcher9",
+        "publicationId": "publication9",
+        "reviewText": "The abstract is concise and informative.",
+        "rating": 5,
+        "reviewDate": "2023-09-15",
+        "decision": "Accept",
+        "reviewerComments": "Provides a great summary of the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385acd",
+        "researcherId": "researcher10",
+        "publicationId": "publication10",
+        "reviewText": "The data analysis is robust.",
+        "rating": 5,
+        "reviewDate": "2023-10-05",
+        "decision": "Accept",
+        "reviewerComments": "Analysis is thorough and well-executed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ace",
+        "researcherId": "researcher11",
+        "publicationId": "publication11",
+        "reviewText": "The paper is well-organized.",
+        "rating": 4,
+        "reviewDate": "2023-01-20",
+        "decision": "Accept",
+        "reviewerComments": "Logical flow of content."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385acf",
+        "researcherId": "researcher12",
+        "publicationId": "publication12",
+        "reviewText": "The hypothesis is not clearly stated.",
+        "rating": 3,
+        "reviewDate": "2023-02-14",
+        "decision": "Minor Revision",
+        "reviewerComments": "Clarify the hypothesis in the introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad0",
+        "researcherId": "researcher13",
+        "publicationId": "publication13",
+        "reviewText": "The figures are well-designed.",
+        "rating": 4,
+        "reviewDate": "2023-03-10",
+        "decision": "Accept",
+        "reviewerComments": "Figures enhance understanding."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad1",
+        "researcherId": "researcher14",
+        "publicationId": "publication14",
+        "reviewText": "The references are outdated.",
+        "rating": 2,
+        "reviewDate": "2023-04-17",
+        "decision": "Major Revision",
+        "reviewerComments": "Update the references with recent studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad2",
+        "researcherId": "researcher15",
+        "publicationId": "publication15",
+        "reviewText": "The conclusion summarizes the findings well.",
+        "rating": 4,
+        "reviewDate": "2023-05-22",
+        "decision": "Accept",
+        "reviewerComments": "Conclusion is concise and effective."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad3",
+        "researcherId": "researcher16",
+        "publicationId": "publication16",
+        "reviewText": "The study lacks originality.",
+        "rating": 2,
+        "reviewDate": "2023-06-28",
+        "decision": "Reject",
+        "reviewerComments": "Consider adding novel aspects."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad4",
+        "researcherId": "researcher17",
+        "publicationId": "publication17",
+        "reviewText": "The methodology is innovative.",
+        "rating": 5,
+        "reviewDate": "2023-07-22",
+        "decision": "Accept",
+        "reviewerComments": "Innovative approach to the research problem."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad5",
+        "researcherId": "researcher18",
+        "publicationId": "publication18",
+        "reviewText": "The paper is too lengthy.",
+        "rating": 3,
+        "reviewDate": "2023-08-18",
+        "decision": "Minor Revision",
+        "reviewerComments": "Consider shortening the text."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad6",
+        "researcherId": "researcher19",
+        "publicationId": "publication19",
+        "reviewText": "The statistical analysis is weak.",
+        "rating": 2,
+        "reviewDate": "2023-09-09",
+        "decision": "Major Revision",
+        "reviewerComments": "Improve the statistical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad7",
+        "researcherId": "researcher20",
+        "publicationId": "publication20",
+        "reviewText": "The abstract is too vague.",
+        "rating": 3,
+        "reviewDate": "2023-10-01",
+        "decision": "Minor Revision",
+        "reviewerComments": "Provide more details in the abstract."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad8",
+        "researcherId": "researcher21",
+        "publicationId": "publication21",
+        "reviewText": "The introduction sets the stage well.",
+        "rating": 4,
+        "reviewDate": "2023-01-25",
+        "decision": "Accept",
+        "reviewerComments": "Engaging and informative introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ad9",
+        "researcherId": "researcher22",
+        "publicationId": "publication22",
+        "reviewText": "The results are not clearly presented.",
+        "rating": 2,
+        "reviewDate": "2023-02-18",
+        "decision": "Major Revision",
+        "reviewerComments": "Clarify the presentation of results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ada",
+        "researcherId": "researcher23",
+        "publicationId": "publication23",
+        "reviewText": "The discussion is insightful.",
+        "rating": 5,
+        "reviewDate": "2023-03-12",
+        "decision": "Accept",
+        "reviewerComments": "Provides deep insights into the topic."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385adb",
+        "researcherId": "researcher24",
+        "publicationId": "publication24",
+        "reviewText": "The paper lacks a clear focus.",
+        "rating": 2,
+        "reviewDate": "2023-04-20",
+        "decision": "Reject",
+        "reviewerComments": "Needs a more focused approach."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385adc",
+        "researcherId": "researcher25",
+        "publicationId": "publication25",
+        "reviewText": "The references are comprehensive.",
+        "rating": 4,
+        "reviewDate": "2023-05-25",
+        "decision": "Accept",
+        "reviewerComments": "Covers a wide range of sources."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385add",
+        "researcherId": "researcher26",
+        "publicationId": "publication26",
+        "reviewText": "The hypothesis is well-defined.",
+        "rating": 4,
+        "reviewDate": "2023-06-30",
+        "decision": "Accept",
+        "reviewerComments": "Clear and concise hypothesis statement."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ade",
+        "researcherId": "researcher27",
+        "publicationId": "publication27",
+        "reviewText": "The figures are not clear.",
+        "rating": 2,
+        "reviewDate": "2023-07-25",
+        "decision": "Major Revision",
+        "reviewerComments": "Improve the clarity of figures."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385adf",
+        "researcherId": "researcher28",
+        "publicationId": "publication28",
+        "reviewText": "The paper is concise and to the point.",
+        "rating": 5,
+        "reviewDate": "2023-08-20",
+        "decision": "Accept",
+        "reviewerComments": "Well-written and concise."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae0",
+        "researcherId": "researcher29",
+        "publicationId": "publication29",
+        "reviewText": "The conclusion is not supported by the data.",
+        "rating": 2,
+        "reviewDate": "2023-09-12",
+        "decision": "Reject",
+        "reviewerComments": "Conclusion needs to be data-driven."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae1",
+        "researcherId": "researcher30",
+        "publicationId": "publication30",
+        "reviewText": "The study is highly relevant.",
+        "rating": 5,
+        "reviewDate": "2023-10-03",
+        "decision": "Accept",
+        "reviewerComments": "Addresses a significant research gap."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae2",
+        "researcherId": "researcher31",
+        "publicationId": "publication31",
+        "reviewText": "The abstract is well-written.",
+        "rating": 4,
+        "reviewDate": "2023-01-28",
+        "decision": "Accept",
+        "reviewerComments": "Summarizes the paper effectively."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae3",
+        "researcherId": "researcher32",
+        "publicationId": "publication32",
+        "reviewText": "The methodology is unclear.",
+        "rating": 3,
+        "reviewDate": "2023-02-22",
+        "decision": "Minor Revision",
+        "reviewerComments": "Clarify the methodology section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae4",
+        "researcherId": "researcher33",
+        "publicationId": "publication33",
+        "reviewText": "The introduction is too brief.",
+        "rating": 2,
+        "reviewDate": "2023-03-15",
+        "decision": "Major Revision",
+        "reviewerComments": "Expand the introduction with more background."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae5",
+        "researcherId": "researcher34",
+        "publicationId": "publication34",
+        "reviewText": "The paper is innovative.",
+        "rating": 5,
+        "reviewDate": "2023-04-23",
+        "decision": "Accept",
+        "reviewerComments": "Brings a fresh perspective to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae6",
+        "researcherId": "researcher35",
+        "publicationId": "publication35",
+        "reviewText": "The results are inconsistent.",
+        "rating": 2,
+        "reviewDate": "2023-05-28",
+        "decision": "Reject",
+        "reviewerComments": "Address the inconsistencies in the results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae7",
+        "researcherId": "researcher36",
+        "publicationId": "publication36",
+        "reviewText": "The discussion is well-argued.",
+        "rating": 4,
+        "reviewDate": "2023-06-05",
+        "decision": "Accept",
+        "reviewerComments": "Strong arguments presented in the discussion."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae8",
+        "researcherId": "researcher37",
+        "publicationId": "publication37",
+        "reviewText": "The literature review is lacking.",
+        "rating": 2,
+        "reviewDate": "2023-07-15",
+        "decision": "Major Revision",
+        "reviewerComments": "Expand the literature review with more sources."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ae9",
+        "researcherId": "researcher38",
+        "publicationId": "publication38",
+        "reviewText": "The paper is well-researched.",
+        "rating": 5,
+        "reviewDate": "2023-08-10",
+        "decision": "Accept",
+        "reviewerComments": "Thorough research and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aea",
+        "researcherId": "researcher39",
+        "publicationId": "publication39",
+        "reviewText": "The paper is difficult to follow.",
+        "rating": 2,
+        "reviewDate": "2023-09-05",
+        "decision": "Reject",
+        "reviewerComments": "Improve the readability and organization."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aeb",
+        "researcherId": "researcher40",
+        "publicationId": "publication40",
+        "reviewText": "The hypothesis is innovative.",
+        "rating": 5,
+        "reviewDate": "2023-10-02",
+        "decision": "Accept",
+        "reviewerComments": "Presents an innovative hypothesis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aec",
+        "researcherId": "researcher41",
+        "publicationId": "publication41",
+        "reviewText": "The figures are informative.",
+        "rating": 4,
+        "reviewDate": "2023-01-30",
+        "decision": "Accept",
+        "reviewerComments": "Figures enhance the understanding of the text."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aed",
+        "researcherId": "researcher42",
+        "publicationId": "publication42",
+        "reviewText": "The paper is too technical.",
+        "rating": 3,
+        "reviewDate": "2023-02-26",
+        "decision": "Minor Revision",
+        "reviewerComments": "Simplify the technical jargon."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aee",
+        "researcherId": "researcher43",
+        "publicationId": "publication43",
+        "reviewText": "The results are well-supported by data.",
+        "rating": 5,
+        "reviewDate": "2023-03-18",
+        "decision": "Accept",
+        "reviewerComments": "Data strongly supports the results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aef",
+        "researcherId": "researcher44",
+        "publicationId": "publication44",
+        "reviewText": "The conclusion is too brief.",
+        "rating": 2,
+        "reviewDate": "2023-04-25",
+        "decision": "Major Revision",
+        "reviewerComments": "Expand the conclusion with more details."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af0",
+        "researcherId": "researcher45",
+        "publicationId": "publication45",
+        "reviewText": "The paper addresses a critical issue.",
+        "rating": 5,
+        "reviewDate": "2023-05-30",
+        "decision": "Accept",
+        "reviewerComments": "Addresses a significant issue in the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af1",
+        "researcherId": "researcher46",
+        "publicationId": "publication46",
+        "reviewText": "The paper lacks coherence.",
+        "rating": 2,
+        "reviewDate": "2023-06-07",
+        "decision": "Reject",
+        "reviewerComments": "Improve the coherence and flow of the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af2",
+        "researcherId": "researcher47",
+        "publicationId": "publication47",
+        "reviewText": "The methodology is sound.",
+        "rating": 4,
+        "reviewDate": "2023-07-18",
+        "decision": "Accept",
+        "reviewerComments": "Methodology is well-planned and executed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af3",
+        "researcherId": "researcher48",
+        "publicationId": "publication48",
+        "reviewText": "The introduction lacks context.",
+        "rating": 2,
+        "reviewDate": "2023-08-12",
+        "decision": "Major Revision",
+        "reviewerComments": "Provide more context in the introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af4",
+        "researcherId": "researcher49",
+        "publicationId": "publication49",
+        "reviewText": "The paper is a valuable contribution.",
+        "rating": 5,
+        "reviewDate": "2023-09-08",
+        "decision": "Accept",
+        "reviewerComments": "A valuable addition to the literature."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af5",
+        "researcherId": "researcher50",
+        "publicationId": "publication50",
+        "reviewText": "The discussion is not convincing.",
+        "rating": 2,
+        "reviewDate": "2023-10-06",
+        "decision": "Reject",
+        "reviewerComments": "Strengthen the arguments in the discussion."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af6",
+        "researcherId": "researcher_01",
+        "publicationId": "publication_01",
+        "reviewText": "This study provides a comprehensive analysis of the subject.",
+        "rating": 4,
+        "reviewDate": "2023-05-12",
+        "decision": "accepted",
+        "reviewerComments": "Well-structured and informative."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af7",
+        "researcherId": "researcher_02",
+        "publicationId": "publication_02",
+        "reviewText": "The methodology is sound but lacks depth in analysis.",
+        "rating": 3,
+        "reviewDate": "2023-06-15",
+        "decision": "minor revisions",
+        "reviewerComments": "Consider adding more data analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af8",
+        "researcherId": "researcher_03",
+        "publicationId": "publication_03",
+        "reviewText": "An innovative approach to a classic problem.",
+        "rating": 5,
+        "reviewDate": "2023-07-01",
+        "decision": "accepted",
+        "reviewerComments": "Excellent work with significant contributions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385af9",
+        "researcherId": "researcher_04",
+        "publicationId": "publication_04",
+        "reviewText": "The research lacks a clear hypothesis.",
+        "rating": 2,
+        "reviewDate": "2023-07-20",
+        "decision": "rejected",
+        "reviewerComments": "Needs a more defined research question."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385afa",
+        "researcherId": "researcher_05",
+        "publicationId": "publication_05",
+        "reviewText": "A thorough review of the existing literature.",
+        "rating": 4,
+        "reviewDate": "2023-08-05",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive and well-researched."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385afb",
+        "researcherId": "researcher_06",
+        "publicationId": "publication_06",
+        "reviewText": "The paper is well-written but lacks novelty.",
+        "rating": 3,
+        "reviewDate": "2023-08-18",
+        "decision": "minor revisions",
+        "reviewerComments": "Consider highlighting unique aspects."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385afc",
+        "researcherId": "researcher_07",
+        "publicationId": "publication_07",
+        "reviewText": "Data analysis is robust and insightful.",
+        "rating": 5,
+        "reviewDate": "2023-09-02",
+        "decision": "accepted",
+        "reviewerComments": "Strong analytical approach."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385afd",
+        "researcherId": "researcher_08",
+        "publicationId": "publication_08",
+        "reviewText": "The conclusions are not well-supported by the data.",
+        "rating": 2,
+        "reviewDate": "2023-09-15",
+        "decision": "rejected",
+        "reviewerComments": "Re-evaluate the data interpretation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385afe",
+        "researcherId": "researcher_09",
+        "publicationId": "publication_09",
+        "reviewText": "A unique perspective on a complex issue.",
+        "rating": 4,
+        "reviewDate": "2023-09-30",
+        "decision": "accepted",
+        "reviewerComments": "Interesting and thought-provoking."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385aff",
+        "researcherId": "researcher_10",
+        "publicationId": "publication_10",
+        "reviewText": "The paper lacks a coherent structure.",
+        "rating": 2,
+        "reviewDate": "2023-10-10",
+        "decision": "rejected",
+        "reviewerComments": "Improve the organization of content."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b00",
+        "researcherId": "researcher_11",
+        "publicationId": "publication_11",
+        "reviewText": "The study provides valuable insights into the topic.",
+        "rating": 4,
+        "reviewDate": "2023-05-18",
+        "decision": "accepted",
+        "reviewerComments": "Well-researched and informative."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b01",
+        "researcherId": "researcher_12",
+        "publicationId": "publication_12",
+        "reviewText": "The research design is flawed.",
+        "rating": 2,
+        "reviewDate": "2023-06-10",
+        "decision": "rejected",
+        "reviewerComments": "Consider revising the methodology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b02",
+        "researcherId": "researcher_13",
+        "publicationId": "publication_13",
+        "reviewText": "A comprehensive study with practical implications.",
+        "rating": 5,
+        "reviewDate": "2023-07-05",
+        "decision": "accepted",
+        "reviewerComments": "Excellent contribution to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b03",
+        "researcherId": "researcher_14",
+        "publicationId": "publication_14",
+        "reviewText": "The results are not statistically significant.",
+        "rating": 2,
+        "reviewDate": "2023-07-22",
+        "decision": "rejected",
+        "reviewerComments": "Reassess the statistical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b04",
+        "researcherId": "researcher_15",
+        "publicationId": "publication_15",
+        "reviewText": "The paper is insightful and well-argued.",
+        "rating": 4,
+        "reviewDate": "2023-08-08",
+        "decision": "accepted",
+        "reviewerComments": "Strong arguments and conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b05",
+        "researcherId": "researcher_16",
+        "publicationId": "publication_16",
+        "reviewText": "The literature review is insufficient.",
+        "rating": 3,
+        "reviewDate": "2023-08-20",
+        "decision": "minor revisions",
+        "reviewerComments": "Expand the literature review section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b06",
+        "researcherId": "researcher_17",
+        "publicationId": "publication_17",
+        "reviewText": "The paper offers a novel approach to the topic.",
+        "rating": 5,
+        "reviewDate": "2023-09-05",
+        "decision": "accepted",
+        "reviewerComments": "Innovative and well-executed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b07",
+        "researcherId": "researcher_18",
+        "publicationId": "publication_18",
+        "reviewText": "The analysis is superficial and lacks depth.",
+        "rating": 2,
+        "reviewDate": "2023-09-18",
+        "decision": "rejected",
+        "reviewerComments": "Enhance the depth of analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b08",
+        "researcherId": "researcher_19",
+        "publicationId": "publication_19",
+        "reviewText": "A well-researched paper with clear conclusions.",
+        "rating": 4,
+        "reviewDate": "2023-10-01",
+        "decision": "accepted",
+        "reviewerComments": "Clear and concise conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b09",
+        "researcherId": "researcher_20",
+        "publicationId": "publication_20",
+        "reviewText": "The paper lacks a clear objective.",
+        "rating": 2,
+        "reviewDate": "2023-10-12",
+        "decision": "rejected",
+        "reviewerComments": "Define a clear research objective."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b0a",
+        "researcherId": "researcher_21",
+        "publicationId": "publication_21",
+        "reviewText": "The study provides new insights into the field.",
+        "rating": 4,
+        "reviewDate": "2023-05-20",
+        "decision": "accepted",
+        "reviewerComments": "Valuable insights and contributions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b0b",
+        "researcherId": "researcher_22",
+        "publicationId": "publication_22",
+        "reviewText": "The methodology is not well-defined.",
+        "rating": 2,
+        "reviewDate": "2023-06-12",
+        "decision": "rejected",
+        "reviewerComments": "Clarify the research methodology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b0c",
+        "researcherId": "researcher_23",
+        "publicationId": "publication_23",
+        "reviewText": "An outstanding contribution to the literature.",
+        "rating": 5,
+        "reviewDate": "2023-07-08",
+        "decision": "accepted",
+        "reviewerComments": "Exceptional research and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b0d",
+        "researcherId": "researcher_24",
+        "publicationId": "publication_24",
+        "reviewText": "The paper is lacking in critical analysis.",
+        "rating": 2,
+        "reviewDate": "2023-07-25",
+        "decision": "rejected",
+        "reviewerComments": "Increase the level of critical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b0e",
+        "researcherId": "researcher_25",
+        "publicationId": "publication_25",
+        "reviewText": "A well-structured and thorough investigation.",
+        "rating": 4,
+        "reviewDate": "2023-08-10",
+        "decision": "accepted",
+        "reviewerComments": "Thorough and well-organized."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b0f",
+        "researcherId": "researcher_26",
+        "publicationId": "publication_26",
+        "reviewText": "The paper lacks originality.",
+        "rating": 3,
+        "reviewDate": "2023-08-22",
+        "decision": "minor revisions",
+        "reviewerComments": "Highlight the novel aspects of the study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b10",
+        "researcherId": "researcher_27",
+        "publicationId": "publication_27",
+        "reviewText": "The analysis is comprehensive and detailed.",
+        "rating": 5,
+        "reviewDate": "2023-09-07",
+        "decision": "accepted",
+        "reviewerComments": "Detailed and insightful analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b11",
+        "researcherId": "researcher_28",
+        "publicationId": "publication_28",
+        "reviewText": "The conclusions are not well-supported.",
+        "rating": 2,
+        "reviewDate": "2023-09-20",
+        "decision": "rejected",
+        "reviewerComments": "Strengthen the support for conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b12",
+        "researcherId": "researcher_29",
+        "publicationId": "publication_29",
+        "reviewText": "A unique contribution to the field.",
+        "rating": 4,
+        "reviewDate": "2023-10-03",
+        "decision": "accepted",
+        "reviewerComments": "Unique and valuable contribution."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b13",
+        "researcherId": "researcher_30",
+        "publicationId": "publication_30",
+        "reviewText": "The paper is poorly organized.",
+        "rating": 2,
+        "reviewDate": "2023-10-14",
+        "decision": "rejected",
+        "reviewerComments": "Improve the paper's organization."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b14",
+        "researcherId": "researcher_31",
+        "publicationId": "publication_31",
+        "reviewText": "The study provides a fresh perspective.",
+        "rating": 4,
+        "reviewDate": "2023-05-22",
+        "decision": "accepted",
+        "reviewerComments": "Fresh and interesting perspective."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b15",
+        "researcherId": "researcher_32",
+        "publicationId": "publication_32",
+        "reviewText": "The methodology is unclear.",
+        "rating": 2,
+        "reviewDate": "2023-06-14",
+        "decision": "rejected",
+        "reviewerComments": "Clarify the methodology used."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b16",
+        "researcherId": "researcher_33",
+        "publicationId": "publication_33",
+        "reviewText": "An excellent paper with significant findings.",
+        "rating": 5,
+        "reviewDate": "2023-07-10",
+        "decision": "accepted",
+        "reviewerComments": "Significant and well-presented findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b17",
+        "researcherId": "researcher_34",
+        "publicationId": "publication_34",
+        "reviewText": "The paper lacks critical engagement with the topic.",
+        "rating": 2,
+        "reviewDate": "2023-07-27",
+        "decision": "rejected",
+        "reviewerComments": "Engage more critically with the topic."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b18",
+        "researcherId": "researcher_35",
+        "publicationId": "publication_35",
+        "reviewText": "A thorough and insightful analysis.",
+        "rating": 4,
+        "reviewDate": "2023-08-12",
+        "decision": "accepted",
+        "reviewerComments": "Insightful and thorough analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b19",
+        "researcherId": "researcher_36",
+        "publicationId": "publication_36",
+        "reviewText": "The paper lacks novelty.",
+        "rating": 3,
+        "reviewDate": "2023-08-24",
+        "decision": "minor revisions",
+        "reviewerComments": "Emphasize the novel contributions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b1a",
+        "researcherId": "researcher_37",
+        "publicationId": "publication_37",
+        "reviewText": "The analysis is detailed and comprehensive.",
+        "rating": 5,
+        "reviewDate": "2023-09-09",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive and detailed analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b1b",
+        "researcherId": "researcher_38",
+        "publicationId": "publication_38",
+        "reviewText": "The conclusions are not supported by the data.",
+        "rating": 2,
+        "reviewDate": "2023-09-22",
+        "decision": "rejected",
+        "reviewerComments": "Provide data to support conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b1c",
+        "researcherId": "researcher_39",
+        "publicationId": "publication_39",
+        "reviewText": "A unique and valuable contribution.",
+        "rating": 4,
+        "reviewDate": "2023-10-05",
+        "decision": "accepted",
+        "reviewerComments": "Valuable and unique contribution."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b1d",
+        "researcherId": "researcher_40",
+        "publicationId": "publication_40",
+        "reviewText": "The paper is disorganized.",
+        "rating": 2,
+        "reviewDate": "2023-10-16",
+        "decision": "rejected",
+        "reviewerComments": "Improve the organization of the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b1e",
+        "researcherId": "researcher_41",
+        "publicationId": "publication_41",
+        "reviewText": "The study offers a fresh perspective.",
+        "rating": 4,
+        "reviewDate": "2023-05-24",
+        "decision": "accepted",
+        "reviewerComments": "Fresh and innovative perspective."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b1f",
+        "researcherId": "researcher_42",
+        "publicationId": "publication_42",
+        "reviewText": "The methodology is not clear.",
+        "rating": 2,
+        "reviewDate": "2023-06-16",
+        "decision": "rejected",
+        "reviewerComments": "Clarify the methodology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b20",
+        "researcherId": "researcher_43",
+        "publicationId": "publication_43",
+        "reviewText": "An exceptional paper with significant findings.",
+        "rating": 5,
+        "reviewDate": "2023-07-12",
+        "decision": "accepted",
+        "reviewerComments": "Significant and well-documented findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b21",
+        "researcherId": "researcher_44",
+        "publicationId": "publication_44",
+        "reviewText": "The paper lacks critical analysis.",
+        "rating": 2,
+        "reviewDate": "2023-07-29",
+        "decision": "rejected",
+        "reviewerComments": "Increase the level of critical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b22",
+        "researcherId": "researcher_45",
+        "publicationId": "publication_45",
+        "reviewText": "A thorough and detailed analysis.",
+        "rating": 4,
+        "reviewDate": "2023-08-14",
+        "decision": "accepted",
+        "reviewerComments": "Detailed and thorough analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b23",
+        "researcherId": "researcher_46",
+        "publicationId": "publication_46",
+        "reviewText": "The paper lacks originality.",
+        "rating": 3,
+        "reviewDate": "2023-08-26",
+        "decision": "minor revisions",
+        "reviewerComments": "Highlight the novel aspects."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b24",
+        "researcherId": "researcher_47",
+        "publicationId": "publication_47",
+        "reviewText": "The analysis is comprehensive and insightful.",
+        "rating": 5,
+        "reviewDate": "2023-09-11",
+        "decision": "accepted",
+        "reviewerComments": "Insightful and comprehensive analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b25",
+        "researcherId": "researcher_48",
+        "publicationId": "publication_48",
+        "reviewText": "The conclusions are not well-supported by data.",
+        "rating": 2,
+        "reviewDate": "2023-09-24",
+        "decision": "rejected",
+        "reviewerComments": "Provide data to support conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b26",
+        "researcherId": "researcher_49",
+        "publicationId": "publication_49",
+        "reviewText": "A unique and valuable contribution to the field.",
+        "rating": 4,
+        "reviewDate": "2023-10-07",
+        "decision": "accepted",
+        "reviewerComments": "Valuable and unique contribution."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b27",
+        "researcherId": "researcher_50",
+        "publicationId": "publication_50",
+        "reviewText": "The paper is poorly organized and lacks clarity.",
+        "rating": 2,
+        "reviewDate": "2023-10-18",
+        "decision": "rejected",
+        "reviewerComments": "Improve organization and clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b28",
+        "researcherId": "researcher_001",
+        "publicationId": "publication_001",
+        "reviewText": "This study provides insightful perspectives on renewable energy.",
+        "rating": 4,
+        "reviewDate": "2023-06-15",
+        "decision": "Accept",
+        "reviewerComments": "The methodology is robust and well-explained."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b29",
+        "researcherId": "researcher_002",
+        "publicationId": "publication_002",
+        "reviewText": "The paper lacks a detailed literature review.",
+        "rating": 2,
+        "reviewDate": "2023-07-02",
+        "decision": "Reject",
+        "reviewerComments": "Consider expanding the background section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b2a",
+        "researcherId": "researcher_003",
+        "publicationId": "publication_003",
+        "reviewText": "Innovative approach to data analysis in social sciences.",
+        "rating": 5,
+        "reviewDate": "2023-05-20",
+        "decision": "Accept",
+        "reviewerComments": "The results are clearly presented and discussed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b2b",
+        "researcherId": "researcher_004",
+        "publicationId": "publication_004",
+        "reviewText": "The conclusions are not well-supported by the data.",
+        "rating": 3,
+        "reviewDate": "2023-08-11",
+        "decision": "Revise",
+        "reviewerComments": "Strengthen the link between data and conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b2c",
+        "researcherId": "researcher_005",
+        "publicationId": "publication_005",
+        "reviewText": "Excellent synthesis of current trends in AI.",
+        "rating": 5,
+        "reviewDate": "2023-09-01",
+        "decision": "Accept",
+        "reviewerComments": "The paper is well-organized and easy to follow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b2d",
+        "researcherId": "researcher_006",
+        "publicationId": "publication_006",
+        "reviewText": "The statistical analysis needs more detail.",
+        "rating": 2,
+        "reviewDate": "2023-04-22",
+        "decision": "Reject",
+        "reviewerComments": "Provide additional information on the statistical methods used."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b2e",
+        "researcherId": "researcher_007",
+        "publicationId": "publication_007",
+        "reviewText": "A comprehensive review of climate change impacts.",
+        "rating": 4,
+        "reviewDate": "2023-03-18",
+        "decision": "Accept",
+        "reviewerComments": "The paper covers a wide range of relevant topics."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b2f",
+        "researcherId": "researcher_008",
+        "publicationId": "publication_008",
+        "reviewText": "The introduction is too brief and lacks context.",
+        "rating": 3,
+        "reviewDate": "2023-10-05",
+        "decision": "Revise",
+        "reviewerComments": "Expand the introduction to include more background information."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b30",
+        "researcherId": "researcher_009",
+        "publicationId": "publication_009",
+        "reviewText": "The findings are significant and well-documented.",
+        "rating": 5,
+        "reviewDate": "2023-02-14",
+        "decision": "Accept",
+        "reviewerComments": "The discussion section effectively interprets the results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b31",
+        "researcherId": "researcher_010",
+        "publicationId": "publication_010",
+        "reviewText": "The paper is well-written but lacks originality.",
+        "rating": 3,
+        "reviewDate": "2023-01-30",
+        "decision": "Revise",
+        "reviewerComments": "Consider highlighting unique contributions to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b32",
+        "researcherId": "researcher_011",
+        "publicationId": "publication_011",
+        "reviewText": "The research design is flawed and needs revision.",
+        "rating": 2,
+        "reviewDate": "2023-05-12",
+        "decision": "Reject",
+        "reviewerComments": "Re-evaluate the research design for better results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b33",
+        "researcherId": "researcher_012",
+        "publicationId": "publication_012",
+        "reviewText": "A thorough investigation into genetic algorithms.",
+        "rating": 4,
+        "reviewDate": "2023-06-25",
+        "decision": "Accept",
+        "reviewerComments": "The paper provides a clear explanation of complex concepts."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b34",
+        "researcherId": "researcher_013",
+        "publicationId": "publication_013",
+        "reviewText": "The data analysis section is incomplete.",
+        "rating": 2,
+        "reviewDate": "2023-07-19",
+        "decision": "Reject",
+        "reviewerComments": "Include a more detailed analysis of the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b35",
+        "researcherId": "researcher_014",
+        "publicationId": "publication_014",
+        "reviewText": "The paper addresses an important topic in public health.",
+        "rating": 4,
+        "reviewDate": "2023-08-07",
+        "decision": "Accept",
+        "reviewerComments": "The conclusions are well-supported by the evidence presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b36",
+        "researcherId": "researcher_015",
+        "publicationId": "publication_015",
+        "reviewText": "The literature review is comprehensive and informative.",
+        "rating": 5,
+        "reviewDate": "2023-09-10",
+        "decision": "Accept",
+        "reviewerComments": "The paper effectively synthesizes existing research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b37",
+        "researcherId": "researcher_016",
+        "publicationId": "publication_016",
+        "reviewText": "The results section is confusing and lacks clarity.",
+        "rating": 3,
+        "reviewDate": "2023-10-01",
+        "decision": "Revise",
+        "reviewerComments": "Clarify the presentation of results for better understanding."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b38",
+        "researcherId": "researcher_017",
+        "publicationId": "publication_017",
+        "reviewText": "The paper provides new insights into quantum computing.",
+        "rating": 5,
+        "reviewDate": "2023-03-05",
+        "decision": "Accept",
+        "reviewerComments": "The innovative approach is well-documented and justified."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b39",
+        "researcherId": "researcher_018",
+        "publicationId": "publication_018",
+        "reviewText": "The discussion lacks depth and critical analysis.",
+        "rating": 3,
+        "reviewDate": "2023-04-15",
+        "decision": "Revise",
+        "reviewerComments": "Enhance the discussion with more critical insights."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b3a",
+        "researcherId": "researcher_019",
+        "publicationId": "publication_019",
+        "reviewText": "The paper is well-structured and easy to read.",
+        "rating": 4,
+        "reviewDate": "2023-05-28",
+        "decision": "Accept",
+        "reviewerComments": "The flow of information is logical and coherent."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b3b",
+        "researcherId": "researcher_020",
+        "publicationId": "publication_020",
+        "reviewText": "The analysis is superficial and lacks depth.",
+        "rating": 2,
+        "reviewDate": "2023-06-18",
+        "decision": "Reject",
+        "reviewerComments": "Provide a more thorough analysis of the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b3c",
+        "researcherId": "researcher_021",
+        "publicationId": "publication_021",
+        "reviewText": "The study contributes significantly to the field of nanotechnology.",
+        "rating": 5,
+        "reviewDate": "2023-07-12",
+        "decision": "Accept",
+        "reviewerComments": "The findings are novel and well-presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b3d",
+        "researcherId": "researcher_022",
+        "publicationId": "publication_022",
+        "reviewText": "The paper lacks a clear research question.",
+        "rating": 2,
+        "reviewDate": "2023-08-21",
+        "decision": "Reject",
+        "reviewerComments": "Define the research question more clearly in the introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b3e",
+        "researcherId": "researcher_023",
+        "publicationId": "publication_023",
+        "reviewText": "The methodology is innovative and well-explained.",
+        "rating": 4,
+        "reviewDate": "2023-09-23",
+        "decision": "Accept",
+        "reviewerComments": "The approach is novel and adds value to the research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b3f",
+        "researcherId": "researcher_024",
+        "publicationId": "publication_024",
+        "reviewText": "The results are not statistically significant.",
+        "rating": 3,
+        "reviewDate": "2023-10-09",
+        "decision": "Revise",
+        "reviewerComments": "Consider revising the analysis to improve significance."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b40",
+        "researcherId": "researcher_025",
+        "publicationId": "publication_025",
+        "reviewText": "The paper provides a solid foundation for future research.",
+        "rating": 4,
+        "reviewDate": "2023-01-05",
+        "decision": "Accept",
+        "reviewerComments": "The research is well-grounded and forward-looking."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b41",
+        "researcherId": "researcher_026",
+        "publicationId": "publication_026",
+        "reviewText": "The introduction is engaging and informative.",
+        "rating": 5,
+        "reviewDate": "2023-02-22",
+        "decision": "Accept",
+        "reviewerComments": "The background information is well-researched and presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b42",
+        "researcherId": "researcher_027",
+        "publicationId": "publication_027",
+        "reviewText": "The paper fails to address key issues in the field.",
+        "rating": 2,
+        "reviewDate": "2023-03-14",
+        "decision": "Reject",
+        "reviewerComments": "Identify and address the main issues relevant to the topic."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b43",
+        "researcherId": "researcher_028",
+        "publicationId": "publication_028",
+        "reviewText": "The research is timely and relevant to current events.",
+        "rating": 4,
+        "reviewDate": "2023-04-08",
+        "decision": "Accept",
+        "reviewerComments": "The paper effectively links research to current global trends."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b44",
+        "researcherId": "researcher_029",
+        "publicationId": "publication_029",
+        "reviewText": "The data collection methods are not clearly described.",
+        "rating": 3,
+        "reviewDate": "2023-05-16",
+        "decision": "Revise",
+        "reviewerComments": "Provide a more detailed description of the data collection process."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b45",
+        "researcherId": "researcher_030",
+        "publicationId": "publication_030",
+        "reviewText": "The paper is a valuable addition to the literature on robotics.",
+        "rating": 5,
+        "reviewDate": "2023-06-30",
+        "decision": "Accept",
+        "reviewerComments": "The research is innovative and well-documented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b46",
+        "researcherId": "researcher_031",
+        "publicationId": "publication_031",
+        "reviewText": "The analysis is well-executed and insightful.",
+        "rating": 4,
+        "reviewDate": "2023-07-25",
+        "decision": "Accept",
+        "reviewerComments": "The insights derived from the analysis are valuable."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b47",
+        "researcherId": "researcher_032",
+        "publicationId": "publication_032",
+        "reviewText": "The paper is difficult to follow due to poor structure.",
+        "rating": 2,
+        "reviewDate": "2023-08-13",
+        "decision": "Reject",
+        "reviewerComments": "Reorganize the paper for better clarity and flow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b48",
+        "researcherId": "researcher_033",
+        "publicationId": "publication_033",
+        "reviewText": "The research offers a fresh perspective on urban planning.",
+        "rating": 5,
+        "reviewDate": "2023-09-18",
+        "decision": "Accept",
+        "reviewerComments": "The paper introduces new concepts that are well-supported."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b49",
+        "researcherId": "researcher_034",
+        "publicationId": "publication_034",
+        "reviewText": "The conclusions are not well-justified by the findings.",
+        "rating": 3,
+        "reviewDate": "2023-10-03",
+        "decision": "Revise",
+        "reviewerComments": "Strengthen the link between findings and conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b4a",
+        "researcherId": "researcher_035",
+        "publicationId": "publication_035",
+        "reviewText": "The paper is well-researched and thoroughly documented.",
+        "rating": 5,
+        "reviewDate": "2023-01-20",
+        "decision": "Accept",
+        "reviewerComments": "The documentation and references are comprehensive."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b4b",
+        "researcherId": "researcher_036",
+        "publicationId": "publication_036",
+        "reviewText": "The study lacks a clear theoretical framework.",
+        "rating": 2,
+        "reviewDate": "2023-02-10",
+        "decision": "Reject",
+        "reviewerComments": "Develop a clearer theoretical framework to guide the study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b4c",
+        "researcherId": "researcher_037",
+        "publicationId": "publication_037",
+        "reviewText": "The paper provides a detailed analysis of economic trends.",
+        "rating": 4,
+        "reviewDate": "2023-03-22",
+        "decision": "Accept",
+        "reviewerComments": "The analysis is comprehensive and well-supported by data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b4d",
+        "researcherId": "researcher_038",
+        "publicationId": "publication_038",
+        "reviewText": "The research design is innovative and well-executed.",
+        "rating": 5,
+        "reviewDate": "2023-04-30",
+        "decision": "Accept",
+        "reviewerComments": "The design is novel and effectively addresses the research question."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b4e",
+        "researcherId": "researcher_039",
+        "publicationId": "publication_039",
+        "reviewText": "The paper lacks a clear focus and direction.",
+        "rating": 2,
+        "reviewDate": "2023-05-08",
+        "decision": "Reject",
+        "reviewerComments": "Refocus the paper to provide a clearer direction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b4f",
+        "researcherId": "researcher_040",
+        "publicationId": "publication_040",
+        "reviewText": "The findings are significant and contribute to the field.",
+        "rating": 4,
+        "reviewDate": "2023-06-21",
+        "decision": "Accept",
+        "reviewerComments": "The contributions are well-articulated and valuable."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b50",
+        "researcherId": "researcher_041",
+        "publicationId": "publication_041",
+        "reviewText": "The paper is overly technical and difficult to understand.",
+        "rating": 3,
+        "reviewDate": "2023-07-03",
+        "decision": "Revise",
+        "reviewerComments": "Simplify the language for a broader audience."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b51",
+        "researcherId": "researcher_042",
+        "publicationId": "publication_042",
+        "reviewText": "The research addresses a gap in the literature on biodiversity.",
+        "rating": 5,
+        "reviewDate": "2023-08-14",
+        "decision": "Accept",
+        "reviewerComments": "The study fills an important gap and is well-executed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b52",
+        "researcherId": "researcher_043",
+        "publicationId": "publication_043",
+        "reviewText": "The methodology is not clearly described.",
+        "rating": 2,
+        "reviewDate": "2023-09-06",
+        "decision": "Reject",
+        "reviewerComments": "Provide a more detailed description of the methodology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b53",
+        "researcherId": "researcher_044",
+        "publicationId": "publication_044",
+        "reviewText": "The paper offers a new perspective on renewable resources.",
+        "rating": 4,
+        "reviewDate": "2023-10-12",
+        "decision": "Accept",
+        "reviewerComments": "The perspective is unique and well-argued."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b54",
+        "researcherId": "researcher_045",
+        "publicationId": "publication_045",
+        "reviewText": "The paper lacks sufficient data to support the conclusions.",
+        "rating": 3,
+        "reviewDate": "2023-01-11",
+        "decision": "Revise",
+        "reviewerComments": "Include more data to strengthen the conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b55",
+        "researcherId": "researcher_046",
+        "publicationId": "publication_046",
+        "reviewText": "The study is well-conducted and the results are clear.",
+        "rating": 5,
+        "reviewDate": "2023-02-19",
+        "decision": "Accept",
+        "reviewerComments": "The clarity of the results enhances the paper's impact."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b56",
+        "researcherId": "researcher_047",
+        "publicationId": "publication_047",
+        "reviewText": "The literature review is outdated and needs updating.",
+        "rating": 2,
+        "reviewDate": "2023-03-27",
+        "decision": "Reject",
+        "reviewerComments": "Update the literature review to include recent studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b57",
+        "researcherId": "researcher_048",
+        "publicationId": "publication_048",
+        "reviewText": "The paper is a significant contribution to the field of AI ethics.",
+        "rating": 5,
+        "reviewDate": "2023-04-17",
+        "decision": "Accept",
+        "reviewerComments": "The ethical considerations are well-explored and relevant."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b58",
+        "researcherId": "researcher_049",
+        "publicationId": "publication_049",
+        "reviewText": "The analysis is thorough but the conclusions are weak.",
+        "rating": 3,
+        "reviewDate": "2023-05-04",
+        "decision": "Revise",
+        "reviewerComments": "Strengthen the conclusions to reflect the analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b59",
+        "researcherId": "researcher_050",
+        "publicationId": "publication_050",
+        "reviewText": "The paper is well-written and the arguments are persuasive.",
+        "rating": 4,
+        "reviewDate": "2023-06-10",
+        "decision": "Accept",
+        "reviewerComments": "The arguments are well-supported by evidence."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b5a",
+        "researcherId": "researcher_001",
+        "publicationId": "publication_101",
+        "reviewText": "The methodology is robust and well-documented.",
+        "rating": 4,
+        "reviewDate": "2023-01-15",
+        "decision": "accept",
+        "reviewerComments": "Consider adding more recent references."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b5b",
+        "researcherId": "researcher_002",
+        "publicationId": "publication_102",
+        "reviewText": "The results are promising but require further validation.",
+        "rating": 3,
+        "reviewDate": "2023-02-10",
+        "decision": "revise",
+        "reviewerComments": "Please clarify the statistical analysis used."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b5c",
+        "researcherId": "researcher_003",
+        "publicationId": "publication_103",
+        "reviewText": "The paper lacks a clear hypothesis.",
+        "rating": 2,
+        "reviewDate": "2023-03-05",
+        "decision": "reject",
+        "reviewerComments": "The introduction needs significant improvement."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b5d",
+        "researcherId": "researcher_004",
+        "publicationId": "publication_104",
+        "reviewText": "Excellent research with significant implications.",
+        "rating": 5,
+        "reviewDate": "2023-04-12",
+        "decision": "accept",
+        "reviewerComments": "Well-written and comprehensive."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b5e",
+        "researcherId": "researcher_005",
+        "publicationId": "publication_105",
+        "reviewText": "The discussion section is weak and needs more depth.",
+        "rating": 3,
+        "reviewDate": "2023-05-20",
+        "decision": "revise",
+        "reviewerComments": "Expand on the implications of your findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b5f",
+        "researcherId": "researcher_006",
+        "publicationId": "publication_106",
+        "reviewText": "The paper is well-structured and informative.",
+        "rating": 4,
+        "reviewDate": "2023-06-15",
+        "decision": "accept",
+        "reviewerComments": "Consider providing more examples to support your arguments."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b60",
+        "researcherId": "researcher_007",
+        "publicationId": "publication_107",
+        "reviewText": "The literature review is comprehensive.",
+        "rating": 4,
+        "reviewDate": "2023-07-10",
+        "decision": "accept",
+        "reviewerComments": "The paper could benefit from a stronger conclusion."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b61",
+        "researcherId": "researcher_008",
+        "publicationId": "publication_108",
+        "reviewText": "The study design is innovative but has some flaws.",
+        "rating": 3,
+        "reviewDate": "2023-08-05",
+        "decision": "revise",
+        "reviewerComments": "Address the limitations mentioned in the discussion."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b62",
+        "researcherId": "researcher_009",
+        "publicationId": "publication_109",
+        "reviewText": "The abstract does not accurately reflect the content.",
+        "rating": 2,
+        "reviewDate": "2023-09-02",
+        "decision": "reject",
+        "reviewerComments": "Revise the abstract to better summarize the study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b63",
+        "researcherId": "researcher_010",
+        "publicationId": "publication_110",
+        "reviewText": "The findings are significant and well-presented.",
+        "rating": 5,
+        "reviewDate": "2023-10-01",
+        "decision": "accept",
+        "reviewerComments": "Great contribution to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b64",
+        "researcherId": "researcher_011",
+        "publicationId": "publication_111",
+        "reviewText": "The introduction is too lengthy.",
+        "rating": 3,
+        "reviewDate": "2023-01-18",
+        "decision": "revise",
+        "reviewerComments": "Consider condensing the introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b65",
+        "researcherId": "researcher_012",
+        "publicationId": "publication_112",
+        "reviewText": "The paper is difficult to follow due to complex language.",
+        "rating": 2,
+        "reviewDate": "2023-02-14",
+        "decision": "reject",
+        "reviewerComments": "Simplify the language for better comprehension."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b66",
+        "researcherId": "researcher_013",
+        "publicationId": "publication_113",
+        "reviewText": "The research addresses a critical gap in the literature.",
+        "rating": 4,
+        "reviewDate": "2023-03-12",
+        "decision": "accept",
+        "reviewerComments": "Ensure all references are up-to-date."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b67",
+        "researcherId": "researcher_014",
+        "publicationId": "publication_114",
+        "reviewText": "The conclusions are not fully supported by the data.",
+        "rating": 3,
+        "reviewDate": "2023-04-18",
+        "decision": "revise",
+        "reviewerComments": "Provide more evidence to support your conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b68",
+        "researcherId": "researcher_015",
+        "publicationId": "publication_115",
+        "reviewText": "The figures and tables are clear and informative.",
+        "rating": 4,
+        "reviewDate": "2023-05-25",
+        "decision": "accept",
+        "reviewerComments": "Consider adding a table of contents for easier navigation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b69",
+        "researcherId": "researcher_016",
+        "publicationId": "publication_116",
+        "reviewText": "The paper lacks a clear focus.",
+        "rating": 2,
+        "reviewDate": "2023-06-20",
+        "decision": "reject",
+        "reviewerComments": "Refine the focus of the study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b6a",
+        "researcherId": "researcher_017",
+        "publicationId": "publication_117",
+        "reviewText": "The experimental design is sound and well-executed.",
+        "rating": 5,
+        "reviewDate": "2023-07-15",
+        "decision": "accept",
+        "reviewerComments": "Excellent work on the experimental setup."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b6b",
+        "researcherId": "researcher_018",
+        "publicationId": "publication_118",
+        "reviewText": "The data analysis is thorough and well-explained.",
+        "rating": 4,
+        "reviewDate": "2023-08-10",
+        "decision": "accept",
+        "reviewerComments": "Consider discussing potential biases in the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b6c",
+        "researcherId": "researcher_019",
+        "publicationId": "publication_119",
+        "reviewText": "The paper is too technical for the intended audience.",
+        "rating": 3,
+        "reviewDate": "2023-09-07",
+        "decision": "revise",
+        "reviewerComments": "Simplify complex sections for better understanding."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b6d",
+        "researcherId": "researcher_020",
+        "publicationId": "publication_120",
+        "reviewText": "The paper provides a novel approach to the problem.",
+        "rating": 5,
+        "reviewDate": "2023-10-04",
+        "decision": "accept",
+        "reviewerComments": "Innovative and well-researched."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b6e",
+        "researcherId": "researcher_021",
+        "publicationId": "publication_121",
+        "reviewText": "The references are outdated.",
+        "rating": 2,
+        "reviewDate": "2023-01-22",
+        "decision": "reject",
+        "reviewerComments": "Update the references to include recent studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b6f",
+        "researcherId": "researcher_022",
+        "publicationId": "publication_122",
+        "reviewText": "The paper is concise and to the point.",
+        "rating": 4,
+        "reviewDate": "2023-02-18",
+        "decision": "accept",
+        "reviewerComments": "Good job on maintaining clarity and brevity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b70",
+        "researcherId": "researcher_023",
+        "publicationId": "publication_123",
+        "reviewText": "The paper lacks sufficient background information.",
+        "rating": 3,
+        "reviewDate": "2023-03-15",
+        "decision": "revise",
+        "reviewerComments": "Include more background to set the context."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b71",
+        "researcherId": "researcher_024",
+        "publicationId": "publication_124",
+        "reviewText": "The statistical methods used are appropriate.",
+        "rating": 4,
+        "reviewDate": "2023-04-22",
+        "decision": "accept",
+        "reviewerComments": "Ensure all statistical terms are defined."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b72",
+        "researcherId": "researcher_025",
+        "publicationId": "publication_125",
+        "reviewText": "The paper is poorly organized.",
+        "rating": 2,
+        "reviewDate": "2023-05-28",
+        "decision": "reject",
+        "reviewerComments": "Reorganize the sections for better flow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b73",
+        "researcherId": "researcher_026",
+        "publicationId": "publication_126",
+        "reviewText": "The research question is well-defined.",
+        "rating": 5,
+        "reviewDate": "2023-06-23",
+        "decision": "accept",
+        "reviewerComments": "Clear and focused research question."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b74",
+        "researcherId": "researcher_027",
+        "publicationId": "publication_127",
+        "reviewText": "The paper is too lengthy and verbose.",
+        "rating": 3,
+        "reviewDate": "2023-07-18",
+        "decision": "revise",
+        "reviewerComments": "Condense the content to improve readability."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b75",
+        "researcherId": "researcher_028",
+        "publicationId": "publication_128",
+        "reviewText": "The conclusions are well-supported by the data.",
+        "rating": 4,
+        "reviewDate": "2023-08-13",
+        "decision": "accept",
+        "reviewerComments": "Strong support for the conclusions drawn."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b76",
+        "researcherId": "researcher_029",
+        "publicationId": "publication_129",
+        "reviewText": "The paper lacks originality.",
+        "rating": 2,
+        "reviewDate": "2023-09-09",
+        "decision": "reject",
+        "reviewerComments": "Introduce new insights or perspectives."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b77",
+        "researcherId": "researcher_030",
+        "publicationId": "publication_130",
+        "reviewText": "The paper addresses an important issue.",
+        "rating": 5,
+        "reviewDate": "2023-10-06",
+        "decision": "accept",
+        "reviewerComments": "Timely and relevant research."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b78",
+        "researcherId": "researcher_031",
+        "publicationId": "publication_131",
+        "reviewText": "The methodology is not clearly explained.",
+        "rating": 3,
+        "reviewDate": "2023-01-25",
+        "decision": "revise",
+        "reviewerComments": "Provide a detailed explanation of the methods used."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b79",
+        "researcherId": "researcher_032",
+        "publicationId": "publication_132",
+        "reviewText": "The paper is well-written and engaging.",
+        "rating": 4,
+        "reviewDate": "2023-02-21",
+        "decision": "accept",
+        "reviewerComments": "Good narrative style and presentation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b7a",
+        "researcherId": "researcher_033",
+        "publicationId": "publication_133",
+        "reviewText": "The paper needs more data to support the claims.",
+        "rating": 3,
+        "reviewDate": "2023-03-18",
+        "decision": "revise",
+        "reviewerComments": "Include additional data to strengthen the arguments."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b7b",
+        "researcherId": "researcher_034",
+        "publicationId": "publication_134",
+        "reviewText": "The analysis is insightful and comprehensive.",
+        "rating": 5,
+        "reviewDate": "2023-04-25",
+        "decision": "accept",
+        "reviewerComments": "Excellent analysis and interpretation of results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b7c",
+        "researcherId": "researcher_035",
+        "publicationId": "publication_135",
+        "reviewText": "The paper lacks a clear conclusion.",
+        "rating": 2,
+        "reviewDate": "2023-05-30",
+        "decision": "reject",
+        "reviewerComments": "Provide a concise and clear conclusion."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b7d",
+        "researcherId": "researcher_036",
+        "publicationId": "publication_136",
+        "reviewText": "The introduction sets the stage well for the study.",
+        "rating": 4,
+        "reviewDate": "2023-06-26",
+        "decision": "accept",
+        "reviewerComments": "Strong introduction that captures the reader's interest."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b7e",
+        "researcherId": "researcher_037",
+        "publicationId": "publication_137",
+        "reviewText": "The paper is too technical for a general audience.",
+        "rating": 3,
+        "reviewDate": "2023-07-21",
+        "decision": "revise",
+        "reviewerComments": "Simplify the technical jargon for broader readership."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b7f",
+        "researcherId": "researcher_038",
+        "publicationId": "publication_138",
+        "reviewText": "The research is groundbreaking and well-conducted.",
+        "rating": 5,
+        "reviewDate": "2023-08-16",
+        "decision": "accept",
+        "reviewerComments": "Outstanding contribution to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b80",
+        "researcherId": "researcher_039",
+        "publicationId": "publication_139",
+        "reviewText": "The paper is poorly written and hard to follow.",
+        "rating": 2,
+        "reviewDate": "2023-09-12",
+        "decision": "reject",
+        "reviewerComments": "Improve the writing style for better clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b81",
+        "researcherId": "researcher_040",
+        "publicationId": "publication_140",
+        "reviewText": "The paper provides a detailed analysis of the topic.",
+        "rating": 4,
+        "reviewDate": "2023-10-09",
+        "decision": "accept",
+        "reviewerComments": "Comprehensive and well-detailed analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b82",
+        "researcherId": "researcher_041",
+        "publicationId": "publication_141",
+        "reviewText": "The paper lacks significant findings.",
+        "rating": 2,
+        "reviewDate": "2023-01-28",
+        "decision": "reject",
+        "reviewerComments": "Focus on presenting more significant results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b83",
+        "researcherId": "researcher_042",
+        "publicationId": "publication_142",
+        "reviewText": "The paper is well-balanced and informative.",
+        "rating": 4,
+        "reviewDate": "2023-02-24",
+        "decision": "accept",
+        "reviewerComments": "Good balance between theory and application."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b84",
+        "researcherId": "researcher_043",
+        "publicationId": "publication_143",
+        "reviewText": "The paper needs more theoretical background.",
+        "rating": 3,
+        "reviewDate": "2023-03-21",
+        "decision": "revise",
+        "reviewerComments": "Expand on the theoretical framework."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b85",
+        "researcherId": "researcher_044",
+        "publicationId": "publication_144",
+        "reviewText": "The study is well-executed and the results are clear.",
+        "rating": 5,
+        "reviewDate": "2023-04-28",
+        "decision": "accept",
+        "reviewerComments": "Excellent execution and clarity in results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b86",
+        "researcherId": "researcher_045",
+        "publicationId": "publication_145",
+        "reviewText": "The paper is too short and lacks depth.",
+        "rating": 2,
+        "reviewDate": "2023-05-31",
+        "decision": "reject",
+        "reviewerComments": "Expand on the key points for more depth."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b87",
+        "researcherId": "researcher_046",
+        "publicationId": "publication_146",
+        "reviewText": "The paper is well-organized and easy to read.",
+        "rating": 4,
+        "reviewDate": "2023-06-28",
+        "decision": "accept",
+        "reviewerComments": "Good organization and readability."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b88",
+        "researcherId": "researcher_047",
+        "publicationId": "publication_147",
+        "reviewText": "The paper needs more examples to illustrate points.",
+        "rating": 3,
+        "reviewDate": "2023-07-23",
+        "decision": "revise",
+        "reviewerComments": "Include more examples to clarify points."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b89",
+        "researcherId": "researcher_048",
+        "publicationId": "publication_148",
+        "reviewText": "The paper provides a fresh perspective on the topic.",
+        "rating": 5,
+        "reviewDate": "2023-08-19",
+        "decision": "accept",
+        "reviewerComments": "Innovative perspective and well-argued."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b8a",
+        "researcherId": "researcher_049",
+        "publicationId": "publication_149",
+        "reviewText": "The paper is repetitive and lacks focus.",
+        "rating": 2,
+        "reviewDate": "2023-09-15",
+        "decision": "reject",
+        "reviewerComments": "Eliminate repetition and maintain focus."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b8b",
+        "researcherId": "researcher_050",
+        "publicationId": "publication_150",
+        "reviewText": "The paper is comprehensive and well-researched.",
+        "rating": 5,
+        "reviewDate": "2023-10-11",
+        "decision": "accept",
+        "reviewerComments": "Thorough research and comprehensive coverage of the topic."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b8c",
+        "researcherId": "researcher_01",
+        "publicationId": "publication_01",
+        "reviewText": "The methodology is sound but lacks depth in analysis.",
+        "rating": 3,
+        "reviewDate": "2023-01-15",
+        "decision": "Minor Revision",
+        "reviewerComments": "Consider expanding the analysis section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b8d",
+        "researcherId": "researcher_02",
+        "publicationId": "publication_02",
+        "reviewText": "A comprehensive study with significant findings.",
+        "rating": 5,
+        "reviewDate": "2023-02-10",
+        "decision": "Accept",
+        "reviewerComments": "No major issues found."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b8e",
+        "researcherId": "researcher_03",
+        "publicationId": "publication_03",
+        "reviewText": "The introduction is well-written, but the results section is unclear.",
+        "rating": 2,
+        "reviewDate": "2023-03-05",
+        "decision": "Major Revision",
+        "reviewerComments": "Clarify the results section for better understanding."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b8f",
+        "researcherId": "researcher_04",
+        "publicationId": "publication_04",
+        "reviewText": "Innovative approach with potential applications.",
+        "rating": 4,
+        "reviewDate": "2023-04-01",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Minor formatting issues need correction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b90",
+        "researcherId": "researcher_05",
+        "publicationId": "publication_05",
+        "reviewText": "The paper lacks a clear hypothesis.",
+        "rating": 1,
+        "reviewDate": "2023-05-12",
+        "decision": "Reject",
+        "reviewerComments": "Develop a clear hypothesis and resubmit."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b91",
+        "researcherId": "researcher_06",
+        "publicationId": "publication_06",
+        "reviewText": "Excellent literature review and discussion.",
+        "rating": 5,
+        "reviewDate": "2023-06-20",
+        "decision": "Accept",
+        "reviewerComments": "Well-structured and insightful."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b92",
+        "researcherId": "researcher_07",
+        "publicationId": "publication_07",
+        "reviewText": "Data collection methods are not adequately described.",
+        "rating": 2,
+        "reviewDate": "2023-07-15",
+        "decision": "Major Revision",
+        "reviewerComments": "Provide detailed data collection methods."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b93",
+        "researcherId": "researcher_08",
+        "publicationId": "publication_08",
+        "reviewText": "The research question is original and well-addressed.",
+        "rating": 4,
+        "reviewDate": "2023-08-05",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Minor grammatical errors need correction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b94",
+        "researcherId": "researcher_09",
+        "publicationId": "publication_09",
+        "reviewText": "The statistical analysis is flawed.",
+        "rating": 1,
+        "reviewDate": "2023-09-10",
+        "decision": "Reject",
+        "reviewerComments": "Review and correct the statistical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b95",
+        "researcherId": "researcher_10",
+        "publicationId": "publication_10",
+        "reviewText": "A well-rounded paper with clear conclusions.",
+        "rating": 5,
+        "reviewDate": "2023-10-01",
+        "decision": "Accept",
+        "reviewerComments": "Thorough and well-presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b96",
+        "researcherId": "researcher_11",
+        "publicationId": "publication_11",
+        "reviewText": "The abstract does not summarize the paper effectively.",
+        "rating": 2,
+        "reviewDate": "2023-01-20",
+        "decision": "Major Revision",
+        "reviewerComments": "Rewrite the abstract for clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b97",
+        "researcherId": "researcher_12",
+        "publicationId": "publication_12",
+        "reviewText": "The paper presents new insights into the topic.",
+        "rating": 4,
+        "reviewDate": "2023-02-15",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Include more recent references."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b98",
+        "researcherId": "researcher_13",
+        "publicationId": "publication_13",
+        "reviewText": "The figures are not clear and need improvement.",
+        "rating": 3,
+        "reviewDate": "2023-03-10",
+        "decision": "Minor Revision",
+        "reviewerComments": "Improve the quality of the figures."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b99",
+        "researcherId": "researcher_14",
+        "publicationId": "publication_14",
+        "reviewText": "The conclusion is not supported by the data.",
+        "rating": 1,
+        "reviewDate": "2023-04-05",
+        "decision": "Reject",
+        "reviewerComments": "Re-evaluate the conclusion based on the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b9a",
+        "researcherId": "researcher_15",
+        "publicationId": "publication_15",
+        "reviewText": "The study design is robust and well-executed.",
+        "rating": 5,
+        "reviewDate": "2023-05-01",
+        "decision": "Accept",
+        "reviewerComments": "Excellent study design and execution."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b9b",
+        "researcherId": "researcher_16",
+        "publicationId": "publication_16",
+        "reviewText": "The paper lacks a critical review of related work.",
+        "rating": 2,
+        "reviewDate": "2023-06-10",
+        "decision": "Major Revision",
+        "reviewerComments": "Include a comprehensive review of related work."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b9c",
+        "researcherId": "researcher_17",
+        "publicationId": "publication_17",
+        "reviewText": "The findings are significant and well-presented.",
+        "rating": 4,
+        "reviewDate": "2023-07-05",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Consider adding a discussion on limitations."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b9d",
+        "researcherId": "researcher_18",
+        "publicationId": "publication_18",
+        "reviewText": "The paper is well-organized but too lengthy.",
+        "rating": 3,
+        "reviewDate": "2023-08-01",
+        "decision": "Minor Revision",
+        "reviewerComments": "Consider condensing the content for brevity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b9e",
+        "researcherId": "researcher_19",
+        "publicationId": "publication_19",
+        "reviewText": "The hypothesis is not clearly stated.",
+        "rating": 1,
+        "reviewDate": "2023-09-15",
+        "decision": "Reject",
+        "reviewerComments": "Clearly state the hypothesis and resubmit."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385b9f",
+        "researcherId": "researcher_20",
+        "publicationId": "publication_20",
+        "reviewText": "A well-researched paper with practical implications.",
+        "rating": 5,
+        "reviewDate": "2023-10-10",
+        "decision": "Accept",
+        "reviewerComments": "Practical implications are well-discussed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba0",
+        "researcherId": "researcher_21",
+        "publicationId": "publication_21",
+        "reviewText": "The abstract is too vague.",
+        "rating": 2,
+        "reviewDate": "2023-01-25",
+        "decision": "Major Revision",
+        "reviewerComments": "Provide a more detailed abstract."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba1",
+        "researcherId": "researcher_22",
+        "publicationId": "publication_22",
+        "reviewText": "The paper contributes significantly to the field.",
+        "rating": 4,
+        "reviewDate": "2023-02-20",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Minor revisions recommended for clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba2",
+        "researcherId": "researcher_23",
+        "publicationId": "publication_23",
+        "reviewText": "The discussion section is weak and needs strengthening.",
+        "rating": 3,
+        "reviewDate": "2023-03-15",
+        "decision": "Minor Revision",
+        "reviewerComments": "Strengthen the discussion section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba3",
+        "researcherId": "researcher_24",
+        "publicationId": "publication_24",
+        "reviewText": "The paper lacks originality.",
+        "rating": 1,
+        "reviewDate": "2023-04-10",
+        "decision": "Reject",
+        "reviewerComments": "Provide original insights or findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba4",
+        "researcherId": "researcher_25",
+        "publicationId": "publication_25",
+        "reviewText": "The research is innovative and well-executed.",
+        "rating": 5,
+        "reviewDate": "2023-05-05",
+        "decision": "Accept",
+        "reviewerComments": "Innovative research with excellent execution."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba5",
+        "researcherId": "researcher_26",
+        "publicationId": "publication_26",
+        "reviewText": "The results are not clearly presented.",
+        "rating": 2,
+        "reviewDate": "2023-06-01",
+        "decision": "Major Revision",
+        "reviewerComments": "Clarify the presentation of results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba6",
+        "researcherId": "researcher_27",
+        "publicationId": "publication_27",
+        "reviewText": "The paper provides valuable insights into the topic.",
+        "rating": 4,
+        "reviewDate": "2023-07-10",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Valuable insights with minor revisions needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba7",
+        "researcherId": "researcher_28",
+        "publicationId": "publication_28",
+        "reviewText": "The methodology is not adequately explained.",
+        "rating": 3,
+        "reviewDate": "2023-08-15",
+        "decision": "Minor Revision",
+        "reviewerComments": "Provide a detailed explanation of the methodology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba8",
+        "researcherId": "researcher_29",
+        "publicationId": "publication_29",
+        "reviewText": "The paper lacks a clear focus.",
+        "rating": 1,
+        "reviewDate": "2023-09-05",
+        "decision": "Reject",
+        "reviewerComments": "Refocus the paper and resubmit."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385ba9",
+        "researcherId": "researcher_30",
+        "publicationId": "publication_30",
+        "reviewText": "The research is thorough and well-documented.",
+        "rating": 5,
+        "reviewDate": "2023-10-15",
+        "decision": "Accept",
+        "reviewerComments": "Thorough research and well-documented findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385baa",
+        "researcherId": "researcher_31",
+        "publicationId": "publication_31",
+        "reviewText": "The introduction is too lengthy.",
+        "rating": 2,
+        "reviewDate": "2023-01-30",
+        "decision": "Major Revision",
+        "reviewerComments": "Condense the introduction for clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bab",
+        "researcherId": "researcher_32",
+        "publicationId": "publication_32",
+        "reviewText": "The paper makes a significant contribution to the field.",
+        "rating": 4,
+        "reviewDate": "2023-02-25",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Significant contribution with minor revisions needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bac",
+        "researcherId": "researcher_33",
+        "publicationId": "publication_33",
+        "reviewText": "The analysis is not comprehensive.",
+        "rating": 3,
+        "reviewDate": "2023-03-20",
+        "decision": "Minor Revision",
+        "reviewerComments": "Provide a more comprehensive analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bad",
+        "researcherId": "researcher_34",
+        "publicationId": "publication_34",
+        "reviewText": "The paper is not well-structured.",
+        "rating": 1,
+        "reviewDate": "2023-04-15",
+        "decision": "Reject",
+        "reviewerComments": "Improve the structure and resubmit."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bae",
+        "researcherId": "researcher_35",
+        "publicationId": "publication_35",
+        "reviewText": "The research is innovative and well-presented.",
+        "rating": 5,
+        "reviewDate": "2023-05-10",
+        "decision": "Accept",
+        "reviewerComments": "Innovative research with excellent presentation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385baf",
+        "researcherId": "researcher_36",
+        "publicationId": "publication_36",
+        "reviewText": "The results section is not detailed enough.",
+        "rating": 2,
+        "reviewDate": "2023-06-05",
+        "decision": "Major Revision",
+        "reviewerComments": "Provide more details in the results section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb0",
+        "researcherId": "researcher_37",
+        "publicationId": "publication_37",
+        "reviewText": "The paper provides valuable insights into the field.",
+        "rating": 4,
+        "reviewDate": "2023-07-01",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Valuable insights with minor revisions needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb1",
+        "researcherId": "researcher_38",
+        "publicationId": "publication_38",
+        "reviewText": "The methodology is not clearly explained.",
+        "rating": 3,
+        "reviewDate": "2023-08-20",
+        "decision": "Minor Revision",
+        "reviewerComments": "Clarify the methodology for better understanding."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb2",
+        "researcherId": "researcher_39",
+        "publicationId": "publication_39",
+        "reviewText": "The paper lacks a clear research question.",
+        "rating": 1,
+        "reviewDate": "2023-09-25",
+        "decision": "Reject",
+        "reviewerComments": "Define a clear research question and resubmit."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb3",
+        "researcherId": "researcher_40",
+        "publicationId": "publication_40",
+        "reviewText": "The research is thorough and well-documented.",
+        "rating": 5,
+        "reviewDate": "2023-10-20",
+        "decision": "Accept",
+        "reviewerComments": "Thorough research with well-documented findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb4",
+        "researcherId": "researcher_41",
+        "publicationId": "publication_41",
+        "reviewText": "The introduction is too brief.",
+        "rating": 2,
+        "reviewDate": "2023-01-05",
+        "decision": "Major Revision",
+        "reviewerComments": "Expand the introduction for better context."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb5",
+        "researcherId": "researcher_42",
+        "publicationId": "publication_42",
+        "reviewText": "The paper makes a significant contribution to the field.",
+        "rating": 4,
+        "reviewDate": "2023-02-01",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Significant contribution with minor revisions needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb6",
+        "researcherId": "researcher_43",
+        "publicationId": "publication_43",
+        "reviewText": "The analysis lacks depth.",
+        "rating": 3,
+        "reviewDate": "2023-03-25",
+        "decision": "Minor Revision",
+        "reviewerComments": "Provide a deeper analysis of the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb7",
+        "researcherId": "researcher_44",
+        "publicationId": "publication_44",
+        "reviewText": "The paper is not well-organized.",
+        "rating": 1,
+        "reviewDate": "2023-04-20",
+        "decision": "Reject",
+        "reviewerComments": "Reorganize the paper for better flow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb8",
+        "researcherId": "researcher_45",
+        "publicationId": "publication_45",
+        "reviewText": "The research is innovative and well-executed.",
+        "rating": 5,
+        "reviewDate": "2023-05-15",
+        "decision": "Accept",
+        "reviewerComments": "Innovative research with excellent execution."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bb9",
+        "researcherId": "researcher_46",
+        "publicationId": "publication_46",
+        "reviewText": "The results are not clearly presented.",
+        "rating": 2,
+        "reviewDate": "2023-06-20",
+        "decision": "Major Revision",
+        "reviewerComments": "Clarify the presentation of results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bba",
+        "researcherId": "researcher_47",
+        "publicationId": "publication_47",
+        "reviewText": "The paper provides valuable insights into the topic.",
+        "rating": 4,
+        "reviewDate": "2023-07-25",
+        "decision": "Accept with Minor Revisions",
+        "reviewerComments": "Valuable insights with minor revisions needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bbb",
+        "researcherId": "researcher_48",
+        "publicationId": "publication_48",
+        "reviewText": "The methodology is not adequately explained.",
+        "rating": 3,
+        "reviewDate": "2023-08-30",
+        "decision": "Minor Revision",
+        "reviewerComments": "Provide a detailed explanation of the methodology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bbc",
+        "researcherId": "researcher_49",
+        "publicationId": "publication_49",
+        "reviewText": "The paper lacks a clear focus.",
+        "rating": 1,
+        "reviewDate": "2023-09-30",
+        "decision": "Reject",
+        "reviewerComments": "Refocus the paper and resubmit."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bbd",
+        "researcherId": "researcher_50",
+        "publicationId": "publication_50",
+        "reviewText": "The research is thorough and well-documented.",
+        "rating": 5,
+        "reviewDate": "2023-10-25",
+        "decision": "Accept",
+        "reviewerComments": "Thorough research and well-documented findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bbe",
+        "researcherId": "researcher_01",
+        "publicationId": "publication_01",
+        "reviewText": "An insightful exploration of renewable energy technologies.",
+        "rating": 4,
+        "reviewDate": "2023-03-15",
+        "decision": "accepted",
+        "reviewerComments": "The methodology is robust and well-explained."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bbf",
+        "researcherId": "researcher_02",
+        "publicationId": "publication_02",
+        "reviewText": "A comprehensive review of AI applications in healthcare.",
+        "rating": 5,
+        "reviewDate": "2023-05-10",
+        "decision": "accepted",
+        "reviewerComments": "Excellent coverage of recent advancements."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc0",
+        "researcherId": "researcher_03",
+        "publicationId": "publication_03",
+        "reviewText": "Detailed analysis of climate change impacts on agriculture.",
+        "rating": 3,
+        "reviewDate": "2023-02-20",
+        "decision": "minor revision",
+        "reviewerComments": "Consider expanding the data set for more robust conclusions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc1",
+        "researcherId": "researcher_04",
+        "publicationId": "publication_04",
+        "reviewText": "Explores the economic effects of global trade policies.",
+        "rating": 4,
+        "reviewDate": "2023-06-18",
+        "decision": "accepted",
+        "reviewerComments": "Well-structured with clear economic models."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc2",
+        "researcherId": "researcher_05",
+        "publicationId": "publication_05",
+        "reviewText": "Investigates the role of machine learning in finance.",
+        "rating": 5,
+        "reviewDate": "2023-04-12",
+        "decision": "accepted",
+        "reviewerComments": "Innovative approach with significant implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc3",
+        "researcherId": "researcher_06",
+        "publicationId": "publication_06",
+        "reviewText": "A study on the psychological effects of social media.",
+        "rating": 3,
+        "reviewDate": "2023-07-08",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more focus on long-term effects."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc4",
+        "researcherId": "researcher_07",
+        "publicationId": "publication_07",
+        "reviewText": "Examines the advancements in quantum computing.",
+        "rating": 4,
+        "reviewDate": "2023-08-25",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with future research directions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc5",
+        "researcherId": "researcher_08",
+        "publicationId": "publication_08",
+        "reviewText": "Discusses the ethical implications of genetic engineering.",
+        "rating": 4,
+        "reviewDate": "2023-09-30",
+        "decision": "accepted",
+        "reviewerComments": "Balanced discussion with ethical frameworks."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc6",
+        "researcherId": "researcher_09",
+        "publicationId": "publication_09",
+        "reviewText": "Analyzes the impact of blockchain technology on cybersecurity.",
+        "rating": 5,
+        "reviewDate": "2023-01-15",
+        "decision": "accepted",
+        "reviewerComments": "Strong technical analysis with practical insights."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc7",
+        "researcherId": "researcher_10",
+        "publicationId": "publication_10",
+        "reviewText": "Explores new materials for sustainable construction.",
+        "rating": 4,
+        "reviewDate": "2023-03-22",
+        "decision": "accepted",
+        "reviewerComments": "Innovative materials with potential applications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc8",
+        "researcherId": "researcher_11",
+        "publicationId": "publication_11",
+        "reviewText": "A critical review of current urban planning strategies.",
+        "rating": 3,
+        "reviewDate": "2023-05-05",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more case studies for validation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bc9",
+        "researcherId": "researcher_12",
+        "publicationId": "publication_12",
+        "reviewText": "Investigates the influence of diet on mental health.",
+        "rating": 5,
+        "reviewDate": "2023-06-30",
+        "decision": "accepted",
+        "reviewerComments": "Compelling evidence with clear recommendations."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bca",
+        "researcherId": "researcher_13",
+        "publicationId": "publication_13",
+        "reviewText": "Studies the effects of pollution on marine biodiversity.",
+        "rating": 4,
+        "reviewDate": "2023-02-14",
+        "decision": "accepted",
+        "reviewerComments": "Thorough analysis with significant findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bcb",
+        "researcherId": "researcher_14",
+        "publicationId": "publication_14",
+        "reviewText": "Explores the role of nanotechnology in medicine.",
+        "rating": 5,
+        "reviewDate": "2023-07-19",
+        "decision": "accepted",
+        "reviewerComments": "Innovative applications with promising results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bcc",
+        "researcherId": "researcher_15",
+        "publicationId": "publication_15",
+        "reviewText": "Analyzes the economic impact of pandemics.",
+        "rating": 4,
+        "reviewDate": "2023-04-28",
+        "decision": "accepted",
+        "reviewerComments": "Timely research with practical implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bcd",
+        "researcherId": "researcher_16",
+        "publicationId": "publication_16",
+        "reviewText": "Discusses the future of autonomous vehicles.",
+        "rating": 3,
+        "reviewDate": "2023-08-11",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more focus on regulatory challenges."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bce",
+        "researcherId": "researcher_17",
+        "publicationId": "publication_17",
+        "reviewText": "Investigates the impact of digital currencies on global markets.",
+        "rating": 5,
+        "reviewDate": "2023-09-05",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with insightful market analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bcf",
+        "researcherId": "researcher_18",
+        "publicationId": "publication_18",
+        "reviewText": "A study on renewable energy adoption in developing countries.",
+        "rating": 4,
+        "reviewDate": "2023-01-30",
+        "decision": "accepted",
+        "reviewerComments": "Important insights with policy recommendations."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd0",
+        "researcherId": "researcher_19",
+        "publicationId": "publication_19",
+        "reviewText": "Explores the psychological effects of remote work.",
+        "rating": 3,
+        "reviewDate": "2023-03-12",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more data on long-term impacts."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd1",
+        "researcherId": "researcher_20",
+        "publicationId": "publication_20",
+        "reviewText": "Analyzes the role of big data in modern business.",
+        "rating": 5,
+        "reviewDate": "2023-05-25",
+        "decision": "accepted",
+        "reviewerComments": "Excellent integration of data analytics techniques."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd2",
+        "researcherId": "researcher_21",
+        "publicationId": "publication_21",
+        "reviewText": "Investigates the effects of climate change on water resources.",
+        "rating": 4,
+        "reviewDate": "2023-06-14",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with significant policy implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd3",
+        "researcherId": "researcher_22",
+        "publicationId": "publication_22",
+        "reviewText": "Discusses the future of space exploration.",
+        "rating": 3,
+        "reviewDate": "2023-07-27",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more focus on international collaboration."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd4",
+        "researcherId": "researcher_23",
+        "publicationId": "publication_23",
+        "reviewText": "Explores the impact of artificial intelligence on education.",
+        "rating": 5,
+        "reviewDate": "2023-08-20",
+        "decision": "accepted",
+        "reviewerComments": "Innovative with practical educational applications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd5",
+        "researcherId": "researcher_24",
+        "publicationId": "publication_24",
+        "reviewText": "Analyzes the role of social media in modern communication.",
+        "rating": 4,
+        "reviewDate": "2023-09-14",
+        "decision": "accepted",
+        "reviewerComments": "Well-structured with relevant case studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd6",
+        "researcherId": "researcher_25",
+        "publicationId": "publication_25",
+        "reviewText": "Studies the effects of urbanization on wildlife.",
+        "rating": 3,
+        "reviewDate": "2023-02-05",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more data on specific species."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd7",
+        "researcherId": "researcher_26",
+        "publicationId": "publication_26",
+        "reviewText": "Explores the economic benefits of renewable energy.",
+        "rating": 5,
+        "reviewDate": "2023-03-18",
+        "decision": "accepted",
+        "reviewerComments": "Strong economic analysis with clear benefits."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd8",
+        "researcherId": "researcher_27",
+        "publicationId": "publication_27",
+        "reviewText": "Discusses the challenges of cybersecurity in the digital age.",
+        "rating": 4,
+        "reviewDate": "2023-05-02",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with practical solutions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bd9",
+        "researcherId": "researcher_28",
+        "publicationId": "publication_28",
+        "reviewText": "Investigates the role of biotechnology in agriculture.",
+        "rating": 5,
+        "reviewDate": "2023-06-21",
+        "decision": "accepted",
+        "reviewerComments": "Innovative applications with significant potential."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bda",
+        "researcherId": "researcher_29",
+        "publicationId": "publication_29",
+        "reviewText": "Explores the impact of globalization on local cultures.",
+        "rating": 3,
+        "reviewDate": "2023-07-16",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more focus on cultural preservation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bdb",
+        "researcherId": "researcher_30",
+        "publicationId": "publication_30",
+        "reviewText": "Analyzes the effects of climate change on global food security.",
+        "rating": 5,
+        "reviewDate": "2023-08-01",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with important policy implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bdc",
+        "researcherId": "researcher_31",
+        "publicationId": "publication_31",
+        "reviewText": "Discusses the future of renewable energy technologies.",
+        "rating": 4,
+        "reviewDate": "2023-09-10",
+        "decision": "accepted",
+        "reviewerComments": "Well-researched with clear future directions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bdd",
+        "researcherId": "researcher_32",
+        "publicationId": "publication_32",
+        "reviewText": "Investigates the role of digital media in modern journalism.",
+        "rating": 3,
+        "reviewDate": "2023-01-22",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more data on audience engagement."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bde",
+        "researcherId": "researcher_33",
+        "publicationId": "publication_33",
+        "reviewText": "Explores the impact of climate change on biodiversity.",
+        "rating": 5,
+        "reviewDate": "2023-03-09",
+        "decision": "accepted",
+        "reviewerComments": "Thorough analysis with significant findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bdf",
+        "researcherId": "researcher_34",
+        "publicationId": "publication_34",
+        "reviewText": "Discusses the ethical considerations of AI in healthcare.",
+        "rating": 4,
+        "reviewDate": "2023-05-17",
+        "decision": "accepted",
+        "reviewerComments": "Balanced discussion with ethical frameworks."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be0",
+        "researcherId": "researcher_35",
+        "publicationId": "publication_35",
+        "reviewText": "Investigates the effects of social media on mental health.",
+        "rating": 3,
+        "reviewDate": "2023-06-29",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more focus on long-term effects."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be1",
+        "researcherId": "researcher_36",
+        "publicationId": "publication_36",
+        "reviewText": "Explores the economic impact of digital currencies.",
+        "rating": 5,
+        "reviewDate": "2023-07-13",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with insightful market analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be2",
+        "researcherId": "researcher_37",
+        "publicationId": "publication_37",
+        "reviewText": "Analyzes the role of big data in healthcare.",
+        "rating": 4,
+        "reviewDate": "2023-08-24",
+        "decision": "accepted",
+        "reviewerComments": "Excellent integration of data analytics techniques."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be3",
+        "researcherId": "researcher_38",
+        "publicationId": "publication_38",
+        "reviewText": "Discusses the challenges of renewable energy integration.",
+        "rating": 3,
+        "reviewDate": "2023-09-18",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more focus on grid stability issues."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be4",
+        "researcherId": "researcher_39",
+        "publicationId": "publication_39",
+        "reviewText": "Explores the impact of globalization on economic development.",
+        "rating": 5,
+        "reviewDate": "2023-02-02",
+        "decision": "accepted",
+        "reviewerComments": "Strong economic analysis with clear implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be5",
+        "researcherId": "researcher_40",
+        "publicationId": "publication_40",
+        "reviewText": "Investigates the role of technology in education.",
+        "rating": 4,
+        "reviewDate": "2023-03-27",
+        "decision": "accepted",
+        "reviewerComments": "Innovative with practical educational applications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be6",
+        "researcherId": "researcher_41",
+        "publicationId": "publication_41",
+        "reviewText": "Analyzes the effects of climate change on global health.",
+        "rating": 5,
+        "reviewDate": "2023-05-13",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with important policy implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be7",
+        "researcherId": "researcher_42",
+        "publicationId": "publication_42",
+        "reviewText": "Discusses the future of artificial intelligence.",
+        "rating": 4,
+        "reviewDate": "2023-06-05",
+        "decision": "accepted",
+        "reviewerComments": "Well-researched with clear future directions."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be8",
+        "researcherId": "researcher_43",
+        "publicationId": "publication_43",
+        "reviewText": "Explores the impact of digital media on society.",
+        "rating": 3,
+        "reviewDate": "2023-07-21",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more data on societal impacts."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385be9",
+        "researcherId": "researcher_44",
+        "publicationId": "publication_44",
+        "reviewText": "Investigates the role of biotechnology in healthcare.",
+        "rating": 5,
+        "reviewDate": "2023-08-15",
+        "decision": "accepted",
+        "reviewerComments": "Innovative applications with significant potential."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bea",
+        "researcherId": "researcher_45",
+        "publicationId": "publication_45",
+        "reviewText": "Analyzes the effects of urbanization on the environment.",
+        "rating": 4,
+        "reviewDate": "2023-09-28",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with significant policy implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385beb",
+        "researcherId": "researcher_46",
+        "publicationId": "publication_46",
+        "reviewText": "Discusses the challenges of climate change mitigation.",
+        "rating": 3,
+        "reviewDate": "2023-01-09",
+        "decision": "minor revision",
+        "reviewerComments": "Needs more focus on international cooperation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bec",
+        "researcherId": "researcher_47",
+        "publicationId": "publication_47",
+        "reviewText": "Explores the economic impact of pandemics.",
+        "rating": 5,
+        "reviewDate": "2023-03-05",
+        "decision": "accepted",
+        "reviewerComments": "Timely research with practical implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bed",
+        "researcherId": "researcher_48",
+        "publicationId": "publication_48",
+        "reviewText": "Investigates the role of renewable energy in reducing carbon emissions.",
+        "rating": 4,
+        "reviewDate": "2023-05-20",
+        "decision": "accepted",
+        "reviewerComments": "Strong analysis with clear environmental benefits."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bee",
+        "researcherId": "researcher_49",
+        "publicationId": "publication_49",
+        "reviewText": "Analyzes the effects of digital currencies on traditional banking.",
+        "rating": 5,
+        "reviewDate": "2023-06-25",
+        "decision": "accepted",
+        "reviewerComments": "Comprehensive with insightful market analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bef",
+        "researcherId": "researcher_50",
+        "publicationId": "publication_50",
+        "reviewText": "Discusses the challenges of AI ethics.",
+        "rating": 4,
+        "reviewDate": "2023-07-30",
+        "decision": "accepted",
+        "reviewerComments": "Balanced discussion with ethical frameworks."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf0",
+        "researcherId": "researcher_1",
+        "publicationId": "publication_1",
+        "reviewText": "The methodology is sound and well-explained.",
+        "rating": 4,
+        "reviewDate": "2023-01-15",
+        "decision": "accept",
+        "reviewerComments": "Minor revisions needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf1",
+        "researcherId": "researcher_2",
+        "publicationId": "publication_2",
+        "reviewText": "The analysis lacks depth.",
+        "rating": 2,
+        "reviewDate": "2023-02-10",
+        "decision": "reject",
+        "reviewerComments": "Consider revising the analysis section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf2",
+        "researcherId": "researcher_3",
+        "publicationId": "publication_3",
+        "reviewText": "A comprehensive study with significant findings.",
+        "rating": 5,
+        "reviewDate": "2023-03-22",
+        "decision": "accept",
+        "reviewerComments": "No changes needed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf3",
+        "researcherId": "researcher_4",
+        "publicationId": "publication_4",
+        "reviewText": "The introduction is too lengthy.",
+        "rating": 3,
+        "reviewDate": "2023-04-05",
+        "decision": "revise",
+        "reviewerComments": "Shorten the introduction for clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf4",
+        "researcherId": "researcher_5",
+        "publicationId": "publication_5",
+        "reviewText": "Data presentation is clear and concise.",
+        "rating": 4,
+        "reviewDate": "2023-05-18",
+        "decision": "accept",
+        "reviewerComments": "Good use of visual aids."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf5",
+        "researcherId": "researcher_6",
+        "publicationId": "publication_6",
+        "reviewText": "The literature review is outdated.",
+        "rating": 2,
+        "reviewDate": "2023-06-12",
+        "decision": "reject",
+        "reviewerComments": "Update the references to include recent studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf6",
+        "researcherId": "researcher_7",
+        "publicationId": "publication_7",
+        "reviewText": "Innovative approach to a common problem.",
+        "rating": 5,
+        "reviewDate": "2023-07-08",
+        "decision": "accept",
+        "reviewerComments": "Excellent contribution to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf7",
+        "researcherId": "researcher_8",
+        "publicationId": "publication_8",
+        "reviewText": "The results are not well-supported by the data.",
+        "rating": 3,
+        "reviewDate": "2023-08-14",
+        "decision": "revise",
+        "reviewerComments": "Provide more evidence to support your claims."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf8",
+        "researcherId": "researcher_9",
+        "publicationId": "publication_9",
+        "reviewText": "The discussion section is well-articulated.",
+        "rating": 4,
+        "reviewDate": "2023-09-20",
+        "decision": "accept",
+        "reviewerComments": "Strong discussion of implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bf9",
+        "researcherId": "researcher_10",
+        "publicationId": "publication_10",
+        "reviewText": "The conclusion lacks impact.",
+        "rating": 3,
+        "reviewDate": "2023-10-01",
+        "decision": "revise",
+        "reviewerComments": "Strengthen the conclusion to highlight key findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bfa",
+        "researcherId": "researcher_11",
+        "publicationId": "publication_11",
+        "reviewText": "The research question is not clearly defined.",
+        "rating": 2,
+        "reviewDate": "2023-01-25",
+        "decision": "reject",
+        "reviewerComments": "Clarify the research question and objectives."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bfb",
+        "researcherId": "researcher_12",
+        "publicationId": "publication_12",
+        "reviewText": "Excellent use of statistical analysis.",
+        "rating": 5,
+        "reviewDate": "2023-02-15",
+        "decision": "accept",
+        "reviewerComments": "The statistical methods are robust and appropriate."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bfc",
+        "researcherId": "researcher_13",
+        "publicationId": "publication_13",
+        "reviewText": "The abstract is too vague.",
+        "rating": 3,
+        "reviewDate": "2023-03-10",
+        "decision": "revise",
+        "reviewerComments": "Provide more detail in the abstract."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bfd",
+        "researcherId": "researcher_14",
+        "publicationId": "publication_14",
+        "reviewText": "The study design is innovative.",
+        "rating": 4,
+        "reviewDate": "2023-04-20",
+        "decision": "accept",
+        "reviewerComments": "The design is well thought out and executed."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bfe",
+        "researcherId": "researcher_15",
+        "publicationId": "publication_15",
+        "reviewText": "The paper lacks a clear focus.",
+        "rating": 2,
+        "reviewDate": "2023-05-05",
+        "decision": "reject",
+        "reviewerComments": "Focus the paper on a specific aspect of the study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385bff",
+        "researcherId": "researcher_16",
+        "publicationId": "publication_16",
+        "reviewText": "The figures are well-designed and informative.",
+        "rating": 5,
+        "reviewDate": "2023-06-18",
+        "decision": "accept",
+        "reviewerComments": "Figures enhance the understanding of the results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c00",
+        "researcherId": "researcher_17",
+        "publicationId": "publication_17",
+        "reviewText": "The hypothesis is not supported by the data.",
+        "rating": 3,
+        "reviewDate": "2023-07-12",
+        "decision": "revise",
+        "reviewerComments": "Re-evaluate the hypothesis based on the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c01",
+        "researcherId": "researcher_18",
+        "publicationId": "publication_18",
+        "reviewText": "The paper is well-structured and easy to follow.",
+        "rating": 4,
+        "reviewDate": "2023-08-09",
+        "decision": "accept",
+        "reviewerComments": "The structure aids in the clarity of the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c02",
+        "researcherId": "researcher_19",
+        "publicationId": "publication_19",
+        "reviewText": "The sample size is too small.",
+        "rating": 2,
+        "reviewDate": "2023-09-15",
+        "decision": "reject",
+        "reviewerComments": "Increase the sample size for more reliable results."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c03",
+        "researcherId": "researcher_20",
+        "publicationId": "publication_20",
+        "reviewText": "The findings are significant and well-presented.",
+        "rating": 5,
+        "reviewDate": "2023-10-05",
+        "decision": "accept",
+        "reviewerComments": "The findings contribute significantly to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c04",
+        "researcherId": "researcher_21",
+        "publicationId": "publication_21",
+        "reviewText": "The paper lacks a comprehensive literature review.",
+        "rating": 3,
+        "reviewDate": "2023-01-30",
+        "decision": "revise",
+        "reviewerComments": "Expand the literature review to include more sources."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c05",
+        "researcherId": "researcher_22",
+        "publicationId": "publication_22",
+        "reviewText": "The methodology is innovative and well-documented.",
+        "rating": 4,
+        "reviewDate": "2023-02-25",
+        "decision": "accept",
+        "reviewerComments": "The methodology is a strong point of this paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c06",
+        "researcherId": "researcher_23",
+        "publicationId": "publication_23",
+        "reviewText": "The paper is difficult to follow due to poor organization.",
+        "rating": 2,
+        "reviewDate": "2023-03-15",
+        "decision": "reject",
+        "reviewerComments": "Reorganize the paper for better readability."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c07",
+        "researcherId": "researcher_24",
+        "publicationId": "publication_24",
+        "reviewText": "The conclusions are well-supported by the data.",
+        "rating": 5,
+        "reviewDate": "2023-04-25",
+        "decision": "accept",
+        "reviewerComments": "Strong conclusions based on solid data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c08",
+        "researcherId": "researcher_25",
+        "publicationId": "publication_25",
+        "reviewText": "The abstract does not accurately reflect the paper.",
+        "rating": 3,
+        "reviewDate": "2023-05-12",
+        "decision": "revise",
+        "reviewerComments": "Revise the abstract to better summarize the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c09",
+        "researcherId": "researcher_26",
+        "publicationId": "publication_26",
+        "reviewText": "The paper provides a novel perspective.",
+        "rating": 4,
+        "reviewDate": "2023-06-20",
+        "decision": "accept",
+        "reviewerComments": "The perspective is unique and thought-provoking."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c0a",
+        "researcherId": "researcher_27",
+        "publicationId": "publication_27",
+        "reviewText": "The statistical analysis is flawed.",
+        "rating": 2,
+        "reviewDate": "2023-07-15",
+        "decision": "reject",
+        "reviewerComments": "Review and correct the statistical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c0b",
+        "researcherId": "researcher_28",
+        "publicationId": "publication_28",
+        "reviewText": "The paper is well-written and concise.",
+        "rating": 5,
+        "reviewDate": "2023-08-18",
+        "decision": "accept",
+        "reviewerComments": "The writing is clear and to the point."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c0c",
+        "researcherId": "researcher_29",
+        "publicationId": "publication_29",
+        "reviewText": "The research question is not original.",
+        "rating": 3,
+        "reviewDate": "2023-09-10",
+        "decision": "revise",
+        "reviewerComments": "Consider framing the research question in a new way."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c0d",
+        "researcherId": "researcher_30",
+        "publicationId": "publication_30",
+        "reviewText": "The introduction sets the stage well for the study.",
+        "rating": 4,
+        "reviewDate": "2023-10-02",
+        "decision": "accept",
+        "reviewerComments": "The introduction provides a strong foundation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c0e",
+        "researcherId": "researcher_31",
+        "publicationId": "publication_31",
+        "reviewText": "The paper lacks sufficient data analysis.",
+        "rating": 2,
+        "reviewDate": "2023-01-18",
+        "decision": "reject",
+        "reviewerComments": "Include more detailed data analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c0f",
+        "researcherId": "researcher_32",
+        "publicationId": "publication_32",
+        "reviewText": "The study provides valuable insights.",
+        "rating": 5,
+        "reviewDate": "2023-02-28",
+        "decision": "accept",
+        "reviewerComments": "The insights are valuable and well-presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c10",
+        "researcherId": "researcher_33",
+        "publicationId": "publication_33",
+        "reviewText": "The paper is too technical for a general audience.",
+        "rating": 3,
+        "reviewDate": "2023-03-22",
+        "decision": "revise",
+        "reviewerComments": "Simplify the language for broader accessibility."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c11",
+        "researcherId": "researcher_34",
+        "publicationId": "publication_34",
+        "reviewText": "The research is groundbreaking.",
+        "rating": 5,
+        "reviewDate": "2023-04-10",
+        "decision": "accept",
+        "reviewerComments": "The research sets a new standard in the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c12",
+        "researcherId": "researcher_35",
+        "publicationId": "publication_35",
+        "reviewText": "The paper is poorly organized.",
+        "rating": 2,
+        "reviewDate": "2023-05-08",
+        "decision": "reject",
+        "reviewerComments": "Reorganize the sections for better flow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c13",
+        "researcherId": "researcher_36",
+        "publicationId": "publication_36",
+        "reviewText": "The methodology is well-explained.",
+        "rating": 4,
+        "reviewDate": "2023-06-14",
+        "decision": "accept",
+        "reviewerComments": "Clear explanation of the methods used."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c14",
+        "researcherId": "researcher_37",
+        "publicationId": "publication_37",
+        "reviewText": "The paper lacks originality.",
+        "rating": 3,
+        "reviewDate": "2023-07-19",
+        "decision": "revise",
+        "reviewerComments": "Introduce new elements to enhance originality."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c15",
+        "researcherId": "researcher_38",
+        "publicationId": "publication_38",
+        "reviewText": "The results are clearly presented.",
+        "rating": 4,
+        "reviewDate": "2023-08-25",
+        "decision": "accept",
+        "reviewerComments": "The results section is well-organized."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c16",
+        "researcherId": "researcher_39",
+        "publicationId": "publication_39",
+        "reviewText": "The paper is too lengthy.",
+        "rating": 2,
+        "reviewDate": "2023-09-05",
+        "decision": "reject",
+        "reviewerComments": "Condense the paper to focus on key points."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c17",
+        "researcherId": "researcher_40",
+        "publicationId": "publication_40",
+        "reviewText": "The study addresses a critical issue.",
+        "rating": 5,
+        "reviewDate": "2023-10-07",
+        "decision": "accept",
+        "reviewerComments": "The issue addressed is of high importance."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c18",
+        "researcherId": "researcher_41",
+        "publicationId": "publication_41",
+        "reviewText": "The paper lacks a clear hypothesis.",
+        "rating": 3,
+        "reviewDate": "2023-01-20",
+        "decision": "revise",
+        "reviewerComments": "Clearly state the hypothesis in the introduction."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c19",
+        "researcherId": "researcher_42",
+        "publicationId": "publication_42",
+        "reviewText": "The analysis is thorough and detailed.",
+        "rating": 4,
+        "reviewDate": "2023-02-12",
+        "decision": "accept",
+        "reviewerComments": "The analysis provides deep insights."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c1a",
+        "researcherId": "researcher_43",
+        "publicationId": "publication_43",
+        "reviewText": "The paper is too technical.",
+        "rating": 3,
+        "reviewDate": "2023-03-05",
+        "decision": "revise",
+        "reviewerComments": "Simplify technical jargon for clarity."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c1b",
+        "researcherId": "researcher_44",
+        "publicationId": "publication_44",
+        "reviewText": "The study is well-executed.",
+        "rating": 5,
+        "reviewDate": "2023-04-15",
+        "decision": "accept",
+        "reviewerComments": "The execution of the study is commendable."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c1c",
+        "researcherId": "researcher_45",
+        "publicationId": "publication_45",
+        "reviewText": "The paper is not engaging.",
+        "rating": 2,
+        "reviewDate": "2023-05-02",
+        "decision": "reject",
+        "reviewerComments": "Make the content more engaging for readers."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c1d",
+        "researcherId": "researcher_46",
+        "publicationId": "publication_46",
+        "reviewText": "The conclusions are insightful.",
+        "rating": 4,
+        "reviewDate": "2023-06-28",
+        "decision": "accept",
+        "reviewerComments": "The conclusions provide valuable insights."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c1e",
+        "researcherId": "researcher_47",
+        "publicationId": "publication_47",
+        "reviewText": "The paper is too brief.",
+        "rating": 2,
+        "reviewDate": "2023-07-22",
+        "decision": "reject",
+        "reviewerComments": "Expand the paper to cover all necessary aspects."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c1f",
+        "researcherId": "researcher_48",
+        "publicationId": "publication_48",
+        "reviewText": "The research is highly relevant.",
+        "rating": 5,
+        "reviewDate": "2023-08-02",
+        "decision": "accept",
+        "reviewerComments": "The relevance of the research is clear."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c20",
+        "researcherId": "researcher_49",
+        "publicationId": "publication_49",
+        "reviewText": "The paper lacks depth.",
+        "rating": 3,
+        "reviewDate": "2023-09-18",
+        "decision": "revise",
+        "reviewerComments": "Provide more in-depth analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c21",
+        "researcherId": "researcher_50",
+        "publicationId": "publication_50",
+        "reviewText": "The study is a valuable contribution.",
+        "rating": 5,
+        "reviewDate": "2023-10-10",
+        "decision": "accept",
+        "reviewerComments": "The contribution to the field is significant."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c22",
+        "researcherId": "researcher_01",
+        "publicationId": "publication_01",
+        "reviewText": "A comprehensive study on renewable energy sources.",
+        "rating": 4,
+        "reviewDate": "2023-01-15",
+        "decision": "accept",
+        "reviewerComments": "Well-researched and presented."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c23",
+        "researcherId": "researcher_02",
+        "publicationId": "publication_02",
+        "reviewText": "The methodology needs further clarification.",
+        "rating": 3,
+        "reviewDate": "2023-02-10",
+        "decision": "revise",
+        "reviewerComments": "Consider revising the methods section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c24",
+        "researcherId": "researcher_03",
+        "publicationId": "publication_03",
+        "reviewText": "Innovative approach to data analysis.",
+        "rating": 5,
+        "reviewDate": "2023-03-05",
+        "decision": "accept",
+        "reviewerComments": "Excellent contribution to the field."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c25",
+        "researcherId": "researcher_04",
+        "publicationId": "publication_04",
+        "reviewText": "Lacks sufficient data to support conclusions.",
+        "rating": 2,
+        "reviewDate": "2023-04-22",
+        "decision": "reject",
+        "reviewerComments": "Needs more empirical evidence."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c26",
+        "researcherId": "researcher_05",
+        "publicationId": "publication_05",
+        "reviewText": "Thorough review of existing literature.",
+        "rating": 4,
+        "reviewDate": "2023-05-18",
+        "decision": "accept",
+        "reviewerComments": "Comprehensive and informative."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c27",
+        "researcherId": "researcher_06",
+        "publicationId": "publication_06",
+        "reviewText": "Interesting findings but needs more depth.",
+        "rating": 3,
+        "reviewDate": "2023-06-12",
+        "decision": "revise",
+        "reviewerComments": "Expand on the discussion section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c28",
+        "researcherId": "researcher_07",
+        "publicationId": "publication_07",
+        "reviewText": "Well-structured and clear presentation.",
+        "rating": 4,
+        "reviewDate": "2023-07-09",
+        "decision": "accept",
+        "reviewerComments": "Good use of visuals to support arguments."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c29",
+        "researcherId": "researcher_08",
+        "publicationId": "publication_08",
+        "reviewText": "The results are promising but require further validation.",
+        "rating": 3,
+        "reviewDate": "2023-08-03",
+        "decision": "revise",
+        "reviewerComments": "Consider additional experiments to confirm findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c2a",
+        "researcherId": "researcher_09",
+        "publicationId": "publication_09",
+        "reviewText": "A novel perspective on climate change impacts.",
+        "rating": 5,
+        "reviewDate": "2023-09-29",
+        "decision": "accept",
+        "reviewerComments": "Highly original and impactful."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c2b",
+        "researcherId": "researcher_10",
+        "publicationId": "publication_10",
+        "reviewText": "The analysis is somewhat superficial.",
+        "rating": 2,
+        "reviewDate": "2023-10-20",
+        "decision": "reject",
+        "reviewerComments": "Needs deeper analysis and discussion."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c2c",
+        "researcherId": "researcher_11",
+        "publicationId": "publication_11",
+        "reviewText": "Comprehensive review of the subject matter.",
+        "rating": 4,
+        "reviewDate": "2023-01-07",
+        "decision": "accept",
+        "reviewerComments": "Well-organized and informative."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c2d",
+        "researcherId": "researcher_12",
+        "publicationId": "publication_12",
+        "reviewText": "The conclusions are not well supported by the data.",
+        "rating": 2,
+        "reviewDate": "2023-02-28",
+        "decision": "reject",
+        "reviewerComments": "Re-evaluate the data interpretation."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c2e",
+        "researcherId": "researcher_13",
+        "publicationId": "publication_13",
+        "reviewText": "Insightful analysis with practical applications.",
+        "rating": 5,
+        "reviewDate": "2023-03-14",
+        "decision": "accept",
+        "reviewerComments": "Valuable insights for practitioners."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c2f",
+        "researcherId": "researcher_14",
+        "publicationId": "publication_14",
+        "reviewText": "The study lacks a clear hypothesis.",
+        "rating": 3,
+        "reviewDate": "2023-04-08",
+        "decision": "revise",
+        "reviewerComments": "Define the research hypothesis more clearly."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c30",
+        "researcherId": "researcher_15",
+        "publicationId": "publication_15",
+        "reviewText": "Excellent use of statistical methods.",
+        "rating": 4,
+        "reviewDate": "2023-05-03",
+        "decision": "accept",
+        "reviewerComments": "Strong statistical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c31",
+        "researcherId": "researcher_16",
+        "publicationId": "publication_16",
+        "reviewText": "The introduction is too lengthy.",
+        "rating": 3,
+        "reviewDate": "2023-06-25",
+        "decision": "revise",
+        "reviewerComments": "Condense the introduction section."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c32",
+        "researcherId": "researcher_17",
+        "publicationId": "publication_17",
+        "reviewText": "Provides a fresh perspective on traditional theories.",
+        "rating": 5,
+        "reviewDate": "2023-07-19",
+        "decision": "accept",
+        "reviewerComments": "Innovative and thought-provoking."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c33",
+        "researcherId": "researcher_18",
+        "publicationId": "publication_18",
+        "reviewText": "The discussion is not sufficiently detailed.",
+        "rating": 2,
+        "reviewDate": "2023-08-11",
+        "decision": "reject",
+        "reviewerComments": "Expand the discussion with more details."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c34",
+        "researcherId": "researcher_19",
+        "publicationId": "publication_19",
+        "reviewText": "A valuable contribution to the field.",
+        "rating": 4,
+        "reviewDate": "2023-09-06",
+        "decision": "accept",
+        "reviewerComments": "Significant findings with practical implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c35",
+        "researcherId": "researcher_20",
+        "publicationId": "publication_20",
+        "reviewText": "The literature review is outdated.",
+        "rating": 3,
+        "reviewDate": "2023-10-01",
+        "decision": "revise",
+        "reviewerComments": "Update the literature review with recent studies."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c36",
+        "researcherId": "researcher_21",
+        "publicationId": "publication_21",
+        "reviewText": "Clear and concise presentation of results.",
+        "rating": 4,
+        "reviewDate": "2023-01-25",
+        "decision": "accept",
+        "reviewerComments": "Well-presented and easy to follow."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c37",
+        "researcherId": "researcher_22",
+        "publicationId": "publication_22",
+        "reviewText": "The study lacks originality.",
+        "rating": 2,
+        "reviewDate": "2023-02-15",
+        "decision": "reject",
+        "reviewerComments": "Introduce novel ideas or perspectives."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c38",
+        "researcherId": "researcher_23",
+        "publicationId": "publication_23",
+        "reviewText": "A thorough analysis with robust conclusions.",
+        "rating": 5,
+        "reviewDate": "2023-03-11",
+        "decision": "accept",
+        "reviewerComments": "Strong conclusions supported by data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c39",
+        "researcherId": "researcher_24",
+        "publicationId": "publication_24",
+        "reviewText": "The abstract is not representative of the content.",
+        "rating": 3,
+        "reviewDate": "2023-04-04",
+        "decision": "revise",
+        "reviewerComments": "Revise the abstract to better reflect the study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c3a",
+        "researcherId": "researcher_25",
+        "publicationId": "publication_25",
+        "reviewText": "Innovative use of technology in research.",
+        "rating": 4,
+        "reviewDate": "2023-05-01",
+        "decision": "accept",
+        "reviewerComments": "Creative application of technology."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c3b",
+        "researcherId": "researcher_26",
+        "publicationId": "publication_26",
+        "reviewText": "The paper is well-written but lacks depth.",
+        "rating": 3,
+        "reviewDate": "2023-06-21",
+        "decision": "revise",
+        "reviewerComments": "Add more depth to the analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c3c",
+        "researcherId": "researcher_27",
+        "publicationId": "publication_27",
+        "reviewText": "An important contribution to the ongoing debate.",
+        "rating": 5,
+        "reviewDate": "2023-07-15",
+        "decision": "accept",
+        "reviewerComments": "Highly relevant and timely."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c3d",
+        "researcherId": "researcher_28",
+        "publicationId": "publication_28",
+        "reviewText": "The study design is flawed.",
+        "rating": 2,
+        "reviewDate": "2023-08-09",
+        "decision": "reject",
+        "reviewerComments": "Reconsider the study design."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c3e",
+        "researcherId": "researcher_29",
+        "publicationId": "publication_29",
+        "reviewText": "Excellent integration of theory and practice.",
+        "rating": 4,
+        "reviewDate": "2023-09-02",
+        "decision": "accept",
+        "reviewerComments": "Well-integrated theoretical and practical insights."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c3f",
+        "researcherId": "researcher_30",
+        "publicationId": "publication_30",
+        "reviewText": "The paper lacks a clear focus.",
+        "rating": 3,
+        "reviewDate": "2023-10-28",
+        "decision": "revise",
+        "reviewerComments": "Clarify the focus of the study."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c40",
+        "researcherId": "researcher_31",
+        "publicationId": "publication_31",
+        "reviewText": "A groundbreaking study with significant implications.",
+        "rating": 5,
+        "reviewDate": "2023-01-18",
+        "decision": "accept",
+        "reviewerComments": "Pioneering work with broad implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c41",
+        "researcherId": "researcher_32",
+        "publicationId": "publication_32",
+        "reviewText": "The results are not statistically significant.",
+        "rating": 2,
+        "reviewDate": "2023-02-12",
+        "decision": "reject",
+        "reviewerComments": "Re-evaluate the statistical analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c42",
+        "researcherId": "researcher_33",
+        "publicationId": "publication_33",
+        "reviewText": "A well-argued and insightful paper.",
+        "rating": 4,
+        "reviewDate": "2023-03-08",
+        "decision": "accept",
+        "reviewerComments": "Strong arguments and insights."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c43",
+        "researcherId": "researcher_34",
+        "publicationId": "publication_34",
+        "reviewText": "The paper is too technical for the intended audience.",
+        "rating": 3,
+        "reviewDate": "2023-04-30",
+        "decision": "revise",
+        "reviewerComments": "Simplify the technical language."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c44",
+        "researcherId": "researcher_35",
+        "publicationId": "publication_35",
+        "reviewText": "A significant addition to the existing body of knowledge.",
+        "rating": 5,
+        "reviewDate": "2023-05-24",
+        "decision": "accept",
+        "reviewerComments": "Important and valuable contribution."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c45",
+        "researcherId": "researcher_36",
+        "publicationId": "publication_36",
+        "reviewText": "The conclusions are overstated.",
+        "rating": 2,
+        "reviewDate": "2023-06-17",
+        "decision": "reject",
+        "reviewerComments": "Moderate the conclusions based on the data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c46",
+        "researcherId": "researcher_37",
+        "publicationId": "publication_37",
+        "reviewText": "An engaging and informative read.",
+        "rating": 4,
+        "reviewDate": "2023-07-12",
+        "decision": "accept",
+        "reviewerComments": "Engaging narrative and informative content."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c47",
+        "researcherId": "researcher_38",
+        "publicationId": "publication_38",
+        "reviewText": "The study is limited by a small sample size.",
+        "rating": 3,
+        "reviewDate": "2023-08-05",
+        "decision": "revise",
+        "reviewerComments": "Consider increasing the sample size."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c48",
+        "researcherId": "researcher_39",
+        "publicationId": "publication_39",
+        "reviewText": "A well-documented study with clear outcomes.",
+        "rating": 5,
+        "reviewDate": "2023-09-27",
+        "decision": "accept",
+        "reviewerComments": "Clear documentation and outcomes."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c49",
+        "researcherId": "researcher_40",
+        "publicationId": "publication_40",
+        "reviewText": "The paper lacks a critical analysis.",
+        "rating": 2,
+        "reviewDate": "2023-10-22",
+        "decision": "reject",
+        "reviewerComments": "Include a critical analysis of the findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c4a",
+        "researcherId": "researcher_41",
+        "publicationId": "publication_41",
+        "reviewText": "Thorough exploration of the research topic.",
+        "rating": 4,
+        "reviewDate": "2023-01-30",
+        "decision": "accept",
+        "reviewerComments": "In-depth exploration and analysis."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c4b",
+        "researcherId": "researcher_42",
+        "publicationId": "publication_42",
+        "reviewText": "The theoretical framework is weak.",
+        "rating": 3,
+        "reviewDate": "2023-02-20",
+        "decision": "revise",
+        "reviewerComments": "Strengthen the theoretical framework."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c4c",
+        "researcherId": "researcher_43",
+        "publicationId": "publication_43",
+        "reviewText": "An exceptional study with broad implications.",
+        "rating": 5,
+        "reviewDate": "2023-03-16",
+        "decision": "accept",
+        "reviewerComments": "Exceptional work with broad implications."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c4d",
+        "researcherId": "researcher_44",
+        "publicationId": "publication_44",
+        "reviewText": "The paper is too lengthy and verbose.",
+        "rating": 3,
+        "reviewDate": "2023-04-10",
+        "decision": "revise",
+        "reviewerComments": "Condense the paper to improve readability."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c4e",
+        "researcherId": "researcher_45",
+        "publicationId": "publication_45",
+        "reviewText": "A critical piece of research in the field.",
+        "rating": 4,
+        "reviewDate": "2023-05-06",
+        "decision": "accept",
+        "reviewerComments": "Critical insights and valuable data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c4f",
+        "researcherId": "researcher_46",
+        "publicationId": "publication_46",
+        "reviewText": "The study lacks a clear research question.",
+        "rating": 2,
+        "reviewDate": "2023-06-29",
+        "decision": "reject",
+        "reviewerComments": "Clearly define the research question."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c50",
+        "researcherId": "researcher_47",
+        "publicationId": "publication_47",
+        "reviewText": "The findings are well-supported by the data.",
+        "rating": 4,
+        "reviewDate": "2023-07-23",
+        "decision": "accept",
+        "reviewerComments": "Data strongly supports the findings."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c51",
+        "researcherId": "researcher_48",
+        "publicationId": "publication_48",
+        "reviewText": "The paper is not well-organized.",
+        "rating": 3,
+        "reviewDate": "2023-08-17",
+        "decision": "revise",
+        "reviewerComments": "Improve the organization of the paper."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c52",
+        "researcherId": "researcher_49",
+        "publicationId": "publication_49",
+        "reviewText": "A valuable resource for future research.",
+        "rating": 5,
+        "reviewDate": "2023-09-13",
+        "decision": "accept",
+        "reviewerComments": "Valuable resource with extensive data."
+    },
+    {
+        "_id": "67bb8f8b4c721c5848385c53",
+        "researcherId": "researcher_50",
+        "publicationId": "publication_50",
+        "reviewText": "The paper lacks coherence.",
+        "rating": 2,
+        "reviewDate": "2023-10-07",
+        "decision": "reject",
+        "reviewerComments": "Ensure coherence throughout the paper."
+    }
+]

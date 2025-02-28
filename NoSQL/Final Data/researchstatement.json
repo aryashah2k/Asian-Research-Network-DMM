@@ -1,0 +1,502 @@
+[
+    {
+        "_id": "67bb8ac84c721c58483859fc",
+        "researcherId": "researcher_001",
+        "statement": "Exploring the impact of climate change on rice yield in Southeast Asia."
+    },
+    {
+        "_id": "67bb8ac84c721c58483859fd",
+        "researcherId": "researcher_002",
+        "statement": "Assessing the effectiveness of renewable energy policies in China."
+    },
+    {
+        "_id": "67bb8ac84c721c58483859fe",
+        "researcherId": "researcher_003",
+        "statement": "Investigating the role of traditional medicine in modern healthcare systems in India."
+    },
+    {
+        "_id": "67bb8ac84c721c58483859ff",
+        "researcherId": "researcher_004",
+        "statement": "Analyzing urbanization trends and their effects on biodiversity in Japan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a00",
+        "researcherId": "researcher_005",
+        "statement": "Studying the economic impact of tourism in Thailand post-pandemic."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a01",
+        "researcherId": "researcher_006",
+        "statement": "Evaluating the effectiveness of public health campaigns in reducing smoking rates in South Korea."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a02",
+        "researcherId": "researcher_007",
+        "statement": "Understanding the cultural significance of festivals in Vietnam and their influence on local economies."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a03",
+        "researcherId": "researcher_008",
+        "statement": "Examining the challenges of water scarcity and management in Pakistan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a04",
+        "researcherId": "researcher_009",
+        "statement": "Researching the development of smart cities and their impact on quality of life in Singapore."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a05",
+        "researcherId": "researcher_010",
+        "statement": "Investigating the effects of digital education tools on student performance in Malaysia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a06",
+        "researcherId": "researcher_011",
+        "statement": "Analyzing the role of microfinance in poverty alleviation in Bangladesh."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a07",
+        "researcherId": "researcher_012",
+        "statement": "Exploring the relationship between diet and chronic diseases in Indonesia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a08",
+        "researcherId": "researcher_013",
+        "statement": "Assessing the impact of air pollution on public health in the Philippines."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a09",
+        "researcherId": "researcher_014",
+        "statement": "Studying the influence of social media on consumer behavior in Hong Kong."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a0a",
+        "researcherId": "researcher_015",
+        "statement": "Investigating the effects of deforestation on wildlife habitats in Myanmar."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a0b",
+        "researcherId": "researcher_016",
+        "statement": "Examining the role of women in leadership positions in the corporate sector in Taiwan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a0c",
+        "researcherId": "researcher_017",
+        "statement": "Analyzing the impact of e-commerce on traditional retail businesses in Sri Lanka."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a0d",
+        "researcherId": "researcher_018",
+        "statement": "Exploring the potential of blockchain technology in enhancing supply chain transparency in Vietnam."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a0e",
+        "researcherId": "researcher_019",
+        "statement": "Assessing the effectiveness of disaster management strategies in the face of increasing natural calamities in Nepal."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a0f",
+        "researcherId": "researcher_020",
+        "statement": "Investigating the cultural heritage preservation efforts in Cambodia and their impact on tourism."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a10",
+        "researcherId": "researcher_021",
+        "statement": "Examining the role of artificial intelligence in transforming healthcare delivery in Japan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a11",
+        "researcherId": "researcher_022",
+        "statement": "Studying the effects of agricultural subsidies on crop diversity in South Korea."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a12",
+        "researcherId": "researcher_023",
+        "statement": "Analyzing the impact of digital payment systems on financial inclusion in India."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a13",
+        "researcherId": "researcher_024",
+        "statement": "Exploring the challenges faced by migrant workers in the Middle East from the Philippines."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a14",
+        "researcherId": "researcher_025",
+        "statement": "Investigating the influence of Korean pop culture on youth identity in Southeast Asia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a15",
+        "researcherId": "researcher_026",
+        "statement": "Assessing the potential of aquaculture in sustaining food security in Bangladesh."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a16",
+        "researcherId": "researcher_027",
+        "statement": "Studying the impact of telecommuting on work-life balance in urban China."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a17",
+        "researcherId": "researcher_028",
+        "statement": "Examining the effects of cultural exchange programs on international relations in Malaysia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a18",
+        "researcherId": "researcher_029",
+        "statement": "Analyzing the role of fintech in transforming banking services in Singapore."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a19",
+        "researcherId": "researcher_030",
+        "statement": "Exploring the impact of language preservation efforts on indigenous communities in Taiwan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a1a",
+        "researcherId": "researcher_031",
+        "statement": "Investigating the challenges of implementing sustainable agriculture practices in Indonesia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a1b",
+        "researcherId": "researcher_032",
+        "statement": "Assessing the effectiveness of mental health interventions in schools in Thailand."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a1c",
+        "researcherId": "researcher_033",
+        "statement": "Studying the influence of digital marketing on consumer preferences in Vietnam."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a1d",
+        "researcherId": "researcher_034",
+        "statement": "Examining the role of public transportation systems in reducing urban congestion in Pakistan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a1e",
+        "researcherId": "researcher_035",
+        "statement": "Analyzing the impact of trade agreements on economic growth in Sri Lanka."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a1f",
+        "researcherId": "researcher_036",
+        "statement": "Exploring the potential of renewable energy sources in achieving energy independence in Nepal."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a20",
+        "researcherId": "researcher_037",
+        "statement": "Investigating the effects of dietary habits on childhood obesity in Hong Kong."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a21",
+        "researcherId": "researcher_038",
+        "statement": "Assessing the role of environmental policies in protecting marine ecosystems in Japan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a22",
+        "researcherId": "researcher_039",
+        "statement": "Studying the impact of mobile technology on rural education in India."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a23",
+        "researcherId": "researcher_040",
+        "statement": "Examining the challenges of urban waste management in South Korea."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a24",
+        "researcherId": "researcher_041",
+        "statement": "Analyzing the influence of cultural heritage on contemporary art in Cambodia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a25",
+        "researcherId": "researcher_042",
+        "statement": "Exploring the potential of artificial intelligence in enhancing cybersecurity in China."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a26",
+        "researcherId": "researcher_043",
+        "statement": "Investigating the role of micro-enterprises in economic development in Bangladesh."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a27",
+        "researcherId": "researcher_044",
+        "statement": "Assessing the impact of climate policies on renewable energy adoption in the Philippines."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a28",
+        "researcherId": "researcher_045",
+        "statement": "Studying the effects of social entrepreneurship on community development in Malaysia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a29",
+        "researcherId": "researcher_046",
+        "statement": "Examining the challenges of preserving biodiversity in urban areas in Vietnam."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a2a",
+        "researcherId": "researcher_047",
+        "statement": "Analyzing the role of foreign direct investment in economic growth in Myanmar."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a2b",
+        "researcherId": "researcher_048",
+        "statement": "Exploring the impact of digital platforms on traditional media in Taiwan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a2c",
+        "researcherId": "researcher_049",
+        "statement": "Investigating the effects of climate change on coastal communities in Indonesia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a2d",
+        "researcherId": "researcher_050",
+        "statement": "Assessing the effectiveness of vocational training programs in reducing unemployment in Sri Lanka."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a2e",
+        "researcherId": "researcher_051",
+        "statement": "Studying the influence of cultural identity on language learning in Singapore."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a2f",
+        "researcherId": "researcher_052",
+        "statement": "Examining the role of technology in enhancing agricultural productivity in Pakistan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a30",
+        "researcherId": "researcher_053",
+        "statement": "Analyzing the impact of social media on political engagement in Thailand."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a31",
+        "researcherId": "researcher_054",
+        "statement": "Exploring the potential of green building practices in reducing carbon emissions in Japan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a32",
+        "researcherId": "researcher_055",
+        "statement": "Investigating the challenges of implementing inclusive education in rural India."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a33",
+        "researcherId": "researcher_056",
+        "statement": "Assessing the effectiveness of anti-corruption measures in public administration in South Korea."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a34",
+        "researcherId": "researcher_057",
+        "statement": "Studying the effects of dietary interventions on diabetes management in Malaysia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a35",
+        "researcherId": "researcher_058",
+        "statement": "Examining the role of cultural diplomacy in international relations in Vietnam."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a36",
+        "researcherId": "researcher_059",
+        "statement": "Analyzing the impact of urban green spaces on mental health in Hong Kong."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a37",
+        "researcherId": "researcher_060",
+        "statement": "Exploring the challenges of implementing e-governance in Bangladesh."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a38",
+        "researcherId": "researcher_061",
+        "statement": "Investigating the role of traditional crafts in sustainable tourism in Cambodia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a39",
+        "researcherId": "researcher_062",
+        "statement": "Assessing the potential of biofuels in reducing dependency on fossil fuels in Nepal."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a3a",
+        "researcherId": "researcher_063",
+        "statement": "Studying the influence of cultural narratives on national identity in Taiwan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a3b",
+        "researcherId": "researcher_064",
+        "statement": "Examining the effects of climate change adaptation strategies on agriculture in Indonesia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a3c",
+        "researcherId": "researcher_065",
+        "statement": "Analyzing the impact of digital transformation on small and medium enterprises in the Philippines."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a3d",
+        "researcherId": "researcher_066",
+        "statement": "Exploring the role of community-based conservation in preserving biodiversity in Myanmar."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a3e",
+        "researcherId": "researcher_067",
+        "statement": "Investigating the challenges of promoting gender equality in the workplace in Japan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a3f",
+        "researcherId": "researcher_068",
+        "statement": "Assessing the effectiveness of public transportation policies in reducing traffic congestion in India."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a40",
+        "researcherId": "researcher_069",
+        "statement": "Studying the effects of cultural festivals on local economies in South Korea."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a41",
+        "researcherId": "researcher_070",
+        "statement": "Examining the role of social enterprises in addressing social issues in Sri Lanka."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a42",
+        "researcherId": "researcher_071",
+        "statement": "Analyzing the impact of digital literacy programs on education outcomes in Vietnam."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a43",
+        "researcherId": "researcher_072",
+        "statement": "Exploring the potential of urban agriculture in enhancing food security in China."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a44",
+        "researcherId": "researcher_073",
+        "statement": "Investigating the effects of climate change on water resources in Pakistan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a45",
+        "researcherId": "researcher_074",
+        "statement": "Assessing the role of cultural exchange programs in fostering international understanding in Malaysia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a46",
+        "researcherId": "researcher_075",
+        "statement": "Studying the impact of online education platforms on traditional teaching methods in Singapore."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a47",
+        "researcherId": "researcher_076",
+        "statement": "Examining the challenges of implementing sustainable tourism practices in Thailand."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a48",
+        "researcherId": "researcher_077",
+        "statement": "Analyzing the influence of digital storytelling on cultural preservation in Cambodia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a49",
+        "researcherId": "researcher_078",
+        "statement": "Exploring the potential of telemedicine in improving healthcare access in rural areas in India."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a4a",
+        "researcherId": "researcher_079",
+        "statement": "Investigating the role of women entrepreneurs in economic development in Bangladesh."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a4b",
+        "researcherId": "researcher_080",
+        "statement": "Assessing the effectiveness of wildlife conservation policies in protecting endangered species in Nepal."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a4c",
+        "researcherId": "researcher_081",
+        "statement": "Studying the effects of cultural diversity on innovation in the corporate sector in Hong Kong."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a4d",
+        "researcherId": "researcher_082",
+        "statement": "Examining the role of digital platforms in promoting cultural exchange in Taiwan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a4e",
+        "researcherId": "researcher_083",
+        "statement": "Analyzing the impact of climate change on agricultural productivity in the Philippines."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a4f",
+        "researcherId": "researcher_084",
+        "statement": "Exploring the challenges of implementing inclusive policies for persons with disabilities in Japan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a50",
+        "researcherId": "researcher_085",
+        "statement": "Investigating the effects of economic reforms on poverty reduction in Myanmar."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a51",
+        "researcherId": "researcher_086",
+        "statement": "Assessing the role of digital innovation in enhancing public services in South Korea."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a52",
+        "researcherId": "researcher_087",
+        "statement": "Studying the influence of cultural heritage on tourism development in Sri Lanka."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a53",
+        "researcherId": "researcher_088",
+        "statement": "Examining the challenges of achieving energy efficiency in urban infrastructure in China."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a54",
+        "researcherId": "researcher_089",
+        "statement": "Analyzing the impact of digital communication tools on organizational productivity in Vietnam."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a55",
+        "researcherId": "researcher_090",
+        "statement": "Exploring the potential of organic farming in promoting sustainable agriculture in Indonesia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a56",
+        "researcherId": "researcher_091",
+        "statement": "Investigating the role of traditional knowledge in biodiversity conservation in Malaysia."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a57",
+        "researcherId": "researcher_092",
+        "statement": "Assessing the effectiveness of public health policies in controlling infectious diseases in Pakistan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a58",
+        "researcherId": "researcher_093",
+        "statement": "Studying the effects of cultural globalization on youth culture in Singapore."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a59",
+        "researcherId": "researcher_094",
+        "statement": "Examining the role of digital platforms in enhancing educational access in rural areas in Thailand."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a5a",
+        "researcherId": "researcher_095",
+        "statement": "Analyzing the impact of climate change on water security in Bangladesh."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a5b",
+        "researcherId": "researcher_096",
+        "statement": "Exploring the challenges of implementing digital transformation in public sector organizations in Japan."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a5c",
+        "researcherId": "researcher_097",
+        "statement": "Investigating the effects of urbanization on traditional lifestyles in Nepal."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a5d",
+        "researcherId": "researcher_098",
+        "statement": "Assessing the role of cultural festivals in promoting social cohesion in India."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a5e",
+        "researcherId": "researcher_099",
+        "statement": "Studying the influence of digital media on public opinion in South Korea."
+    },
+    {
+        "_id": "67bb8ac84c721c5848385a5f",
+        "researcherId": "researcher_100",
+        "statement": "Examining the challenges of achieving sustainable urban development in China."
+    }
+]
